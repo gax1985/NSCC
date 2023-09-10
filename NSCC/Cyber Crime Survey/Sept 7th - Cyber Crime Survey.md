@@ -54,9 +54,29 @@ They had invested a lot of funds around the world
 
 Google : 
 
-APT 28 (Advanced Persistent Threat, in the "Hunt for the Red October, the noise heard on the submarime was unique and unidentified. Their captain asked them to note it based on behaviour")
-Unit 61398, 61486, 78020
-Beaureau 121 , unit 180
+APT 28 aka GRU Unit 26165 (Advanced Persistent Threat, in the "Hunt for the Red October, the noise heard on the submarime was unique and unidentified. Their captain asked them to note it based on behaviour")
+
+	(russian Military Intelligence or GRU, sponsored by the russian government  ; specializes in state-sponsored cyber attacks, decryption of hacked information, uses 0-Day Exploits, Spear-Phishing, and malware ; targeted The group targets government, military, and security organizations, especially Transcaucasian and NATO-aligned states. Fancy Bear is thought to be responsible for cyber attacks on the German parliament, the Norwegian parliament, the French television station TV5Monde, the White House, NATO, the Democratic National Committee, the Organization for Security and Co-operation in Europe and the campaign of French presidential candidate Emmanuel Macron)
+
+
+Unit : 61398 
+
+	(PLA's Advanced Persistant Threat Unit | 3rd Department ; Targets US companies in order to attain confidential business information and intellectual property from companies such as Lockheed Martin, Telvent, and other companies in the shipping, aeronautics, arms, energy, manufacturing, engineering, electronics, financial, and software sectors.)
+
+
+Unit : 61486
+
+	(PLA; Targets companies involved in Satellite and Communications in the US, Europe and Japan, aka.. "Putter Panda)
+
+Unit 78020
+
+	(PLA, aka APT 30 , aka Lotus Panda, targetted government and private sector agencies in the South-China Sea region for Espionage purposes)
+
+Beaureau 121 
+
+
+
+, unit 180
 Charming Kitten (Iran)
 
 
