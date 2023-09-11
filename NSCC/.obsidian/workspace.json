@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "483d6ff4586462cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating System Security/2nd Class - Sept. 8th.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Crime Survey/Sept 7th - Cyber Crime Survey.md",
+                "file": "Operating System Security/2nd Class - Sept. 8th.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Crime Survey/Sept 7th - Cyber Crime Survey.md",
+                "file": "Operating System Security/2nd Class - Sept. 8th.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Crime Survey/Sept 7th - Cyber Crime Survey.md"
+                "file": "Operating System Security/2nd Class - Sept. 8th.md"
               }
             }
           }
@@ -146,6 +159,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fdf22d01c101102a",
-  "lastOpenFiles": []
+  "active": "483d6ff4586462cc",
+  "lastOpenFiles": [
+    "Cyber Crime Survey/Sept 7th - Cyber Crime Survey.md"
+  ]
 }
