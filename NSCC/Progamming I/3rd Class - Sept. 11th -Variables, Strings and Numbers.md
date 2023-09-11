@@ -198,8 +198,17 @@ Practice :
 
 ------------------
 			
-		Pizza
-		Population Growth
+		Pizza:
+			slices per second = 350
+			hours per day = 24
+			minutes per hour = 60 
+			seconds per minute = 60
+
+
+		Population Growth:
+			population in 2000 = 281 million
+			population in 2050 = 404 million
+			population in 2025 =  
 
 Quiz on : **Variables**, **Strings** and **Numbers**
 
