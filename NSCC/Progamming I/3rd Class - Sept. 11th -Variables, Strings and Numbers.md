@@ -181,7 +181,23 @@ Practice :
 
 	Create programs for :
 
-		Restaurants
+		Restaurants:
+			12% of restaurants in the US are pizzerias
+			There are 70000 pizzerias in the US
+			** Calculate the estimated number of restaurants in the US
+
+		==================
+		Possible solution:
+		pizzerias =0.12 X number of restaurants
+
+	70000 = 0.12 X number of restaurants
+
+		Thus...
+
+		number of restaurants = 70000 / 0.12
+
+------------------
+			
 		Pizza
 		Population Growth
 

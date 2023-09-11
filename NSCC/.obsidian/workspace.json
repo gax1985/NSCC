@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System Security/2nd Class - Sept. 8th.md",
+                "file": "Progamming I/3rd Class - Sept. 11th -Variables, Strings and Numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System Security/2nd Class - Sept. 8th.md",
+                "file": "Progamming I/3rd Class - Sept. 11th -Variables, Strings and Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System Security/2nd Class - Sept. 8th.md",
+                "file": "Progamming I/3rd Class - Sept. 11th -Variables, Strings and Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System Security/2nd Class - Sept. 8th.md"
+                "file": "Progamming I/3rd Class - Sept. 11th -Variables, Strings and Numbers.md"
               }
             }
           }
@@ -161,6 +161,10 @@
   },
   "active": "483d6ff4586462cc",
   "lastOpenFiles": [
+    "Operating System Security/2nd Class - Sept. 8th.md",
+    "Progamming I/3rd Class - Sept. 11th -Variables, Strings and Numbers.md",
+    "Progamming I/2nd Class - Sept. 8th - Programming I.md",
+    "Operating System Security/3rd Class - Sept. 11th.md",
     "Cyber Crime Survey/Sept 7th - Cyber Crime Survey.md"
   ]
 }
