@@ -106,7 +106,7 @@ Keep in mind the **order** of things! We have priorities!
 ** exponent (e.g , **2 squared ** cubed)
 
 
-total (10-6) / 2 + \                                                        (Backsplash , if we do not use it, we will get an error, ) 
+total (10-6) / 2 + \                                          (Backsplash , if we do not use it, we will get an error, ) 
 6 -8
 
 
