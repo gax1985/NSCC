@@ -34,16 +34,16 @@ There are many types of workstations, so there are **thick clients**, **smart cl
 
 
 
-There were not many workstations back in the day. If we see any old shows, we see CRT monitors with no graphics (**Terminal**). Multiple individuals can work on **Workstations**. The most common type of terminal was **IBM 3270**, which had a green monochrome display and a keyboard. They are nice and effecient, and start up instantly. They are connected to the main frame server. If the main frame went down, all the terminals go down too.
+There were not many workstations back in the day. If we see any old shows, we see CRT monitors with no graphics (**Terminal**). Multiple individuals can work on **Workstations**. The most common type of terminal was **IBM 3270**, which had a green monochrome display and a keyboard. They are nice and efficient, and start up instantly. They are connected to the main frame server. If the main frame went down, all the terminals go down too.
 
 
 ##### Thin Client
 
 
-Stripped down operating system. 
+	A client with a stripped-down operating system. 
 
 
-They do not have much processing power or storage capacity. A thin clinet is not used alone; they connect to the server. You would have dozens of people using them, and they are good for single use, as they prevent workers from browsing the internet. Last year, he saw thin clients at nurseing stations, where they were used for charting. They were replaced during COVID-19 times, as everyone needed Microsoft Teams. Alot of kiosks use thin client, where it is a single purpose application being run on it. These thin clients were pulled out at nursing stations, where they are mounted on the back of the monitor. You would log in, and it would automatically launch the application. They got for 150 CAD. Not great for everyone though!
+They do not have much processing power or storage capacity. A thin client is not used alone; they connect to the server. You would have dozens of people using them, and they are good for single use, as they prevent workers from browsing the internet. Last year, he saw thin clients at nurseing stations, where they were used for charting. They were replaced during COVID-19 times, as everyone needed Microsoft Teams. Alot of kiosks use thin client, where it is a single purpose application being run on it. These thin clients were pulled out at nursing stations, where they are mounted on the back of the monitor. You would log in, and it would automatically launch the application. They got for 150 CAD. Not great for everyone though!
 
 He worked at a construction place, where the mechanics logged their work time. 
 

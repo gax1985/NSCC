@@ -176,7 +176,7 @@ The collapse of the Soviet Union:
 ###### Amateurs 
 
 
-	Hackers (malicious and non-malicious) (example : Rodreigez. when he was caught, he was having a party and standing at the top of the stairs and was complaining that his fingers were sore from counting money. He hacked TJMax. They get caught because they are obnoxious, and like to announce it)
+	Hackers (malicious and non-malicious) (example : Rodriguez. when he was caught, he was having a party and standing at the top of the stairs and was complaining that his fingers were sore from counting money. He hacked TJMax. They get caught because they are obnoxious, and like to announce it)
 
 
 ###### Crackers : 
@@ -203,7 +203,7 @@ Canada , US, UK, Australia, New Zealand
 
 It happened in 2007 and it was fought in Estonia. Estonia was called East-Unia, which was the birthplace of Skype. They had phone payments in 2007. Everything was done online. They were a former soviet satellite, and had a big statue of a fallen soviet soldier. They wanted to get away from their past, but recognized that there were Estonians who were nostalgic about their soviet history. The statue was moved to the graveyard outside the city. A group of hackers in Estonia decided to fight against moving the statue. They reached out to the criminal community, and mentioned that they can not afford to engage them (small fish), but we are your people and we need your help in stopping this government. 2-3 botnet admins were lent out to them free of charge for 24 hours : a group of computers controlled by a single individual. To set up a botnet with devastating proportions (aka super computer), you need 20000 computers. The average botnet has 10000 computers. If 2 botnets worked together, they can take down a government platform. They are for hire. It is 5 dollars a bot. 
 
-On Monday, Estonia went completely dark ( Banking health care, services etc). A lucky coincidence was that a meeting was takinig place iin Estonia for the top domain managers of the DNS systems. When typing cnn.com, the computer needs to translate the IP address to the domain and vice versa. DNSes are split amongst the different parts of the world. The bots were mostly in south America, so they shut down communications between South America and Estonia. At the end of the 24 hour period, the bots left and Estonia was back again. One of the botnets was a military botnet belonging to russia. Why would a russian military botnet get involved with Estonian hackers. Why were they involved? Estonia is a NATO country. There has never been a cyber attack against a NATO country before then. 
+On Monday, Estonia went completely dark ( Banking health care, services etc). A lucky coincidence was that a meeting was taking place in Estonia for the top domain managers of the DNS systems. When typing cnn.com, the computer needs to translate the IP address to the domain and vice versa. DNSes are split amongst the different parts of the world. The bots were mostly in south America, so they shut down communications between South America and Estonia. At the end of the 24 hour period, the bots left and Estonia was back again. One of the botnets was a military botnet belonging to russia. Why would a russian military botnet get involved with Estonian hackers. Why were they involved? Estonia is a NATO country. There has never been a cyber attack against a NATO country before then. 
 
 
 NATO's response: There was no response at the time. There are two possible realities : 
