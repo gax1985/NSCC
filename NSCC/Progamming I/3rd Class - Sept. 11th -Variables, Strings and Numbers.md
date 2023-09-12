@@ -208,7 +208,7 @@ Practice :
 		Population Growth:
 			population in 2000 = 281 million
 			population in 2050 = 404 million
-			population in 2025 =  
+			population in 2025 =  (404000000/281000000)
 
 Quiz on : **Variables**, **Strings** and **Numbers**
 
