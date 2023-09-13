@@ -52,21 +52,28 @@ When they reached an agreement, their assets were released
 They had invested a lot of funds around the world
 
 
-Google : 
+Google the following groups: 
 
-APT 28 aka GRU Unit 26165 (Advanced Persistent Threat, in the "Hunt for the Red October, the noise heard on the submarime was unique and unidentified. Their captain asked them to note it based on behaviour")
+###### APT 28 
+
+*... aka GRU Unit 26165* 
+
+ **APT** = **Advanced Persistent Threat**
+
+in the "Hunt for the Red October, the noise heard on the submarine was unique and unidentified. Their captain asked them to note it based on behaviour")
 
 	(russian Military Intelligence or GRU, sponsored by the russian government  ; specializes in state-sponsored cyber attacks, decryption of hacked information, uses 0-Day Exploits, Spear-Phishing, and malware ; targeted The group targets government, military, and security organizations, especially Transcaucasian and NATO-aligned states. Fancy Bear is thought to be responsible for cyber attacks on the German parliament, the Norwegian parliament, the French television station TV5Monde, the White House, NATO, the Democratic National Committee, the Organization for Security and Co-operation in Europe and the campaign of French presidential candidate Emmanuel Macron)
 
 
 Unit : 61398 
 
-	(PLA's Advanced Persistant Threat Unit | 3rd Department ; Targets US companies in order to attain confidential business information and intellectual property from companies such as Lockheed Martin, Telvent, and other companies in the shipping, aeronautics, arms, energy, manufacturing, engineering, electronics, financial, and software sectors.)
+	(Peoples' Liberation Army of Chinas Advanced Persistant Threat Unit | 3rd Department ; Targets US companies in order to attain confidential business information and intellectual property from companies such as Lockheed Martin, Telvent, and other companies in the shipping, aeronautics, arms, energy, manufacturing, engineering, electronics, financial, and software sectors.)
 
 
 Unit : 61486
 
 	(PLA; Targets companies involved in Satellite and Communications in the US, Europe and Japan, aka.. "Putter Panda)
+
 
 Unit 78020
 
@@ -91,6 +98,10 @@ Charming Kitten (Iran)
 When we discover a new adversary, they are given an **APT Number** a *la APT28 : GRU (Russian Military Division-Cyber)*
 
 
+Check out this link for more information on **Charming Kitten 😺 ]
+
+[https://explore.avertium.com/resource/in-depth-look-at-apt35-aka-charming-kitten] 
+
 ### Russia 
 
 
@@ -105,11 +116,14 @@ Kremlin Playbook by Heather Conley --> The book describes Putin's Intentions :
 
 ### China : 
 
+Most notable Groups : **Unit 78020 | APT 35 | Lotus Panda, Unit 61486, Unit 61398 | 3rd Department  
 
 		Second largest defence budget 3.5% GDP, 610 billion)
 		Industrial and economic motivations, they have 5 years plan. They want to be dominant in aerospace, advanced materials , space, weapons etc. They aim to steal everyone's achievements. Their cyber units (~100000 personnel from military and civil government), unrestricted warfare (he mentioned that advanced weapons research is quite leaky)
 
+Check out the following link for Archive.org's copy of "Unrestricted Warfare 😡":
 
+[https://archive.org/details/unrestricted-warfare]
 
 ### North Korea : 
 
@@ -347,7 +361,13 @@ Best defences :
 In 1940, the Germans managed to invade Paris in 7 days. They went around the defensive fortifications via Belgium. The same approach applies in cybersecurity. Canada's IT industry focused on building better firewalls. The malicious actors get in through people! The borders of the network is no longer a wall. The borders are the organization/entity's personnel. They target the things we do with our devices, surfing malicious sites, and we carry them to the local network. 
 
 
-He will release Formative Assignment : no marks for this one ---> intended to get us researching. The asisgnment has two parts :
+He will release the ...
+
+
+### Formative Assignment 
+
+
+No marks for this one ---> intended to get us researching. The assignment has two parts :
 
 Part one : find out everything you can about your classmates (on the internet/ OSINIT) , wr
 (No dark web hacking , stalking, )

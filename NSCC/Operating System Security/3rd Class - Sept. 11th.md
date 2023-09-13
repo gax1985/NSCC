@@ -163,9 +163,13 @@ Serial vs Parallel :
 
 	We have a lot of pipes to transfer information from point A to point B . Parallel in comparison is able to handle thousands of tasks and process them at the same time via multiple channels. Serial cables/Universal Serial Bus (from the olden days)
 
-###### CPU : Generalist component, it handles main proicessing functions of a computer. Core count is a max of 64 cores. 
+###### CPU :
 
-GPU : Specialized component, handles graphics and video. Core count : thousands!
+Generalist component, it handles main processing functions of a computer. Core count is a max of 64 cores. 
+
+###### GPU :
+
+Specialized component, handles graphics and video. Core count : thousands!
 
 
 
