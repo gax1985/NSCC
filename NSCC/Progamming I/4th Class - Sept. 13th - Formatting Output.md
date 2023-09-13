@@ -71,3 +71,11 @@ It will involve the following :
 
 
 
+We have experienced the presentations. For Assignment 2, we watch a single video (next week is Task B), then we do in-class activities.  Have you thought of a smart goal? After this session, involving today, if we get inspired about a neat idea, you can switch ideas. Work on it 15 minutes a day. We need to do measurement! What gets measured, gets done! 
+
+Proxy measure that represents happiness : when you are happy, you do a certain behaviour. It could be as simple as taking in one of these videos, and running with it! We are presenting on Oct. 8th- Oct. 16th
+
+
+Project template : 
+
+
