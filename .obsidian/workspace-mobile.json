@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "c5b61ec3b7673878",
+    "type": "split",
+    "children": [
+      {
+        "id": "8541734a8a2fa35f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4146a2d9e5f30bf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NSCC/Data Security/Sept. 7th - Data Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28f9f6cdd09b722f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "267ce2c6bd10cff5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6f764395a5f57d20",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e7eb728f9bce5748",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "104590633168e9ea",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f4aedf2b25454123",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "18cf69fe64d3e65e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "NSCC/Data Security/Sept. 7th - Data Security.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1c8f8c76d38eba82",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "NSCC/Data Security/Sept. 7th - Data Security.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3bc8e37df27434d5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "NSCC/Data Security/Sept. 7th - Data Security.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4146a2d9e5f30bf0",
+  "lastOpenFiles": [
+    "NSCC/Operating System Security/3rd Class - Sept. 11th.md",
+    "NSCC/Progamming I/3rd Class - Sept. 11th -Variables, Strings and Numbers.md",
+    "NSCC/Network Security/Sept. 7th - Network Security.md",
+    "NSCC/Orientation/Orientation.md",
+    "NSCC/Progamming I/Sept. 8th - Programming I.md",
+    "NSCC/Professional Practices for IT I/1st Class - Sept. 6th.md",
+    "NSCC/Operating System Security/2nd Class - Sept. 8th.md",
+    "NSCC/Cyber Crime Survey/Sept 7th - Cyber Crime Survey.md",
+    "NSCC/Data Security/Sept. 7th - Data Security.md",
+    "NSCC/Progamming I/1st Class - Sept. 6th.md",
+    "NSCC/Operating System Security/1st Class - Sept. 6th.md"
+  ]
+}
