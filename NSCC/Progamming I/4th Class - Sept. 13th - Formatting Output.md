@@ -14,7 +14,7 @@ Examples of format changing :
 
 
 
-We can use the *round* function. What this does is to **modify the original number variable to only store the desired decimal places**. In the Salary example, when working with the variable's contents, we had to use the *float* option to have decimals, but we will have too many decimal places. We can limit the decimal places in accordiance to my wishes : 
+We can use the *round* function. What this does is to **modify the original number variable to only store the desired decimal places**. In the Salary example, when working with the variable's contents, we had to use the *float* option to have decimals, but we will have too many decimal places. We can limit the decimal places in accordance to my wishes : 
 
 
 		round(totalpay,2 "numberr of decimal places")
