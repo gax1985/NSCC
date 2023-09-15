@@ -119,3 +119,189 @@ Excessive customizations could be a security risk, so naturally there would be l
 
 
 
+#### Windows Applications 
+
+
+
+Unwanted applications that come installed from the makers of computers and laptops which slow down the system without the user realizing it are called **Bloatware**
+
+
+**Executables** are some form of applications. The name is connected to their *extension*, which is **.exe**. Applications can run background processes as well without the user knowing. 
+
+
+
+#### File Manipulation 
+
+
+
+
+We have a lab coming up which involves modifying files
+
+
+He did a example of cutting and pasting .dll files, and how he was not able to do so due to these files being in use. If something is not directly in use by the user, they could be still used in the background. If we move .dll files or other important/critical files, then the application using them would cease to work
+
+
+When working with files and folders , we would have to be aware of the essential files' locations, what it is we are moving, and what type of impact we would have if we did move the files. 
+
+
+
+
+#### Managing User Accounts 
+
+
+
+Every time a user logs in into the system, a *USER* directory would be created for that user
+
+
+We have **Local Users**, who can be ordinary users or administrators. If it is a local user, then the user would only exist on that computer only. 
+
+
+**Network Users** are users who logged in with network credentials 
+
+
+
+if we have a small IT shop, we would need to streamline as much as possible. An example of a bad configuration was to create local users , and making them an administrator for their local machine. There was a phishing attack where the local user's credentials'(who happened to be an administrator on the local machine as well as a domain administrator) were found by the hacker, and was zipping files in order to conduct a ransomware attack (the hacker did not encrypt them yet). The company decided to roll in **Multi-Factor Authentication** over a period of four months. 
+
+
+
+When malicious actors conduct a ransomware attack, they would do a lot of research about their targets before hand, in order to decide how much of a ransom they would ask for, and what the organization is most likely to do. There are no guarantees that the ,malicious actors would provide the the decryption key.
+
+
+(... we will get into **Hardening** Windows later )
+
+
+User accounts are doing the accounts' management *centrally*. **Active Directory** is a large directory of users, systems, and all connected devices in a network
+
+
+We switch user accounts all the time. When a user logs out, they exit from the configured Windows environment. When another user logs in, then their pre-configured Windows environment gets loaded for the other user
+
+
+Intune was mentioned as a way to package applications, so it enables the ordinary users to install applications without themselves being administrators, due to the applications being packaged by the company behind InTune
+
+
+
+#### Windows Security 
+
+
+**BitLocker**  would prevent a ransomware attack, as pre-encrypted files and data would not be able to be used in a ransomware attack
+
+
+**Windows Defender** is a suite with Microsoft Windows' Security Features. There is a risk of a Windows update breaking applications, so it is common to test all the applications on a test system. 
+
+
+Microsoft in corporate environments sell security patches for older versions of Microsoft Windows
+
+
+
+
+#### Troubleshooting 
+
+
+
+Restarting the system is a valid troubleshooting step. Sometimes rebooting fixes an issue
+
+
+Patches can be rolled back if needed to attempt to pinpoint the source of the issue 
+
+
+Troubleshooting would be done step by step!
+
+
+
+
+
+#### Tips and Tricks
+
+
+
+
+1. Keyboard Shortcuts : CTRL + X (Cut) ,CTRL + C (Copy), CTRL + V(Paste)
+2. **PowerShell Scripting** is something we will learn later... it is a most-powerful asset.
+3. **Virtual Desktops** to separate workspaces 
+
+
+(In the 1990s, icons made by one user can not be reused by another user)
+
+
+
+
+#### Virtual Machines
+
+
+
+technically, it would be the same operating system that we have on a physical machine, but it is running on virtual hardware
+
+
+A virtual machine's folder would contain three or four drives. One of these files would be the virtual machine's hard drive.
+
+
+
+The file format of the virtual hard drive would be essential in order to mount the virtual hard drive in Microsoft Windows. 
+
+
+**VMWare Workstation** and **Oracle Virtualbox** are hypervisors. There is a difference between a *virtual machine* and a *virtual desktop*, as *virtual desktops* are set up for organization, and *virtual machines* are complete virtual systems with virtual hardware
+
+
+
+##### Non-virtualized
+
+Applications
+
+
+OS + Drivers
+
+Hardware
+
+
+
+vs.
+
+
+
+
+
+##### Virtualized Computers 
+
+
+Applications + GuestOS ---> VM
+
+
+VMM Virtual Mahchine Monitor
+
+
+Hardware
+
+
+
+
+
+
+###### Advantages of  a Virtual Machine :
+
+
+Supports legacy applications (older versions)
+Provides segregation
+Provides disaster-recovery
+Provides redundency 
+
+
+
+###### Disadvantages of a Virtual Machine : 
+
+
+Not 100% stable
+Bare metal is faster than a virtual machine 
+
+
+VM in a VM ---> Azure Microsoft Labs 
+
+He did a virtualization course, turned on Hyper-V service, Azure labs provided a Hyper-V version which enables the user to run a virtual machine in a virtual machine ---> **Nested Virtualization**
+
+
+
+
+
+
+He mentioned doing a comparisonof the costs between setting up thin-client-based workstations connected to a cloud-based virtual machine compared to the costs of thick clients. The results was very close
+
+	Another consideration in this situation : actual systems would be easier to do a redundency plan in terms of an electrical outage as compared to cloud-based systems.
