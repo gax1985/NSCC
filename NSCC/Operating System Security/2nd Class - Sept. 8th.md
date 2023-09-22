@@ -43,7 +43,7 @@ There were not many workstations back in the day. If we see any old shows, we se
 	A client with a stripped-down operating system. 
 
 
-They do not have much processing power or storage capacity. A thin client is not used alone; they connect to the server. You would have dozens of people using them, and they are good for single use, as they prevent workers from browsing the internet. Last year, he saw thin clients at nurseing stations, where they were used for charting. They were replaced during COVID-19 times, as everyone needed Microsoft Teams. Alot of kiosks use thin client, where it is a single purpose application being run on it. These thin clients were pulled out at nursing stations, where they are mounted on the back of the monitor. You would log in, and it would automatically launch the application. They got for 150 CAD. Not great for everyone though!
+They do not have much processing power or storage capacity. A thin client is not used alone; they connect to the server. You would have dozens of people using them, and they are good for single use, as they prevent workers from browsing the internet. Last year, he saw thin clients at nursing stations, where they were used for charting. They were replaced during COVID-19 times, as everyone needed Microsoft Teams. A lot of kiosks use thin client, where it is a single purpose application being run on it. These thin clients were pulled out at nursing stations, where they are mounted on the back of the monitor. You would log in, and it would automatically launch the application. They got for 150 CAD. Not great for everyone though!
 
 He worked at a construction place, where the mechanics logged their work time. 
 
@@ -53,7 +53,7 @@ In the virtualization course, he has Azure labs, so he would remotely access an 
 He looked at comparison between desktop and thin clients involving cloud computing and virtualization. The cost of the service for the VMs vs buying a computer was the same. 
 
 
-Each scenatrio is different, you would select the ideal system according to your budget.
+Each scenario is different, you would select the ideal system according to your budget.
 
 
 
@@ -63,7 +63,7 @@ Each scenatrio is different, you would select the ideal system according to your
 It is a desktop/laptop!
 
 
-They are a computer woprkstation that has more processing power and storage than thin clients. They run applications locally, and use their own processing power. They do not rely on a central server. 
+They are a computer workstation that has more processing power and storage than thin clients. They run applications locally, and use their own processing power. They do not rely on a central server. 
 
 
 There are **Thick apps** and **Thin apps**. 
@@ -77,7 +77,7 @@ ex. AutoCAD, it needs a lot of resources, so typically desktops are better for t
 Desktops are expandable, while laptops are limited in their capacity. 
 
 
-There are those who favored giant towers, and Macs were more popular as desktops.
+There are those who favoured giant towers, and Macs were more popular as desktops.
 
 
 Laptops have less RAM space. 
@@ -99,7 +99,7 @@ Once you get a laptop, you would tend to continue using laptops if you prefer th
 Desktops are good for video editing and gaming due to their upgrade potential as needed.
 
 
-Alot of video editing is done on Macs as compared to Windows and Linux. 
+A lot of video editing is done on Macs as compared to Windows and Linux. 
 
 
 
@@ -129,7 +129,7 @@ There are more security benefits to them
 They are more customizable in terms of the device. 
 
 
-Thehy have better encryption, but they are more costly to set up.
+They have better encryption, but they are more costly to set up.
 
 
 Google has an administration tool for **smart clients**
@@ -160,7 +160,7 @@ Thick client : complete applications | Thin clients : minimalistic software | Sm
 
 Applications : thick clients : local | thin clients : on server | smart clients : hybrid deployment
 
-Processing : Tick clients : performs most processing locally | thin clients : limited processing | smart clients: partial processing on the client 
+Processing : Thick clients : performs most processing locally | thin clients : limited processing | smart clients: partial processing on the client 
 
 
 Resources : Thick client : requires a lot ! | thin client : minimal resources | smart client : moderate 
@@ -175,7 +175,7 @@ Customization : thick client : highly customizable | thin client : limited | sma
 Security : thick client : lower security | thin client : higher security | smart client : moderate security 
 
 
-Maintainance : Thick client : required individual maintainance | thin client centralzized maintainance | smart client : combination of individual and centralized
+Maintenance : Thick client : required individual maintenance | thin client centralized maintenance | smart client : combination of individual and centralized
 
 
 Recovery : thick client : high recovery times | thin client : low recovery time | smart client : moderate recovery time
@@ -184,7 +184,7 @@ Recovery : thick client : high recovery times | thin client : low recovery time 
 Scalability : thick client : limited scalability | thin client : low recovery (images dispatched rapidly) | smart client : to some extent
 
 
-Data storage : thick client : local stoage | thin client : centralized storage |  smart client : a combination of local and server storage 
+Data storage : thick client : local storage | thin client : centralized storage |  smart client : a combination of local and server storage 
 
 
 
