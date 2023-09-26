@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSCC/Network Security/Sept. 26th - Network Security.md",
+                "file": "NSCC/Operating System Security/Sept. 26th - OS Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7ccc9dcf5d407447",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSCC/Network Security/Sept. 26th - Network Security.md",
+                "file": "NSCC/Operating System Security/Sept. 26th - OS Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSCC/Network Security/Sept. 26th - Network Security.md",
+                "file": "NSCC/Operating System Security/Sept. 26th - OS Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSCC/Network Security/Sept. 26th - Network Security.md"
+                "file": "NSCC/Operating System Security/Sept. 26th - OS Security.md"
               }
             }
           }
@@ -148,7 +149,8 @@
   },
   "active": "3e262fb37594ad71",
   "lastOpenFiles": [
-    "NSCC/Data Security/Sept 26th - MySQL.md",
-    "NSCC/Network Security/Sept. 26th - Network Security.md"
+    "NSCC/Operating System Security/Course Plan.md",
+    "NSCC/Operating System Security/Sept. 26th - OS Security.md",
+    "NSCC/Data Security/Sept 26th - MySQL.md"
   ]
 }
