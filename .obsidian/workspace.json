@@ -11,12 +11,8 @@
             "id": "3e262fb37594ad71",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NSCC/Data Security/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSCC/Data Security/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSCC/Data Security/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NSCC/Data Security/Untitled.md"
-              }
+              "state": {}
             }
           }
         ]
