@@ -267,12 +267,12 @@ Specifications (Windows 10 custom “attended” installation)
 
 - Modify your Workgroup name to “OSYS”
     
-- Add lines to the end of your VMX (See Course Resources).
+- Add lines to the end of your VMX (See Course Resources). 
     
     - NOTE: _Your VMX is a live file and can only be edited when your VM is in the OFF state._
         
     
-- Adjust Date and Time to the set the correct Time zone.
+- Adjust Date and Time to the set the correct Time zone. 
     
 - Confirm your workstation is activated:
     
