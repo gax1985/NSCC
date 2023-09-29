@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "3e135fe28c7da247",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tax Calculator's Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7ccc9dcf5d407447",
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tax Calculator's Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tax Calculator's Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tax Calculator's Test.md"
+              }
             }
           }
         ]
@@ -138,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76ab279a72ba1530",
+  "active": "3e135fe28c7da247",
   "lastOpenFiles": [
+    "Tax Calculator's Test.md",
     "NSCC/Cyber Crime Survey/Cyber Crime Survey.md",
     "NSCC/Cyber Crime Survey/Untitled.md",
     "NSCC/Programming I/9th Class - Sept 25th.md",
