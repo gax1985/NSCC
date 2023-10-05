@@ -212,9 +212,215 @@ This is the Wild-West! Any publically-facing organization would be overwhelming 
 
 
 
+#### Risk Avoidance
+
+
+We can avoid risk completely. If we advertise to the world that we handle credit card payments ,the n you become a target. We can avoid risk by not doing risky things. 
+
+
+There was one entity that had a public ad campaign that they provide protection against hacking (Sobeys got hacked). 
+
+
+The AirMiles, Scene+ cards are used by companies to gather data about the individual and sell it.
+
+
+#### Risk Mitigation
+
+
+We try to make it less impactful or less probable. It is trying to find ways to REDUCE risk. Can we make the probability less ?
+
+
+#### Risk Transfer 
+
+
+aka. Insurance companies. You take all the risk and transfer it to the insurance company. You would be charged a premium to do so. 
+
+
+
+#### Risk Acceptance
+
+
+Every time you go up a set of stairs, there is always a risk of you falling down. Since we go up and down the set of stairs, there will be a risk. We can mitigate it, but we have to accept that as a fact. 
+
+
+Highway 102 is very risky! We accept the fact we have the risk. 
+
+
+
+What if the risk is less than the cost of trying to mitigate it? 
+
+aka - someone could break into my place and steal the Keurig Machine. It would be possible to put a massive padlock worth a 100 dollars to mitigate the risk is ridiculous for a 40 dollar machine. Just ACCEPT it if it costs more to prevent it. 
+
+
+Question : Reputational impact : it is not just about the money or assets. It is more than that. The customers will not trust the organization. 
+
+
+
+#### Risk Assessment : What is the Likelihood of this happening? 
+
+
+What are the chances of it happening? What are the consequences ? 
+
+What can go wrong ? 
 
 
 
 
 
 
+What can we do about it? If we are asking the boss for costs to cover a necessary preventitive measure, we should highlight the costs in terms of damages from a cyber attack. 
+
+Measures should cost LESS than the value of the asset. 
+
+
+The maximum we can ask for is 100% of the cost of the asset. 
+
+
+
+Threat analysis as a customized work. 
+
+
+## Design
+
+## Reference 
+
+## Threat 
+
+
+
+Every organization has a different set of threats as compared to another. A pharmacy or a Grocery store for example need different requirements. Each will have a subset of risks that overlay everyone else (common threats like thefts, fires , floods, etc ...). We would have to reference that, and we have to update and monitor this threat. If we can subscribe to a service where there owuld be a notification of the organization's name is being mentioned on the Dark Web , that would be quite in depth. 
+
+
+
+
+#### Vulnerability Analysis 
+
+
+Could be very lucrative ! You would be looking for vulnerabilities.
+
+
+
+
+You got to have a threat, an asset that is valuable, and threat actors that want the asset. thus , there IS risk. 
+
+
+
+Risk = Pa X (1-Pe) X C onsquences
+
+
+Risk = Probability of an Attack (measured from 0-1) X (1 - Pe) X Consequence (impact - can put any measurement we want )
+
+
+
+The only thing that is important is proportizing risk management based on the value of teh assets. The bigger risk score is on top. Do NOT show this formula to others. 
+
+
+
+1-Pe is difficult (Pe is Probability of Interuption X Probability of Neutralization)
+
+Pe                 ==                Pi (Probability of Interruption)              X                what we can do about it 
+ 
+                                                 We can detect the attack                     X                   We can defeat this attack 
+
+
+
+
+We express these numbers as 
+
+
+
+What if Pa = %100
+
+
+E = Pa X (1-Pe) X C
+
+  = 1  X (1-0) X 100
+
+ = 100 (Worst-possible scenario)'
+ 
+ 
+ 
+ Pe = Pi X Pn
+ 
+ 
+ 
+ 
+ Exercise : 
+ +++++++
+
+###### Which of these events is worthy of our efforts? 
+
+Event 1 
+
+
+Pa = 0.9 
+Pi = 0.5
+Pn = 0.6 
+C = 0.9
+
+
+
+R = ( 1 - (Pi X Pn) ) X C
+
+
+
+
+
+
+
+Event 2
+
+
+Pa = 1 
+Pn = 1
+Pi  = 1
+C   = 0.5
+
+
+
+R =  Pa X ( 1 - Pe ) X C
+
+
+
+We have to figure out where we are in the *Attack Phase*. We have to be in the pre-attack phase. We have to know our systems, understand the assets, understand the vulnerabilities, and then prevent them. Because an attack has not happened, that still means we have a lot to do still. 
+
+
+If there is a hurricane coming, are we prepared for it ?
+
+
+
+
+#### Post Attack : Learning from the Mistakes
+
+
+
+How did the attackers hurt the institution? what could have been done? What can be done better next time? How we spend our time? 
+
+
+Why is this the worst possible circumstance ? 
+
+
+Pa = 1 
+Pe = 0 
+C = 1
+
+
+
+If we will do risk management, the equation allows you to focus your attention on your day-to-day basis. There is an old story in Computer Science from the 1960s. After a couple of years, the computers were isolated. They found print jobs that waited for 6 years, because they were deemed low priority. Regardless of your risk score, you increase it with time. If the risk is 10% , I know it now. If we do nothing , it becomes larger and larger...
+
+
+In a lot of attacks, vulnerabilities were known, but nothing was done.
+
+
+
+
+Translate things that are not mapped to this formula! 
+
+
+Ron walked in into a government organization where the password rules dictated that the user use part of their initials , and provided a list of names.  
+
+
+Cause ? 
+
+
+1980s CFOs model : Chief Financial Officer : Accountants were the first to have computers. CFOs like the powerful position they were in, so they had no IT personnel because they wanted no competition to this powerful position. We will look at the situation, and measure what is worth more than another measure. In order to implement a security measure, we would need to come up with a specific financial incentive for it. 
