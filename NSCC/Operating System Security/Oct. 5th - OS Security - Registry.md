@@ -63,9 +63,9 @@ regedit, or regedit32, when we used to run 32-bit OSes, regedit32 was the key to
 
 
 
-REGKEYS: 
+#### REGKEYS: 
 
-we have 5 HIGH-KEYS
+we have 5 **HIGH-KEYS**
 
 
 1. CLASSES_ROOT : .doc or .docx is associated with MS WORD. It handles file extensions, and how to handle or access files. 
@@ -95,7 +95,7 @@ handles file extensions that are available for the user, which are associated wi
 
 
 
-WEha is inside the high keys ? we have sub keys and values 
+What is inside the high keys ? we have sub keys and values 
 
 
 
@@ -134,10 +134,10 @@ Remeber : some of the registry is loaded into the memory, the regisstry is read 
 8. RegEdit will take you back all the way to the same subkey you were in. So this is not secure. 
 9. LEGALNOTICETEXT, right click, and select Edit Binary Data. Now we are in a HEX editor. The editor makes it very simple. if we look at the right-hand side, we see ASCII, Capital letters, lower case  , periods , carriage returns , every character we type is a n ASCII character. Every ASCII character is separated by a dot. If we select the dot between T and H, it highlights the binary character to the left. Between every character there is a dot, and all the dots line up and all the dots are represented by 00. If we remember what we type , " this windows 10 installation was completed by .... our name". Find the period at the end of the name (which is represented in two ees and then a dot dot. Then the next line of text with a carriage return. Infront of 20 I will type 0 D . She has to add 00 at the end of the period . 00 is defining the ASCII on either side.  Period = 2E , 0D= carriage return . We need all the lines to line up. Period = 2E00 , type in 0D00. Put a period at the end of Installer. So , type in "0D00"
 
-We will have period = 2E00
-Carriage return = 0D00
+	We will have period = 2E00
+	Carriage return = 0D00
 
-We need to see 2E00 0D00, and all the 00 need to line up vertically. 
+	We need to see 2E00 0D00, and all the 00 need to line up vertically. 
 
 
 

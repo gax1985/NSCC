@@ -39,7 +39,7 @@ Each of these machines has a **ARP Table**
 What is included with a ARP Table ? 
 
 
-ALl the IP addresses that are associated with a MAC address, and all the MAC addresses associated with an IP Address
+All the IP addresses that are associated with a MAC address, and all the MAC addresses associated with an IP Address
 
 
 Imagine a Table : 
