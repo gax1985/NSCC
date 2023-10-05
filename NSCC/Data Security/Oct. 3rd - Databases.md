@@ -33,6 +33,7 @@ PK          course_id      INTEGER
 Class
 
 
+
 PK        class_id       INTEGER
             class_day    VARCHAR
             class_time
@@ -64,7 +65,7 @@ Whenever we reference a field in a table :
 
 
 
-If we are in the STUD table, we select a field called "stud_nam". The reason we can do that ( a field in a table called stud_name), the actual name of that is not stud_name (much like your phone number being the 7 numbers because everyone had an idea to add the area code. In Pictou, you used to be aable to dial the last four numbers. Now the area code is needed), stud_name's actual name is student.stud_name
+If we are in the STUD table, we select a field called "stud_nam". The reason we can do that ( a field in a table called stud_name), the actual name of that is not stud_name (much like your phone number being the 7 numbers because everyone had an idea to add the area code. In Pictou, you used to be able to dial the last four numbers. Now the area code is needed), stud_name's actual name is student.stud_name
 
 
 
