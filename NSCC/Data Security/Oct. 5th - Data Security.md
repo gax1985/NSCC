@@ -155,20 +155,20 @@ Solution :
 
 
 
-There is something wrong with the Database design. We do NOT Want to type the same value in the same table. It makes input errors possible,, and creates an ANAMO:Y. Unless it is a foreign keye, we do nott want the samew vlaue in multple tables, and we DO NOT want to have the same valuye in multiple records. 
+There is something wrong with the Database design. We do NOT Want to type the same value in the same table. It makes input errors possible,, and creates an ANAMO:Y. Unless it is a foreign key, we do not want the same value in multiple tables, and we DO NOT want to have the same value in multiple records. 
 
 
 
-If we are doing a database, and we are entering student information , and we are entering the country of origin, It would be redundent to keep entering CANADA. Or if someone would actually enter CANADA as CADANA, then while retriving this info it would not appear. 
+If we are doing a database, and we are entering student information , and we are entering the country of origin, It would be redundant to keep entering CANADA. Or if someone would actually enter CANADA as CADANA, then while retrieving this info it would not appear. 
 
-If we have a second table, that indicates COUNTRY : _________ . He was teaching a class in SMU, where he used a permanent marker accidently there. If we have a country.countryid, we can have a foreign key with COUNTRYID. We can retrieve the information by usuing the country id. This makes searching better, and it is a good way
+If we have a second table, that indicates COUNTRY : _________ . He was teaching a class in SMU, where he used a permanent marker accidently there. If we have a country.countryid, we can have a foreign key with COUNTRYID. We can retrieve the information by using the country id. This makes searching better, and it is a good way
 
-ASk yourself : are there fields in there we can remove, to make things smoother and better? Please ponder this question deeply. There is a possibility that he  neeeds to schedule an appointment for himself on Tuesday, as he could very well not be able to come. He will leave us with some tasks. He will contact us over the weeke,nd. Next class, he wants to propose changes to the database. 
+Ask yourself : are there fields in there we can remove, to make things smoother and better? Please ponder this question deeply. There is a possibility that he  needs to schedule an appointment for himself on Tuesday, as he could very well not be able to come. He will leave us with some tasks. He will contact us over the weekend. Next class, he wants to propose changes to the database. 
 
 
 A VALUE SHOULD BE IN THE DATABASE only ONCE. 
 
-for student_name , it only appears once in the class table. How do we differentiate betwene tsudents in the students table? with the student ID. We can have two students with the same name, but if we have records for one student, we would not have their name in multiple locations on the same table. 
+for student_name , it only appears once in the class table. How do we differentiate between students in the students table? with the student ID. We can have two students with the same name, but if we have records for one student, we would not have their name in multiple locations on the same table. 
 
 Check out W3Schools 
 
