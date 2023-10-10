@@ -107,7 +107,7 @@ Refers to :
 A lot of small companies that do not want to be involved ,or large companies do not trust Microsoft are two situations of these entities not joining **WHQL**, which means : 
 
 
-1. The driver is not getting updated by Microsoftr
+1. The driver is not getting updated by Microsoft
 2. The driver is not verified by Microsoft.
 3. You would have to update the drivers manually. 
 
@@ -126,7 +126,7 @@ Tied to
 
 #### SSL 
 
-	Between browser andf server. We see it on websites.  Even if we are not leaving the physical space, we are still using the protocol. IIS is tied to so many things in the tech industry. They are used widely across the board. 
+	Between browser andf server. We see it on websites.  Even if we are not leaving the physical space, we are still using the protocol. It is tied to so many things in the tech industry. They are used widely across the board. 
 
 SSL sits on top of **HTTP**, which turns it into .....
 
@@ -137,7 +137,7 @@ SSL sits on top of **HTTP**, which turns it into .....
 What is a Protocol :? Set of rules on how you act coming through the door, at the door and the other side of the door.
 
 
-	When you walk through the door in the mall, the way you behave in a mall would be different than when you walk through a church. That IS the protocol. The protocol can change, and every protocol havbe a default port (80 for HTTP). If she is at the mall, she wants multiple doors. If something happens, then she wants closed doors, and some doors that are open (delivery doors). If we consider ports and protocols,  when we add SSL turning HTTP into HTTPS, you are allowed through the side doors if you show an ID (delivery personnel with a special ID). This is why we have certificates 
+	When you walk through the door in the mall, the way you behave in a mall would be different than when you walk through a church. That IS the protocol. The protocol can change, and every protocol have a default port (80 for HTTP). If she is at the mall, she wants multiple doors. If something happens, then she wants closed doors, and some doors that are open (delivery doors). If we consider ports and protocols,  when we add SSL turning HTTP into HTTPS, you are allowed through the side doors if you show an ID (delivery personnel with a special ID). This is why we have certificates 
 
 
 #### What does a Certificate do ? 
@@ -176,7 +176,7 @@ Process :
 	2. Certificate Authority requests information (who the company is , what they sell, the name of their IT personnel, etc...)
 	3. The Certificate Authority double-checks the information
 	4. If everything is correct, the certificate is created, signed and is sold to the company. Certificates are good for 1-year
-	5. Certificates get installed on the servier with a public key
+	5. Certificates get installed on the server with a public key
 	6. Then there would be a ROOT CERTIFICATE
 
 (Browsers have built-in certificates. Based on the machine and its IP address, )
