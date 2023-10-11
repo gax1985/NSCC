@@ -133,26 +133,26 @@ He will give it a name (VLAN20), we go from configure prompt to configure VLAN p
 
 conf t  -- If we are in command line, CISCO refers to Fast Ethernet as Fast-A, so type FA and hit tab for autocomplete. 
 
-VLAN 20 - Name : Sails
-VLAN 30 - Name : ADMIN
+VLAN 20 - Afterwards: name  Sails
+VLAN 30 - Afterwards: name  ADMIN
 
 
 
 
 
-We go into the Switch , At the Priviledged Exec Mode, want to go to "conf t" to configure some interfaces. To get into the interface on the switch "int + tab", it is a good idea to type "?", the interesting thing about the "?" it gives you the options you would type next, and puts you at the command prompt. To configure fast ethernet :
+We go into the Switch , At the Privileged Exec Mode, want to go to "conf t" to configure some interfaces. To get into the interface on the switch "int + tab", it is a good idea to type "?", the interesting thing about the "?" it gives you the options you would type next, and puts you at the command prompt. To configure fast ethernet :
 
 FA + tab + ? 
 
 It is looking for an interface number . Which interface are we configuring ? FA-1
 
-We get in "config.if" interface. These are two commands that there is nothing demonic about them, remember these two commands!
+We get in "config-if" interface. These are two commands that there is nothing demonic about them, remember these two commands!
 
 
 (In the notes, below the PC, we indicated that we connect to FA-01, the port where we plugged the pc into the switch.)
 
 
-Interface - FAST ETHERNET - 0-1
+Interface  FastEthernet0/1
 
 COMMIT TO MEMORY : 
 
@@ -173,17 +173,18 @@ switchboard access ?
 switchboard access vlan 20 (which vlan are we attaching to this interface? Answer: 20)
 
 
+#### Commands 
 
 
 Conf t 
 
-interface fa 01
+interface fa0/1
 
 
 Interface fa 01 : switchboard access VLAN 20
 
 
-Back in priviledged exec : 
+Back in priviledged exec --> exit
 
 
 Show VLAN
