@@ -67,7 +67,7 @@ V2: Trunk lines (switchport mode trunk) :
 
 1. ## SWITCH3: CLI
     
-    `- en 
+    `- enable
 	 conf t 
 	 int fa 0/5 
 	  switchport mode trunk # switchport trunk allowed vlan 1-30 # exit  - show interface trunk # conf t # vlan 20  # name sales # vlan 30 # name admin # exit  # int fa 0/1 # switchport mode access # switchport access vlan 20  # exit  # int fa 0/2 # switchport mode access # switchport access vlan 30`
