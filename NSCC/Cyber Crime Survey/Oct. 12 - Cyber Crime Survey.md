@@ -263,6 +263,7 @@ ABC
 
 
 Check out Cryptoquotes ! 
+Watch Imitation Game!
 Check out Secret Decoder Ring! :
 
 	It is a ring that had an inner dial of letters (ABCD), an outter ring with ZABCD.... The rings are rotated. If you are to encrypt a message, and you have two peoplek with these rings, they have to agree on the Encryption Algorithm : 
