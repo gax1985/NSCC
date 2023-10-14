@@ -32,7 +32,7 @@ We want to :
 2. Assign **ACL** to **Interface** on the router 
 
    
-   (We are using sub-intrerfaces)
+   (We are using sub-interfaces)
 
 
 

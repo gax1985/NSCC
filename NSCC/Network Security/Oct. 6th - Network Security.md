@@ -44,7 +44,7 @@ Data has to be encapsulated to travel from VLAN 20 to VLAN 30 .
 If a message is sent from VLAN 20 to VLAN 3 :
 
 
-1. Messafe gets encapsulated before hitting the Trunk Port on Switch 1, saying it is from VLAN 20 (Switches keep track of which IP is on which port)
+1. Message gets encapsulated before hitting the Trunk Port on Switch 1, saying it is from VLAN 20 (Switches keep track of which IP is on which port)
 
  (switchport mode trunk) 
  
@@ -90,7 +90,8 @@ Setting up VLANs
 
 
 
->config > int fa 0/4 
+>config 
+>int fa 0/4 
 >switchport mode access
 >switchport access vlan 30
 

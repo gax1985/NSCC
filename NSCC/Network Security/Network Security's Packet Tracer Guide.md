@@ -66,22 +66,59 @@ V2: Trunk lines (switchport mode trunk) :
 
 
 1. ## SWITCH3: CLI
+
+> enable
+> conf t 
+i> int fa 0/5 
+> switchport mode trunk
+> switchport trunk allowed vlan 1-30 
+> exit  
+> show interface trunk 
+> conf t 
+> vlan 20 
+> name sales  
+> vlan 30 
+> name admin  
+> exit   
+> int fa 0/1  
+> switchport mode access 
+> switchport access vlan 20  
+> exit  
+> int fa 0/2 
+> switchport mode access 
+> switchport access vlan 30`
     
-    `- enable
-	 conf t 
-	 int fa 0/5 
-	  switchport mode trunk # switchport trunk allowed vlan 1-30 # exit  - show interface trunk # conf t # vlan 20  # name sales # vlan 30 # name admin # exit  # int fa 0/1 # switchport mode access # switchport access vlan 20  # exit  # int fa 0/2 # switchport mode access # switchport access vlan 30`
-    
-    ## SWITCH0: CLI
-    
-    `- en # conf t # int fa 0/5 # switchport mode trunk # switchport trunk allowed vlan 1-30 # exit   # show interface trunk # conf t # vlan 20  # name sales # vlan 30 # name admin # exit  # int fa 0/3 # switchport mode access # switchport access vlan 20  # exit  # int fa 0/4 # switchport mode access # switchport access vlan 30`
-    
-    ## PC3: Command Prompt
-    
-    `- ping 192.168.20.100 - ping 192.168.30.200`
-    
-2. _[_11:43 AM_]_
-    
-    ## Examples
+## SWITCH0: CLI
+
+
+>en 
+>conf t 
+>int fa 0/5 
+>switchport mode trunk 
+>switchport trunk allowed vlan 1-30 
+>exit   
+>show interface trunk 
+>conf t 
+>vlan 20  
+>name sales 
+>vlan 30 
+>name admin 
+>exit  
+>int fa 0/3 
+>switchport mode access 
+>switchport access vlan 20  
+>exit  
+>int fa 0/4 
+>switchport mode access 
+>switchport access vlan 30
+
+## PC3: Command Prompt
+
+
+>ping 192.168.20.100  
+>ping 192.168.30.200   
+
+
+## Examples
     
     `Image 1: Trunk Image 2: SWITCH0 Config Image 3: SWITCH3 Config`
