@@ -558,4 +558,9 @@ Check out **Evil Twin Attack**. Shopping malls name their SSID the name of the s
 
 
 
+> [!check] 
+>	ROCKYOU password list
+
+
+
 
