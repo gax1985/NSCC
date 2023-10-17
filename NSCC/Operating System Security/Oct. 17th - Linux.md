@@ -299,7 +299,8 @@ Run the following commands :
 Go through *LinkedIn Learning*, which teaches the Linux Command-Line. Watch the Introduction, download the exercise files into the documents folder. 
 
 
-
+> [!note] 
+> Thursday is a **Lab Class**! 
 
 
 # Assignment 3 : Instructions 
@@ -310,85 +311,67 @@ Go through *LinkedIn Learning*, which teaches the Linux Command-Line. Watch the 
 
   
 
-**Task 1** **- Install a Linux Mint Workstation.**
+## **Task 1** **- Install a Linux Mint Workstation.**
 
   
 
-_Client Specifications and guidelines:_
+#### Client Specifications and guidelines:
 
-- Create a virtual machine with the following specifications:
+1. Create a virtual machine with the following specifications:
     
-- Guest operating System = Linux / Ubuntu 64-bit
+		- Guest operating System = Linux / Ubuntu 64-bit
+		- Virtual Machine Name = YourInitialLastName+-CL02
+		                                           (Example = MDutka-CL02)
+		- Drive = 1x 60g (split virtual disk)
+		- Memory = 8G
+		- Processors = Processors x2, Core per processor x1 (Total processor cores = 2)
+		- NIC x1 (NAT)
     
-- Virtual Machine Name = YourInitialLastName+-CL02
-    
+2. Modify the Virtual Machine Description to list (_you will need to read ahead for some of the information required_):
 
-(Example = MDutka-CL02)
 
-- Drive = 1x 60g (split virtual disk)
-    
-- Memory = 8G
-    
-- Processors = Processors x2, Core per processor x1 (Total processor cores = 2)
-    
-- NIC x1 (NAT)
-    
-- Modify the Virtual Machine Description to list (_you will need to read ahead for some of the information required_):
-    
-
-- Operating System:
-    
-- Creation Date:
-    
-- Hostname:
-    
-- Default User Name:
-    
-- Default User Password:
+		- Operating System:
+		- Creation Date:
+		- Hostname:
+		- Default User Name:
+		- Default User Password:
     
 
-- **Stop**. Take a screenshot of your VM settings and description.
-    
+3. **Stop**. Take a screenshot of your VM settings and description.
+
 
   
 
-- *Start Linux Mint 21.2 Cinnamon 64-bit
+4. Select *Start Linux Mint 21.2 Cinnamon 64-bit
     
-- **Install** **Linux Mint**
+		ِClick on "Install Linux Mint" 
     
 
 Hint: run the cd on the desktop.
 
 - Select the following:
     
-    - Language = English
-        
-    - Keyboard = English (US)
-        
-    - Do not install multimedia codecs
-        
-    - Erase disk and install Linux Mint (Install Now)
-        
-        - Write the change to disks? Continue
-            
-    - Location = Halifax
-        
-    - Your Name = YourFirstName LastName
-        
+	     Language = English
+		Keyboard = English (US)
+		     - Do NOT install multimedia codecs
+		     - Erase disk + install Linux Mint(Install Now)		     
+		     - Write the change to disks? Continue
+		     - Location = Halifax
+		     - Your Name = YourFirstName LastName (Example = Marie Dutka)
+		
+		
+Please enter your computer’s name = 
 
-(Example = Marie Dutka)
 
-- Your computer’s name = cl+yourinitials(x3)+02 ****all lower case**
-    
+		cl + YourInitials (All three if you have three) + 02 (all lower-case)
+		                                        (Example = CLMAD02)
 
-(Example = CLMAD02)
+Pick a username = 
 
-- Pick a username = YourFirstInitialLastName ****all lower case**
-    
+			YourFirstInitialLastName (all lower-case)
+			(Example = mdutka)
 
-(Example = mdutka)
-
-- Default user password = Passw0rd
+Default user password = Passw0rd
     
 - **REQUIRE** a password at log in
     
