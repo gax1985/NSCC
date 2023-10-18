@@ -17,19 +17,17 @@ Now :
 
 ![[Pasted image 20231013095335.png]]
 
-We will ackle VLAN 
+We will tackle VLAN 
 
 
 
 #### Access Control Lists (aka. ACLs)
 
 > [!todo] 
->  
+>1. Create the **ACL**
+>2. Assign **ACL** to **Interface** on the router 
+>   
 
-We want to :
-
-1. Create the **ACL**
-2. Assign **ACL** to **Interface** on the router 
 
    
    (We are using sub-interfaces)
@@ -65,7 +63,7 @@ Two types of Access Control Lists :
 We were given 99 numbers to Access Control List 1, ACL 2, ACL3 , ...
 
 
-If we give the ACL a number from 1-99, it is refered to as a **Standard Access Control List**
+If we give the ACL a number from 1-99, it is referred to as a **Standard Access Control List**
 
 
 

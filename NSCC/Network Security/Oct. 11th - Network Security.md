@@ -52,10 +52,10 @@ We do the following command to copy the settings from **RAM** to **Disk** :
 
 it will ask : 
 
->DO you want to save them to startup config?
+>Do you want to save them to startup config?
 
 
-Why does it ask? we can have multiple configuration files. If we have a switch that we are testing (hypothically to a building on Barrington), we copy to a backup file :
+Why does it ask? we can have multiple configuration files. If we have a switch that we are testing (hypnotically to a building on Barrington), we copy to a backup file :
 
 >copy barrington run --> copies to the run config (bootup config)
 >copy run config  -------> copies the bootup config to current config
@@ -71,16 +71,16 @@ PING ROUTE --> Shows a graphical example of a packet travelling through the netw
 He is showing us the 0,12 wrapper
 
 
-He will terll us when to use a straoight through cable or a crossover cable
+He will tell us when to use a straight through cable or a crossover cable
 
 
-These VLANS cannot talk to each other because they are serparated. 
+These VLANS cannot talk to each other because they are separated. 
 
 
 Now, he will configure them to talk to each other via *Routing*
 
 
-The **ROuter** will give the ability for the two VLANs to talk to each other 
+The **Router** will give the ability for the two VLANs to talk to each other 
 
 
 Grab a router, 4331
@@ -92,17 +92,17 @@ Connect it with a **Straightthroough cable**
 The router has a gigabit ethernet (faster than switches.)
 
 
-Connect from a gigabit port on the router . Swithces have 28 ports on them. Routers have 2 ports , serial port and a console cable
+Connect from a gigabit port on the router . Switches have 28 ports on them. Routers have 2 ports , serial port and a console cable
 
 
-IF we want the two VLANs to talk to the router, we can have 2 cables , one from one switch, and another from the other switch. 
+If we want the two VLANs to talk to the router, we can have 2 cables , one from one switch, and another from the other switch. 
 
 
 If we have multiple VLANS to go across one cable, 
 
 
 >conf t
->#Go into subterface , notrmally "fa 0/1"
+>#Go into interface , normally "fa 0/1"
 >gig ? to see options --> it is looking for the interface number. 
 >gig fa 0/1
 >switchboard trunk
@@ -122,7 +122,7 @@ He made this difficult for himself as he needed to remember what he did. It is a
 
 now go back to the switch to figure out where to place the trunk on : 
 
-He has multiple VLANs that have to reach this router, but we have one cable cconnecting them. On the switch, we do *trunk*. On the router, it needs a different interface for each VLAN. We hjave it connected to one interface. We can subdivide the interface. We are connected to Gig 0/1, 
+He has multiple VLANs that have to reach this router, but we have one cable connecting them. On the switch, we do *trunk*. On the router, it needs a different interface for each VLAN. We have it connected to one interface. We can subdivide the interface. We are connected to Gig 0/1, 
 
 
 If we are in a 192.178.30.200 , and we would like to go to the network, what is the ip address of the router? 
