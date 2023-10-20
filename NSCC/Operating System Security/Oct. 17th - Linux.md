@@ -502,7 +502,109 @@ Default user password = Passw0rd
 - Log into [https://www.linkedinLearning.com/](https://www.linkedinLearning.com/) and find the video called **Learning Linux Command Line** by Scott Simpson and, if necessary, start up your virtual machine to follow along. [Learning Linux command line (linkedin.com)](https://www.linkedin.com/learning/learning-linux-command-line-2018/learning-linux-command-line?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=2149225)  
     [https://www.linkedin.com/learning/learning-linux-command-line-2018/learning-linux-command-line?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=2149225](https://www.linkedin.com/learning/learning-linux-command-line-2018/learning-linux-command-line?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=2149225)
     
+> [!tldr] 
+>
+>  Today's **commands** are :
+>  
+>This command crops a column in a text file, separated by a delimiter :
+> 
+>	awk '{print $2 " slash t " $1}' simple_data.txt
+>	
+>Explanation for command's options : 
+>
+>		'{   }'   We are defining the output
+>		$2        Column #2 
+>		$1        Column #1
+>		\t        a tab (aka... Tab)
+>
+>This command searches for a term inside a text document : 
+>
+>
+>	grep -i -v -n simple_data.txt
+>
+>Command Explanation :
+>		**-i** ignores case-sensitivity
+>		**-v** views everything that is not the search result
+>		**-n** shows the line numbers
+>		
+>This command changes permissions : 
+>
+>	chmod u=rwrx simple_data.txt 
+>
+>Command Explanation : 
+>
+>		=  This resets the permissions to the new permissions
+>		x  Execution Permission
+>		rw Write Permission
+>		r  Read Permission
+>
+>This command sorts information inside of a file : 
+>
+>	sort somefile.txt
+>
+>Some options for the command : 
+>
+>		--reverse         Sorts information in a descending way
+>		--numeric-sort/-n Sorts information based on numbers
+>		-k2               Sorts by the second column
+>		--unique          Shows unique lines (non-duplicates only)
+>
+>This command replaces a string of text with another : 
+>
+>	sed s/Orange/Red/ simple_data.txt
+>
+>Command Explanation : 
+>
+>		s        aka.. Substitute
+>		/Orange/ The term to be replaced
+>		/Red/    The term's replacement
+>
+>This command prints text in reverse :
+>
+>	echo "Hello!" | rev
+>
+>This command displays files in reverse :
+>
+	tac
+>
+>	Hint : *tac* is *cat* backwards
+>
+>This command modifies individual characters according to parameters :
+>
+>	tr
+>
+>This would provide examples in regards to how to use this command:
+>
+>Replace all occurrences of a character in a file, and print the result:
+>
+		tr {{find character}} {{replace_character}} < {{path/to/file}}
+>
+>Replace all occurrences of a character from another command's output:
+>
+  echo {{text}} | tr {{find_character}} {{replace_character}}
+>
+>Map each character of the first set to the corresponding character of the second set :
+>
+		tr '{{abcd}}' '{{jkmn}}' < {{path/to/file}}
+>
+>Delete all occurrences of the specified set of characters from the input:
+>
+		tr -d '{{input_characters}}' < {{path/to/file}}
+>
+>Compress a series of identical characters to a single character:
+		tr -s '{{input_characters}}' < {{path/to/file}}
+>
+>Translate the contents of a file to upper-case:
+>
+		tr "[: lower: ]" "[ : upper: ]" < {{path/to/file}}
+>
+>Strip out non-printable characters from a file:
+		tr -cd "[:print: ]" < {{path/to/file}}
 
+
+
+
+ 
   
   
 
