@@ -5,7 +5,7 @@
 
 
 
-We have three VLANS , 4 machines. If we did not put access control on the router, all the VLANs can talk to eachother. We DO NOT want the four VLANS to talk to each other, but the IT vlan should talk to ALL. 
+We have three VLANS , 4 machines. If we did not put access control on the router, all the VLANs can talk to each other. We DO NOT want the four VLANS to talk to each other, but the IT vlan should talk to ALL. 
 
 
 How we regulate it all? **Access Control List** aka. **ACL**.

@@ -130,7 +130,7 @@ If we are in a 192.178.30.200 , and we would like to go to the network, what is 
 	192.168.1.1
 
 
-This is a subinterface on the router, we will have to sub-interface it, just like the trunk associates VLANS with different destinations :
+This is a sub-interface on the router, we will have to sub-interface it, just like the trunk associates VLANS with different destinations :
 
 
 >encapsulation .1q ?
