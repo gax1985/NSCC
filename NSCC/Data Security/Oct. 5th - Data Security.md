@@ -155,7 +155,7 @@ Solution :
 
 
 
-There is something wrong with the Database design. We do NOT Want to type the same value in the same table. It makes input errors possible,, and creates an ANAMO:Y. Unless it is a foreign key, we do not want the same value in multiple tables, and we DO NOT want to have the same value in multiple records. 
+There is something wrong with the Database design. We do NOT Want to type the same value in the same table. It makes input errors possible,, and creates an ANAMOLY. Unless it is a foreign key, we do not want the same value in multiple tables, and we DO NOT want to have the same value in multiple records. 
 
 
 

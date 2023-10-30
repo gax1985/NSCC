@@ -72,10 +72,10 @@ Databases
 				Data Types
 					Constraints ( not NULL, etc)
 
-This is how we see the database. There are a lot of things in the background. Keeping track what is inside the DBMS. The information on the tables themsevles, and how they relate to eachothr. We have **Primary Keys**, which have **Constraints**, so the database have to keep that in mind. So Primary keys have to be NOT NULL. 
+This is how we see the database. There are a lot of things in the background. Keeping track what is inside the DBMS. The information on the tables themselves, and how they relate to each other. We have **Primary Keys**, which have **Constraints**, so the database have to keep that in mind. So Primary keys have to be NOT NULL. 
 
 
-Foreign Keys add a lot of complexity. A Foreign Key is pointing to a Primary Key in another table. If the other table does not exist, the DMBS will give you an error. There is a whole proccess we have not discussed which is if you have a foreign key defined as a primary key in another table, and they delete the table, you can use **Cascade**, so if that happens, foreign keys will give errors due to the missing dependencies. 
+Foreign Keys add a lot of complexity. A Foreign Key is pointing to a Primary Key in another table. If the other table does not exist, the DMBS will give you an error. There is a whole process we have not discussed which is if you have a foreign key defined as a primary key in another table, and they delete the table, you can use **Cascade**, so if that happens, foreign keys will give errors due to the missing dependencies. 
 
 
 Imagine the necessary programs running into the DMBS to take care of that. There is a tremendous amount of overhead work to watch what you are doing. All of this is known as ... **Metadata**
