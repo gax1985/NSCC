@@ -11,7 +11,7 @@ It is a good practice to intialzie all over variables. We have a function, and i
 is *var1* a global variable? yes. If we call it in the **someFunction** would *var1* be available for the remainder of the program? when we are creating global variables (assume we do not have *var1*) we are working with something of a value that came from outside of the function. In this instance, we have a dependency that is outside of teh function. We do not want that!
 
 
-If we have the same thing with the execption of adding :
+If we have the same thing with the exception of adding :
 
 	var1 = 9
 
@@ -59,7 +59,7 @@ If Y > 2 , Z is never created, and the function is not called. The solution is t
 # Modules and Encapsulation 
 
 
-It comes from **Object-Oriented Programming**. It refers to something that is hidde. We need to know how to use it, but we do not need to know how it works under the hood. It is like driving a car : you can drive the car, but you do not need to know how the engine works. 
+It comes from **Object-Oriented Programming**. It refers to something that is hide. We need to know how to use it, but we do not need to know how it works under the hood. It is like driving a car : you can drive the car, but you do not need to know how the engine works. 
 
 
 When you consider working with **Functions**, we want it to be used by other programmers as well. They need to know how the parameter is passed, but not how it is coded. If we have a special script that I do not want to share the part, we can keep it hidden. Imagine coming up with a special algorithm and I do not want everyone to know it, we *encapsulate* it. We tell everyone : "You can use it, but it is secret!"
@@ -152,7 +152,7 @@ Everytime we are coding, we are keeping everything LOCAL.
 
 If we have code defined in its own block, the code is contained within its own specific method. This is why we are using def main() . 
 
-if __ name __ == "__ main __"  
+if __ name __ == " __ main __ "  
 
 it is checking if it is running from the file
 

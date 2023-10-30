@@ -1,7 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Material Gruvbox",
   "enabledCssSnippets": [
     "extended-colorschemes"
-  ]
+  ],
+  "theme": "system"
 }

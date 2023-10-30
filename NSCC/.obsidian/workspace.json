@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Crime Survey/Sept 7th - Cyber Crime Survey.md",
+                "file": "Cyber Crime Survey/Oct. 26th - Cyber Crime Group Research.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progamming I/3rd Class - Sept. 11th -Variables, Strings and Numbers.md",
+                "file": "Offensive Security Lab/2nd Go.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,12 +76,21 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "bc4dc3cfe86b12db",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4c7d6f73de0447bd",
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progamming I/3rd Class - Sept. 11th -Variables, Strings and Numbers.md",
+                "file": "Cyber Crime Survey/Oct. 26th - Cyber Crime Group Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Progamming I/3rd Class - Sept. 11th -Variables, Strings and Numbers.md",
+                "file": "Cyber Crime Survey/Oct. 26th - Cyber Crime Group Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +146,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progamming I/3rd Class - Sept. 11th -Variables, Strings and Numbers.md"
+                "file": "Cyber Crime Survey/Oct. 26th - Cyber Crime Group Research.md"
+              }
+            }
+          },
+          {
+            "id": "5101dac0cd45bd48",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -146,25 +164,32 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 358.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "483d6ff4586462cc",
+  "active": "fdf22d01c101102a",
   "lastOpenFiles": [
+    "Cyber Crime Survey/Sept 7th - Cyber Crime Survey.md",
+    "Offensive Security Lab/2nd Go.md",
+    "Programming I/Oct. 27th - Scope.md",
+    "Programming I/Modules&Encapsulation.pptx",
+    "Programming I.Functions-variablescope&lifetime.pptx-autosaveodp",
+    "Programming I/Functions-variablescope&lifetime.pptx",
     "Operating System Security/2nd Class - Sept. 8th.md",
     "Progamming I/3rd Class - Sept. 11th -Variables, Strings and Numbers.md",
     "Progamming I/2nd Class - Sept. 8th - Programming I.md",
-    "Operating System Security/3rd Class - Sept. 11th.md",
-    "Cyber Crime Survey/Sept 7th - Cyber Crime Survey.md"
+    "Operating System Security/3rd Class - Sept. 11th.md"
   ]
 }

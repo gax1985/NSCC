@@ -49,18 +49,18 @@ The clients would ask Ron to patch their software, and Ron would reply that he w
 It is very important if we are running a network , to have an outside entity to do a vulnerability scan on the network once a year. Every single organization must have a vulnerability scan. 
 
 
-You would want to catch internal mistakes. If they commission one of their workers to do it, they may not catch all the vulnerabilites. You woudl have a small appliance tapped into the network, and you would schedule Nessus to scan the network for vulnerabilties every day. 
+You would want to catch internal mistakes. If they commission one of their workers to do it, they may not catch all the vulnerabilities. You would have a small appliance tapped into the network, and you would schedule Nessus to scan the network for vulnerabilities every day. 
 
 
 
-Internally, you can use  Nessus to keep up with any vulnerabilties on your network. Once a year, you would have an external entity scan your network to see if you are scanning for vulnerabilties correctly. 
+Internally, you can use  Nessus to keep up with any vulnerabilities on your network. Once a year, you would have an external entity scan your network to see if you are scanning for vulnerabilities correctly. 
 
 
 The Nessus reports can span 10000 pages. You can prepare a summary report of the vulnerabilties, and arrange them from critical to low. If you find a critical vulnerability, stop right away and fix it. 
 
 
 
-If you do a scan on Tuesday morning, and you find critical vulnerabilities. You would create a report, and if you submit the report and noone reads it, someone could compromise the system in the meantime. If you tell noone, then you would bear the responsibility. 
+If you do a scan on Tuesday morning, and you find critical vulnerabilities. You would create a report, and if you submit the report and no one reads it, someone could compromise the system in the meantime. If you tell no one, then you would bear the responsibility. 
 
 
 Ron will develop an exercise to develop our Nessus' scannning abilities. Large firms who need security/vulnerability audits, we can tell them that we are fluent with Nessus. 
@@ -129,7 +129,7 @@ You start off with the following steps :
 
 
 
-We have looked at the volution of hackers in the past 20 years, individuals' contribution to cyber crime, prosecution ( punishment does not fit the crime vs the punishment being way worse). The courts do not know what they are doing. 
+We have looked at the evolution of hackers in the past 20 years, individuals' contribution to cyber crime, prosecution ( punishment does not fit the crime vs the punishment being way worse). The courts do not know what they are doing. 
 
 
 If you wish to do well, you should study law in the US and study cyber crime. We spoke about in the Gold Rush days, people who made the most money were the people selling mining equipment.
@@ -138,16 +138,16 @@ If you wish to do well, you should study law in the US and study cyber crime. We
 Organized crime gangs build the infrastructure the hackers use. They charge for it. Regardless of the outcome, they always make money,where it is hundreds of Billions a year. 
 
 
-The US called it "Transnational Organized Crime". Their victims are worldwide. We know that when we talk about Russian gangs, their victims are elsewhere in the world, mostly developed coutnries. Unlike organized crime groups, they can be ephemeral, where they disppear. 
+The US called it "Transnational Organized Crime". Their victims are worldwide. We know that when we talk about Russian gangs, their victims are elsewhere in the world, mostly developed countries. Unlike organized crime groups, they can be ephemeral, where they disappear. 
 
 
 Sustained groups , when we consider organized crime, they are people that live as outlaws who live outside the law. They are highly respected and feared. They are generous to those who support them. Ron's neighbourhood was a gang. You existed in the gang because everyone knew you. Someone who walked into the neighbourhood that did not belong was in trouble. The police was seen as enemies. Ron was beaten almost to death by another gang. Ron's mother called the police, and the neighbourhood guys informed him not to talk to the police, and they took care of it. 
 
 
-You may ask yourself, why do people tolerate them? They look after their communities. They have a social support sytem, where they pay for the young's education. The whole family would live like this for generations. Marriot's gang is very active. They started with their grandfather, who trained his kids to sell alcohoil, and the kids sold drugs and anything to make money on the side. Everyone supported them until they go against the grain. Those are sustained groups, and are very difficult to infiltrate, due to them being based on connections. There are certain gangs , such as Mazzafuca. Whoever joined them based on someone vouching for them and if that person who vouched for them was a police officer, the family of that individual was in trouble. 
+You may ask yourself, why do people tolerate them? They look after their communities. They have a social support system, where they pay for the young's education. The whole family would live like this for generations. Marriot's gang is very active. They started with their grandfather, who trained his kids to sell alcohol, and the kids sold drugs and anything to make money on the side. Everyone supported them until they go against the grain. Those are sustained groups, and are very difficult to infiltrate, due to them being based on connections. There are certain gangs , such as Mazzafuca. Whoever joined them based on someone vouching for them and if that person who vouched for them was a police officer, the family of that individual was in trouble. 
 
 
-They were ephemeral, where they could disappear. Hacker groups like Anonymous contained members who were unknown but respected. Anonytmous had police officers as members. 
+They were ephemeral, where they could disappear. Hacker groups like Anonymous contained members who were unknown but respected. Anonymous had police officers as members. 
 
 Almost always, the motivation is financial. Luckily, they target highly-valued targets. The ransomware gangs target large organizations with critical data at risk. 
 
@@ -171,7 +171,7 @@ They are differentiated by certain factors :
 
 2. Differentied b the crimes being commitied
 
-3. Differentiated by their targers
+3. Differentiated by their targets
 
 
 
@@ -185,10 +185,10 @@ They are differentiated by certain factors :
 
 	Hacktivists , scammer operations (use skimming technologies : little machines, waiters in big cities like Montreal). New Skimmers are slipped under card readers. It is the same technology as a POS machine. They used to use skimmer with a camera to capture the pin. You do not see the cameras anymore. In the bankinig machines, you find those cameras there all the time. Builtin boards are used to hide the cameras. Now they have a whole entire face of an ATM. When Ron's bank machine was compromised, the bank mentioned to check the front of the ATM to see if it would come off. The gas pump's keyholes are worn out often. 
 
-### Type 2 : They operate offline and online and engate in crimes and cybercrimes
+### Type 2 : They operate offline and online and engage in crimes and cyber-crimes
 
 
-### Typ3 : Those utilizinbg information and ocmmunicatin technology to facilitate offline crimes
+### Type 3 : Those utilizing information and communication technology to facilitate offline crimes
 
 
 
@@ -199,7 +199,7 @@ Core members :
 
 
 1-10 people  
-Ethnic/national commuinties in big cities. They target banks with a husband and wife team, where one goes inside the bank, and the husband watches out outside. In Vancouver's chinatown, all the street signs are in Chinese. You can not infiltrate those communities, much like organized crime gangs. They have a lot of history in the old country. The meetup spot is prison. They meet in hacking/coding forums, Dark Web. They are not always technically skilled, but they chose to do it for a life time. Hells' Angels assassins are professionals, and when they land in prison, no one messes with them. They make a lot of money, and they do not pay taxes. The tax they pay is prison time. This person would never hurt anyone who is not his target 
+Ethnic/national commuinties in big cities. They target banks with a husband and wife team, where one goes inside the bank, and the husband watches out outside. In Vancouver's Chinatown, all the street signs are in Chinese. You can not infiltrate those communities, much like organized crime gangs. They have a lot of history in the old country. The meetup spot is prison. They meet in hacking/coding forums, Dark Web. They are not always technically skilled, but they chose to do it for a life time. Hells' Angels assassins are professionals, and when they land in prison, no one messes with them. They make a lot of money, and they do not pay taxes. The tax they pay is prison time. This person would never hurt anyone who is not his target 
 
 
 - enablers : 

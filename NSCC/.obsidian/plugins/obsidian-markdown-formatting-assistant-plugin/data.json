@@ -22,7 +22,7 @@
     {
       "name": "tables",
       "active": true,
-      "visible": true
+      "visible": false
     },
     {
       "name": "html",
@@ -32,7 +32,7 @@
     {
       "name": "latex",
       "active": true,
-      "visible": true
+      "visible": false
     },
     {
       "name": "greekLetters",
