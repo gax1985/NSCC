@@ -94,7 +94,11 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< Updated upstream
     "width": 378.5
+=======
+    "width": 300
+>>>>>>> Stashed changes
   },
   "right": {
     "id": "4c7d6f73de0447bd",
@@ -193,6 +197,7 @@
   },
   "active": "a0c2b0768bf07d82",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Data Security/Sept. 28th - Data Security - MySQL.md",
     "Data Security/Oct. 31st - Data Security.md",
     "Data Security/MySQL Commands.md",
@@ -204,6 +209,16 @@
     "Data Security/MySQL Reference Manual/Oct. 26th - Quiz II - The Aftermath.md",
     "Cyber Crime Survey/Oct. 31st - Cyber Crime Survey.md",
     "org.kde.konsole.desktop",
+=======
+    "Programming I/Oct. 30th Functions Exercise/rock_paper_scissors.py",
+    "Programming I/Oct. 30th Functions Exercise/LeapYearFunctionsPractice.py",
+    "Programming I/Oct. 30th Functions Exercise/LeapYear.py",
+    "Programming I/Oct. 30th Functions Exercise/Delano's Discount_Calculator.py",
+    "Programming I/Oct. 30th Functions Exercise",
+    "Programming I/Oct. 23rd Class Exercise/LeapYearPracticew.py",
+    "Operating System Security/Presentations/M4 Files, users and groups.pptx",
+    "Cyber Crime Survey/Sept 7th - Cyber Crime Survey.md",
+>>>>>>> Stashed changes
     "Offensive Security Lab/2nd Go.md",
     "Pasted image 20231031092326.png",
     "Pasted image 20231031092320.png",
