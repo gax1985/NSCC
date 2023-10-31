@@ -113,8 +113,7 @@ Database ---> Tables --> Records ---> Fields > Data Types +Constraints
 
 11. If we have an entry, we can try to increase the characters in VARCHAR, it WILL NOT WASTE memory. If it is VAR, then that WILL affect the memory. 
 
-12. Every Table needs a primary key! His table has a primary key called "StudentID". The table that we have created does not have a primary key. We need to delete it and create it again via : 
-
+12. Every Table needs a primary key! His table has a primary key called "StudentID". The table that we have created does not have a primary key. We need to delete it and create it again via
 >mysql> DROP TABLE student
 
 13. Ron would like us to use the student ID as the primary key of the table. so, he would like the following : 
