@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4c7d6f73de0447bd",
@@ -181,6 +180,13 @@
   },
   "active": "fdf22d01c101102a",
   "lastOpenFiles": [
+    "Programming I/Oct. 30th Functions Exercise/rock_paper_scissors.py",
+    "Programming I/Oct. 30th Functions Exercise/LeapYearFunctionsPractice.py",
+    "Programming I/Oct. 30th Functions Exercise/LeapYear.py",
+    "Programming I/Oct. 30th Functions Exercise/Delano's Discount_Calculator.py",
+    "Programming I/Oct. 30th Functions Exercise",
+    "Programming I/Oct. 23rd Class Exercise/LeapYearPracticew.py",
+    "Operating System Security/Presentations/M4 Files, users and groups.pptx",
     "Cyber Crime Survey/Sept 7th - Cyber Crime Survey.md",
     "Offensive Security Lab/2nd Go.md",
     "Programming I/Oct. 27th - Scope.md",
