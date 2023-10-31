@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progamming I/3rd Class - Sept. 11th -Variables, Strings and Numbers.md",
+                "file": "Cyber Crime Survey/Oct. 24th - Cyber Crime Survey - Network Scanning.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progamming I/3rd Class - Sept. 11th -Variables, Strings and Numbers.md",
+                "file": "Cyber Crime Survey/Oct. 24th - Cyber Crime Survey - Network Scanning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Progamming I/3rd Class - Sept. 11th -Variables, Strings and Numbers.md",
+                "file": "Cyber Crime Survey/Oct. 24th - Cyber Crime Survey - Network Scanning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progamming I/3rd Class - Sept. 11th -Variables, Strings and Numbers.md"
+                "file": "Cyber Crime Survey/Oct. 24th - Cyber Crime Survey - Network Scanning.md"
+              }
+            }
+          },
+          {
+            "id": "e8475ec5074e559c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -161,10 +171,29 @@
   },
   "active": "483d6ff4586462cc",
   "lastOpenFiles": [
+    "Cyber Crime Survey/Sept. 19th - Nation-States.md",
+    "Cyber Crime Survey/Oct. 10th - Cyber Crime Survey.md",
+    "Network Security/IANA Port List.md",
+    "Cyber Crime Survey/Sept. 12th - Cyber Crime Survey.md",
+    "Operating System Security/OS Security - Oct. 10th.md",
+    "Network Security/Sept. 21 - Network Security.md",
+    "Network Security/Sept. 27th - Network Security.md",
+    "Network Security/Oct. 20th - Network Security.md",
+    "Network Security/Oct. 25th - ACLs.md",
+    "Cyber Crime Survey/Oct. 5th - Cyber Crime Survey.md",
+    "Cyber Crime Survey/Oct. 12 - Cyber Crime Survey.md",
+    "Cyber Crime Survey/Oct. 17th - Cyber Crime Survey.md",
+    "Cyber Crime Survey/Oct. 24th - Cyber Crime Survey - Network Scanning.md",
+    "Cyber Crime Survey/Sept. 14th - Cyber Crime Survey.md",
+    "Cyber Crime Survey/Sept. 21st - Cyber Crime Survey.md",
+    "Network Security/Oct.27th - Packet Tracer's ACL.md",
+    "Data Security/Oct. 24th - Data Security.md",
+    "Cyber Crime Survey/Sept 7th - Cyber Crime Survey.md",
+    "Cyber Crime Survey/Cyber Crime Survey.md",
+    "Cyber Crime Survey/Oct. 3rd - Attack Vectors & Risk Management.md",
     "Operating System Security/2nd Class - Sept. 8th.md",
     "Progamming I/3rd Class - Sept. 11th -Variables, Strings and Numbers.md",
     "Progamming I/2nd Class - Sept. 8th - Programming I.md",
-    "Operating System Security/3rd Class - Sept. 11th.md",
-    "Cyber Crime Survey/Sept 7th - Cyber Crime Survey.md"
+    "Operating System Security/3rd Class - Sept. 11th.md"
   ]
 }
