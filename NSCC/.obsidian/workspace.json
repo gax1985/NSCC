@@ -1,64 +1,39 @@
 {
   "main": {
-    "id": "b3846b590402cf12",
+    "id": "9e1e1e3e4c72c47f",
     "type": "split",
     "children": [
       {
-        "id": "a3a959c5a498a76f",
+        "id": "828586d07da1a18a",
         "type": "tabs",
         "children": [
           {
-            "id": "477903b5affa16b8",
+            "id": "4254e4874fb73d9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Security/Oct. 31st - Data Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ceae14300ca66a14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Security/Sept. 28th - Data Security - MySQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0c2b0768bf07d82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Security/MySQL Commands.md",
+                "file": "Network Security/Nov. 1st 2023 - Network Security.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7f131dd408d408d3",
+    "id": "4482187cf9b72003",
     "type": "split",
     "children": [
       {
-        "id": "11678cc545ed55da",
+        "id": "5d6f14516b0e58dd",
         "type": "tabs",
         "children": [
           {
-            "id": "b67dad70bf11b06e",
+            "id": "547b6ee28863ab1c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +43,7 @@
             }
           },
           {
-            "id": "b74ef5e69cd5f7fc",
+            "id": "934751749afbdb81",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +58,7 @@
             }
           },
           {
-            "id": "d5a3bceb07285e9d",
+            "id": "ff9120278e108286",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,27 +69,24 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< Updated upstream
-    "width": 378.5
-=======
-    "width": 300
->>>>>>> Stashed changes
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "4c7d6f73de0447bd",
+    "id": "f7131b6e8de20b1d",
     "type": "split",
     "children": [
       {
-        "id": "4057a12bb18a9cde",
+        "id": "89981932714fa52a",
         "type": "tabs",
         "children": [
           {
-            "id": "3ac9cb43317b3f3a",
+            "id": "ec809586b5ad8479",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Security/MySQL Commands.md",
+                "file": "Network Security/Nov. 1st 2023 - Network Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,27 +98,19 @@
             }
           },
           {
-            "id": "bc4dc3cfe86b12db",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "85f2f08f22134ed6",
+            "id": "07c774dc3bf67704",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Security/MySQL Commands.md",
+                "file": "Network Security/Nov. 1st 2023 - Network Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7cfe02d08de61b62",
+            "id": "fafd69af5d52afd0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,17 +121,7 @@
             }
           },
           {
-            "id": "6052d6a5f873f708",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Data Security/MySQL Commands.md"
-              }
-            }
-          },
-          {
-            "id": "5101dac0cd45bd48",
+            "id": "2f9acbc4ea247cde",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -175,70 +129,46 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "bb01a1d83e9fcd10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Network Security/Nov. 1st 2023 - Network Security.md"
+              }
+            }
+          },
+          {
+            "id": "29e30c146bb9d2f5",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 367.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "a0c2b0768bf07d82",
+  "active": "4254e4874fb73d9f",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Data Security/Sept. 28th - Data Security - MySQL.md",
-    "Data Security/Oct. 31st - Data Security.md",
-    "Data Security/MySQL Commands.md",
-    "Data Security/Oct. 24th - Data Security.md",
-    "Data Security/Oct. 17th - Data Security.md",
-    "Data Security/Oct. 12th - Data Security.md",
-    "Data Security/Oct. 5th - Data Security.md",
-    "Data Security/Oct. 3rd - Databases.md",
-    "Data Security/MySQL Reference Manual/Oct. 26th - Quiz II - The Aftermath.md",
-    "Cyber Crime Survey/Oct. 31st - Cyber Crime Survey.md",
-    "org.kde.konsole.desktop",
-=======
-    "Programming I/Oct. 30th Functions Exercise/rock_paper_scissors.py",
-    "Programming I/Oct. 30th Functions Exercise/LeapYearFunctionsPractice.py",
-    "Programming I/Oct. 30th Functions Exercise/LeapYear.py",
-    "Programming I/Oct. 30th Functions Exercise/Delano's Discount_Calculator.py",
-    "Programming I/Oct. 30th Functions Exercise",
-    "Programming I/Oct. 23rd Class Exercise/LeapYearPracticew.py",
-    "Operating System Security/Presentations/M4 Files, users and groups.pptx",
-    "Cyber Crime Survey/Sept 7th - Cyber Crime Survey.md",
->>>>>>> Stashed changes
-    "Offensive Security Lab/2nd Go.md",
-    "Pasted image 20231031092326.png",
-    "Pasted image 20231031092320.png",
-    "Pasted image 20231031092237.png",
-    "Pasted image 20231031092227.png",
-    "Pasted image 20231031092215.png",
-    "Pasted image 20231031092105.png",
-    "Pasted image 20231031091824.png",
-    "Pasted image 20231031091608.png",
-    "Pasted image 20231031090600.png",
-    "Pasted image 20231031085823.png",
-    "Cyber Crime Survey/Oct. 26th - Cyber Crime Group Research.md",
-    "Cyber Crime Survey/Sept 7th - Cyber Crime Survey.md",
-    "Programming I/Oct. 27th - Scope.md",
-    "Programming I/Modules&Encapsulation.pptx",
-    "Programming I.Functions-variablescope&lifetime.pptx-autosaveodp",
-    "Programming I/Functions-variablescope&lifetime.pptx",
-    "Operating System Security/2nd Class - Sept. 8th.md",
-    "Progamming I/3rd Class - Sept. 11th -Variables, Strings and Numbers.md",
-    "Progamming I/2nd Class - Sept. 8th - Programming I.md",
-    "Operating System Security/3rd Class - Sept. 11th.md"
+    "Network Security/Nov. 1st 2023 - Network Security.md"
   ]
 }
