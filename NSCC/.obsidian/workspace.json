@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Security/Nov. 1st 2023 - Network Security.md",
+                "file": "Programming I/Nov. 1st - Programming - Loops.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f7131b6e8de20b1d",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network Security/Nov. 1st 2023 - Network Security.md",
+                "file": "Programming I/Nov. 1st - Programming - Loops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network Security/Nov. 1st 2023 - Network Security.md",
+                "file": "Programming I/Nov. 1st - Programming - Loops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network Security/Nov. 1st 2023 - Network Security.md"
+                "file": "Programming I/Nov. 1st - Programming - Loops.md"
               }
             }
           },
@@ -169,6 +168,23 @@
   },
   "active": "4254e4874fb73d9f",
   "lastOpenFiles": [
-    "Network Security/Nov. 1st 2023 - Network Security.md"
+    "Programming I/Nov. 1st - Loops/PersonalizedGreeter.py",
+    "Programming I/Nov. 1st - Loops/RocketLaunch.py",
+    "Programming I/Nov. 1st - Loops/Colorful Turtles.py",
+    "Pasted image 20231101113827.png",
+    "Pasted image 20231101113749.png",
+    "Pasted image 20231101113735.png",
+    "Pasted image 20231101113642.png",
+    "Pasted image 20231101113413.png",
+    "Pasted image 20231101113233.png",
+    "Pasted image 20231101113158.png",
+    "Pasted image 20231101112934.png",
+    "Pasted image 20231101112715.png",
+    "Pasted image 20231101112606.png",
+    "Programming I/Nov. 1st - Loops/Loop-Turtle.py",
+    "Programming I/Nov. 1st - Loops",
+    "Programming I/New folder",
+    "Network Security/Nov. 1st 2023 - Network Security.md",
+    "Programming I/Nov. 1st - Programming - Loops.md"
   ]
 }
