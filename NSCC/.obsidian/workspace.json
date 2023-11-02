@@ -11,12 +11,17 @@
             "id": "2b10258eb30de15d",
             "type": "leaf",
             "state": {
+<<<<<<< Updated upstream
               "type": "markdown",
               "state": {
                 "file": "Operating System Security/Oct. 26th - OS Security.md",
                 "mode": "source",
                 "source": false
               }
+=======
+              "type": "empty",
+              "state": {}
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -85,7 +90,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Operating System Security/Oct. 26th - OS Security.md",
+=======
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Operating System Security/Oct. 26th - OS Security.md",
+=======
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +145,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< Updated upstream
               "state": {
                 "file": "Operating System Security/Oct. 26th - OS Security.md"
               }
+=======
+              "state": {}
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -159,6 +174,7 @@
     }
   },
   "active": "2b10258eb30de15d",
+<<<<<<< Updated upstream
   "lastOpenFiles": [
     "Programming I/Nov. 1st - Programming - Loops.md",
     "Programming I/Nov. 1st - Loops/RocketLaunch.py",
@@ -178,4 +194,7 @@
     "Pasted image 20231101112606.png",
     "Network Security/Nov. 1st 2023 - Network Security.md"
   ]
+=======
+  "lastOpenFiles": []
+>>>>>>> Stashed changes
 }
