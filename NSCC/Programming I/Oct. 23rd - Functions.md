@@ -31,7 +31,7 @@ If someone requested three products, we could copy-and-paste our code again :
 		
 		
 
-[!hint] 
+>[!hint] 
 >  A good shortcut is CTRL+D. Keep hitting it to select the next occurance. If you wish to cancel, please press ESC
 
 
@@ -105,7 +105,7 @@ Some of the code :
 
 def ShowMessage(in_name):  # we create in_name parameter that
 
-                        # is comming into the function
+                        # is coming into the function
 
     print("Hello, {in_name}")
 
