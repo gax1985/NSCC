@@ -1,64 +1,39 @@
 {
   "main": {
-    "id": "b3846b590402cf12",
+    "id": "fd929d768459f597",
     "type": "split",
     "children": [
       {
-        "id": "a3a959c5a498a76f",
+        "id": "76970be674f95b21",
         "type": "tabs",
         "children": [
           {
-            "id": "477903b5affa16b8",
+            "id": "9b18f3dc45c362d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Security/Oct. 31st - Data Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ceae14300ca66a14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Security/Sept. 28th - Data Security - MySQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0c2b0768bf07d82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Security/MySQL Commands.md",
+                "file": "Operating System Security/Oct. 26th - OS Security.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7f131dd408d408d3",
+    "id": "62ce94dfea817252",
     "type": "split",
     "children": [
       {
-        "id": "11678cc545ed55da",
+        "id": "86b58040e87f7fb4",
         "type": "tabs",
         "children": [
           {
-            "id": "b67dad70bf11b06e",
+            "id": "89da30844cae81cf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +43,7 @@
             }
           },
           {
-            "id": "b74ef5e69cd5f7fc",
+            "id": "a8b4cc717ac61753",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +58,7 @@
             }
           },
           {
-            "id": "d5a3bceb07285e9d",
+            "id": "1520b745c36fc50b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,27 +69,23 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< Updated upstream
-    "width": 378.5
-=======
     "width": 300
->>>>>>> Stashed changes
   },
   "right": {
-    "id": "4c7d6f73de0447bd",
+    "id": "1e60ca12f4a379fd",
     "type": "split",
     "children": [
       {
-        "id": "4057a12bb18a9cde",
+        "id": "ebf02ab27865fae5",
         "type": "tabs",
         "children": [
           {
-            "id": "3ac9cb43317b3f3a",
+            "id": "35b64ccf26d81d73",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Security/MySQL Commands.md",
+                "file": "Operating System Security/Oct. 26th - OS Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,27 +97,19 @@
             }
           },
           {
-            "id": "bc4dc3cfe86b12db",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "85f2f08f22134ed6",
+            "id": "80b8f4ef3c4e2d92",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Security/MySQL Commands.md",
+                "file": "Operating System Security/Oct. 26th - OS Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7cfe02d08de61b62",
+            "id": "d25552003c101d33",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,17 +120,7 @@
             }
           },
           {
-            "id": "6052d6a5f873f708",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Data Security/MySQL Commands.md"
-              }
-            }
-          },
-          {
-            "id": "5101dac0cd45bd48",
+            "id": "855fef07a21ef01b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -175,70 +128,39 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "fa88237eb02e6084",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Operating System Security/Oct. 26th - OS Security.md"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-table-editor:Open Markdown Table Editor": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "a0c2b0768bf07d82",
+  "active": "9b18f3dc45c362d1",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Data Security/Sept. 28th - Data Security - MySQL.md",
     "Data Security/Oct. 31st - Data Security.md",
-    "Data Security/MySQL Commands.md",
-    "Data Security/Oct. 24th - Data Security.md",
-    "Data Security/Oct. 17th - Data Security.md",
-    "Data Security/Oct. 12th - Data Security.md",
-    "Data Security/Oct. 5th - Data Security.md",
-    "Data Security/Oct. 3rd - Databases.md",
-    "Data Security/MySQL Reference Manual/Oct. 26th - Quiz II - The Aftermath.md",
-    "Cyber Crime Survey/Oct. 31st - Cyber Crime Survey.md",
-    "org.kde.konsole.desktop",
-=======
-    "Programming I/Oct. 30th Functions Exercise/rock_paper_scissors.py",
-    "Programming I/Oct. 30th Functions Exercise/LeapYearFunctionsPractice.py",
-    "Programming I/Oct. 30th Functions Exercise/LeapYear.py",
-    "Programming I/Oct. 30th Functions Exercise/Delano's Discount_Calculator.py",
-    "Programming I/Oct. 30th Functions Exercise",
-    "Programming I/Oct. 23rd Class Exercise/LeapYearPracticew.py",
-    "Operating System Security/Presentations/M4 Files, users and groups.pptx",
-    "Cyber Crime Survey/Sept 7th - Cyber Crime Survey.md",
->>>>>>> Stashed changes
-    "Offensive Security Lab/2nd Go.md",
-    "Pasted image 20231031092326.png",
-    "Pasted image 20231031092320.png",
-    "Pasted image 20231031092237.png",
-    "Pasted image 20231031092227.png",
-    "Pasted image 20231031092215.png",
-    "Pasted image 20231031092105.png",
-    "Pasted image 20231031091824.png",
-    "Pasted image 20231031091608.png",
-    "Pasted image 20231031090600.png",
-    "Pasted image 20231031085823.png",
-    "Cyber Crime Survey/Oct. 26th - Cyber Crime Group Research.md",
-    "Cyber Crime Survey/Sept 7th - Cyber Crime Survey.md",
-    "Programming I/Oct. 27th - Scope.md",
-    "Programming I/Modules&Encapsulation.pptx",
-    "Programming I.Functions-variablescope&lifetime.pptx-autosaveodp",
-    "Programming I/Functions-variablescope&lifetime.pptx",
-    "Operating System Security/2nd Class - Sept. 8th.md",
-    "Progamming I/3rd Class - Sept. 11th -Variables, Strings and Numbers.md",
-    "Progamming I/2nd Class - Sept. 8th - Programming I.md",
-    "Operating System Security/3rd Class - Sept. 11th.md"
+    "Data Security/MySQL Commands.md"
   ]
 }

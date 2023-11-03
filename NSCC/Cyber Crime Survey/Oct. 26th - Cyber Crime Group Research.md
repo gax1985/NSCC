@@ -1,4 +1,4 @@
-
+ 
 
 
 
@@ -311,9 +311,9 @@ Mikolai Mikolo , he founded Nikolo, he recently became a father, he and his frie
 
 
 
-## New Model : Cooperating gangfs
+## New Model : Cooperating gangs
 
-they shared code, hosting services, delivery serivces, shared information on victoms 
+they shared code, hosting services, delivery services, shared information on victims 
 
 
 ![[Pasted image 20231026145726.png]]

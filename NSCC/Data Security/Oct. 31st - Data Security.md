@@ -231,7 +231,7 @@ ERROR SYNTAX !
 
 
 
->granbt customerservice to myname@localhost;
+>grant customerservice to myname@localhost;
 
 
 ![[Pasted image 20231031091824.png]]
@@ -263,9 +263,9 @@ Ron has created a lot of databases for charities. So here is our practice :
 > [!todo] 
 > - [x] Create a Database named "*savetheclowns*"
 > - [x] Create a table named "*donations*", with a field called **name** with the *VARCHAR* datatype
-> - [ ] Create a **role** named *dataentry*, with the **select**, **insert** on the *donations* table
-> - [ ] Create a **role** named *supervisor* , with the **select**, **insert** on the *donations* table
-> - [ ] Create a **role** named *dba* , with **ALL** privileges on the *donations* table (**Hint: GRANT ALL)**. 
+> - [x] Create a **role** named *dataentry*, with the **select**, **insert** on the *donations* table
+> - [x] Create a **role** named *supervisor* , with the **select**, **insert** on the *donations* table
+> - [x] Create a **role** named *dba* , with **ALL** privileges on the *donations* table (**Hint: GRANT ALL)**. 
 > - [ ] Create a **user** for each role
 > - [ ] Assign each **user** a *role*
 > - [ ] *Test it!*
