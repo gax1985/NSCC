@@ -342,7 +342,7 @@ main()
 		and over until they enter a line length of 0.
 		When the user specifies a line length of 0 stop
 		drawing.
->Secret Number: Ask the user to guest a
+>Secret Number: Ask the user to guess a
 >	number from 1 to 100. After the user inputted a
 >	value, trying to guess the number, tell them
 >	“higher” or “lower” according to their guess. At
