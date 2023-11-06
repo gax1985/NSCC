@@ -11,17 +11,19 @@ Five Tuple - Source IP, Destination IP, Source Port, Destination Port, Protocol 
 
   
 
-Computer 1 - Source IP xxx.xxx.xxx.123
+Computer 1 - 
 
-           Destination IP xxx.xxx.xxx.456
+	Source IP xxx.xxx.xxx.123
 
-           Source Port 48000
+	Destination IP xxx.xxx.xxx.456
 
-           Destination Port 22
+	Source Port 48000
 
-           Protocol TCP [6] or UDP [17]
+	Destination Port 22
 
-           ICMP [1]
+	Protocol TCP [6] or UDP [17]
+
+	ICMP [1]
 
   
 
@@ -229,7 +231,7 @@ Computer one has wireshark (wireshark is a packet tracker)
 
 It uses full packet tracker. Packet one is saved by wired shark. Everything is included.
 
-Packet two is saved by wired shark. Everything is includeded. Now thats a lot of data.
+Packet two is saved by wired shark. Everything is included. Now thats a lot of data.
 
   
 
@@ -269,17 +271,20 @@ Computer 1 - Source IP xxx.xxx.xxx.123
 
   
 
-Computer 2 SIP xxx.xxx.xxx.456
+Computer 2 
 
-         DIP xxx.xxx.xxx.123
+		SIP xxx.xxx.xxx.456
 
-         Source Port 22
+		DIP xxx.xxx.xxx.123
 
-         Destination Port 48000
+		Source Port 22
 
-         Protocal TCP 6
+		Destination Port 48000
 
-         ICMP [1]
+		Protocal TCP 6
+
+
+		ICMP [1]
 
   
 
