@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System Security/Oct. 26th - OS Security.md",
+                "file": "Programming I/Nov. 6th - LOOPs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8544139150eabb04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network Security/Nov. 1st 2023 - Network Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,8 +60,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "turtle",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System Security/Oct. 26th - OS Security.md",
+                "file": "Programming I/Nov. 6th - LOOPs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System Security/Oct. 26th - OS Security.md",
+                "file": "Programming I/Nov. 6th - LOOPs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,16 +148,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System Security/Oct. 26th - OS Security.md"
+                "file": "Programming I/Nov. 6th - LOOPs.md"
               }
             }
+          },
+          {
+            "id": "f31de9e498044fbb",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,7 +181,37 @@
   },
   "active": "9b18f3dc45c362d1",
   "lastOpenFiles": [
+    "Programming I/Nov. 6th - Class Practice/SecretNumber.py",
+    "Programming I/Nov. 6th - Class Practice/Drawing.py",
+    "Programming I/Nov. 6th - Class Practice/Turtle.py",
+    "Programming I/Nov. 1st - Programming - Loops.md",
+    "Programming I/Nov. 6th - LOOPs.md",
+    "Programming I/Nov. 6th - Class Practice/Slide Practice Exercises /Etch_A_Sketch.py",
+    "Programming I/Nov. 6th - Class Practice/Slide Practice Exercises ",
+    "Pasted image 20231106111639.png",
+    "Programming I/Nov. 6th - Class Practice/ENDLESSLoop.py",
+    "Pasted image 20231106110836.png",
+    "Pasted image 20231106110758.png",
+    "Pasted image 20231106110711.png",
+    "Pasted image 20231106110700.png",
+    "Pasted image 20231106110555.png",
+    "Pasted image 20231106110446.png",
+    "Pasted image 20231106110247.png",
+    "Pasted image 20231106110229.png",
+    "Pasted image 20231106110040.png",
+    "Programming I/Nov. 6th - Class Practice/WHILELoop.py",
+    "Programming I/Nov. 6th - Class Practice/FORLoop.py",
+    "Data Security/Oct. 17th - Data Security.md",
+    "Programming I/Nov. 6th - Class Practice",
+    "Data Security/Oct. 24th - Data Security.md",
     "Data Security/Oct. 31st - Data Security.md",
+    "Data Security/Sept 26th - Data Security -MySQL.md",
+    "Data Security/Sept. 7th - Data Security.md",
+    "Network Security/Nov. 1st - Network Monitoring.md",
+    "Network Security/Nov. 1st 2023 - Network Security.md",
+    "Network Security/Network Security's Packet Tracer Guide.md",
+    "Operating System Security/Oct. 26th - OS Security.md",
+    "Professional Practices for IT I/Nov. 4th - Task E.md",
     "Data Security/MySQL Commands.md"
   ]
 }
