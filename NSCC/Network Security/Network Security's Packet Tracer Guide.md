@@ -122,3 +122,63 @@ i> int fa 0/5
 ## Examples
     
     `Image 1: Trunk Image 2: SWITCH0 Config Image 3: SWITCH3 Config`
+
+
+
+
+
+ROUTER0 CLI
+- en
+- conf t
+- int gigabitEthernet 0/0/0.99
+- encapsulation dot1Q 99
+- ip address 192.168.99.1 255.255.255.0
+- no shut
+- exit
+- int gigabitEthernet 0/0/0.20
+- encapsulation dot1Q 20
+- ip address 192.168.20.1 255.255.255.0
+- no shut 
+- exit
+- int gigabitEthernet 0/0/0.30
+- encapsulation dot1Q 30
+- ip address 192.168.30.1 255.255.255.0
+- end
+- copy run start
+
+
+COMMANDS I HAVE ENTERED FOR ASSIGNMENT : 
+
+int gig 0/0/0.20
+encapsulation dot1Q 20
+ip address 192.168.20.1 255.255.255.0
+no shut
+exit
+
+
+int gig 0/0/0.30
+encapsulation dot1Q 30
+ip address 192.168.30.1 255.255.255.0
+no shut
+exit
+
+
+int gig 0/0/0.99
+encapsulation dot1Q 99
+ip address 192.168.99.1 255.255.255.0
+no shut
+exit
+
+
+TO DENY whole 0.20 network :
+
+
+- access-list 1 deny 192.168.20.0 0.0.0.255  *(deny a subnet)*
+- access-list 1 deny 192.168.20.100 0.0.0.0  *(deny a single IP)*
+
+- int gig 0/0/0.30 *(define that single IP can't access VLAN 30)*
+- ip access-group 1 out *(make this ACL a router to network denial)*
+
+![[Pasted image 20231114061436.png]]
+
+

@@ -8,12 +8,70 @@
         "type": "tabs",
         "children": [
           {
+            "id": "816e31652b641c33",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Network Security/Cisco_Commands_Cheat_Sheet.pdf"
+              }
+            }
+          },
+          {
             "id": "9b18f3dc45c362d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming I/Nov. 6th - LOOPs.md",
+                "file": "Network Security/Oct. 13th - Network Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ea81de1becdf8d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network Security/Oct. 11th - Network Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6b14a2d07e0ddf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network Security/Network Security's Packet Tracer Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1aeccec55e55aff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network Security/Oct.27th - Packet Tracer's ACL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dca7e70b088a8e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network Security/Oct. 13th - Network Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +89,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -60,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "turtle",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +136,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming I/Nov. 6th - LOOPs.md",
+                "file": "Network Security/Network Security's Packet Tracer Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming I/Nov. 6th - LOOPs.md",
+                "file": "Network Security/Network Security's Packet Tracer Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming I/Nov. 6th - LOOPs.md"
+                "file": "Network Security/Network Security's Packet Tracer Guide.md"
               }
             }
           },
@@ -169,23 +227,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "9b18f3dc45c362d1",
+  "active": "c6b14a2d07e0ddf0",
   "lastOpenFiles": [
+    "Pasted image 20231114061436.png",
+    "Network Security/Oct. 11th - Network Security.md",
+    "Network Security/Cisco_Commands_Cheat_Sheet.pdf",
+    "Network Security/Network Security's Packet Tracer Guide.md",
+    "Network Security/Oct.27th - Packet Tracer's ACL.md",
+    "Network Security/Oct. 13th - Network Security.md",
+    "Network Security/Nov. 1st 2023 - Network Security.md",
+    "Network Security/Oct. 25th - ACLs.md",
+    "Network Security/Oct. 18th - Network Security - Networking Protocols.md",
+    "Network Security/Oct. 20th - Network Security.md",
+    "Network Security/Nov. 1st - Network Monitoring.md",
+    "Network Security/Sept 14th - Network Security.md",
+    "Network Security/Packet Tracer Extra Class.md",
+    "Network Security/Oct. 4th - Network Security.md",
+    "Network Security/Sept 29th - Network Security.md",
+    "Network Security/Sept. 7th - Network Security.md",
+    "Network Security/Sept. 12th - Network Security.md",
+    "Network Security/Sept. 21 - Network Security.md",
+    "Network Security/Sept. 27th - Network Security.md",
+    "Programming I/Nov. 6th - LOOPs.md",
     "Programming I/Nov. 6th - Class Practice/SecretNumber.py",
     "Programming I/Nov. 6th - Class Practice/Drawing.py",
     "Programming I/Nov. 6th - Class Practice/Turtle.py",
     "Programming I/Nov. 1st - Programming - Loops.md",
-    "Programming I/Nov. 6th - LOOPs.md",
     "Programming I/Nov. 6th - Class Practice/Slide Practice Exercises /Etch_A_Sketch.py",
     "Programming I/Nov. 6th - Class Practice/Slide Practice Exercises ",
     "Pasted image 20231106111639.png",
@@ -207,11 +284,6 @@
     "Data Security/Oct. 31st - Data Security.md",
     "Data Security/Sept 26th - Data Security -MySQL.md",
     "Data Security/Sept. 7th - Data Security.md",
-    "Network Security/Nov. 1st - Network Monitoring.md",
-    "Network Security/Nov. 1st 2023 - Network Security.md",
-    "Network Security/Network Security's Packet Tracer Guide.md",
-    "Operating System Security/Oct. 26th - OS Security.md",
-    "Professional Practices for IT I/Nov. 4th - Task E.md",
-    "Data Security/MySQL Commands.md"
+    "Operating System Security/Oct. 26th - OS Security.md"
   ]
 }
