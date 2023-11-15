@@ -54,6 +54,18 @@
             }
           },
           {
+            "id": "279f721201ff4f56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Router + Sub intertface.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6dca7e70b088a8e0",
             "type": "leaf",
             "state": {
@@ -98,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -165,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network Security/Oct.27th - Packet Tracer's ACL.md",
+                "file": "Router + Sub intertface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network Security/Oct.27th - Packet Tracer's ACL.md",
+                "file": "Router + Sub intertface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network Security/Oct.27th - Packet Tracer's ACL.md"
+                "file": "Router + Sub intertface.md"
               }
             }
           },
@@ -247,8 +259,10 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "1aeccec55e55aff4",
+  "active": "279f721201ff4f56",
   "lastOpenFiles": [
+    "Network Security/Oct.27th - Packet Tracer's ACL.md",
+    "Router + Sub intertface.md",
     "Network Security/Oct. 13th - Network Security.md",
     "Network Security/Oct. 11th - Network Security.md",
     "Data Security/MySQL Commands/ROLES.md",
@@ -269,7 +283,6 @@
     "Network Security/Nov. 1st - Network Monitoring.md",
     "Network Security/Network Security's Packet Tracer Guide.md",
     "Pasted image 20231114061436.png",
-    "Network Security/Oct.27th - Packet Tracer's ACL.md",
     "Network Security/Oct. 25th - ACLs.md",
     "Network Security/Oct. 18th - Network Security - Networking Protocols.md",
     "Network Security/Oct. 20th - Network Security.md",
@@ -280,7 +293,6 @@
     "Network Security/Sept. 12th - Network Security.md",
     "Network Security/Sept. 21 - Network Security.md",
     "Network Security/Sept. 27th - Network Security.md",
-    "Programming I/Nov. 6th - LOOPs.md",
     "Programming I/Nov. 6th - Class Practice/SecretNumber.py",
     "Programming I/Nov. 6th - Class Practice/Drawing.py",
     "Programming I/Nov. 6th - Class Practice/Turtle.py",
