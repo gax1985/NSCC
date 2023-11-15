@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "f04509135c414c18",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f771897ad4f249d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6a78ee869aabe6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL Commands/User Roles and Privileges - Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "209a950b5ef32043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL Commands/ROLES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "828002d9ea80b816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL Commands/MySQL Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee981d388517529c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oct. 31st - Data Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63f9d1bfd36aadfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL Commands/TABLES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0825f4e0a1e4c75c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MySQL Reference Manual/MySQL-Commands-Cheat-Sheet-by-PhoenixNAP.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b769e461bc62d23e",
+    "type": "split",
+    "children": [
+      {
+        "id": "58352170d29dc8f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b8ca1df3ec7d4c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "867a14aa1315eb9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b87cdd7a26b85c7c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71cf675f4940ae5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ddc3114c2dbee5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b443f852d12c7b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MySQL Commands/User Roles and Privileges - Commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08f7f8bc67253918",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MySQL Commands/User Roles and Privileges - Commands.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4faeffe85640ea8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "234679ffe897e4c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MySQL Commands/User Roles and Privileges - Commands.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e6a78ee869aabe6f",
+  "lastOpenFiles": [
+    "MySQL Commands/ROLES.md",
+    "MySQL Commands/User Roles and Privileges - Commands.md",
+    "MySQL Commands/MySQL Commands.md",
+    "MySQL Commands/DATABASE.md",
+    "MySQL Reference Manual/MySQL-Commands-Cheat-Sheet-by-PhoenixNAP.pdf",
+    "MySQL Commands/TABLES.md",
+    "Oct. 31st - Data Security.md",
+    "MySQL Reference Manual/Oct. 26th - Quiz II - The Aftermath.md",
+    "Oct. 12th - Data Security.md",
+    "Oct. 17th - Data Security.md",
+    "Oct. 24th - Data Security.md",
+    "Sept. 21st - Data Security.md",
+    "Sept. 28th - Data Security - MySQL.md",
+    "MySQL Commands"
+  ]
+}

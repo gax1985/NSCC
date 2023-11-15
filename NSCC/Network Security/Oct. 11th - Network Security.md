@@ -164,7 +164,7 @@ Prevent it from shutting down (putting NO before it negates the option. so no vl
 
 
 
-We have a router, and a switc connected to it. We connect a gigaport here to gig ethernet port on the router. 
+We have a router, and a switch connected to it. We connect a gigaport here to gig ethernet port on the router. 
 
 Megabit = 1 million bits/second 
 10 Megabit = 10 million bit/second

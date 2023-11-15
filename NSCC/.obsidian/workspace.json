@@ -18,19 +18,7 @@
             }
           },
           {
-            "id": "9b18f3dc45c362d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network Security/Oct. 13th - Network Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ea81de1becdf8d2",
+            "id": "c6b14a2d07e0ddf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,12 +30,12 @@
             }
           },
           {
-            "id": "c6b14a2d07e0ddf0",
+            "id": "9b18f3dc45c362d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Security/Network Security's Packet Tracer Guide.md",
+                "file": "Network Security/Oct. 13th - Network Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,6 +74,26 @@
                 "file": "Network Security/Nov. 1st 2023 - Network Security.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "353946e73a1a22b8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Network Security/Cisco_Commands_Cheat_Sheet.pdf"
+              }
+            }
+          },
+          {
+            "id": "e57c91d8c079206e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Network Security/CCNA Security 2.0 Lab Manual.pdf"
               }
             }
           }
@@ -140,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1e60ca12f4a379fd",
@@ -156,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network Security/Network Security's Packet Tracer Guide.md",
+                "file": "Network Security/Oct.27th - Packet Tracer's ACL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network Security/Network Security's Packet Tracer Guide.md",
+                "file": "Network Security/Oct.27th - Packet Tracer's ACL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network Security/Network Security's Packet Tracer Guide.md"
+                "file": "Network Security/Oct.27th - Packet Tracer's ACL.md"
               }
             }
           },
@@ -223,7 +232,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,22 +247,34 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "c6b14a2d07e0ddf0",
+  "active": "1aeccec55e55aff4",
   "lastOpenFiles": [
-    "Pasted image 20231114061436.png",
-    "Network Security/Oct. 11th - Network Security.md",
-    "Network Security/Cisco_Commands_Cheat_Sheet.pdf",
-    "Network Security/Network Security's Packet Tracer Guide.md",
-    "Network Security/Oct.27th - Packet Tracer's ACL.md",
     "Network Security/Oct. 13th - Network Security.md",
+    "Network Security/Oct. 11th - Network Security.md",
+    "Data Security/MySQL Commands/ROLES.md",
+    "Data Security/MySQL Commands/Untitled.md",
+    "Data Security/MySQL Commands/TABLES.md",
+    "Data Security/MySQL Commands/User Roles and Privileges - Commands.md",
+    "Data Security/MySQL Commands/DATABASE.md",
+    "Data Security/MySQL Reference Manual/MySQL-Commands-Cheat-Sheet-by-PhoenixNAP.pdf",
+    "Data Security/MySQL Commands/MySQL Commands.md",
+    "Data Security/MySQL Commands",
+    "Data Security/Untitled",
+    "Network Security/Cisco_Commands_Cheat_Sheet.pdf",
+    "Network Security/CCNA Security 2.0 Lab Manual.pdf",
+    "Network Security/Oct. 6th - Network Security.md",
+    "Network Security/Oct. 4th - Network Security.md",
+    "Network Security/Nov. 3rd - Nessus + WireShark.md",
     "Network Security/Nov. 1st 2023 - Network Security.md",
+    "Network Security/Nov. 1st - Network Monitoring.md",
+    "Network Security/Network Security's Packet Tracer Guide.md",
+    "Pasted image 20231114061436.png",
+    "Network Security/Oct.27th - Packet Tracer's ACL.md",
     "Network Security/Oct. 25th - ACLs.md",
     "Network Security/Oct. 18th - Network Security - Networking Protocols.md",
     "Network Security/Oct. 20th - Network Security.md",
-    "Network Security/Nov. 1st - Network Monitoring.md",
     "Network Security/Sept 14th - Network Security.md",
     "Network Security/Packet Tracer Extra Class.md",
-    "Network Security/Oct. 4th - Network Security.md",
     "Network Security/Sept 29th - Network Security.md",
     "Network Security/Sept. 7th - Network Security.md",
     "Network Security/Sept. 12th - Network Security.md",
@@ -262,11 +284,9 @@
     "Programming I/Nov. 6th - Class Practice/SecretNumber.py",
     "Programming I/Nov. 6th - Class Practice/Drawing.py",
     "Programming I/Nov. 6th - Class Practice/Turtle.py",
-    "Programming I/Nov. 1st - Programming - Loops.md",
     "Programming I/Nov. 6th - Class Practice/Slide Practice Exercises /Etch_A_Sketch.py",
     "Programming I/Nov. 6th - Class Practice/Slide Practice Exercises ",
     "Pasted image 20231106111639.png",
-    "Programming I/Nov. 6th - Class Practice/ENDLESSLoop.py",
     "Pasted image 20231106110836.png",
     "Pasted image 20231106110758.png",
     "Pasted image 20231106110711.png",
@@ -274,16 +294,6 @@
     "Pasted image 20231106110555.png",
     "Pasted image 20231106110446.png",
     "Pasted image 20231106110247.png",
-    "Pasted image 20231106110229.png",
-    "Pasted image 20231106110040.png",
-    "Programming I/Nov. 6th - Class Practice/WHILELoop.py",
-    "Programming I/Nov. 6th - Class Practice/FORLoop.py",
-    "Data Security/Oct. 17th - Data Security.md",
-    "Programming I/Nov. 6th - Class Practice",
-    "Data Security/Oct. 24th - Data Security.md",
-    "Data Security/Oct. 31st - Data Security.md",
-    "Data Security/Sept 26th - Data Security -MySQL.md",
-    "Data Security/Sept. 7th - Data Security.md",
-    "Operating System Security/Oct. 26th - OS Security.md"
+    "Pasted image 20231106110229.png"
   ]
 }
