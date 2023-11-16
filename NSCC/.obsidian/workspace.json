@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Router + Sub intertface.md",
+                "file": "Data Security/MySQL Commands/User Roles and Privileges - Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Router + Sub intertface.md",
+                "file": "Data Security/MySQL Commands/User Roles and Privileges - Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Router + Sub intertface.md",
+                "file": "Data Security/MySQL Commands/User Roles and Privileges - Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Router + Sub intertface.md"
+                "file": "Data Security/MySQL Commands/User Roles and Privileges - Commands.md"
               }
             }
           },
@@ -261,8 +261,8 @@
   },
   "active": "279f721201ff4f56",
   "lastOpenFiles": [
-    "Network Security/Oct.27th - Packet Tracer's ACL.md",
     "Router + Sub intertface.md",
+    "Network Security/Oct.27th - Packet Tracer's ACL.md",
     "Network Security/Oct. 13th - Network Security.md",
     "Network Security/Oct. 11th - Network Security.md",
     "Data Security/MySQL Commands/ROLES.md",
