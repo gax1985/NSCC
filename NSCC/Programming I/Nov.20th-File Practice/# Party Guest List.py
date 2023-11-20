@@ -9,7 +9,7 @@ def main():
     guest_name = ""
     GuestListFile = 'Guest_List.csv'
     
-    AccessMode = 'a'
+    AccessMode = 'w'
 
     GuestListFileHandler = open(GuestListFile, AccessMode)
 
@@ -21,8 +21,13 @@ def main():
         
         #if statement to avoid adding 'done' to the list        
         if guest_name.lower() != 'done':
-            # adding the current guest name to the file 
+            # adding the current guest name to the file
+            AccessMode = 'a' 
             GuestListFileHandler.write(guest_name + "," + "\n")
+
+            # or ..
+
+            # GuestListFileHandler.write(f"{guest_name}\n")
 
 
     # remove the last element in my list ('done')  - in case there's no if statement inside the loop
