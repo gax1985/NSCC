@@ -1,31 +1,19 @@
 {
   "main": {
-    "id": "fcc956fd3fe458c6",
+    "id": "8314bc6dfff0350d",
     "type": "split",
     "children": [
       {
-        "id": "b320a4a6a9151ae5",
+        "id": "84e17e0c2d6edfac",
         "type": "tabs",
         "children": [
           {
-            "id": "3e262fb37594ad71",
+            "id": "7bc65d14570af2c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSCC/Programming I/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e135fe28c7da247",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NSCC/Cyber Crime Survey/Oct. 26th - Cyber Crime Group Research.md",
+                "file": "Oct. 26th - OS Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ba8d72dbdca9fc17",
+    "id": "d7bb16b3ec39e5bf",
     "type": "split",
     "children": [
       {
-        "id": "b821c44633829e77",
+        "id": "da45b0f8f8c18cdd",
         "type": "tabs",
         "children": [
           {
-            "id": "76ab279a72ba1530",
+            "id": "d7841b7a3bf5854c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +43,7 @@
             }
           },
           {
-            "id": "a4882407453d9226",
+            "id": "4049d954ddb4bbbc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,7 +58,7 @@
             }
           },
           {
-            "id": "b94027a7398df95d",
+            "id": "b876a0189759299a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 300
   },
   "right": {
-    "id": "7ccc9dcf5d407447",
+    "id": "4bf2a84cb522baa5",
     "type": "split",
     "children": [
       {
-        "id": "4cfc4ff1cdaf0f33",
+        "id": "dc82dbff1cdb5439",
         "type": "tabs",
         "children": [
           {
-            "id": "45c5273e77bd6b25",
+            "id": "2c846982e58f273f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSCC/Programming I/Untitled.md",
+                "file": "Oct. 26th - OS Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,19 +97,19 @@
             }
           },
           {
-            "id": "c8f5d247eb760905",
+            "id": "2e5de32641baa78e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSCC/Programming I/Untitled.md",
+                "file": "Oct. 26th - OS Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f583f50046ff0b1c",
+            "id": "09b43206e2d3aa41",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,12 +120,12 @@
             }
           },
           {
-            "id": "06b2c49f2ae6a4f5",
+            "id": "7603d8a1c50398f0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSCC/Programming I/Untitled.md"
+                "file": "Oct. 26th - OS Security.md"
               }
             }
           }
@@ -145,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,27 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e262fb37594ad71",
+  "active": "7bc65d14570af2c8",
   "lastOpenFiles": [
-    "NSCC/Network Security/Nov. 3rd - Nessus + WireShark.md",
-    "NSCC/Programming I/Untitled.md",
-    "NSCC/Cyber Crime Survey/Sept. 21st - Cyber Crime Survey.md",
-    "NSCC/Cyber Crime Survey/Oct. 26th - Cyber Crime Group Research.md",
-    "NSCC/Cyber Crime Survey/Cyber Crime Survey.md",
-    "NSCC/Cyber Crime Survey/Sept 7th - Cyber Crime Survey.md",
-    "NSCC/Cyber Crime Survey/Oct. 3rd - Attack Vectors & Risk Management.md",
-    "NSCC/Cyber Crime Survey/Oct. 12 - Cyber Crime Survey.md",
-    "NSCC/Cyber Crime Survey/Oct. 17th - Cyber Crime Survey.md",
-    "NSCC/Cyber Crime Survey/Oct. 24th - Cyber Crime Survey - Network Scanning.md",
-    "Tax Calculator's Test.md",
-    "NSCC/Data Security/Oct. 3rd - Databases.md",
-    "NSCC/Data Security/Untitled.md",
-    "NSCC/Cyber Crime Survey/Untitled.md",
-    "NSCC/Programming I/9th Class - Sept 25th.md",
-    "NSCC/Professional Practices for IT I/4th Class _ Professional Practices for IT.md",
-    "NSCC/Network Security/Sept. 27th - Network Security.md",
-    "NSCC/Operating System Security/Sept. 26th - OS Security.md",
-    "NSCC/Operating System Security/Course Plan.md",
-    "NSCC/Data Security/Sept 26th - MySQL.md"
+    "9th Class - Sept  22nd.md",
+    "6th Class - Lab.md",
+    "5th Class - Sept. 15th.md",
+    "4th Class - OS Security.md"
   ]
 }
