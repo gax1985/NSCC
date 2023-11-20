@@ -34,8 +34,19 @@ a - Append
 	myFile = open(file_name, access_mode_variable)
 	
 	# Write in the file : 
-	myFile.write("Hi There")
-	myFile.write("How are you?")
+	myFile.write("Hi There \n")
+	myFile.write("How are you? \n")
+	
+	# If we wish to add to the file, instead of overwriting to it : 
+	
+	# We can change access_mode_variable = 'a'
+	
+	access_mode_variable = 'a'
+	
+	myFile.write("I am good, how about you? \n")
+	myFile.write("I am good thank you! \n")
+	
+	
 	
 	# Close the file (after you are done)
 	
