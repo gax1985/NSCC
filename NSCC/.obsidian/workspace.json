@@ -59,19 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Security/MySQL Commands/User Roles and Privileges - Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6dca7e70b088a8e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network Security/Oct. 13th - Network Security.md",
+                "file": "Cyber Crime Survey/Oct. 24th - Cyber Crime Survey - Network Scanning.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1e60ca12f4a379fd",
@@ -177,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Security/MySQL Commands/User Roles and Privileges - Commands.md",
+                "file": "Cyber Crime Survey/Oct. 24th - Cyber Crime Survey - Network Scanning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Security/MySQL Commands/User Roles and Privileges - Commands.md",
+                "file": "Cyber Crime Survey/Oct. 24th - Cyber Crime Survey - Network Scanning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Security/MySQL Commands/User Roles and Privileges - Commands.md"
+                "file": "Cyber Crime Survey/Oct. 24th - Cyber Crime Survey - Network Scanning.md"
               }
             }
           },
@@ -261,14 +248,14 @@
   },
   "active": "279f721201ff4f56",
   "lastOpenFiles": [
+    "Data Security/MySQL Commands/User Roles and Privileges - Commands.md",
+    "Network Security/Oct. 13th - Network Security.md",
     "Router + Sub intertface.md",
     "Network Security/Oct.27th - Packet Tracer's ACL.md",
-    "Network Security/Oct. 13th - Network Security.md",
     "Network Security/Oct. 11th - Network Security.md",
     "Data Security/MySQL Commands/ROLES.md",
     "Data Security/MySQL Commands/Untitled.md",
     "Data Security/MySQL Commands/TABLES.md",
-    "Data Security/MySQL Commands/User Roles and Privileges - Commands.md",
     "Data Security/MySQL Commands/DATABASE.md",
     "Data Security/MySQL Reference Manual/MySQL-Commands-Cheat-Sheet-by-PhoenixNAP.pdf",
     "Data Security/MySQL Commands/MySQL Commands.md",
