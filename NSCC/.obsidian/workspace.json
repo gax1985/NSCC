@@ -4,101 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "76970be674f95b21",
+        "id": "19c9421fedb18252",
         "type": "tabs",
         "children": [
           {
-            "id": "816e31652b641c33",
+            "id": "9189e399b7f9ae00",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Network Security/Cisco_Commands_Cheat_Sheet.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "c6b14a2d07e0ddf0",
+            "id": "87df5960e1a5d2bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Security/Oct. 11th - Network Security.md",
+                "file": "Cyber Crime Survey/Nov. 21st - Presentations.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "9b18f3dc45c362d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network Security/Oct. 13th - Network Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1aeccec55e55aff4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network Security/Oct.27th - Packet Tracer's ACL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "279f721201ff4f56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Crime Survey/Oct. 24th - Cyber Crime Survey - Network Scanning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8544139150eabb04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network Security/Nov. 1st 2023 - Network Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "353946e73a1a22b8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Network Security/Cisco_Commands_Cheat_Sheet.pdf"
-              }
-            }
-          },
-          {
-            "id": "e57c91d8c079206e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Network Security/CCNA Security 2.0 Lab Manual.pdf"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Crime Survey/Oct. 24th - Cyber Crime Survey - Network Scanning.md",
+                "file": "Cyber Crime Survey/Nov. 21st - Presentations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Crime Survey/Oct. 24th - Cyber Crime Survey - Network Scanning.md",
+                "file": "Cyber Crime Survey/Nov. 21st - Presentations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,12 +144,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Crime Survey/Oct. 24th - Cyber Crime Survey - Network Scanning.md"
+                "file": "Cyber Crime Survey/Nov. 21st - Presentations.md"
               }
             }
           },
           {
-            "id": "f31de9e498044fbb",
+            "id": "fc533bbfd94de6f0",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -231,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,11 +175,19 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "279f721201ff4f56",
+  "active": "87df5960e1a5d2bf",
   "lastOpenFiles": [
-    "Data Security/MySQL Commands/User Roles and Privileges - Commands.md",
-    "Network Security/Oct. 13th - Network Security.md",
+    "Operating System Security/Nov. 21 - Final Assignment.md",
+    "Cyber Crime Survey/Nov. 21st - Presentations.md",
     "Router + Sub intertface.md",
+    "Nov 21 - MySQL Practice.md",
+    "Data Security/Nov 21 - MySQL Practice.md",
+    "Untitled 1.md",
+    "Network Security/CCNA Security 2.0 Lab Manual.pdf",
+    "Network Security/Cisco_Commands_Cheat_Sheet.pdf",
+    "Network Security/Nov. 1st 2023 - Network Security.md",
+    "Network Security/Oct. 13th - Network Security.md",
+    "Data Security/MySQL Commands/User Roles and Privileges - Commands.md",
     "Network Security/Oct.27th - Packet Tracer's ACL.md",
     "Network Security/Oct. 11th - Network Security.md",
     "Data Security/MySQL Commands/ROLES.md",
@@ -261,12 +198,9 @@
     "Data Security/MySQL Commands/MySQL Commands.md",
     "Data Security/MySQL Commands",
     "Data Security/Untitled",
-    "Network Security/Cisco_Commands_Cheat_Sheet.pdf",
-    "Network Security/CCNA Security 2.0 Lab Manual.pdf",
     "Network Security/Oct. 6th - Network Security.md",
     "Network Security/Oct. 4th - Network Security.md",
     "Network Security/Nov. 3rd - Nessus + WireShark.md",
-    "Network Security/Nov. 1st 2023 - Network Security.md",
     "Network Security/Nov. 1st - Network Monitoring.md",
     "Network Security/Network Security's Packet Tracer Guide.md",
     "Pasted image 20231114061436.png",
@@ -275,11 +209,6 @@
     "Network Security/Oct. 20th - Network Security.md",
     "Network Security/Sept 14th - Network Security.md",
     "Network Security/Packet Tracer Extra Class.md",
-    "Network Security/Sept 29th - Network Security.md",
-    "Network Security/Sept. 7th - Network Security.md",
-    "Network Security/Sept. 12th - Network Security.md",
-    "Network Security/Sept. 21 - Network Security.md",
-    "Network Security/Sept. 27th - Network Security.md",
     "Programming I/Nov. 6th - Class Practice/SecretNumber.py",
     "Programming I/Nov. 6th - Class Practice/Drawing.py",
     "Programming I/Nov. 6th - Class Practice/Turtle.py",
