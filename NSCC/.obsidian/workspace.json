@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Crime Survey/Nov. 21st - Presentations.md",
+                "file": "Cyber Crime Survey/Nov. 22nd - NMAP Scanning.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1e60ca12f4a379fd",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Crime Survey/Nov. 21st - Presentations.md",
+                "file": "Cyber Crime Survey/Nov. 22nd - NMAP Scanning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Crime Survey/Nov. 21st - Presentations.md",
+                "file": "Cyber Crime Survey/Nov. 22nd - NMAP Scanning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Crime Survey/Nov. 21st - Presentations.md"
+                "file": "Cyber Crime Survey/Nov. 22nd - NMAP Scanning.md"
               }
             }
           },
@@ -161,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,8 +179,9 @@
   },
   "active": "87df5960e1a5d2bf",
   "lastOpenFiles": [
-    "Operating System Security/Nov. 21 - Final Assignment.md",
     "Cyber Crime Survey/Nov. 21st - Presentations.md",
+    "Cyber Crime Survey/Nov. 22nd - NMAP Scanning.md",
+    "Operating System Security/Nov. 21 - Final Assignment.md",
     "Router + Sub intertface.md",
     "Nov 21 - MySQL Practice.md",
     "Data Security/Nov 21 - MySQL Practice.md",
@@ -208,7 +211,6 @@
     "Network Security/Oct. 18th - Network Security - Networking Protocols.md",
     "Network Security/Oct. 20th - Network Security.md",
     "Network Security/Sept 14th - Network Security.md",
-    "Network Security/Packet Tracer Extra Class.md",
     "Programming I/Nov. 6th - Class Practice/SecretNumber.py",
     "Programming I/Nov. 6th - Class Practice/Drawing.py",
     "Programming I/Nov. 6th - Class Practice/Turtle.py",
