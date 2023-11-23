@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "19c9421fedb18252",
         "type": "tabs",
         "children": [
           {
             "id": "9189e399b7f9ae00",
+=======
+        "id": "8d062e7ba9e3988d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72112c2265868403",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,19 +24,139 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "87df5960e1a5d2bf",
+=======
+            "id": "c29be21b9e0df1b4",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Cyber Crime Survey/Nov. 22nd - NMAP Scanning.md",
+=======
+                "file": "Data Security/Sept. 28th - Data Security - MySQL.md",
+>>>>>>> Stashed changes
+                "mode": "source",
+                "source": false
+              }
+            }
+<<<<<<< Updated upstream
+          }
+        ],
+        "currentTab": 1
+=======
+          },
+          {
+            "id": "24a5def6edfc81b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Security/MySQL Commands/DATABASE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5abeb3a7bf72cbb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Security/MySQL Commands/MySQL Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6d46b19d0d03dd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Security/MySQL Commands/ROLES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5aee0a7931adcec4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Security/MySQL Commands/TABLES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a090c8a0c4a87c47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Security/MySQL Commands/User Roles and Privileges - Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c939a79a1a8d605",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Data Security/MySQL Reference Manual/MySQL-Commands-Cheat-Sheet-by-PhoenixNAP.pdf"
+              }
+            }
+          },
+          {
+            "id": "30457ee8015e7da3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Security/MySQL Reference Manual/Oct. 26th - Quiz II - The Aftermath.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "caa2e20223949e96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Security/Oct. 3rd - Databases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d0733ffac3b31d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Security/Oct. 5th - Data Security.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
+>>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
@@ -78,8 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1e60ca12f4a379fd",
@@ -95,7 +222,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Cyber Crime Survey/Nov. 22nd - NMAP Scanning.md",
+=======
+                "file": "Data Security/Oct. 5th - Data Security.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +243,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Cyber Crime Survey/Nov. 22nd - NMAP Scanning.md",
+=======
+                "file": "Data Security/Oct. 5th - Data Security.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +280,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Cyber Crime Survey/Nov. 22nd - NMAP Scanning.md"
+=======
+                "file": "Data Security/Oct. 5th - Data Security.md"
+>>>>>>> Stashed changes
               }
             }
           },
@@ -177,6 +316,7 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
+<<<<<<< Updated upstream
   "active": "87df5960e1a5d2bf",
   "lastOpenFiles": [
     "Cyber Crime Survey/Nov. 21st - Presentations.md",
@@ -191,19 +331,47 @@
     "Network Security/Nov. 1st 2023 - Network Security.md",
     "Network Security/Oct. 13th - Network Security.md",
     "Data Security/MySQL Commands/User Roles and Privileges - Commands.md",
+=======
+  "active": "3d0733ffac3b31d0",
+  "lastOpenFiles": [
+    "Data Security/Oct. 12th - Data Security.md",
+    "Data Security/Oct. 17th - Data Security.md",
+    "Data Security/Oct. 24th - Data Security.md",
+    "Data Security/Oct. 31st - Data Security.md",
+    "Data Security/Sept 26th - Data Security -MySQL.md",
+    "Data Security/Sept. 7th - Data Security.md",
+    "Data Security/Sept. 12th - Data Security.md",
+    "Data Security/Sept. 14 - Data Security.md",
+    "Data Security/Sept. 19th - Data Security.md",
+    "Data Security/Sept. 21st - Data Security.md",
+    "Network Security/Cisco_Commands_Cheat_Sheet.pdf",
+    "Network Security/CCNA Security 2.0 Lab Manual.pdf",
+    "Network Security/Nov. 1st 2023 - Network Security.md",
+    "Network Security/Oct. 13th - Network Security.md",
+    "Data Security/Oct. 3rd - Databases.md",
+    "Data Security/MySQL Commands/MySQL Commands.md",
+    "Data Security/MySQL Commands/TABLES.md",
+    "Data Security/MySQL Commands/DATABASE.md",
+    "Operating System Security/1st Class - Sept. 6th.md",
+    "Data Security/MySQL Commands/User Roles and Privileges - Commands.md",
+    "Router + Sub intertface.md",
+>>>>>>> Stashed changes
     "Network Security/Oct.27th - Packet Tracer's ACL.md",
     "Network Security/Oct. 11th - Network Security.md",
     "Data Security/MySQL Commands/ROLES.md",
     "Data Security/MySQL Commands/Untitled.md",
+<<<<<<< Updated upstream
     "Data Security/MySQL Commands/TABLES.md",
     "Data Security/MySQL Commands/DATABASE.md",
+=======
+>>>>>>> Stashed changes
     "Data Security/MySQL Reference Manual/MySQL-Commands-Cheat-Sheet-by-PhoenixNAP.pdf",
-    "Data Security/MySQL Commands/MySQL Commands.md",
     "Data Security/MySQL Commands",
     "Data Security/Untitled",
     "Network Security/Oct. 6th - Network Security.md",
     "Network Security/Oct. 4th - Network Security.md",
     "Network Security/Nov. 3rd - Nessus + WireShark.md",
+<<<<<<< Updated upstream
     "Network Security/Nov. 1st - Network Monitoring.md",
     "Network Security/Network Security's Packet Tracer Guide.md",
     "Pasted image 20231114061436.png",
@@ -211,6 +379,9 @@
     "Network Security/Oct. 18th - Network Security - Networking Protocols.md",
     "Network Security/Oct. 20th - Network Security.md",
     "Network Security/Sept 14th - Network Security.md",
+=======
+    "Pasted image 20231114061436.png",
+>>>>>>> Stashed changes
     "Programming I/Nov. 6th - Class Practice/SecretNumber.py",
     "Programming I/Nov. 6th - Class Practice/Drawing.py",
     "Programming I/Nov. 6th - Class Practice/Turtle.py",
