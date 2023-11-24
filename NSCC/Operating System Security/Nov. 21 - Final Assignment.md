@@ -236,6 +236,33 @@ One of the major issues with **Windows** is that it does *Automated Updates* by 
 
 
 
+In terms of Cyber crime Businesses like *The Village*, if you had a dispute with a competitor that retailers can use, possibly one company may take the market share from the other company, the Cyber crime businesses will kill and kidnap competitors. Traditional mafia organizations could be importing Olive Oil from Italy, and another company starts shipping Olive Oil from Italy as well, the company would disappear. Russian Business Network's leader compromised, cheated and stole from any organization that he joined. There are no moral boundaries at all; they have a single objective (an ethical social domain that surrounds them ONLY). The other really important thing that one has to keep in mind : 
+
+Millions and Millions of Dollars in the child pornography being made. This is the basis of business for Russian Business Network. Everything is invested in supporting this market. One could look down upon them, but North America is the land of consumption (mostly). How many times you have heard once a year or twice a year of someone being arrested for child pornography. Only a tiny portion of consumers of child porn are caught. 
+
+We spoke about having the RCMP visiting, more specifically , the Digital Forensics and the Cyber Crime Divisions are visiting. 
+
+Russian Business Network was the first of the biggest : they were broad-based, with tremendous political support. Flyman may have been a nephew of a member of parliament (well-supported). The members of this organization could have been relatives of the leaders of the former Soviet Union/Russian Federation. 
+
+If they were arrested, it could be due to a rival having connections with a federal judge for example, who would utilize this connection to push aside a competitor. 
+
+
+
+When Russia invaded Georgia, there was a massive cyber component affecting all aspects of society. No one knew what was happening. It was the *first example* of **Hybrid War**; it means that Air Force, Army and Navy attacking alongside a *Digital Force* that breaks communication, spreading misinformation, etc. 
+
+
+
+#### Two potential strategies for Ransomware : 
+
+Only people to get email : People who must receive emails (absolute necessity for their work ; train them and punish them if they go against the email policy) , or , find a way to replace external email with something else. Not clicking on links is a great idea :
+
+1. limit who has access to email : train and monitor those people
+2. Use a dedicated email device (airgapped to the mail server ONLY), and in no way connected to the rest of the infrastructure). This is how it was done previously. If you restrict email to only those who need it, and have a dedicated email device that is separate from the rest of the infrastructure.
+
+
+
+
+
 
 
 
