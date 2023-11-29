@@ -23,8 +23,12 @@
             "id": "9bf462074f40d25d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data Security/Nov 20th - Relational Algerba.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System Security/Nov. 21 - Final Assignment.md",
+                "file": "Data Security/Nov 20th - Relational Algerba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System Security/Nov. 21 - Final Assignment.md",
+                "file": "Data Security/Nov 20th - Relational Algerba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System Security/Nov. 21 - Final Assignment.md"
+                "file": "Data Security/Nov 20th - Relational Algerba.md"
               }
             }
           },
@@ -177,6 +181,8 @@
   },
   "active": "9bf462074f40d25d",
   "lastOpenFiles": [
+    "Programming I/Nov.24th - APIs and Files/Nov.24th - APIs and Files.md",
+    "Data Security/Nov 20th - Relational Algerba.md",
     "Operating System Security/Nov. 21 - Final Assignment.md",
     "Cyber Crime Survey/potomac_hybridwar_0108.pdf",
     "Cyber Crime Survey/Hybrid War.pdf",
