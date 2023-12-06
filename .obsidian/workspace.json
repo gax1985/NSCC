@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSCC/Network Security/Nov. 29th - VLANs.md",
+                "file": "NSCC/Cyber Crime Survey/Untitled/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSCC/Network Security/Nov. 29th - VLANs.md",
+                "file": "NSCC/Cyber Crime Survey/Untitled/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSCC/Network Security/Nov. 29th - VLANs.md",
+                "file": "NSCC/Cyber Crime Survey/Untitled/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSCC/Network Security/Nov. 29th - VLANs.md"
+                "file": "NSCC/Cyber Crime Survey/Untitled/Untitled.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -159,8 +160,11 @@
   },
   "active": "3e262fb37594ad71",
   "lastOpenFiles": [
-    "NSCC/Programming I/Nov.24th - APIs and Files/Nov.24th - APIs and Files.md",
     "NSCC/Network Security/Nov. 29th - VLANs.md",
+    "NSCC/Cyber Crime Survey/Untitled/Untitled.md",
+    "NSCC/Cyber Crime Survey/Untitled",
+    "NSCC/Cyber Crime Survey/Untitled.md",
+    "NSCC/Programming I/Nov.24th - APIs and Files/Nov.24th - APIs and Files.md",
     "NSCC/Programming I/Nov. 20th - Open Files-Scope.md",
     "NSCC/Programming I/Nov.20th-File Practice/Guest_List.csv",
     "NSCC/Programming I/Nov.20th-File Practice/# Party Guest List.py",
@@ -178,7 +182,6 @@
     "Tax Calculator's Test.md",
     "NSCC/Data Security/Oct. 3rd - Databases.md",
     "NSCC/Data Security/Untitled.md",
-    "NSCC/Cyber Crime Survey/Untitled.md",
     "NSCC/Programming I/9th Class - Sept 25th.md",
     "NSCC/Professional Practices for IT I/4th Class _ Professional Practices for IT.md",
     "NSCC/Network Security/Sept. 27th - Network Security.md",
