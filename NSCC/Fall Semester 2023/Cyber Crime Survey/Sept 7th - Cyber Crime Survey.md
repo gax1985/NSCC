@@ -98,7 +98,7 @@ Charming Kitten (Iran)
 When we discover a new adversary, they are given an **APT Number** a *la APT28 : GRU (Russian Military Division-Cyber)*
 
 
-Check out this link for more information on **Charming Kitten 😺 ]
+Check out this link for more information on **Charming Kitten 😺 
 
 [https://explore.avertium.com/resource/in-depth-look-at-apt35-aka-charming-kitten] 
 
@@ -252,7 +252,7 @@ Influence campaigns : Destroys society. This convinces people to do strange thin
 Sources and methods: you tell someone something , and a limited number of people know, these people would know exactly who did what. 
 
 
-Cyber gangs are situated in Belarus now instead of Ukraine, Putin is worth 100 billion annually, and putin gets a cut of all the attacks. 
+Cyber gangs are situated in Belarus now instead of Ukraine, Putin is worth 100 billion annually, and Putin gets a cut of all the attacks. 
 
 
 
