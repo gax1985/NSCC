@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSCC/Cyber Crime Survey/Sept 7th - Cyber Crime Survey.md",
-                "mode": "source",
+                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 8th, 2024 - Attack Surface.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -23,12 +23,8 @@
             "id": "3e135fe28c7da247",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NSCC/Cyber Crime Survey/Oct. 26th - Cyber Crime Group Research.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSCC/Cyber Crime Survey/Sept 7th - Cyber Crime Survey.md",
+                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 8th, 2024 - Attack Surface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSCC/Cyber Crime Survey/Sept 7th - Cyber Crime Survey.md",
+                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 8th, 2024 - Attack Surface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSCC/Cyber Crime Survey/Sept 7th - Cyber Crime Survey.md"
+                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 8th, 2024 - Attack Surface.md"
               }
             }
           }
@@ -151,17 +147,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "3e262fb37594ad71",
+  "active": "76ab279a72ba1530",
   "lastOpenFiles": [
+    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 4th , 2024 - Intro.md",
+    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/ISEC_2025_Vulnerabilities and Exploits_18_I_CYBRSCUR_CO.pdf",
+    "NSCC/Winter Semester 2024/Windows Security/Jan. 4th 2024 - Syllabus.md",
+    "NSCC/Winter Semester 2024/Untitled.canvas",
+    "NSCC/Winter Semester 2024/Schedule.md",
+    "NSCC/Winter Semester 2024/Pasted image 20240108184059.png",
+    "NSCC/Winter Semester 2024/2024-01-08.md",
     "NSCC/Cyber Crime Survey/Flash Cards/Cyber Crime Survey.txt",
     "NSCC/Cyber Crime Survey/Flash Cards/Cyber Crime Survey.anki",
     "NSCC/Cyber Crime Survey/Flash Cards",
@@ -191,9 +194,6 @@
     "NSCC/Data Security/Untitled.md",
     "NSCC/Programming I/9th Class - Sept 25th.md",
     "NSCC/Professional Practices for IT I/4th Class _ Professional Practices for IT.md",
-    "NSCC/Network Security/Sept. 27th - Network Security.md",
-    "NSCC/Operating System Security/Sept. 26th - OS Security.md",
-    "NSCC/Operating System Security/Course Plan.md",
-    "NSCC/Data Security/Sept 26th - MySQL.md"
+    "NSCC/Network Security/Sept. 27th - Network Security.md"
   ]
 }
