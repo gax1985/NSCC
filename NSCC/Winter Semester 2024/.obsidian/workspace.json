@@ -11,72 +11,28 @@
             "id": "6c1b681a6032f50c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3d7daf204044c1ec",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Scripting/Jan. 4th , 2024 - Intro.md",
+                "file": "Linux Scripting/Jan. 16th.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d8beed772345b925",
+            "id": "80a3d9890411fa3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Scripting/Jan. 4th , 2024 - Intro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d1b90b73db66a8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vulnerabilities and Exploits/Jan. 8th, 2024 - Attack Surface.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50830d000fddf76b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows Security/Jan. 4th 2024 - Syllabus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08509d72843526b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Firewalls VPNs and Endpoints/Jan. 12th.md",
+                "file": "Linux Scripting/Jan. 16th.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Firewalls VPNs and Endpoints/Jan. 12th.md",
+                "file": "Linux Scripting/Jan. 16th.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Firewalls VPNs and Endpoints/Jan. 12th.md",
+                "file": "Linux Scripting/Jan. 16th.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Firewalls VPNs and Endpoints/Jan. 12th.md"
+                "file": "Linux Scripting/Jan. 16th.md"
               }
             }
           },
@@ -213,21 +169,40 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "08509d72843526b6",
+  "active": "80a3d9890411fa3d",
   "lastOpenFiles": [
-    "Linux Scripting/Bandit/Level 1.md",
+    "Linux Scripting/Jan16/select.sh",
+    "Linux Scripting/Jan16/case.sh",
+    "Linux Scripting/Jan16/lessthan.sh",
+    "Linux Scripting/Jan16/until.sh",
+    "Linux Scripting/Jan16",
+    "Untitled.md",
+    "Linux Scripting/Jan. 16th.md",
+    "Linux Scripting/BASH Scripting/Conditional Statements.md",
+    "Linux Scripting/BASH Scripting",
+    "Vulnerabilities and Exploits/Jan. 15th - WSL Activity.md",
+    "Firewalls VPNs and Endpoints/Jan. 15th.md",
     "Firewalls VPNs and Endpoints/Jan. 12th.md",
-    "Untitled.canvas",
-    "Vulnerabilities and Exploits/Jan. 8th, 2024 - Attack Surface.md",
+    "Firewalls/Jan. 10th.md",
+    "Linux Scripting/Jan. 4th , 2024 - Intro.md",
+    "Server Exploits/Jan. 8th 2024 - Windows Server 2019.md",
+    "Server Exploits/Section 1/Module 1.md",
+    "Server Exploits/Server Exploits Section 1 - Unquoted Service Paths.pdf",
     "Windows Security/Jan. 4th 2024 - Syllabus.md",
+    "Server Exploits/Server Exploits Section 1 - Lab.pdf",
+    "Vulnerabilities and Exploits/Jan. 8th, 2024 - Attack Surface.md",
+    "Vulnerabilities and Exploits/Untitled.md",
+    "Server Exploits/Untitled.md",
+    "Linux Scripting/Jan. 9th/Jan 9th.md",
+    "Linux Scripting/Jan. 9th",
+    "Firewalls",
+    "Linux Scripting/Bandit/Level 1.md",
+    "Untitled.canvas",
     "Pasted image 20240108184059.png",
     "2024-01-08.md",
-    "Server Exploits/Jan. 8th 2024 - Windows Server 2019.md",
     "Linux Scripting/To DO.md",
-    "Linux Scripting/Jan. 4th , 2024 - Intro.md",
     "Linux Vulnerabilties/Jan. 4th , 2024 - Intro.md",
     "Linux Vulnerabilties",
-    "Schedule.md",
-    "Linux Scripting"
+    "Schedule.md"
   ]
 }
