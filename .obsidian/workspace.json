@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 8th, 2024 - Attack Surface.md",
+                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 15th - WSL Activity.md",
                 "mode": "preview",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5,
-    "collapsed": true
+    "width": 340.5
   },
   "right": {
     "id": "7ccc9dcf5d407447",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 8th, 2024 - Attack Surface.md",
+                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 15th - WSL Activity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 8th, 2024 - Attack Surface.md",
+                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 15th - WSL Activity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 8th, 2024 - Attack Surface.md"
+                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 15th - WSL Activity.md"
               }
             }
           }
@@ -156,8 +155,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "76ab279a72ba1530",
+  "active": "3e262fb37594ad71",
   "lastOpenFiles": [
+    "NSCC/Winter Semester 2024/Server Exploits/Jan. 17th.md",
+    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 8th, 2024 - Attack Surface.md",
     "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 4th , 2024 - Intro.md",
     "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/ISEC_2025_Vulnerabilities and Exploits_18_I_CYBRSCUR_CO.pdf",
     "NSCC/Winter Semester 2024/Windows Security/Jan. 4th 2024 - Syllabus.md",
@@ -192,8 +193,6 @@
     "Tax Calculator's Test.md",
     "NSCC/Data Security/Oct. 3rd - Databases.md",
     "NSCC/Data Security/Untitled.md",
-    "NSCC/Programming I/9th Class - Sept 25th.md",
-    "NSCC/Professional Practices for IT I/4th Class _ Professional Practices for IT.md",
-    "NSCC/Network Security/Sept. 27th - Network Security.md"
+    "NSCC/Programming I/9th Class - Sept 25th.md"
   ]
 }

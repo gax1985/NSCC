@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Firewalls/Jan. 17th - AI.md",
+                "file": "Server Exploits/Jan. 17th.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Firewalls/Jan. 17th - AI.md",
+                "file": "Server Exploits/Jan. 17th.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Firewalls/Jan. 17th - AI.md",
+                "file": "Server Exploits/Jan. 17th.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Firewalls/Jan. 17th - AI.md"
+                "file": "Server Exploits/Jan. 17th.md"
               }
             }
           },
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,8 +169,11 @@
   },
   "active": "80a3d9890411fa3d",
   "lastOpenFiles": [
-    "Firewalls/Jan. 17th - AI (more depth).md",
+    "Pasted image 20240117111354.png",
+    "Pasted image 20240117111346.png",
     "Firewalls/Jan. 17th - AI.md",
+    "Server Exploits/Jan. 17th.md",
+    "Firewalls/Jan. 17th - AI (more depth).md",
     "Firewalls/Jan. 17th.md",
     "Linux Scripting/Jan. 16th.md",
     "Windows Security/SImplified Presentation .pptx",
@@ -205,8 +207,6 @@
     "Untitled.canvas",
     "Pasted image 20240108184059.png",
     "2024-01-08.md",
-    "Linux Scripting/To DO.md",
-    "Linux Vulnerabilties/Jan. 4th , 2024 - Intro.md",
-    "Schedule.md"
+    "Linux Scripting/To DO.md"
   ]
 }
