@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Scripting/Command Repository/BASH/ELIF Statement.md",
+                "file": "Server Exploits/Jan. 19th.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b1b2b34df80df532",
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Scripting/Command Repository/BASH/ELIF Statement.md",
+                "file": "Server Exploits/Jan. 19th.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Scripting/Command Repository/BASH/ELIF Statement.md",
+                "file": "Server Exploits/Jan. 19th.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Scripting/Command Repository/BASH/ELIF Statement.md"
+                "file": "Server Exploits/Jan. 19th.md"
               }
             }
           },
@@ -206,8 +207,9 @@
   },
   "active": "80a3d9890411fa3d",
   "lastOpenFiles": [
-    "Linux Scripting/Command Repository/BASH/IF Statement.md",
     "Linux Scripting/Command Repository/BASH/ELIF Statement.md",
+    "Server Exploits/Jan. 19th.md",
+    "Linux Scripting/Command Repository/BASH/IF Statement.md",
     "Linux Scripting/Command Repository/BASH/WHILE Statement.md",
     "Linux Scripting/Command Repository/BASH/CASE Statement.md",
     "Linux Scripting/Command Repository/BASH/READ Statement.md",
@@ -243,7 +245,6 @@
     "Firewalls/Jan. 10th.md",
     "Server Exploits/Jan. 8th 2024 - Windows Server 2019.md",
     "Server Exploits/Section 1/Module 1.md",
-    "Windows Security/Jan. 4th 2024 - Syllabus.md",
     "Untitled.canvas",
     "Pasted image 20240108184059.png"
   ]
