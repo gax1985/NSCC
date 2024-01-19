@@ -8,30 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80a3d9890411fa3d",
+            "id": "0dfab8abebe0f9a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server Exploits/Jan. 17th.md",
+                "file": "Linux Scripting/Jan. 4th.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9970f57cd298f8ff",
+            "id": "394a0e4346666dca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Firewalls/Jan. 17th.md",
+                "file": "Linux Scripting/Jan. 4th.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fec7cd29139c1d44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux Scripting/Jan 9th.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d258fe3e7e5bac3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux Scripting/Jan. 16th.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80a3d9890411fa3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux Scripting/Command Repository/BASH/ELIF Statement.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -97,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server Exploits/Jan. 17th.md",
+                "file": "Linux Scripting/Command Repository/BASH/ELIF Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server Exploits/Jan. 17th.md",
+                "file": "Linux Scripting/Command Repository/BASH/ELIF Statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server Exploits/Jan. 17th.md"
+                "file": "Linux Scripting/Command Repository/BASH/ELIF Statement.md"
               }
             }
           },
@@ -169,13 +206,25 @@
   },
   "active": "80a3d9890411fa3d",
   "lastOpenFiles": [
+    "Linux Scripting/Command Repository/BASH/IF Statement.md",
+    "Linux Scripting/Command Repository/BASH/ELIF Statement.md",
+    "Linux Scripting/Command Repository/BASH/WHILE Statement.md",
+    "Linux Scripting/Command Repository/BASH/CASE Statement.md",
+    "Linux Scripting/Command Repository/BASH/READ Statement.md",
+    "Linux Scripting/To DO.md",
+    "Linux Scripting/Command Repository/BASH",
+    "Linux Scripting/Command Repository",
+    "Linux Scripting/Jan 18th.md",
+    "Linux Scripting/Jan. 4th.md",
+    "Linux Scripting/BASH Scripting/Conditional Statements.md",
+    "Linux Scripting/Jan. 16th.md",
+    "Linux Scripting/Jan 9th.md",
+    "Firewalls/Jan. 17th.md",
+    "Server Exploits/Jan. 17th.md",
     "Pasted image 20240117111354.png",
     "Pasted image 20240117111346.png",
     "Firewalls/Jan. 17th - AI.md",
-    "Server Exploits/Jan. 17th.md",
     "Firewalls/Jan. 17th - AI (more depth).md",
-    "Firewalls/Jan. 17th.md",
-    "Linux Scripting/Jan. 16th.md",
     "Windows Security/SImplified Presentation .pptx",
     "Windows Security/Jan 16th..md",
     "Server Exploits/Untitled 1.md",
@@ -187,26 +236,15 @@
     "Linux Scripting/Jan16/until.sh",
     "Linux Scripting/Jan16",
     "Untitled.md",
-    "Linux Scripting/BASH Scripting/Conditional Statements.md",
     "Linux Scripting/BASH Scripting",
     "Vulnerabilities and Exploits/Jan. 15th - WSL Activity.md",
     "Firewalls VPNs and Endpoints/Jan. 15th.md",
     "Firewalls VPNs and Endpoints/Jan. 12th.md",
     "Firewalls/Jan. 10th.md",
-    "Linux Scripting/Jan. 4th , 2024 - Intro.md",
     "Server Exploits/Jan. 8th 2024 - Windows Server 2019.md",
     "Server Exploits/Section 1/Module 1.md",
-    "Server Exploits/Server Exploits Section 1 - Unquoted Service Paths.pdf",
     "Windows Security/Jan. 4th 2024 - Syllabus.md",
-    "Server Exploits/Server Exploits Section 1 - Lab.pdf",
-    "Vulnerabilities and Exploits/Jan. 8th, 2024 - Attack Surface.md",
-    "Vulnerabilities and Exploits/Untitled.md",
-    "Server Exploits/Untitled.md",
-    "Linux Scripting/Jan. 9th/Jan 9th.md",
-    "Linux Scripting/Bandit/Level 1.md",
     "Untitled.canvas",
-    "Pasted image 20240108184059.png",
-    "2024-01-08.md",
-    "Linux Scripting/To DO.md"
+    "Pasted image 20240108184059.png"
   ]
 }

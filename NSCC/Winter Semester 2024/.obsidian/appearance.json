@@ -1,5 +1,10 @@
 {
   "accentColor": "",
-  "cssTheme": "Dracula + LYT",
-  "baseFontSize": 16
+  "cssTheme": "Material Gruvbox",
+  "baseFontSize": 11,
+  "theme": "obsidian",
+  "interfaceFontFamily": "BlexMono Nerd Font",
+  "nativeMenus": true,
+  "monospaceFontFamily": "BlexMono Nerd Font Mono",
+  "textFontFamily": "BlexMono Nerd Font Propo"
 }
