@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ssl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,7 +156,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "3e262fb37594ad71",
+  "active": "a4882407453d9226",
   "lastOpenFiles": [
     "NSCC/Winter Semester 2024/Server Exploits/Jan. 17th.md",
     "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 8th, 2024 - Attack Surface.md",

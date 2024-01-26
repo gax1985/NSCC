@@ -1,7 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "Material Gruvbox",
-  "baseFontSize": 11,
+  "cssTheme": "Dracula Official",
+  "baseFontSize": 13,
   "theme": "obsidian",
   "interfaceFontFamily": "BlexMono Nerd Font",
   "nativeMenus": true,
