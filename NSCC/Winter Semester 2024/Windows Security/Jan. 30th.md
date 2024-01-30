@@ -288,7 +288,7 @@ To start the session : We will be doing a PowerShell session in the assignment, 
 
 
 
-We will be doing auditing monitioring system management on our machines. We will do security settings, and she has provided links for additional learning. We are going to look at the performance monitor, and create a Data Collection Set. We will see how our machine is doing, and what we can do if we see someone connecting to our system. 
+We will be doing auditing monitioring system management on our machines. We will do security settings, and she has provided links for additional learning. We are going to look at the performance monitor, and create a Data Collection Set. We will see how our machine is doing, and what we can do if we see someone connecting to our system. We will look ayt Security and Maintainance center. You will answer a question about the UAC (user account control) 
 
 
 
