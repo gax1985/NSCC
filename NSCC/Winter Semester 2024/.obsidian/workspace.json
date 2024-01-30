@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vulnerabilities and Exploits/Jan. 23rd.md",
+                "file": "Windows Security/Jan. 30th.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "fecf2b9bbf0d214d",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vulnerabilities and Exploits/Jan. 23rd.md",
+                "file": "Windows Security/Jan. 30th.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vulnerabilities and Exploits/Jan. 23rd.md",
+                "file": "Windows Security/Jan. 30th.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vulnerabilities and Exploits/Jan. 23rd.md"
+                "file": "Windows Security/Jan. 30th.md"
               }
             }
           }
@@ -149,8 +149,12 @@
   },
   "active": "262a9ba695c7c7a5",
   "lastOpenFiles": [
-    "Professional Practices for IT/Jan. 23rd.md",
+    "Windows Security/Untitled 1.md",
+    "Windows Security/Jan. 30th.md",
+    "Professional Practices for IT/Jan. 30th - Relationships.md",
+    "Professional Practices for IT/Assignment 2 - Building Business Relationships.md",
     "Vulnerabilities and Exploits/Jan. 23rd.md",
+    "Professional Practices for IT/Jan. 23rd.md",
     "Vulnerabilities and Exploits/Jan. 22nd.md",
     "Firewalls/Jan. 22nd.md"
   ]
