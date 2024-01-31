@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Commands/Impacket - WMIexec.md",
+                "file": "Vulnerabilities and Exploits/Jan 31st.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Commands/Impacket - WMIexec.md",
+                "file": "Vulnerabilities and Exploits/Jan 31st.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Commands/Impacket - WMIexec.md",
+                "file": "Vulnerabilities and Exploits/Jan 31st.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Commands/Impacket - WMIexec.md"
+                "file": "Vulnerabilities and Exploits/Jan 31st.md"
               }
             }
           }
@@ -162,8 +162,10 @@
   },
   "active": "43718849d7643127",
   "lastOpenFiles": [
-    "Linux Commands/Impacket - SECRETSDUMP.md",
     "Linux Commands/Impacket - WMIexec.md",
+    "Vulnerabilities and Exploits/Jan 31st.md",
+    "Pasted image 20240131122047.png",
+    "Linux Commands/Impacket - SECRETSDUMP.md",
     "Linux Commands/CRACKMAPEXEC.md",
     "Pasted image 20240131115825.png",
     "Linux Commands/Linux's PATH Variable.md",
@@ -188,7 +190,6 @@
     "Pasted image 20240130143931.png",
     "Pasted image 20240130143852.png",
     "Pasted image 20240130141240.png",
-    "Pasted image 20240130140957.png",
     "Windows Security/Jan. 30th.md",
     "Windows Security/Untitled 1.md",
     "Professional Practices for IT/Jan. 30th - Relationships.md",
