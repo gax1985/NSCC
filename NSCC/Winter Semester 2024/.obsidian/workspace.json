@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "01343d59d5c99e84",
+        "id": "802b3f2ed1ac68d9",
         "type": "tabs",
         "children": [
           {
-            "id": "2175599c63b9f04c",
+            "id": "7be08aac780f0b63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Firewalls VPNs and Endpoints/Jan. 31st.md",
+                "file": "Vulnerabilities and Exploits/MiTM Video.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "43718849d7643127",
+            "id": "26aff7a2fb33a702",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vulnerabilities and Exploits/Jan 31st.md",
+                "file": "Firewalls VPNs and Endpoints/Feb. 9th.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 354.5
   },
   "right": {
     "id": "fecf2b9bbf0d214d",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vulnerabilities and Exploits/Jan 31st.md",
+                "file": "Firewalls VPNs and Endpoints/Feb. 9th.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vulnerabilities and Exploits/Jan 31st.md",
+                "file": "Firewalls VPNs and Endpoints/Feb. 9th.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vulnerabilities and Exploits/Jan 31st.md"
+                "file": "Firewalls VPNs and Endpoints/Feb. 9th.md"
               }
             }
           }
@@ -160,10 +160,35 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "43718849d7643127",
+  "active": "26aff7a2fb33a702",
   "lastOpenFiles": [
-    "Linux Commands/Impacket - WMIexec.md",
+    "Server Exploits/Methodology/Windows Server 2019/Setting up a Domain Controller/4 - Pushing Out a Group Policy Object.md",
+    "Firewalls VPNs and Endpoints/Feb. 9th.md",
+    "Server Exploits/Methodology/Windows Server 2019/Setting up a Domain Controller/3 - Adding the Workstation to the Domain.md",
+    "Server Exploits/Methodology/Windows Server 2019/Setting up a Domain Controller/2 - Creating a User.md",
+    "Server Exploits/Methodology/Windows Server 2019/Setting up a Domain Controller/1 - Setting Up a Domain Controller.md",
+    "Pasted image 20240208152435.png",
+    "Linux Scripting/Command Repository/BASH/EXPORT Command.md",
+    "Windows Security/Readings/M1b Active Directory v1.10.24.pptx",
+    "Windows Security/Readings/M1a Windows Servers, Domains and DNS v1.10.24 (1).pptx",
+    "Windows Security/Readings/SImplified Presentation .pptx",
+    "Linux Scripting/BASH Scripting/Conditional Statements.md",
+    "Vulnerabilities and Exploits/MiTM Video.md",
+    "Server Exploits/MySQL/MySQL Vulnerabilities.md",
+    "Server Exploits/Methodology/Windows Server 2019/Setting up a Domain Controller",
+    "Server Exploits/Methodology/Windows Server 2019",
+    "Server Exploits/Methodology/Setting up a Domain Controller",
+    "Server Exploits/Methodology",
+    "Server Exploits/MySQL/MySQL Components.md",
+    "Server Exploits/MySQL",
+    "Server Exploits/Pasted image 20240107181014.png",
+    "Server Exploits/Readings/MySQL.pdf",
+    "Server Exploits/Section 1 - Lab/Server Exploits Section 1 - Lab.pdf",
+    "PowerShell Commands/New-NetfirewallRule.md",
+    "PowerShell Commands/Set-ExecutionPolicy.md",
     "Vulnerabilities and Exploits/Jan 31st.md",
+    "Linux Scripting/Feb. 1st.md",
+    "Linux Commands/Impacket - WMIexec.md",
     "Pasted image 20240131122047.png",
     "Linux Commands/Impacket - SECRETSDUMP.md",
     "Linux Commands/CRACKMAPEXEC.md",
@@ -171,32 +196,17 @@
     "Linux Commands/Linux's PATH Variable.md",
     "Server Exploits/Jan. 31st.md",
     "Firewalls VPNs and Endpoints/Jan. 31st.md",
-    "Firewalls VPNs and Endpoints/Virtual Private Networks.pdf",
     "Firewalls VPNs and Endpoints/Jan. 22nd.md",
     "Firewalls VPNs and Endpoints/Jan. 17th.md",
     "Firewalls VPNs and Endpoints/Jan. 17th - AI.md",
     "Firewalls VPNs and Endpoints/Jan. 17th - AI (more depth).md",
     "Firewalls VPNs and Endpoints/Jan. 10th.md",
-    "Firewalls VPNs and Endpoints/Virtual Private Networks VPNs.pdf",
-    "Firewalls VPNs and Endpoints/ISEC2022-Assignment1-2024.pdf",
-    "Firewalls VPNs and Endpoints/Firewalls.pdf",
     "Linux Scripting/Jan. 30th.md",
-    "Linux Commands",
     "Pasted image 20240130144754.png",
     "Pasted image 20240130144642.png",
     "Pasted image 20240130144052.png",
     "Pasted image 20240130144034.png",
     "Pasted image 20240130144006.png",
-    "Pasted image 20240130143931.png",
-    "Pasted image 20240130143852.png",
-    "Pasted image 20240130141240.png",
-    "Windows Security/Jan. 30th.md",
-    "Windows Security/Untitled 1.md",
-    "Professional Practices for IT/Jan. 30th - Relationships.md",
-    "Professional Practices for IT/Assignment 2 - Building Business Relationships.md",
-    "Vulnerabilities and Exploits/Jan. 23rd.md",
-    "Professional Practices for IT/Jan. 23rd.md",
-    "Vulnerabilities and Exploits/Jan. 22nd.md",
-    "Firewalls/Jan. 22nd.md"
+    "Pasted image 20240130143931.png"
   ]
 }

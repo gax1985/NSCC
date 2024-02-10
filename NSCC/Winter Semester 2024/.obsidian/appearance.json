@@ -1,8 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Dracula Official",
-  "baseFontSize": 13,
-  "theme": "obsidian",
+  "cssTheme": "Catppuccin",
+  "baseFontSize": 19,
+  "theme": "system",
   "interfaceFontFamily": "BlexMono Nerd Font",
   "nativeMenus": true,
   "monospaceFontFamily": "BlexMono Nerd Font Mono",
