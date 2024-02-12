@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Firewalls VPNs and Endpoints/Feb. 9th.md",
-                "mode": "source",
+                "file": "Vulnerabilities and Exploits/Feb. 12th - Malicious Macros.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Firewalls VPNs and Endpoints/Feb. 9th.md",
+                "file": "Vulnerabilities and Exploits/Feb. 12th - Malicious Macros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Firewalls VPNs and Endpoints/Feb. 9th.md",
+                "file": "Vulnerabilities and Exploits/Feb. 12th - Malicious Macros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Firewalls VPNs and Endpoints/Feb. 9th.md"
+                "file": "Vulnerabilities and Exploits/Feb. 12th - Malicious Macros.md"
               }
             }
           }
@@ -162,8 +162,17 @@
   },
   "active": "26aff7a2fb33a702",
   "lastOpenFiles": [
-    "Server Exploits/Methodology/Windows Server 2019/Setting up a Domain Controller/4 - Pushing Out a Group Policy Object.md",
+    "Vulnerabilities and Exploits/MiTM Video.md",
+    "Vulnerabilities and Exploits/Feb. 12th - Malicious Macros.md",
+    "Pasted image 20240212143022.png",
+    "Pasted image 20240212142245.png",
+    "Pasted image 20240212141834.png",
+    "Pasted image 20240212140637.png",
+    "Firewalls VPNs and Endpoints/Feb. 12th.md",
+    "Firewalls VPNs and Endpoints/Cisco AAA.pdf",
+    "Firewalls VPNs and Endpoints/Cisco AAA.pdf.crdownload",
     "Firewalls VPNs and Endpoints/Feb. 9th.md",
+    "Server Exploits/Methodology/Windows Server 2019/Setting up a Domain Controller/4 - Pushing Out a Group Policy Object.md",
     "Server Exploits/Methodology/Windows Server 2019/Setting up a Domain Controller/3 - Adding the Workstation to the Domain.md",
     "Server Exploits/Methodology/Windows Server 2019/Setting up a Domain Controller/2 - Creating a User.md",
     "Server Exploits/Methodology/Windows Server 2019/Setting up a Domain Controller/1 - Setting Up a Domain Controller.md",
@@ -173,7 +182,6 @@
     "Windows Security/Readings/M1a Windows Servers, Domains and DNS v1.10.24 (1).pptx",
     "Windows Security/Readings/SImplified Presentation .pptx",
     "Linux Scripting/BASH Scripting/Conditional Statements.md",
-    "Vulnerabilities and Exploits/MiTM Video.md",
     "Server Exploits/MySQL/MySQL Vulnerabilities.md",
     "Server Exploits/Methodology/Windows Server 2019/Setting up a Domain Controller",
     "Server Exploits/Methodology/Windows Server 2019",
@@ -182,8 +190,6 @@
     "Server Exploits/MySQL/MySQL Components.md",
     "Server Exploits/MySQL",
     "Server Exploits/Pasted image 20240107181014.png",
-    "Server Exploits/Readings/MySQL.pdf",
-    "Server Exploits/Section 1 - Lab/Server Exploits Section 1 - Lab.pdf",
     "PowerShell Commands/New-NetfirewallRule.md",
     "PowerShell Commands/Set-ExecutionPolicy.md",
     "Vulnerabilities and Exploits/Jan 31st.md",
@@ -199,14 +205,7 @@
     "Firewalls VPNs and Endpoints/Jan. 22nd.md",
     "Firewalls VPNs and Endpoints/Jan. 17th.md",
     "Firewalls VPNs and Endpoints/Jan. 17th - AI.md",
-    "Firewalls VPNs and Endpoints/Jan. 17th - AI (more depth).md",
-    "Firewalls VPNs and Endpoints/Jan. 10th.md",
-    "Linux Scripting/Jan. 30th.md",
     "Pasted image 20240130144754.png",
-    "Pasted image 20240130144642.png",
-    "Pasted image 20240130144052.png",
-    "Pasted image 20240130144034.png",
-    "Pasted image 20240130144006.png",
-    "Pasted image 20240130143931.png"
+    "Pasted image 20240130144642.png"
   ]
 }

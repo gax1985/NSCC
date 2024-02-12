@@ -1,7 +1,7 @@
 {
   "accentColor": "",
   "cssTheme": "Catppuccin",
-  "baseFontSize": 19,
+  "baseFontSize": 14,
   "theme": "system",
   "interfaceFontFamily": "BlexMono Nerd Font",
   "nativeMenus": true,
