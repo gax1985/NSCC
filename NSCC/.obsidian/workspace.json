@@ -11,11 +11,40 @@
             "id": "833b8e993670b2d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Winter Semester 2024/Linux Scripting/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1637b213c86fdb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Winter Semester 2024/Server Exploits/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "789bf5f02e61fdb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           }
         ]
@@ -138,6 +171,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "833b8e993670b2d4",
-  "lastOpenFiles": []
+  "active": "789bf5f02e61fdb7",
+  "lastOpenFiles": [
+    "Winter Semester 2024/Server Exploits/Readings/Module 2 - Wireshark.pdf",
+    "Winter Semester 2024/Server Exploits/Readings/NTLM Relaying in 2017.pdf",
+    "Untitled.md",
+    "Winter Semester 2024/Server Exploits/Untitled.md",
+    "Winter Semester 2024/Pasted image 20240215085310.png",
+    "Winter Semester 2024/Windows Security/Readings/M3 File Systems, Permissions and Shares v2.12.24.pptx",
+    "Winter Semester 2024/Windows Security/Feb. 15th - File System.md",
+    "Winter Semester 2024/Windows Security/Untitled.md",
+    "Winter Semester 2024/Server Exploits/Untitled 1.md",
+    "Winter Semester 2024/Server Exploits/Untitled 2.md",
+    "Winter Semester 2024/Windows Security/OSYS2020_Assign2-MAljokhadar.docx",
+    "Winter Semester 2024/Windows Security/OSYS2020_Assign2(PART 1) v1.18.24 (1).docx",
+    "Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 9.md",
+    "Winter Semester 2024/Linux Scripting/Untitled.md",
+    "Pasted image 20240213135225.png",
+    "Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 8.md",
+    "Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 10.md",
+    "Pasted image 20240213134803.png",
+    "Winter Semester 2024/Linux Scripting/To DO.md",
+    "Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 7.md",
+    "Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 6.md",
+    "Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 5.md",
+    "Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 4.md",
+    "Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 3.md",
+    "Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 2.md",
+    "Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 1.md",
+    "Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled.md",
+    "Winter Semester 2024/Linux Scripting/BASH Scripting/Conditional Statements.md",
+    "Winter Semester 2024/PowerShell Commands/Untitled.md"
+  ]
 }

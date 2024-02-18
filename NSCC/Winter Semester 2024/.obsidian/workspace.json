@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vulnerabilities and Exploits/Feb. 12th - Malicious Macros.md",
-                "mode": "preview",
+                "file": "Windows Security/Feb. 15th - File System.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "right": {
     "id": "fecf2b9bbf0d214d",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vulnerabilities and Exploits/Feb. 12th - Malicious Macros.md",
+                "file": "Windows Security/Feb. 15th - File System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vulnerabilities and Exploits/Feb. 12th - Malicious Macros.md",
+                "file": "Windows Security/Feb. 15th - File System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vulnerabilities and Exploits/Feb. 12th - Malicious Macros.md"
+                "file": "Windows Security/Feb. 15th - File System.md"
               }
             }
           }
@@ -162,8 +163,25 @@
   },
   "active": "26aff7a2fb33a702",
   "lastOpenFiles": [
-    "Vulnerabilities and Exploits/MiTM Video.md",
+    "Pasted image 20240215085310.png",
+    "Windows Security/Readings/M3 File Systems, Permissions and Shares v2.12.24.pptx",
+    "Professional Practices for IT/Feb. 13th.md",
+    "Windows Security/Feb. 15th - File System.md",
+    "Linux Scripting/Untitled.md",
+    "Linux Scripting/BASH Scripting/Untitled 10.md",
+    "Linux Scripting/BASH Scripting/Untitled 9.md",
+    "Linux Scripting/BASH Scripting/Untitled 8.md",
+    "Linux Scripting/BASH Scripting/Untitled 7.md",
+    "Linux Scripting/BASH Scripting/Untitled 6.md",
+    "Linux Scripting/BASH Scripting/Untitled 5.md",
+    "Linux Scripting/BASH Scripting/Untitled 4.md",
+    "Linux Scripting/BASH Scripting/Untitled 3.md",
+    "Linux Scripting/BASH Scripting/Untitled 2.md",
+    "Linux Scripting/BASH Scripting/Untitled 1.md",
+    "Linux Scripting/BASH Scripting/Untitled.md",
+    "PowerShell Commands/Untitled.md",
     "Vulnerabilities and Exploits/Feb. 12th - Malicious Macros.md",
+    "Vulnerabilities and Exploits/MiTM Video.md",
     "Pasted image 20240212143022.png",
     "Pasted image 20240212142245.png",
     "Pasted image 20240212141834.png",
@@ -182,29 +200,13 @@
     "Windows Security/Readings/M1a Windows Servers, Domains and DNS v1.10.24 (1).pptx",
     "Windows Security/Readings/SImplified Presentation .pptx",
     "Linux Scripting/BASH Scripting/Conditional Statements.md",
-    "Server Exploits/MySQL/MySQL Vulnerabilities.md",
     "Server Exploits/Methodology/Windows Server 2019/Setting up a Domain Controller",
     "Server Exploits/Methodology/Windows Server 2019",
     "Server Exploits/Methodology/Setting up a Domain Controller",
     "Server Exploits/Methodology",
-    "Server Exploits/MySQL/MySQL Components.md",
-    "Server Exploits/MySQL",
     "Server Exploits/Pasted image 20240107181014.png",
-    "PowerShell Commands/New-NetfirewallRule.md",
-    "PowerShell Commands/Set-ExecutionPolicy.md",
-    "Vulnerabilities and Exploits/Jan 31st.md",
-    "Linux Scripting/Feb. 1st.md",
-    "Linux Commands/Impacket - WMIexec.md",
     "Pasted image 20240131122047.png",
-    "Linux Commands/Impacket - SECRETSDUMP.md",
-    "Linux Commands/CRACKMAPEXEC.md",
     "Pasted image 20240131115825.png",
-    "Linux Commands/Linux's PATH Variable.md",
-    "Server Exploits/Jan. 31st.md",
-    "Firewalls VPNs and Endpoints/Jan. 31st.md",
-    "Firewalls VPNs and Endpoints/Jan. 22nd.md",
-    "Firewalls VPNs and Endpoints/Jan. 17th.md",
-    "Firewalls VPNs and Endpoints/Jan. 17th - AI.md",
     "Pasted image 20240130144754.png",
     "Pasted image 20240130144642.png"
   ]
