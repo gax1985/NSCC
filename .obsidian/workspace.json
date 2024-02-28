@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e262fb37594ad71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 15th - WSL Activity.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3e135fe28c7da247",
             "type": "leaf",
             "state": {
@@ -56,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 15th - WSL Activity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 15th - WSL Activity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 15th - WSL Activity.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,44 +139,54 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "a4882407453d9226",
+  "active": "3e135fe28c7da247",
   "lastOpenFiles": [
+    "NSCC/Winter Semester 2024/Windows Security/Windows Server Administration Tools Course.docx",
+    "NSCC/Winter Semester 2024/Windows Security/Windows Deployment Services.pdf",
+    "NSCC/Winter Semester 2024/Windows Security/Windows Admin Center 1.pdf",
+    "NSCC/Winter Semester 2024/Windows Security/WIndows Server Admintration Tools Quiz.pdf",
+    "NSCC/Winter Semester 2024/Windows Security/Readings/M3 File Systems, Permissions and Shares v2.12.24.pptx",
+    "NSCC/Winter Semester 2024/Windows Security/RSAT Tools.pdf",
+    "NSCC/Winter Semester 2024/Windows Security/RSAT For Windows.pdf",
+    "NSCC/Winter Semester 2024/Windows Security/Naming Convention Document v1.3.24.docx",
+    "NSCC/Winter Semester 2024/Windows Security/Feb. 15th - File System.md",
+    "NSCC/Winter Semester 2024/Windows Security/Computer Imaging.pdf",
+    "NSCC/Winter Semester 2024/Server Exploits/Untitled 2.md",
+    "NSCC/Winter Semester 2024/Server Exploits/Readings/Linux Basics.pdf",
+    "NSCC/Winter Semester 2024/Server Exploits/Readings/Installing a Vulnerable LAMP Server.pdf",
+    "NSCC/Winter Semester 2024/Professional Practices for IT/Feb. 13th.md",
+    "NSCC/Winter Semester 2024/PowerShell Commands/Untitled.md",
+    "NSCC/Winter Semester 2024/Pasted image 20240215085310.png",
+    "NSCC/Winter Semester 2024/Linux Scripting/Untitled.md",
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled.md",
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 9.md",
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 8.md",
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 7.md",
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 6.md",
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 5.md",
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 4.md",
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 3.md",
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 2.md",
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 10.md",
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 1.md",
+    "NSCC/Untitled.md",
+    "NSCC/Pasted image 20240213135225.png",
+    "NSCC/Pasted image 20240213134803.png",
+    "NSCC/Winter Semester 2024/Windows Security/Untitled 1.md",
+    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Untitled 1.md",
+    "Pasted image 20240226152109.png",
+    "Pasted image 20240226152034.png",
+    "Pasted image 20240226150324.png",
+    "Pasted image 20240226145158.png",
+    "Pasted image 20240226143428.png",
+    "Pasted image 20240226143215.png",
+    "Pasted image 20240226143132.png",
+    "NSCC/Winter Semester 2024/Server Exploits/Untitled 3.md",
+    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Untitled.md",
+    "NSCC/Winter Semester 2024/Windows Security/Untitled.md",
+    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 15th - WSL Activity.md",
     "NSCC/Winter Semester 2024/Server Exploits/Jan. 17th.md",
     "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 8th, 2024 - Attack Surface.md",
-    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 4th , 2024 - Intro.md",
-    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/ISEC_2025_Vulnerabilities and Exploits_18_I_CYBRSCUR_CO.pdf",
-    "NSCC/Winter Semester 2024/Windows Security/Jan. 4th 2024 - Syllabus.md",
-    "NSCC/Winter Semester 2024/Untitled.canvas",
-    "NSCC/Winter Semester 2024/Schedule.md",
-    "NSCC/Winter Semester 2024/Pasted image 20240108184059.png",
-    "NSCC/Winter Semester 2024/2024-01-08.md",
-    "NSCC/Cyber Crime Survey/Flash Cards/Cyber Crime Survey.txt",
-    "NSCC/Cyber Crime Survey/Flash Cards/Cyber Crime Survey.anki",
-    "NSCC/Cyber Crime Survey/Flash Cards",
-    "NSCC/Cyber Crime Survey/Sept. 19th - Nation-States.md",
-    "NSCC/Cyber Crime Survey/Nov. 21st - Presentations.md",
-    "NSCC/Cyber Crime Survey/Untitled/Untitled.md",
-    "NSCC/Network Security/Nov. 29th - VLANs.md",
-    "NSCC/Cyber Crime Survey/Untitled",
-    "NSCC/Cyber Crime Survey/Untitled.md",
-    "NSCC/Programming I/Nov.24th - APIs and Files/Nov.24th - APIs and Files.md",
-    "NSCC/Programming I/Nov. 20th - Open Files-Scope.md",
-    "NSCC/Programming I/Nov.20th-File Practice/Guest_List.csv",
-    "NSCC/Programming I/Nov.20th-File Practice/# Party Guest List.py",
-    "NSCC/Programming I/Nov.20th-File Practice/party_guests_list.py",
-    "NSCC/Programming I/Nov.20th-File Practice",
-    "NSCC/Network Security/Nov. 3rd - Nessus + WireShark.md",
-    "NSCC/Cyber Crime Survey/Sept. 21st - Cyber Crime Survey.md",
-    "NSCC/Cyber Crime Survey/Oct. 26th - Cyber Crime Group Research.md",
-    "NSCC/Cyber Crime Survey/Cyber Crime Survey.md",
-    "NSCC/Cyber Crime Survey/Sept 7th - Cyber Crime Survey.md",
-    "NSCC/Cyber Crime Survey/Oct. 3rd - Attack Vectors & Risk Management.md",
-    "NSCC/Cyber Crime Survey/Oct. 12 - Cyber Crime Survey.md",
-    "NSCC/Cyber Crime Survey/Oct. 17th - Cyber Crime Survey.md",
-    "NSCC/Cyber Crime Survey/Oct. 24th - Cyber Crime Survey - Network Scanning.md",
-    "Tax Calculator's Test.md",
-    "NSCC/Data Security/Oct. 3rd - Databases.md",
-    "NSCC/Data Security/Untitled.md",
-    "NSCC/Programming I/9th Class - Sept 25th.md"
+    "NSCC/Winter Semester 2024/Untitled.canvas"
   ]
 }
