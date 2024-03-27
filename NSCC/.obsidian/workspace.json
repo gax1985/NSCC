@@ -1,64 +1,39 @@
 {
   "main": {
-    "id": "048e5fdad969053a",
+    "id": "b3e265abef5b2c04",
     "type": "split",
     "children": [
       {
-        "id": "9b911a41b5a807fe",
+        "id": "53d3a3f3affa1d43",
         "type": "tabs",
         "children": [
           {
-            "id": "833b8e993670b2d4",
+            "id": "7f23bcf877e47541",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Winter Semester 2024/Linux Scripting/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1637b213c86fdb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Winter Semester 2024/Server Exploits/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "789bf5f02e61fdb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Winter Semester 2024/Linux Scripting/Port Scanning Challenge/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "31653fafa3843bbd",
+    "id": "c090d6b0d765b2bd",
     "type": "split",
     "children": [
       {
-        "id": "00cfabd562855ee2",
+        "id": "50c73b9559409259",
         "type": "tabs",
         "children": [
           {
-            "id": "57eb00b1322aec06",
+            "id": "052aa1b2372709e6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +43,7 @@
             }
           },
           {
-            "id": "a1d0c56e9eb76dba",
+            "id": "b74ba2168c23e863",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +58,7 @@
             }
           },
           {
-            "id": "6168db16942b6faa",
+            "id": "b2b4202463c15428",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "d938266ff4207a30",
+    "id": "3163713314b45482",
     "type": "split",
     "children": [
       {
-        "id": "44752a1096099152",
+        "id": "c2a8fdc2eb1355b1",
         "type": "tabs",
         "children": [
           {
-            "id": "57e34f04393b7471",
+            "id": "a3386ed9a6295ea7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Winter Semester 2024/Linux Scripting/Port Scanning Challenge/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +97,19 @@
             }
           },
           {
-            "id": "3a621d87fad298cd",
+            "id": "82ec386bc08ac662",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Winter Semester 2024/Linux Scripting/Port Scanning Challenge/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2dcea6de0a986a6f",
+            "id": "6b5d0c664822de64",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,12 +120,12 @@
             }
           },
           {
-            "id": "33aa3a9d4ff243d0",
+            "id": "4adb1c075067f5ff",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Winter Semester 2024/Linux Scripting/Port Scanning Challenge/Untitled.md"
               }
             }
           }
@@ -171,36 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "789bf5f02e61fdb7",
+  "active": "7f23bcf877e47541",
   "lastOpenFiles": [
-    "Winter Semester 2024/Server Exploits/Readings/Module 2 - Wireshark.pdf",
-    "Winter Semester 2024/Server Exploits/Readings/NTLM Relaying in 2017.pdf",
-    "Untitled.md",
-    "Winter Semester 2024/Server Exploits/Untitled.md",
-    "Winter Semester 2024/Pasted image 20240215085310.png",
-    "Winter Semester 2024/Windows Security/Readings/M3 File Systems, Permissions and Shares v2.12.24.pptx",
-    "Winter Semester 2024/Windows Security/Feb. 15th - File System.md",
-    "Winter Semester 2024/Windows Security/Untitled.md",
-    "Winter Semester 2024/Server Exploits/Untitled 1.md",
-    "Winter Semester 2024/Server Exploits/Untitled 2.md",
-    "Winter Semester 2024/Windows Security/OSYS2020_Assign2-MAljokhadar.docx",
-    "Winter Semester 2024/Windows Security/OSYS2020_Assign2(PART 1) v1.18.24 (1).docx",
-    "Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 9.md",
-    "Winter Semester 2024/Linux Scripting/Untitled.md",
-    "Pasted image 20240213135225.png",
-    "Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 8.md",
-    "Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 10.md",
-    "Pasted image 20240213134803.png",
-    "Winter Semester 2024/Linux Scripting/To DO.md",
-    "Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 7.md",
-    "Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 6.md",
-    "Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 5.md",
-    "Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 4.md",
-    "Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 3.md",
-    "Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 2.md",
-    "Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 1.md",
-    "Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled.md",
-    "Winter Semester 2024/Linux Scripting/BASH Scripting/Conditional Statements.md",
-    "Winter Semester 2024/PowerShell Commands/Untitled.md"
+    "Winter Semester 2024/Server Exploits/Module 4/AI-Generated Script- Privilage Escalation - Part 1.txt",
+    "Winter Semester 2024/Server Exploits/Module 4/New Text Document.txt",
+    "Winter Semester 2024/Server Exploits/Untitled 4.md",
+    "Winter Semester 2024/Server Exploits/Untitled 3.md"
   ]
 }

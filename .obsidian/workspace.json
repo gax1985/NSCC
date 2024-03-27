@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b320a4a6a9151ae5",
+        "id": "9f9ccdfe7bd5e9de",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "3e135fe28c7da247",
+            "id": "af364e9fccb4f0fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "NSCC/Winter Semester 2024/Server Exploits/Module 5/Hardening Linux Web App Part 1.pdf"
+              }
+            }
+          },
+          {
+            "id": "6c6067b4dc6c1dff",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "NSCC/Winter Semester 2024/Server Exploits/Module 4/Linux Privilege Escalation Part 2 (1).pdf"
+              }
             }
           }
         ]
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NSCC/Winter Semester 2024/Server Exploits/Module 5/Hardening Linux Web App Part 1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NSCC/Winter Semester 2024/Server Exploits/Module 5/Hardening Linux Web App Part 1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,14 +133,53 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "NSCC/Winter Semester 2024/Server Exploits/Module 5/Hardening Linux Web App Part 1.pdf"
+              }
+            }
+          },
+          {
+            "id": "ff6a30a37eec7cce",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "307429ed6730df53",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "15a55a8c1c889923",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "dab700cedf500312",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 354.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -136,44 +190,42 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-day-planner:Timeline": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "3e135fe28c7da247",
+  "active": "af364e9fccb4f0fd",
   "lastOpenFiles": [
-    "NSCC/Winter Semester 2024/Windows Security/Windows Server Administration Tools Course.docx",
-    "NSCC/Winter Semester 2024/Windows Security/Windows Deployment Services.pdf",
-    "NSCC/Winter Semester 2024/Windows Security/Windows Admin Center 1.pdf",
-    "NSCC/Winter Semester 2024/Windows Security/WIndows Server Admintration Tools Quiz.pdf",
-    "NSCC/Winter Semester 2024/Windows Security/Readings/M3 File Systems, Permissions and Shares v2.12.24.pptx",
-    "NSCC/Winter Semester 2024/Windows Security/RSAT Tools.pdf",
-    "NSCC/Winter Semester 2024/Windows Security/RSAT For Windows.pdf",
-    "NSCC/Winter Semester 2024/Windows Security/Naming Convention Document v1.3.24.docx",
-    "NSCC/Winter Semester 2024/Windows Security/Feb. 15th - File System.md",
-    "NSCC/Winter Semester 2024/Windows Security/Computer Imaging.pdf",
-    "NSCC/Winter Semester 2024/Server Exploits/Untitled 2.md",
-    "NSCC/Winter Semester 2024/Server Exploits/Readings/Linux Basics.pdf",
-    "NSCC/Winter Semester 2024/Server Exploits/Readings/Installing a Vulnerable LAMP Server.pdf",
-    "NSCC/Winter Semester 2024/Professional Practices for IT/Feb. 13th.md",
-    "NSCC/Winter Semester 2024/PowerShell Commands/Untitled.md",
-    "NSCC/Winter Semester 2024/Pasted image 20240215085310.png",
-    "NSCC/Winter Semester 2024/Linux Scripting/Untitled.md",
-    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled.md",
-    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 9.md",
-    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 8.md",
-    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 7.md",
-    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 6.md",
-    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 5.md",
-    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 4.md",
-    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 3.md",
-    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 2.md",
-    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 10.md",
-    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 1.md",
-    "NSCC/Untitled.md",
-    "NSCC/Pasted image 20240213135225.png",
-    "NSCC/Pasted image 20240213134803.png",
-    "NSCC/Winter Semester 2024/Windows Security/Untitled 1.md",
+    "NSCC/Winter Semester 2024/Server Exploits/Module 5/Module 5 - Part 1 - Hardening Web Applications.md",
+    "Pasted image 20240325104754.png",
+    "NSCC/Winter Semester 2024/Server Exploits/Module 5/Hardening Linux Web App Part 1.pdf",
+    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Untitled 1/Untitled 1.md",
+    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Linux Privilege Escalation Part 2 (1).pdf",
+    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Linux Privilege Escalation Part 1 (1).pdf",
+    "NSCC/Winter Semester 2024/Server Exploits/Module 4/AI - Generated Insecure File Permissions - Cron.sh",
+    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Linux Privilege Escalation Part 3.pdf",
+    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Untitled 1/Untitled.md",
+    "NSCC/Winter Semester 2024/Server Exploits/Module 4/AI-Generated Script- Privilage Escalation - Part 1.txt",
+    "NSCC/Winter Semester 2024/Server Exploits/Module 4/New Text Document.txt",
+    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Assignment 4.pdf",
+    "2024-03-20.md",
+    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Untitled/Untitled.md",
+    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Untitled 1",
+    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Untitled.md",
+    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Untitled",
+    "NSCC/Winter Semester 2024/Linux Scripting/Port Scanning Challenge/Untitled.md",
+    "NSCC/Winter Semester 2024/Linux Scripting/Untitled 1.md",
+    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Untitled 2.md",
     "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Untitled 1.md",
+    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Untitled.md",
+    "NSCC/Winter Semester 2024/Server Exploits/Untitled 5.md",
+    "NSCC/Winter Semester 2024/Server Exploits/Untitled 4.md",
     "Pasted image 20240226152109.png",
     "Pasted image 20240226152034.png",
     "Pasted image 20240226150324.png",
@@ -181,12 +233,20 @@
     "Pasted image 20240226143428.png",
     "Pasted image 20240226143215.png",
     "Pasted image 20240226143132.png",
-    "NSCC/Winter Semester 2024/Server Exploits/Untitled 3.md",
-    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Untitled.md",
+    "Pasted image 20240226142520.png",
+    "Pasted image 20240226142126.png",
     "NSCC/Winter Semester 2024/Windows Security/Untitled.md",
-    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 15th - WSL Activity.md",
-    "NSCC/Winter Semester 2024/Server Exploits/Jan. 17th.md",
-    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 8th, 2024 - Attack Surface.md",
+    "NSCC/Winter Semester 2024/Windows Security/Untitled 1.md",
+    "NSCC/Winter Semester 2024/Server Exploits/Untitled 3.md",
+    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Feb. 23rd - VPNs.md",
+    "NSCC/Winter Semester 2024/Windows Security/Feb. 15th - File System.md",
+    "NSCC/Winter Semester 2024/Server Exploits/Untitled 2.md",
+    "NSCC/Winter Semester 2024/Professional Practices for IT/Feb. 13th.md",
+    "NSCC/Winter Semester 2024/PowerShell Commands/Untitled.md",
+    "NSCC/Winter Semester 2024/Linux Scripting/Untitled.md",
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled.md",
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 9.md",
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 8.md",
     "NSCC/Winter Semester 2024/Untitled.canvas"
   ]
 }
