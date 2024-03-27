@@ -11,9 +11,11 @@
             "id": "af364e9fccb4f0fd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Server Exploits/Module 5/Hardening Linux Web App Part 1.pdf"
+                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/March 27th - MiMiKatz.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Server Exploits/Module 5/Hardening Linux Web App Part 1.pdf",
+                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/March 27th - MiMiKatz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Server Exploits/Module 5/Hardening Linux Web App Part 1.pdf",
+                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/March 27th - MiMiKatz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Server Exploits/Module 5/Hardening Linux Web App Part 1.pdf"
+                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/March 27th - MiMiKatz.md"
               }
             }
           },
@@ -201,9 +203,10 @@
   },
   "active": "af364e9fccb4f0fd",
   "lastOpenFiles": [
+    "NSCC/Winter Semester 2024/Server Exploits/Module 5/Hardening Linux Web App Part 1.pdf",
+    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/March 27th - MiMiKatz.md",
     "NSCC/Winter Semester 2024/Server Exploits/Module 5/Module 5 - Part 1 - Hardening Web Applications.md",
     "Pasted image 20240325104754.png",
-    "NSCC/Winter Semester 2024/Server Exploits/Module 5/Hardening Linux Web App Part 1.pdf",
     "NSCC/Winter Semester 2024/Server Exploits/Module 4/Untitled 1/Untitled 1.md",
     "NSCC/Winter Semester 2024/Server Exploits/Module 4/Linux Privilege Escalation Part 2 (1).pdf",
     "NSCC/Winter Semester 2024/Server Exploits/Module 4/Linux Privilege Escalation Part 1 (1).pdf",
@@ -245,7 +248,6 @@
     "NSCC/Winter Semester 2024/Linux Scripting/Untitled.md",
     "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled.md",
     "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 9.md",
-    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 8.md",
     "NSCC/Winter Semester 2024/Untitled.canvas"
   ]
 }
