@@ -11,9 +11,11 @@
             "id": "af364e9fccb4f0fd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Readings/Cracking Local Windows Passwords with MiMiKatZ, LSA Dump and HashCat.pdf"
+                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Readings/Cracking Local Windows Passwords with MiMiKatZ, LSA Dump and HashCat.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -27,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "835075e9dea57d7c",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Server Exploits/Module 4/Linux Privilege Escalation Part 2 (1).pdf",
+                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Readings/Cracking Local Windows Passwords with MiMiKatZ, LSA Dump and HashCat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Server Exploits/Module 4/Linux Privilege Escalation Part 2 (1).pdf",
+                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Readings/Cracking Local Windows Passwords with MiMiKatZ, LSA Dump and HashCat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Server Exploits/Module 4/Linux Privilege Escalation Part 2 (1).pdf"
+                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Readings/Cracking Local Windows Passwords with MiMiKatZ, LSA Dump and HashCat.md"
               }
             }
           },
@@ -216,15 +217,18 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "6c6067b4dc6c1dff",
+  "active": "af364e9fccb4f0fd",
   "lastOpenFiles": [
+    "Pasted image 20240327180728.png",
+    "Pasted image 20240327180553.png",
     "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Readings/Cracking Local Windows Passwords with MiMiKatZ, LSA Dump and HashCat.pdf",
+    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Readings/Cracking Local Windows Passwords with MiMiKatZ, LSA Dump and HashCat.md",
+    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Linux Privilege Escalation Part 2 (1).pdf",
     "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/March 27th - MiMiKatz.md",
     "NSCC/Winter Semester 2024/Server Exploits/Module 5/Hardening Linux Web App Part 1.pdf",
     "NSCC/Winter Semester 2024/Server Exploits/Module 5/Module 5 - Part 1 - Hardening Web Applications.md",
     "Pasted image 20240325104754.png",
     "NSCC/Winter Semester 2024/Server Exploits/Module 4/Untitled 1/Untitled 1.md",
-    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Linux Privilege Escalation Part 2 (1).pdf",
     "NSCC/Winter Semester 2024/Server Exploits/Module 4/Linux Privilege Escalation Part 1 (1).pdf",
     "NSCC/Winter Semester 2024/Server Exploits/Module 4/AI - Generated Insecure File Permissions - Cron.sh",
     "NSCC/Winter Semester 2024/Server Exploits/Module 4/Linux Privilege Escalation Part 3.pdf",
@@ -251,7 +255,6 @@
     "Pasted image 20240226143215.png",
     "Pasted image 20240226143132.png",
     "Pasted image 20240226142520.png",
-    "Pasted image 20240226142126.png",
     "NSCC/Winter Semester 2024/Windows Security/Untitled.md",
     "NSCC/Winter Semester 2024/Windows Security/Untitled 1.md",
     "NSCC/Winter Semester 2024/Server Exploits/Untitled 3.md",
@@ -262,7 +265,6 @@
     "NSCC/Winter Semester 2024/PowerShell Commands/Untitled.md",
     "NSCC/Winter Semester 2024/Linux Scripting/Untitled.md",
     "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled.md",
-    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 9.md",
     "NSCC/Winter Semester 2024/Untitled.canvas"
   ]
 }
