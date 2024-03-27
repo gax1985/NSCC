@@ -11,11 +11,9 @@
             "id": "af364e9fccb4f0fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/March 27th - MiMiKatz.md",
-                "mode": "source",
-                "source": false
+                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Readings/Cracking Local Windows Passwords with MiMiKatZ, LSA Dump and HashCat.pdf"
               }
             }
           },
@@ -26,6 +24,23 @@
               "type": "pdf",
               "state": {
                 "file": "NSCC/Winter Semester 2024/Server Exploits/Module 4/Linux Privilege Escalation Part 2 (1).pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "835075e9dea57d7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54f421fc800e15ca",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Readings/Cracking Local Windows Passwords with MiMiKatZ, LSA Dump and HashCat.pdf"
               }
             }
           }
@@ -95,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/March 27th - MiMiKatz.md",
+                "file": "NSCC/Winter Semester 2024/Server Exploits/Module 4/Linux Privilege Escalation Part 2 (1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/March 27th - MiMiKatz.md",
+                "file": "NSCC/Winter Semester 2024/Server Exploits/Module 4/Linux Privilege Escalation Part 2 (1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/March 27th - MiMiKatz.md"
+                "file": "NSCC/Winter Semester 2024/Server Exploits/Module 4/Linux Privilege Escalation Part 2 (1).pdf"
               }
             }
           },
@@ -201,10 +216,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "af364e9fccb4f0fd",
+  "active": "6c6067b4dc6c1dff",
   "lastOpenFiles": [
-    "NSCC/Winter Semester 2024/Server Exploits/Module 5/Hardening Linux Web App Part 1.pdf",
+    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Readings/Cracking Local Windows Passwords with MiMiKatZ, LSA Dump and HashCat.pdf",
     "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/March 27th - MiMiKatz.md",
+    "NSCC/Winter Semester 2024/Server Exploits/Module 5/Hardening Linux Web App Part 1.pdf",
     "NSCC/Winter Semester 2024/Server Exploits/Module 5/Module 5 - Part 1 - Hardening Web Applications.md",
     "Pasted image 20240325104754.png",
     "NSCC/Winter Semester 2024/Server Exploits/Module 4/Untitled 1/Untitled 1.md",
@@ -220,7 +236,6 @@
     "NSCC/Winter Semester 2024/Server Exploits/Module 4/Untitled/Untitled.md",
     "NSCC/Winter Semester 2024/Server Exploits/Module 4/Untitled 1",
     "NSCC/Winter Semester 2024/Server Exploits/Module 4/Untitled.md",
-    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Untitled",
     "NSCC/Winter Semester 2024/Linux Scripting/Port Scanning Challenge/Untitled.md",
     "NSCC/Winter Semester 2024/Linux Scripting/Untitled 1.md",
     "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Untitled 2.md",
