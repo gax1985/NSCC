@@ -4,38 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9f9ccdfe7bd5e9de",
+        "id": "8a1052d8afe4898c",
         "type": "tabs",
         "children": [
           {
-            "id": "6c6067b4dc6c1dff",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "NSCC/Winter Semester 2024/Server Exploits/Module 4/Assignment 4.pdf"
-              }
-            }
-          },
-          {
-            "id": "a458982bd6bb1409",
+            "id": "7ed626f56eb8fdf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Server Exploits/Untitled 5.md",
+                "file": "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 3.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "b9bc92d12550b5a3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "NSCC/Winter Semester 2024/Server Exploits/Module 4/Linux Privilege Escalation Part 1 (1).pdf"
               }
             }
           }
@@ -89,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5,
-    "collapsed": true
+    "width": 340.5
   },
   "right": {
     "id": "7ccc9dcf5d407447",
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Server Exploits/Module 4/Assignment 4.pdf",
+                "file": "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Server Exploits/Module 4/Assignment 4.pdf",
+                "file": "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Server Exploits/Module 4/Assignment 4.pdf"
+                "file": "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 3.md"
               }
             }
           },
@@ -212,17 +191,21 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "6c6067b4dc6c1dff",
+  "active": "7ed626f56eb8fdf8",
   "lastOpenFiles": [
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/IF Statement.md",
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/FOR Loop.md",
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Conditional Statements.md",
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/CASE Statement.md",
     "NSCC/Winter Semester 2024/Server Exploits/Module 4/Linux Privilege Escalation Part 1 (1).pdf",
-    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Linux Privilege Escalation Part 2 (1).pdf",
     "NSCC/Winter Semester 2024/Server Exploits/Untitled 5.md",
+    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Assignment 4.pdf",
+    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Linux Privilege Escalation Part 2 (1).pdf",
     "NSCC/Winter Semester 2024/Server Exploits/Untitled 4.md",
     "NSCC/Winter Semester 2024/Server Exploits/Untitled 3.md",
     "NSCC/Winter Semester 2024/Server Exploits/Untitled 2.md",
     "NSCC/Winter Semester 2024/Server Exploits/Untitled 1.md",
     "NSCC/Winter Semester 2024/Server Exploits/Module 4/Linux Privilege Escalation Part 3.pdf",
-    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Assignment 4.pdf",
     "NSCC/Winter Semester 2024/Server Exploits/Module 4/Untitled 1/Untitled.md",
     "NSCC/Winter Semester 2024/Server Exploits/Module 4/Untitled 1/Untitled 1.md",
     "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Readings/Cracking Local Windows Passwords with MiMiKatZ, LSA Dump and HashCat.md",
@@ -256,9 +239,6 @@
     "NSCC/Winter Semester 2024/Windows Security/Untitled 1.md",
     "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Feb. 23rd - VPNs.md",
     "NSCC/Winter Semester 2024/Windows Security/Feb. 15th - File System.md",
-    "NSCC/Winter Semester 2024/Professional Practices for IT/Feb. 13th.md",
-    "NSCC/Winter Semester 2024/PowerShell Commands/Untitled.md",
-    "NSCC/Winter Semester 2024/Linux Scripting/Untitled.md",
     "NSCC/Winter Semester 2024/Untitled.canvas"
   ]
 }
