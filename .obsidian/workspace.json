@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSCC/Fall Semester 2023/Network Security/Nov. 1st 2023 - Network Security.md",
+                "file": "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/CASE Statement.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ddos",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSCC/Fall Semester 2023/Network Security/Nov. 1st 2023 - Network Security.md",
+                "file": "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/CASE Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSCC/Fall Semester 2023/Network Security/Nov. 1st 2023 - Network Security.md",
+                "file": "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/CASE Statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSCC/Fall Semester 2023/Network Security/Nov. 1st 2023 - Network Security.md"
+                "file": "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/CASE Statement.md"
               }
             }
           },
@@ -194,6 +193,14 @@
   },
   "active": "7ed626f56eb8fdf8",
   "lastOpenFiles": [
+    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 19th.md",
+    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 17th - AI (more depth).md",
+    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 17th - AI.md",
+    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 17th.md",
+    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 15th.md",
+    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 12th.md",
+    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 10th.md",
+    "NSCC/Fall Semester 2023/Network Security/Nov. 1st 2023 - Network Security.md",
     "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Feb. 9th.md",
     "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Cisco AAA.pdf",
     "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/ISEC2022-Assignment1-2024.pdf",
@@ -226,19 +233,12 @@
     "NSCC/Winter Semester 2024/Server Exploits/Module 5/Module 5 - Part 1 - Hardening Web Applications.md",
     "Pasted image 20240325104754.png",
     "2024-03-20.md",
-    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Untitled/Untitled.md",
-    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Untitled.md",
-    "NSCC/Winter Semester 2024/Linux Scripting/Port Scanning Challenge/Untitled.md",
-    "NSCC/Winter Semester 2024/Linux Scripting/Untitled 1.md",
-    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Untitled 2.md",
-    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Untitled 1.md",
     "Pasted image 20240226152109.png",
     "Pasted image 20240226152034.png",
     "Pasted image 20240226150324.png",
     "Pasted image 20240226145158.png",
     "Pasted image 20240226143428.png",
     "Pasted image 20240226143215.png",
-    "NSCC/Winter Semester 2024/Windows Security/Untitled.md",
     "NSCC/Winter Semester 2024/Untitled.canvas"
   ]
 }
