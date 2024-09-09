@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2f771897ad4f249d",
+        "id": "a1b24c03feb63678",
         "type": "tabs",
         "children": [
           {
-            "id": "e6a78ee869aabe6f",
+            "id": "88f5988a4bdc9710",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL Commands/User Roles and Privileges - Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "942bba9041804595",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MySQL Commands/Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47f4a822db87b5ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MySQL Reference Manual/MySQL Manual.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "921899eeeb0f17b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MySQL Commands/Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0825f4e0a1e4c75c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MySQL Commands/Untitled 1.md",
+                "file": "Dec. 5th - Data Security.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL Commands/Untitled 1.md",
+                "file": "Dec. 5th - Data Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL Commands/Untitled 1.md",
+                "file": "Dec. 5th - Data Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL Commands/Untitled 1.md"
+                "file": "Dec. 5th - Data Security.md"
               }
             }
           },
@@ -195,11 +147,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,12 +166,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "942bba9041804595",
+  "active": "867a14aa1315eb9b",
   "lastOpenFiles": [
-    "MySQL Reference Manual/MySQL Manual.md",
-    "MySQL Commands/Untitled 1.md",
-    "MySQL Reference Manual/MySQL-Commands-Cheat-Sheet-by-PhoenixNAP.pdf",
+    "Nov 20th - Relational Algerba.md",
     "MySQL Commands/User Roles and Privileges - Commands.md",
+    "MySQL Commands/Untitled 1.md",
+    "MySQL Reference Manual/MySQL Manual.md",
+    "MySQL Reference Manual/MySQL-Commands-Cheat-Sheet-by-PhoenixNAP.pdf",
     "MySQL Commands/TABLES.md",
     "MySQL Commands/Untitled.md",
     "MySQL Commands/Roles Assignment.md",
