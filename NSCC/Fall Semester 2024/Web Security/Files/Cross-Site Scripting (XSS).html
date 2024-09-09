@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+   <!-- Required meta tags -->
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+   <!-- Bootstrap CSS -->
+   <link rel="stylesheet" href="/shared/nscc/pages/../_assets/thirdpartylib/bootstrap-4.3.1/css/bootstrap.min.css">
+   <!-- Font Awesome CSS -->
+   <link rel="stylesheet" href="/shared/nscc/pages/../_assets/thirdpartylib/fontawesome-free-5.9.0-web/css/all.min.css">
+   <!-- Template CSS -->
+   <link rel="stylesheet" href="/shared/nscc/pages/../_assets/css/styles.min.css">
+   <link rel="stylesheet" href="/shared/nscc/pages/../_assets/css/custom.css">
+   <title>Blank Page</title>
+</head><body><div class="container-fluid">
+<div class="row">
+<div class="col-12 banner-img">
+<p><img src="/shared/nscc/pages/../_assets/img/banner_03.jpg" alt="banner"></p>
+</div>
+<div class="col-sm-10 offset-sm-1">
+<h1>About Cross Site Scripting (XSS)</h1>
+<p>Cross Site Scripting, as the name suggests is also a type of injection attack, specifically describing the vulnerability caused by the execution of script to a website, and these scripts are being executed on another user's computer/account.</p>
+<p>A typical SQL attack is caused by users' input not properly filtered/scrutinized/sanitized and is being executed on the server. Imagine if this injection does not affect the servers, but other users, this is what a cross-site scripting different from other forms of injection attack. XSS usually target cookies, session tokens or other sensitive information stored on the victim's browser.</p>
+<p>In short, XSS attacks are usually launched via</p>
+<ul>
+<li><strong>(Input/injected) </strong>Data received from the client side from an untrusted source, usually via web API (e.g. The GET/POST request discussed few weeks ago)</li>
+<li><strong>(Output)</strong> The data injected is sent to other users without being validated for malicious content</li>
+</ul>
+<p>There are three main types of XSS attacks (Web Application Security book and OWASP website)</p>
+<ol>
+<li>Stored (the code is stored on a database prior to execution)<br>A classic example of a stored XSS attack is in a discussion forum, a user injected some javascript code and is stored on the server. When other users view the content of the discussion thread, this script is being sent to the visitors and is executed. The code can be as simple as an alert message box or other malicious code.<br>As the name suggested, the code is being <span style="text-decoration: underline;">stored </span>on the remote server and is being sent to other users.</li>
+<li>Reflected (the code is not stored in a database, but reflected by a server)<br>Reflected XSS attack usually starts with some phishing technique. Victims receive an email/link which looks like it is from a trusted source. When the user access (e.g. click on the link/submit a form), the receiving end will then be considered as a "trusted" server and thus an attack can be launched.<br><br>From <a href="https://brightsec.com/blog/reflected-xss/">https://brightsec.com/blog/reflected-xss/</a><br><br>
+<p>Consider a social media site that requires users to authenticate to send and view messages. The website has a search function which displays the search string in the URL, like this:</p>
+<p><span style="font-family: 'courier new', courier, sans-serif;"><a href="http://socialize.com?query=">http://socialize.com?query=latest&amp;news</a></span><br><br>An attacker notices this and tries the following string as their search:</p>
+<p><span style="font-family: 'courier new', courier, sans-serif;">&lt;script type='text/javascript'&gt;alert('test');&lt;/script&gt;</span></p>
+<p>If the website does not properly sanitize inputs, this test script will appear in the URL, like this:</p>
+<p><span style="font-family: 'courier new', courier, sans-serif;"><a href="http://socialize.com?query=">http://socialize.com?query=</a>&lt;script type='text/javascript'&gt;alert('test');&lt;/script&gt;</span></p>
+</li>
+<li>DOM-based (code is both stored and executed in the browser)<br>While the reflected XSS may send malicious code to the users when they click on a specific link, DOM-based attack happens when the DOM tree of a webpage is being modified and causing data leakage. The table below compares the DOM-based and Reflected type XSS attack</li>
+</ol>
+<p><img src="https://pediaa.com/wp-content/uploads/2019/08/Difference-Between-DOM-Based-XSS-and-Reflected-XSS-Comparison-Summary.jpg" alt="DOM based vs Reflected xss" title="DOM based vs Reflected xss" data-d2l-editor-default-img-style="true" style="max-width: 100%;"></p>
+<p>In the textbook, a new type of XSS was also discussed (mXSS), we will explore that in the lesson.</p>
+</div>
+<div class="col-12"><footer>
+<p><img src="/shared/nscc/pages/../_assets/img/nscc.png" alt="nscc"></p>
+</footer></div>
+</div>
+</div>
+<p>
+<script src="/shared/nscc/pages/../_assets/thirdpartylib/jquery/jquery-3.3.1.slim.min.js"></script>
+<script src="/shared/nscc/pages/../_assets/thirdpartylib/popper-js/popper.min.js"></script>
+<script src="/shared/nscc/pages/../_assets/thirdpartylib/bootstrap-4.3.1/js/bootstrap.min.js"></script>
+</p>
+<!-- Template JavaScript -->
+<p>
+<script src="/shared/nscc/pages/../_assets/js/scripts.min.js"></script>
+</p></body></html>

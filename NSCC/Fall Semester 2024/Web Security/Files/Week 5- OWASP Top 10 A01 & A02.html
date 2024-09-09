@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+   <!-- Required meta tags -->
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+   <!-- Bootstrap CSS -->
+   <link rel="stylesheet" href="/shared/nscc/pages/../_assets/thirdpartylib/bootstrap-4.3.1/css/bootstrap.min.css">
+   <!-- Font Awesome CSS -->
+   <link rel="stylesheet" href="/shared/nscc/pages/../_assets/thirdpartylib/fontawesome-free-5.9.0-web/css/all.min.css">
+   <!-- Template CSS -->
+   <link rel="stylesheet" href="/shared/nscc/pages/../_assets/css/styles.min.css">
+   <link rel="stylesheet" href="/shared/nscc/pages/../_assets/css/custom.css">
+   <title>Basic Page</title>
+</head><body><div class="container-fluid">
+<div class="row">
+<div class="col-12 banner-img">
+<p><img src="/shared/nscc/pages/../_assets/img/banner_03.jpg" alt="banner"></p>
+</div>
+<div class="col-sm-10 offset-sm-1">
+<h1>Intro to Injection<br>Broken Access Control<br>Cryptographic Failure</h1>
+<p>In week 5 we will visit the topic on Injection and also two vulnerabilities in the OWASP top 10 2021 list- Broken Access Control and Cryptographic Failure.</p>
+<h2>Injection</h2>
+<p><img src="https://owasp.org/www-project-top-ten/assets/images/mapping.png" alt="OWASP top 10 2017 &amp; 2021" title="OWASP top 10 2017 &amp; 2021" data-d2l-editor-default-img-style="true" style="max-width: 100%;"></p>
+<p>In 2023, the order of the top 10 vulnerabilities have remained the same as in 2021.</p>
+<p>Injection describes an attack using unintended use of request, commands and code to the original version and obtain control of remote system to change access control and create further data and security breach in the system.<br>In the <em>Web Application Security</em> book, the author group the attacks to two main categories: Code Injection (including SQL injection) and Command Injection (elevated form of code injection, targeting the host OS). A comprehension table can also be found on IBM's webpage (<a href="https://www.ibm.com/docs/en/snips/4.6.0?topic=categories-injection-attacks">https://www.ibm.com/docs/en/snips/4.6.0?topic=categories-injection-attacks</a>) listing common injection attacks.<br>Example on PHP + MySQL code: <a href="https://www.w3schools.com/php/php_mysql_select.asp">https://www.w3schools.com/php/php_mysql_select.asp</a></p>
+<p><video title="Juice Shop- Login Admin Demo" width="400" height="300" controls="controls">
+	<source src="2022-10-02%2005-46-58.mp4" type="video/mp4">
+</video> <br><br>SQL injection was illustrated in this demo. By including a single quote in the email, we managed to trigger an error message which was fully reported in the http response (reference: <a href="https://www.briskinfosec.com/blogs/blogsdetail/While-testing-sql-injection-why-do-testers-frequently-use-single-quotes#:~:text=When%20a%20single%20quote%20is,special%20meaning%20in%20the%20database.">when testing sql injection why do testers frequently use single quote</a>). It shown how the user's input (email + password) were being included in a formatted SQL query in the backend. Through including "OR true" and the double dash "--" to comment out the rest of the query. The first user in the database was being returned in the SQL query in the login procedure. This gave us admin access.</p>
+<p>This example also specifically demonstrated why SQL injection is one of the most commonly used injection technique. PHP, HTML form and SQL are usually used together, many older implementation of PHP sql query were not validated or scrutinized properly before being incorporated in a database query, and create a system with vulnerability.&nbsp;</p>
+<h2>Broken Access Control</h2>
+<p>As the name suggested, broken access control attacks target the access control mechanism of the system. Access control exists in almost all systems with more than one level of access right. For instance, in BrightSpace, a user can be an instructor or a student in a particular course.&nbsp; Broken access control allows attacker to access the system as another user (similar access rights) or even an administrator (with higher access rights).<br><br>When a user gain unauthorized access through a system flaw and act as another user with same level of permissions, it is referred to as a "horizontal privilege escalation". Using Brightspace as an example, if you have access to your classmate's account without proper authorization, this can be an example of horizontal privilege escalation.&nbsp;</p>
+<p>In contrast, the "vertical privilege escalation" refers to escalation of user's access level to a different level, usually to higher levels or access to different part of the system.</p>
+<p>One general principal that can help preventing this kind of attack is the principle of least privilege/deny by default. i.e. if there's no reason to give access, deny by default.<br><br>An example of Broken Access Control (Facebook, 2015)- <a href="https://thezerohack.com/hacking-facebook-pages">https://thezerohack.com/hacking-facebook-pages</a></p>
+<h2>Cryptographic Failure</h2>
+<p>Previously known as Sensitive Data Exposure in the OWASP Top 10 (2017), Cryptographic failure refers to any systems failed to protect sensitive data via (or the lack of) cryptography.&nbsp; A classic example of the lack of cryptography protection that caused data leakage will be the use of http instead of https, which allow sensitive information such as username and password to be transmitted in plain text and read by any third party in the transmission process to retrieve.&nbsp;</p>
+<p>Other examples including the use of older, and publicly compromised encryption method such as MD5 or SHA1 hash function. (Reference: <a href="https://www.freecodecamp.org/news/md5-vs-sha-1-vs-sha-2-which-is-the-most-secure-encryption-hash-and-how-to-check-them/">Intro to Hashing, MD5 and SHA1</a>)</p>
+<div class="card card-graphic">
+<div class="card-body">In the second class this we will be working on the Juice Shop challenge on Broken Access Control. <a rel="noopener" href="https://demo.owasp-juice.shop/#/hacking-instructor?challenge=View%20Basket" style="background-color: #ffffff;"></a></div>
+<div class="card-body"><a rel="noopener" href="https://demo.owasp-juice.shop/#/hacking-instructor?challenge=View%20Basket" style="background-color: #ffffff;">View Basket</a>&nbsp;&nbsp;<br><a rel="noopener" href="https://demo.owasp-juice.shop/#/hacking-instructor?challenge=Forged%20Feedback" style="background-color: #ffffff;">Forged Feedback</a><br><br></div>
+</div>
+<p><a href="https://documentation.brightspace.com/EN/le/html_editor/instructor/html_editor_intro.htm?tocpath=Instructors%7CSet%20up%20and%20deliver%20a%20course%7CCreate%20course%20content%7CFormat%20HTML%20course%20content%7C_____0" target="_blank" rel="noopener"><span class="sr-only">(this link opens in a new window/tab)</span></a></p>
+</div>
+<div class="col-12"><footer>
+<p><img src="/shared/nscc/pages/../_assets/img/nscc.png" alt="nscc"></p>
+</footer></div>
+</div>
+</div>
+<p>
+<script src="/shared/nscc/pages/../_assets/thirdpartylib/jquery/jquery-3.3.1.slim.min.js"></script>
+<script src="/shared/nscc/pages/../_assets/thirdpartylib/popper-js/popper.min.js"></script>
+<script src="/shared/nscc/pages/../_assets/thirdpartylib/bootstrap-4.3.1/js/bootstrap.min.js"></script>
+</p>
+<!-- Template JavaScript -->
+<p>
+<script src="/shared/nscc/pages/../_assets/js/scripts.min.js"></script>
+</p></body></html>

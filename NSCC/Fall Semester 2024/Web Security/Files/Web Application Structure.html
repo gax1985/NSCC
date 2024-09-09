@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+   <!-- Required meta tags -->
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+   <!-- Bootstrap CSS -->
+   <link rel="stylesheet" href="/shared/nscc/pages/../_assets/thirdpartylib/bootstrap-4.3.1/css/bootstrap.min.css">
+   <!-- Font Awesome CSS -->
+   <link rel="stylesheet" href="/shared/nscc/pages/../_assets/thirdpartylib/fontawesome-free-5.9.0-web/css/all.min.css">
+   <!-- Template CSS -->
+   <link rel="stylesheet" href="/shared/nscc/pages/../_assets/css/styles.min.css">
+   <link rel="stylesheet" href="/shared/nscc/pages/../_assets/css/custom.css">
+   <title>Basic Page</title>
+</head><body><div class="container-fluid">
+<div class="row">
+<div class="col-12 banner-img">
+<p><img src="/shared/nscc/pages/../_assets/img/banner_03.jpg" alt="banner" width="910" height="119"></p>
+</div>
+<p></p>
+<ul>
+<li class="col-sm-10 offset-sm-1">
+<h1>Week 2- Intro to Web App Security + Setting up<br><span style="font-size: 12px;">[Last edit: 9/11/2023]</span></h1>
+</li>
+<li class="col-sm-10 offset-sm-1">
+<p>To-do list this week</p>
+<ul>
+<li class="col-sm-10 offset-sm-1">Read Chapter 1 from the textbook</li>
+<li class="col-sm-10 offset-sm-1">Complete Quiz 1- History of Software Security</li>
+<li class="col-sm-10 offset-sm-1">Prepare a VM (Kali/Ubuntu LTS) for this course</li>
+<li class="col-sm-10 offset-sm-1">Setup AMP stack in the VM</li>
+<li class="col-sm-10 offset-sm-1">Setup Node.js (with NPM and NVM) in the VM</li>
+<li class="col-sm-10 offset-sm-1">Setup Juice Shop in the VM</li>
+</ul>
+</li>
+<li class="col-sm-10 offset-sm-1">
+<p>In the book <em>Web Application Security-Exploitation and Countermeasures for Modern Web Applications&nbsp;</em>(textbook of this course), the author discussed Web security in three main parts: Recon, Offense and Defense. In the first week, we will go over the structure of a modern web application (briefly, we will go deeper in week 3), the history of software security, resources and assessments we will be using in this course, and setting up the environment.</p>
+<ol>
+<li>Modern Web Application Structure<br>Reference: <a href="https://hackr.io/blog/web-application-architecture-definition-models-types-and-more">https://hackr.io/blog/web-application-architecture-definition-models-types-and-more</a><br><br><img src="https://hackr.io/blog/web-application-architecture-definition-models-types-and-more/thumbnail/large?ezimgfmt=ng%253Awebp%252Fngcb1%252Frs%253Adevice%252Frscb1-1" alt="Web App Architecture" title="Web App Architecture" width="697" height="389"><br><br>A simple overview of a modern day web application (webpage/mobile app). On the client side, users can see the rendering of the content and interact with it via user interfaces such as dropdown menu, buttons, textfield...etc. This is usually done via JavaScript (in browsers/web view on a webapp). The data exchange between the client and the server is usually done via HTML (static content), AJAX (request from client to server), and JSON (usually for data interchange). It's worth to note that with the almost defacto requirement on the use of HTTPS, the communication between the client and server is usually encrypted.<br><br>On the server side, a modern day web app usually requires more than just a static html page. The web server usually connects with database and other related credential validation services and backend.&nbsp;<br><br>It is obvious that security issues may present in any part in this stack. In this course we will learn how different security vulnerabilities in different part of the system.&nbsp;</li>
+<li>History of Software Security<br>As you may have learned from other courses, hacking started whenever security measures were put into place. Put the physical hacking (e.g. lock picking, social engineering..etc) aside, the Enigma Machine can be a good starting point for the discussion of "software" hacking.<br><br>The Enigma Machine was used in WWII and by changing its configuration, the code can be encrypted differently using the same machine, which shares a lot of similarities on modern day "software" (except the configuration was done by changing the physical (mechanical) arrangement, so it is still on the hardware level).<br><br>Another important aspect of the Enigma Machine is the code breaking process by the alliance during WWII. Details can be found from the book, but in short another machine and algorithm was being used for breaking the code, i.e. automated enigma code cracking (~1940). The&nbsp;<em>bombe</em> machine was first built by the Hungarians and latter on the idea was further developed by Alan Turing and the team of researchers in the Bletchley Park in the UK. This machine crack the code by running 20,000 possible machine configurations in around 20 minutes. It is known as&nbsp;<a href="https://www.sciencedirect.com/topics/computer-science/plaintext-attack"><em>known plaintext attack</em> (KPA).</a><br><br>As technology advanced, different ways of accessing technologies through security flaws and their countermeasures became a routine plot. The phone "phreaking" (~1950)- "anti-phreaking technology through DTMF" (~1960) is a classic example before the age of computer. The first convicted hacker in the US- Robert Morris released the first virus outside of research lab, a "worm" that will infect computers through many flaws which are still popular today, including software flaw, weak password and configuration errors. <a href="https://www.hypr.com/security-encyclopedia/morris-worm">Learn more about the Morris worm</a>.<br><br>2000s was considered to be the age of the rise of the World Wide Web (WWW), with the widespread use of website and browser technology. Instead of distributing virus and physical hacking into systems, www and the internet provided means for different types of attacks. One critical point was the use of web technology for mission critical tasks to be done on general computers (e.g. e-banking).<br><br>Web (application) security is only one facet in cybersecurity, and in this course we will focus on this widespread, and potentially extremely costly facet.&nbsp;</li>
+<li>Resource we will be using in this course<br>We will mainly be using 3 different resources in this course<br>
+<ul>
+<li>Textbook: <a href="https://www.oreilly.com/library/view/web-application-security/9781492053101/">Web Application Security</a> by Andrew Hoffman<br>Most of the quizzes are related to the content from this book. It will be used to serve as the structure of this course, and each week we will go over part of it together, and discuss related examples and their connection with the OWASP top 10 list.</li>
+<li>OWASP top 10 list of web application vulnerabilities (2017 &amp; 2021) &amp; <a href="https://www.hacksplaining.com/" title="Hacksplaining.com">Hacksplaining.com</a><br>The OWASP Top 10 list of security issues is based on consensus among the developer community of the top security risks. We will learn about different categories of the 2017 and 2021 version, and compare how things changed over the years and their impacts.&nbsp;<br>There are 5 assignments in this course, all of them are related to the OWASP top 10 list.&nbsp;<br><a href="https://www.hacksplaining.com/owasp" target="_blank" rel="noopener">Hacksplaining</a> is a website with a lot of useful tutorials and information about different hacking approaches and the mitigation and prevention of them. There is a <a href="https://www.hacksplaining.com/owasp" target="_blank" rel="noopener">OWASP section on hacksplaining</a> and the assignments were designed to work with these tutorials.</li>
+<li>Juice Shop - an insecure web application designed for learning different kinds of security issues<br>Juice Shop is an application based on the popular Node.js technology, so it is largely based on JavaScript. We will learn how to install it [<a href="https://pwning.owasp-juice.shop/companion-guide/snapshot/part1/running.html#_local_installation" title="">Installation note</a>- refer to the Local Install Section] (and to understand a Web Application Structure) and this will be used throughout the course and will be referenced in the assignments.</li>
+</ul>
+</li>
+<li>Setting up the environment<br>You are recommended to use a Linux VM (Ubuntu LTS/Kali) in this course, particularly for the Juice Shop setup. We will go over how to install an AMP stack (Apache, MySQL and PHP), and Node.js environment (including NPM and NVM for package management and version management).&nbsp;</li>
+</ol>
+<div class="card card-graphic">
+<div class="card-body">
+<div class="card-icon"><span class="fas fa-exclamation"></span></div>
+<div class="card-text">
+<p>Useful resources for this week</p>
+<ul>
+<li><a href="https://owasp.org/www-project-top-ten/">https://owasp.org/www-project-top-ten/</a></li>
+<li><a href="https://www.hacksplaining.com/owasp">https://www.hacksplaining.com/owasp</a></li>
+<li><a href="https://betterprogramming.pub/how-to-install-lamp-stack-on-kali-linux-183fa4f48d16" target="_blank" rel="noopener">Installing AMP Stack on Kali</a>
+<ul>
+<li>Under point 4 of the installation process, swap the order of the two steps. You'd need to install mysql server before running it!</li>
+<li style="color: rgb(205, 32, 38);"><span style="color: rgb(205, 32, 38);">It is possible that MariaDB (or mySQL) is already installed but that it is not running. In such a case, please run:<strong> systemctl start mysqld</strong></span></li>
+<li style="color: rgb(205, 32, 38);"><span style="color: rgb(205, 32, 38);">Also, it is possible that the latest version of PHP is already installed.</span></li>
+</ul>
+</li>
+<li><a href="https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions" target="_blank" rel="noopener">Installing Node.js on Debian Linux Distro</a>
+<ul>
+<li style="font-weight: bold; color: rgb(205, 32, 38);"><span style="color: rgb(205, 32, 38);"><strong>For Kali, simply type:</strong></span><br><span style="color: rgb(205, 32, 38);"><strong>sudo apt install nodejs</strong></span></li>
+</ul>
+</li>
+<li><a href="https://pwning.owasp-juice.shop/companion-guide/snapshot/part1/running.html#_local_installation" title="">Installing Juice Shop (Refer to the Local installation section)</a></li>
+</ul>
+</div>
+</div>
+</div>
+<p><a href="https://documentation.brightspace.com/EN/le/html_editor/instructor/html_editor_intro.htm?tocpath=Instructors%7CSet%20up%20and%20deliver%20a%20course%7CCreate%20course%20content%7CFormat%20HTML%20course%20content%7C_____0" target="_blank" rel="noopener"><span class="sr-only">(this link opens in a new window/tab)</span></a></p>
+</li>
+</ul>
+<div class="col-12"><footer>
+<p><img src="/shared/nscc/pages/../_assets/img/nscc.png" alt="nscc"></p>
+</footer></div>
+</div>
+</div>
+<p>
+<script src="/shared/nscc/pages/../_assets/thirdpartylib/jquery/jquery-3.3.1.slim.min.js"></script>
+<script src="/shared/nscc/pages/../_assets/thirdpartylib/popper-js/popper.min.js"></script>
+<script src="/shared/nscc/pages/../_assets/thirdpartylib/bootstrap-4.3.1/js/bootstrap.min.js"></script>
+</p>
+<!-- Template JavaScript -->
+<p>
+<script src="/shared/nscc/pages/../_assets/js/scripts.min.js"></script>
+</p></body></html>

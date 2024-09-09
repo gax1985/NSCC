@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+   <!-- Required meta tags -->
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+   <!-- Bootstrap CSS -->
+   <link rel="stylesheet" href="/shared/nscc/pages/../_assets/thirdpartylib/bootstrap-4.3.1/css/bootstrap.min.css">
+   <!-- Font Awesome CSS -->
+   <link rel="stylesheet" href="/shared/nscc/pages/../_assets/thirdpartylib/fontawesome-free-5.9.0-web/css/all.min.css">
+   <!-- Template CSS -->
+   <link rel="stylesheet" href="/shared/nscc/pages/../_assets/css/styles.min.css">
+   <link rel="stylesheet" href="/shared/nscc/pages/../_assets/css/custom.css">
+   <title>Basic Page</title>
+</head><body><div class="container-fluid">
+<div class="row">
+<div class="col-12 banner-img">
+<div class="container-fluid">
+<div class="row">
+<div class="col-12 banner-img">
+<p><img src="/shared/nscc/pages/../_assets/img/banner_03.jpg" alt="banner"></p>
+</div>
+<div class="col-sm-10 offset-sm-1">
+<h1>Structure of a Modern Web Application</h1>
+<p>The book we use proposes a 3-step process to understanding Web Application Security: Recon, Offense and Defense. In order to evaluate a web app for recon purposes, we need to understand how a modern web application works. In chapter 3, it covers some key components and technologies used in modern web applications.</p>
+<h2>Modern vs Legacy</h2>
+<table border="1" style="border-collapse: collapse; width: 100.77%; height: 431.656px;">
+<tbody>
+<tr style="height: 50.0938px;">
+<td style="width: 50.0008%; text-align: center; height: 50.0938px;"><strong>Legacy Web Application</strong></td>
+<td style="width: 50.0008%; text-align: center; height: 50.0938px;"><strong>Modern Web Application</strong></td>
+</tr>
+<tr style="height: 166.219px;">
+<td style="width: 50.0008%; height: 166.219px;">Usually rely on server-side application to render and generate HTML/JS/CSS. No automatic update until the client sends another request. A page's content will usually only refresh when the user click on a button or manually "reload" the page.</td>
+<td style="width: 50.0008%; height: 166.219px;">The page is constantly updated via the AJAX technology (Asynchronous JavaScript and XML). The communication between the server and the client happens constantly whether the user send a request or not. An example is the Gmail interface. When a new email has arrived, you don't need to refresh the page but a new email will appear on the screen.</td>
+</tr>
+<tr style="height: 178.781px;">
+<td style="width: 50.0008%; height: 178.781px;">Single monolithic application</td>
+<td style="width: 50.0008%; height: 178.781px;">A combination of multiple applications communicating via a network protocol (i.e. the use of REST API)<br><br>
+<ul>
+<li><a href="https://www.w3schools.com/js/js_api_intro.asp"><span style="font-size: 16px;">What are Web APIs (Application Programming Interface)?</span></a></li>
+<li><a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api"><span style="font-size: 16px;">What is REST API?</span></a></li>
+</ul>
+</td>
+</tr>
+<tr style="height: 18.25px;">
+<td style="width: 50.0008%; height: 18.25px;">Main technology/protocols used:<br>HTML, CSS, JS</td>
+<td style="width: 50.0008%; height: 18.25px;">Popular and key components/protocols used<br>REST API<br>JSON or XML<br>JavaScript (JS)<br>SPA (Single Page Application) frameworks (React, Vue, AngularJS..)<br>Authentication /authorization system (e.g. SSO)<br>One or modern web servers (usually hosted in the cloud)<br>One or more web server packages (e.g. Apache, NginX, node.js)<br>One or more databases (MySQL, MSSQL, MongoDB)<br>Local data store on the client machine (usually in the browser cache via cookies, web storage, IndexDB)</td>
+</tr>
+</tbody>
+</table>
+<p><strong style="font-size: 16px;"></strong></p>
+<h2><span style="font-size: 19px;"><strong>REST APIs</strong></span></h2>
+API stands for <strong>A</strong>pplication <strong>P</strong>rogramming <strong>I</strong>nterfaces, and REST APIs stands for <em>Representational State Transfer&nbsp;</em>APIs. What it essentially does is provide a way for developers to interact with an application without having direct access to the application source code. Imagine you are trying to read a piece of data on a Google Doc. You can choose to use the browser to view it for sure, but if you are trying to write an application that reads data from hundreds of Google Doc, you will probably try to find a programmatically way to do it. Instead of accessing the database on Google or modify the code of Google Doc (I don't think Google will let you do it). Programmers can utilize the APIs provided by the service provide (i.e. Google, Facebook, Microsoft...) to access the services. In the Google Doc example, Google provides a Google Doc API for developers to access the Google Doc services (<a href="https://developers.google.com/docs/api">https://developers.google.com/docs/api</a>)Compare with other APIs, REST APIs has the following characteristics/requirements (see <a href="https://blog.postman.com/rest-api-examples/">https://blog.postman.com/rest-api-examples/</a> for details and examples)<br><br><br></div>
+<div class="col-sm-10 offset-sm-1">
+<ul>
+<li>Uniform Interface</li>
+<li>Stateless</li>
+<li>Cacheable</li>
+<li>Client-Server based</li>
+<li>Layered System</li>
+<li>Code on Demand (optional)</li>
+</ul>
+<p><img src="Screenshot%202022-09-19%20at%203.22.54%20PM.png" alt="A brief history of REST API" title="A brief history of REST API" width="583" height="509"></p>
+Reference: <a href="https://blog.postman.com/rest-api-examples/">https://blog.postman.com/rest-api-examples/</a></div>
+<div class="col-sm-10 offset-sm-1">We will try REST API in the lesson by using&nbsp;<a href="https://explore.postman.com/templates/7912/public-rest-apis" title="postman.com">postman.com</a> (a platform for using and developing web API).&nbsp;<br><br>You can access some public REST API available on Postman.com via this link<br><a href="https://www.postman.com/cs-demo/workspace/public-rest-apis/overview">https://www.postman.com/cs-demo/workspace/public-rest-apis/overview</a></div>
+<div class="col-sm-10 offset-sm-1">
+<h2><span style="font-size: 19px;"><strong>JSON</strong></span></h2>
+REST APIs focuses on the communication between the client and the server (and server mapping for different services). The data exchange between the client and the server usually use JSON format.</div>
+<div class="col-sm-10 offset-sm-1">JSON stands for JavaScript Object Notation. In essence, it is nothing more than a syntax (grammatical) definition of how data should be formatted and described. Instead of using arbitrary text files or complex document model (e.g. HTML Document Object Model), JSON has the following advantages&nbsp;<br><br></div>
+<p></p>
+<div class="col-sm-10 offset-sm-1">- Very lightweight (reduce bandwidth)</div>
+<div class="col-sm-10 offset-sm-1">- Requires little parsing (i.e. requires less computational resources for extracting and formatting data during the communication)</div>
+<div class="col-sm-10 offset-sm-1">- Easily human readable</div>
+<div class="col-sm-10 offset-sm-1">- Hierarchical</div>
+<div class="col-sm-10 offset-sm-1">- Resemble JavaScript object used in JavaScript (!), makes it easier to handle within browser (JS is native for most modern day browsers)</div>
+<div class="col-sm-10 offset-sm-1">
+<div class="col-sm-10 offset-sm-1"></div>
+<div class="col-sm-10 offset-sm-1">An example of JSON and how it can be parsed in JS object in a browser</div>
+<div class="col-sm-10 offset-sm-1">
+<table border="1" style="border-collapse: collapse; width: 100.018%;">
+<tbody>
+<tr>
+<td style="width: 49.9362%;">
+<p><img src="json1.png" alt="JSON Sample" title="JSON Sample" data-d2l-editor-default-img-style="true" style="max-width: 100%;"></p>
+<p style="text-align: center;">Sample JSON</p>
+</td>
+<td style="width: 49.9379%;">
+<p><img src="json2.png" alt="Parsed JSON" title="Parsed JSON" data-d2l-editor-default-img-style="true" style="max-width: 100%;"></p>
+<p style="text-align: center;">Parsing the JSON data to a JavaScript Object in the browser using JS.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="col-sm-10 offset-sm-1"></div>
+<div class="col-sm-10 offset-sm-1"></div>
+</div>
+<div class="col-sm-10 offset-sm-1">
+<p><a href="https://documentation.brightspace.com/EN/le/html_editor/instructor/html_editor_intro.htm?tocpath=Instructors%7CSet%20up%20and%20deliver%20a%20course%7CCreate%20course%20content%7CFormat%20HTML%20course%20content%7C_____0" target="_blank" rel="noopener"><span class="sr-only">(this link opens in a new window/tab)</span></a></p>
+</div>
+</div>
+<p class="col-sm-10 offset-sm-1" style="text-align: center;"><strong><span style="font-size: 19px; color: #4a8f00;">JavaScript</span></strong></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: left;"><span style="font-size: 16px;">JavaScript is the programming language usually supported natively by modern browsers. The book provides a very quick overview of the syntax in JavaScript. You can run most of the code in the browser.</span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: left;"><span style="font-size: 16px;">A key feature of JavaScript is its ability to create and modify Document Object Model (DOM), which is the model used by browsers to represent HTML, the webpages we see in the browser.</span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: left;"><span style="font-size: 16px;">If you want to learn more about JavaScript, I highly recommend the JavaScript tutorial on w3schools.com</span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: left;"><span style="font-size: 16px;">Apart from the common topics in most computer languages (e.g.&nbsp; Variable scopes, Functions), there are five things which are particularly critical for JavaScript.</span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: left;"><span style="font-size: 16px;">Scope, context, prototypal inheritance, asynchrony and browser DOM</span><br><br><span style="text-decoration: underline; font-size: 16px;"><em>Scope and context</em></span><br><iframe width="560" height="315" src="https://www.youtube.com/embed/hDT3IbvH-9I?wmode=opaque&amp;rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: left;">Asynchrony or Asynchronism<br><span style="font-size: 16px;">Asynchrony basically refers to how things are requested, processed and responded NOT in a FIFO (First In First Out), order due to the nature of Web Technology.</span><br><span style="font-size: 16px;">Imagine a client (browser) that makes requests to the remote server, due to network conditions, the requests and responses may happen in an out-of-order fashion.&nbsp;</span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: left;"><span style="font-size: 16px;"><span style="text-decoration: underline;">Browser DOM<br></span>DOM refers to Document Object Model which is the hierarchical representation of data (usually rendered in the form of a web page) in a modern web browser. Simply visit any website and "view source", you will see how a typical website comes with at least the following three component &lt;html&gt;, &lt;head&gt; and &lt;body&gt;&nbsp;<span style="text-decoration: underline;"><strong><br></strong></span></span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: left;"><span style="font-size: 16px;"><span style="text-decoration: underline;">SPA Framework<br></span>SPA stands for Single Page Application. In most legacy web applications and websites, the combination of HTML/CSS/JS and AJAX requests through REST APIs can provide a lot of many powerful functionality. However without a standard way of combining these technologies, the resulting code base can be messy and difficult to understand.&nbsp;</span><br><span style="font-size: 16px;">SPA Frameworks aims at providing a structure for creating desktop-application functionality in a Web application. It allows web application to easily create internal-state with reusable UI components, and has defined ways of lifecycle management and rendering logic.</span><br><span style="font-size: 16px;">VUE, React.js and Angular.js are probably the three most popular SPA frameworks for Web App development.</span><br><span style="font-size: 16px;">Extended reading: <a href="https://theappsolutions.com/blog/development/vue-angular-react-comparison/" target="_blank" rel="noopener">Comparison between VUE, React and Angular</a></span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: left;"></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: center;"><span style="color: #027a21;"><strong>Authentication and Authorization Systems</strong></span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: left;"><span style="font-size: 16px;"><span style="color: #202122;">First off, what are the differences between authentication and authorization? </span><span style="color: #202122;">In a nutshell...</span></span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: left;"><span style="color: #202122; font-size: 16px;">Authentication: Identifying <strong>WHO</strong> the user is;</span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: left;"><span style="color: #202122; font-size: 16px;">Authorization: Identifying <strong>WHAT</strong> the user has access to.</span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: left;"><span style="color: #202122; font-size: 16px;">Instead of simple username/password authentication method and is easily compromised through different attacks. Later on encryption of these data and other techniques such as hashing help improving the security. Authentication architectures were also developed to provide functionalities such as Single Sign-On (SSO). An example is the varies options you can use to login to different website through the same credential (e.g. sign-in with Google/Apple/Microsoft/etc).</span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: left;"><span style="color: #202122; font-size: 16px;">After knowing WHO the user is, it is important to have a system that manage WHAT the user has access to. For instance, with the WebAPI, what kind of data can a user access and how frequently can they make requests to the system? These are all related to the authentication system.</span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: left;"><span style="color: #202122; font-size: 16px;">Authentication and authorization are related to OWASP Top 10 2021- <a href="https://owasp.org/Top10/A01_2021-Broken_Access_Control/">A01</a> and <a href="https://owasp.org/Top10/A07_2021-Identification_and_Authentication_Failures/">A07</a></span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: left;"></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: center;"><span style="color: #027a21;"><strong>Web Servers</strong></span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: left;"><span style="color: #202122; font-size: 16px;">Last week we spent some time setting up a web development environment. A key component is the web server package and stack. The Apache Web Server Package is a common component used by many servers for providing web services. Other popular web server packages include Nginx, Node.js, Microsoft IIs. Usually addon/extensions are created to add additional supports on these web server packages.&nbsp;</span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: center;"><span style="color: #027a21;"><strong>Server-Side and Client-Side Databases</strong></span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: left;"><span style="color: #202122; font-size: 16px;">When setting up the environment in the virtual machine, apart from Apache/Node.js, we also setup a Database (MySQL/MariaDB). This databases are installed on server side to keep data persistent. </span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: left;"><span style="color: #202122; font-size: 16px;">While keeping data on the server has the benefit of protecting the integrity of the data. It may not be the most efficient way as the data transfer requires a lot of data transmission. Some of the data from the website can be cached in the browser using local storage. It may contain varies form of information. Session storage is part of the local storage but is removed once the window/tab is closed.</span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: left;"><span style="color: #202122; font-size: 16px;">Apart from local storage, IndexDB serves as a local database which is queryable, similar to what SQL databases can do on the server side. To check if your browser supports this feature, you can type<strong><em> if (window.indexedDB) { console.log('true'); } </em></strong>in the browser developer tab.</span><span style="color: #202122; font-size: 16px;"></span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: left;"><span style="color: #202122; font-size: 16px;">Modern</span><span style="color: rgb(32, 33, 34); font-size: 16px;">&nbsp;web applications are expected to be dynamic and interactive, providing users with a seamless and responsive experience. Storing data in the browser is a fundamental aspect of building such applications.</span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: left;"><span style="color: rgb(32, 33, 34); font-size: 16px;">With</span><span style="color: rgb(32, 33, 34); font-size: 16px;">&nbsp;the advent of modern web technologies, web developers now have access to various ways of storing data in the browser.</span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: left;"><span style="color: rgb(32, 33, 34); font-size: 16px;">E</span><span style="color: rgb(32, 33, 34); font-size: 16px;">ach storage option has its advantages and disadvantages, and choosing the right one can make a significant difference in the performance and user experience of the web application. *</span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: center;"><span style="color: #027a21;"><strong>Summary</strong></span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: center;"><span style="color: #027a21;"><span style="color: #202122; font-size: 16px;">In this chapter we had a quick overview of some major components and technologies used by Web Developers for developing web applications. Every single part of this technology stack may contain some security issues, and they can be exploited by attackers. Instead of being an expert in all these technologies, knowing how they work together can help identifying the issue and hopefully, preventing potential attack and mitigate the damage when such attack happens.</span></span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: center;"><span style="color: #027a21;"><strong>Useful Resources</strong></span></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: center;"><a href="https://theappsolutions.com/blog/development/vue-angular-react-comparison/">https://theappsolutions.com/blog/development/vue-angular-react-comparison/</a></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: center;"><a href="https://www.postman.com">https://www.postman.com</a></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: center;"><a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api">https://www.redhat.com/en/topics/api/what-is-a-rest-api</a></p>
+<p class="col-sm-10 offset-sm-1" style="text-align: center;">* <a href="https://blog.bitsrc.io/different-ways-to-store-data-in-browser-706a2afb4e58">https://blog.bitsrc.io/different-ways-to-store-data-in-browser-706a2afb4e58</a></p>
+</div>
+</div>
+<p>
+<script src="/shared/nscc/pages/../_assets/thirdpartylib/jquery/jquery-3.3.1.slim.min.js"></script>
+<script src="/shared/nscc/pages/../_assets/thirdpartylib/popper-js/popper.min.js"></script>
+<script src="/shared/nscc/pages/../_assets/thirdpartylib/bootstrap-4.3.1/js/bootstrap.min.js"></script>
+</p>
+<p><!-- Template JavaScript --></p>
+<p>
+<script src="/shared/nscc/pages/../_assets/js/scripts.min.js"></script>
+</p>
+</div>
+</div>
+</div>
+<p>
+<script src="/shared/nscc/pages/../_assets/thirdpartylib/jquery/jquery-3.3.1.slim.min.js"></script>
+<script src="/shared/nscc/pages/../_assets/thirdpartylib/popper-js/popper.min.js"></script>
+<script src="/shared/nscc/pages/../_assets/thirdpartylib/bootstrap-4.3.1/js/bootstrap.min.js"></script>
+</p>
+<!-- Template JavaScript -->
+<p>
+<script src="/shared/nscc/pages/../_assets/js/scripts.min.js"></script>
+</p></body></html>

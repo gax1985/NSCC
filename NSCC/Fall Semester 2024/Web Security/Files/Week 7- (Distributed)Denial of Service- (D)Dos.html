@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+   <!-- Required meta tags -->
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+   <!-- Bootstrap CSS -->
+   <link rel="stylesheet" href="/shared/nscc/pages/../_assets/thirdpartylib/bootstrap-4.3.1/css/bootstrap.min.css">
+   <!-- Font Awesome CSS -->
+   <link rel="stylesheet" href="/shared/nscc/pages/../_assets/thirdpartylib/fontawesome-free-5.9.0-web/css/all.min.css">
+   <!-- Template CSS -->
+   <link rel="stylesheet" href="/shared/nscc/pages/../_assets/css/styles.min.css">
+   <link rel="stylesheet" href="/shared/nscc/pages/../_assets/css/custom.css">
+   <title>Blank Page</title>
+</head>
+
+<body>
+<div class="container-fluid">
+<div class="row">
+<div class="col-12 banner-img">
+<p><img src="/shared/nscc/pages/../_assets/img/banner_03.jpg" alt="banner"></p>
+</div>
+<div class="col-sm-10 offset-sm-1">
+<h1>Denial of Service (DoS)</h1>
+<p>In Week 7 we will go over a very well known attack- denial of service (DoS). The most popular form of this attack is probably Distributed Denial of Service (DDoS), which involve the coordination of a huge number of devices to make request to a web service and eventually "overflooding" the targeted server.</p>
+<p>In fact, DoS can appear in many forms, In chapter 14 of the Web Security book, several types were discussed, including DDoS, regex DoS (ReDoS) and Logical DoS. All these attacks have a shared goal- disturb the normal service provided.</p>
+<p></p>
+<p><strong>Regular Expression DoS (Regex DoS)</strong></p>
+<p>To understand&nbsp; what Regex DoS is, it is important to understand what Regular Express is. In a nutshell, regular expression is a way for identifying patterns from characters and strings.&nbsp;</p>
+<p>This page gives a lot of good example of how regular expression can be used for searching and matching different patterns.<br><a href="https://support.google.com/a/answer/1371417?hl=en">https://support.google.com/a/answer/1371417?hl=en</a><br><br>For example, if we want to look for any IP address within the range 192.168.1.0 to 192.168.1.255 in a log file, we can just use the "Find/Search" function in a text editor. However, if we want to do it programmatically, regular expression will be a very powerful tool as shown below (from the support.google.com page)</p>
+<table>
+<tbody>
+<tr>
+<th colspan="2">Match Any IP Address in a Range</th>
+</tr>
+<tr>
+<td><strong>Usage example</strong></td>
+<td>Match any IP address within the range&nbsp;<strong>192.168.1.0</strong>&nbsp;to&nbsp;<strong>192.168.1.255</strong>.</td>
+</tr>
+<tr>
+<td><strong>Regex examples</strong></td>
+<td><strong>Example 1:&nbsp;</strong>&nbsp; 192\.168\.1\.<br><strong>Example 2:</strong>&nbsp;&nbsp; 192\.168\.1\.\d{1,3}</td>
+</tr>
+<tr>
+<td><strong>Notes</strong></td>
+<td>
+<ul>
+<li style="list-style-type: none;">The \ before each period “escapes” the period—that is, it indicates that the period isn't a regex special character itself.</li>
+<li style="list-style-type: none;">In Example 1, no characters follow the last period, so the regex matches any IP address beginning with&nbsp;<strong>192.168.1.</strong>, regardless of the number that follows.</li>
+<li style="list-style-type: none;">In Example 2, \d matches any digit from&nbsp;<strong>0</strong>&nbsp;to&nbsp;<strong>9</strong>&nbsp;after the last period, and {1,3} indicates that the digits 1 to 3 can appear after that last period. In this case, the regex matches any complete IP address beginning with&nbsp;<strong>192.168.1.</strong>. This regex also matches invalid IP addresses, such as&nbsp;<strong>192.168.1.999</strong>.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><a href="https://regexr.com/">https://regexr.com/</a></p>
+<p></p>
+<p>How does this useful tool becomes a potential vulnerability?</p>
+<p>While regex is a powerful and usually efficient tool in searching for patterns. Some search pattern can cause a huge toll on the processing time when handling some patterns.</p>
+<p>In the book it talks about how a simple validation on the pattern&nbsp;<em>ab</em> can cause an issue when the entered string was&nbsp;<em>ababababa</em> , the last character&nbsp;<em>a</em> make the string invalid when being checked with regex, but every single possible pattern has to be checked recursively which cause an exponential (50 -100x) time for processing.&nbsp;</p>
+<p>Regex DoS attack is hard to identify as a regex vulnerability is hard to detect and may not happen until someone carefully craft an inquiry on a specific service.</p>
+<p><strong>Logical DoS&nbsp;</strong></p>
+<p>Logical DoS can appear in almost anywhere in the system. It covers all potential exploit of legitimate service usage which cause the drainage of available resources, this will make the service unavailable to other users, i.e. Denial of Service.</p>
+<p>The book listed out the following operations<br>• Any operation you can confirm operates synchronously<br>• Database writes<br>• Drive writes<br>• SQL joins<br>• File backups<br>• Looping logical operations</p>
+<p><br>We will complete an in-class exercise using the JuiceShop to explore this potential attack. We will make a remote request which aim at draining the remote server resource<br><a href="https://pwning.owasp-juice.shop/appendix/solutions.html#perform-a-remote-code-execution-that-would-keep-a-less-hardened-application-busy-forever">https://pwning.owasp-juice.shop/appendix/solutions.html#perform-a-remote-code-execution-that-would-keep-a-less-hardened-application-busy-forever</a><br><br><strong>Distributed DoS (DDoS)</strong></p>
+<p>Lastly, one of the most famous DoS attack is DDoS. A classic example was a group of user simply keep hitting the refresh key and make numerous request to refresh a page in a given time. This can certainly be executed programmatically by a simple javascript (<a href="https://www.w3schools.com/JSREF/met_loc_reload.asp">https://www.w3schools.com/JSREF/met_loc_reload.asp</a>). If the web service did not implement any filtering or protection for DDoS attack, the web server can easily be taken offline or become extremely slow due to this kind of attack.</p>
+<p>Additionally, by using other security vulnerabilities (i.e. broken security access, viruses...), a mass number of computers/devices can be compromise and become part of a bot net (zombie network), which may be used for attack either internally or externally.</p>
+<p><a href="https://www.cloudflare.com/en-gb/learning/ddos/what-is-a-ddos-botnet/">https://www.cloudflare.com/en-gb/learning/ddos/what-is-a-ddos-botnet/</a></p>
+<p>Before the in-class exercise, we will also revisit the the HTTP GET vs POST request (<a href="https://www.w3schools.com/tags/ref_httpmethods.asp">https://www.w3schools.com/tags/ref_httpmethods.asp</a>) and learn how they can be potentially used for DDoS</p>
+<p></p>
+</div>
+<div class="col-12"><footer>
+<p><img src="/shared/nscc/pages/../_assets/img/nscc.png" alt="nscc"></p>
+</footer></div>
+</div>
+</div>
+<p>
+<script src="/shared/nscc/pages/../_assets/thirdpartylib/jquery/jquery-3.3.1.slim.min.js"></script>
+<script src="/shared/nscc/pages/../_assets/thirdpartylib/popper-js/popper.min.js"></script>
+<script src="/shared/nscc/pages/../_assets/thirdpartylib/bootstrap-4.3.1/js/bootstrap.min.js"></script>
+</p>
+<!-- Template JavaScript -->
+<p>
+<script src="/shared/nscc/pages/../_assets/js/scripts.min.js"></script>
+</p>
+</body></html>

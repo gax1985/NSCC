@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body style="font-family: verdana, sans-serif;font-size: 12px;color: #202122;">
+<p><a href="https://www.kali.org/docs/containers/installing-docker-on-kali/">How to install Docker on Kali</a></p>
+<p>How to run Juice shop as a docker image</p>
+<h3 id="docker-image">Docker image (<a href="https://pwning.owasp-juice.shop/part1/running.html">https://pwning.owasp-juice.shop/part1/running.html</a>)</h3>
+<p>You need to have&nbsp;<a target="_blank" href="https://www.docker.com/" rel="noopener">Docker</a>&nbsp;installed to run Juice Shop as a container inside it. Following the instructions below will download the current stable version (built from&nbsp;<code>master</code>&nbsp;branch on GitHub) which internally runs the application on the currently recommended Node.js version 16.x.</p>
+<ol>
+<li>Install&nbsp;<a target="_blank" href="https://www.docker.com/" rel="noopener">Docker</a>&nbsp;on your computer.</li>
+<li>On the command line run&nbsp;<code>docker pull bkimminich/juice-shop</code>&nbsp;to download the&nbsp;<code>latest</code>&nbsp;image described above.</li>
+<li>Run&nbsp;<code>docker run -d -p 3000:3000 bkimminich/juice-shop</code>&nbsp;to launch the container with that image.</li>
+<li>Browse to&nbsp;<a target="_blank" href="http://localhost:3000/" rel="noopener">http://localhost:3000</a>.</li>
+</ol>
+<p>If you are using Docker on Windows - inside a VirtualBox VM - make sure that you also enable port forwarding from host&nbsp;<code>127.0.0.1:3000</code>&nbsp;to&nbsp;<code>0.0.0.0:3000</code>&nbsp;for TCP.</p>
+<p></p>
+<p>Running the challenge (using Docker)</p>
+<ul>
+<li>Run the docker image following the instructions above</li>
+<li>Visit <a href="https://localhost:3000/#/hacking-instructor?challenge=Score%20Board">https://localhost:3000/#/hacking-instructor?challenge=Score%20Board</a></li>
+<li>Visit <a href="https://localhost:3000/#/hacking-instructor?challenge=DOM%20XSS">https://localhost:3000/#/hacking-instructor?challenge=DOM%20XS</a>\</li>
+</ul>
+<p>Running the challenge (using the demo site- no installation is needed)</p>
+<p>Visit</p>
+<ul>
+<li><a href="https://demo.owasp-juice.shop/#/hacking-instructor?challenge=DOM%20XSS">https://demo.owasp-juice.shop/#/hacking-instructor?challenge=DOM%20XSS</a></li>
+<li><a href="https://demo.owasp-juice.shop/#/hacking-instructor?challenge=Score%20Board">https://demo.owasp-juice.shop/#/hacking-instructor?challenge=Score%20Board</a></li>
+</ul>
+<p></p>
+</body>
+</html>
