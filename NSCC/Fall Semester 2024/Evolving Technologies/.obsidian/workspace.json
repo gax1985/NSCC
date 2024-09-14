@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8a1052d8afe4898c",
+        "id": "496e5d282c7ce307",
         "type": "tabs",
         "children": [
           {
-            "id": "c8351d746177b73c",
+            "id": "42df4090bb655033",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe's Google Dorking.md",
+                "file": "Attacking/SSL Certificates.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 220.5
   },
   "right": {
     "id": "7ccc9dcf5d407447",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe's Google Dorking.md",
+                "file": "Attacking/SSL Certificates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe's Google Dorking.md",
+                "file": "Attacking/SSL Certificates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe's Google Dorking.md"
+                "file": "Attacking/SSL Certificates.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             }
           },
           {
-            "id": "e5cc5a0d31e5c105",
+            "id": "af2dc4a25c2541c6",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,37 +202,47 @@
       "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "c8351d746177b73c",
+  "active": "42df4090bb655033",
   "lastOpenFiles": [
-    "Lectures/Sept. 9th.md",
-    "Pasted image 20240909083642.png",
-    "Pasted image 20240909083558.png",
-    "Discovery/Maltego.md",
-    "Discovery/Recon-NG.md",
-    "Pasted image 20240908204135.png",
-    "Pasted image 20240908204116.png",
-    "Pasted image 20240908204104.png",
-    "Pasted image 20240908204051.png",
-    "Pasted image 20240908204037.png",
-    "Pasted image 20240908204026.png",
-    "Pasted image 20240908204016.png",
-    "Pasted image 20240908203353.png",
-    "Discovery/theHarvester.md",
-    "Discovery/Shodan.md",
+    "Attacking/Command & Control Center.md",
+    "Attacking/SSL Certificates.md",
+    "Attacking/Untitled",
+    "Phishing/Email Spoofing.md",
+    "Pasted image 20240911102626.png",
+    "Pasted image 20240911102110.png",
+    "Pasted image 20240911102051.png",
+    "Phishing/SMTP Relays.md",
+    "Pasted image 20240911101542.png",
+    "Attacking/Using Domains for Attacks.md",
+    "Phishing",
+    "Pasted image 20240911101130.png",
+    "Pasted image 20240911101047.png",
+    "Pasted image 20240911100618.png",
+    "Discovery/NMap.md",
+    "Attacking",
+    "Pasted image 20240911092014.png",
+    "Pasted image 20240911091917.png",
+    "Pasted image 20240911091514.png",
+    "Discovery/DNSRecon.md",
+    "Discovery/Dig.md",
+    "Discovery/Host.md",
+    "Discovery/Gobuster.md",
     "Discovery/Information Gathering.md",
+    "Discovery/Shodan.md",
+    "Discovery/Recon-NG.md",
+    "Discovery/Maltego.md",
+    "TryHackMe's Google Dorking.md",
+    "Lectures/Sept. 9th.md",
+    "Discovery/theHarvester.md",
     "Chats/New Chat.md",
     "Chats",
     "Welcome.md",
     "Discovery",
-    "TryHackMe's Google Dorking.md",
     "Files/Module 1 - Discovery (1).pdf",
     "Files/Introduction - ISEC2079_4084_Evolving Technologies and Threats(B)_Beard,Bryan_files/viewer.html",
     "Files/Introduction - ISEC2079_4084_Evolving Technologies and Threats(B)_Beard,Bryan_files/viewer.css",
     "Files/Introduction - ISEC2079_4084_Evolving Technologies and Threats(B)_Beard,Bryan_files/tti-polyfill-global.js.download",
     "Files/Introduction - ISEC2079_4084_Evolving Technologies and Threats(B)_Beard,Bryan_files/tock.min.js.download",
-    "Files/Introduction - ISEC2079_4084_Evolving Technologies and Threats(B)_Beard,Bryan_files/reset.css",
-    "Files/Introduction - ISEC2079_4084_Evolving Technologies and Threats(B)_Beard,Bryan_files/pdf.viewer.js.download",
-    "Files/Introduction - ISEC2079_4084_Evolving Technologies and Threats(B)_Beard,Bryan_files/js",
     "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 19th.md",
     "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 17th - AI (more depth).md",
     "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 17th - AI.md",
@@ -239,15 +250,6 @@
     "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 15th.md",
     "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 12th.md",
     "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 10th.md",
-    "NSCC/Fall Semester 2023/Network Security/Nov. 1st 2023 - Network Security.md",
-    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Feb. 9th.md",
-    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Untitled.md",
-    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 3.md",
-    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/IF Statement.md",
-    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/FOR Loop.md",
-    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Conditional Statements.md",
-    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/CASE Statement.md",
-    "NSCC/Winter Semester 2024/Server Exploits/Untitled 5.md",
     "NSCC/Winter Semester 2024/Untitled.canvas"
   ]
 }

@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4afcdad770382cfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sept 10th.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d6f922392c51640",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sept. 11th.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course Plan.md",
+                "file": "Sept. 11th.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course Plan.md",
+                "file": "Sept. 11th.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course Plan.md"
+                "file": "Sept. 11th.md"
               }
             }
           },
@@ -191,7 +215,7 @@
             }
           },
           {
-            "id": "102aa2270338e6c8",
+            "id": "3a13524d2eae92ec",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -199,11 +223,12 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,11 +249,14 @@
       "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "d9cca6a586dc6731",
+  "active": "9d6f922392c51640",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Course Plan.md",
+    "Pasted image 20240911111324.png",
     "Sept 4th.md",
+    "Sept. 11th.md",
+    "Course Plan.md",
+    "Sept 10th.md",
+    "Untitled.md",
     "Files/Table of Contents.html",
     "Files/Final Project.html",
     "Files/Final Project.docx",
@@ -263,9 +291,6 @@
     "NSCC/Winter Semester 2024/Server Exploits/Untitled 3.md",
     "NSCC/Winter Semester 2024/Server Exploits/Untitled 2.md",
     "NSCC/Winter Semester 2024/Server Exploits/Untitled 1.md",
-    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Untitled 1/Untitled.md",
-    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Untitled 1/Untitled 1.md",
-    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Readings/Cracking Local Windows Passwords with MiMiKatZ, LSA Dump and HashCat.md",
     "Pasted image 20240327181458.png",
     "Pasted image 20240327180728.png",
     "Pasted image 20240327180553.png",
