@@ -1,0 +1,13 @@
+CHANGELOG
+
+[1.1.0] - 2023-03-15
+Changes to content of site
+
+Added
+1. New CSS Code for new corp colours
+2. Added new jobs as per HR
+Changed
+1. Removed Timm's comments on jobs page as they affected security (must look around for in-depth in the future)
+Fixed
+1. Fixed security permissions for support and login pages
+
