@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/CASE Statement.md",
+                "file": "Wireless and Mobile/Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/CASE Statement.md",
+                "file": "Wireless and Mobile/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/CASE Statement.md",
+                "file": "Wireless and Mobile/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/CASE Statement.md"
+                "file": "Wireless and Mobile/Overview.md"
               }
             }
           },
@@ -158,23 +158,23 @@
             }
           },
           {
-            "id": "dab700cedf500312",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
             "id": "9e1a7cca4f4d9e4f",
             "type": "leaf",
             "state": {
               "type": "setup-view",
               "state": {}
             }
+          },
+          {
+            "id": "8fdc15e3d2d4e93f",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -188,19 +188,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "workspaces:Manage workspace layouts": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "omnisearch:Omnisearch": false,
       "obsidian-day-planner:Timeline": false,
+      "omnisearch:Omnisearch": false,
       "remotely-save:Remotely Save": false,
       "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "9e1a7cca4f4d9e4f",
+  "active": "7ed626f56eb8fdf8",
   "lastOpenFiles": [
+    "Evolving Technologies/Lectures/Sept. 16th.md",
+    "Wireless and Mobile/Sept. 5th.md",
+    "Web Security/Sept 10th.md",
+    "Web Security/Sept. 11th.md",
+    "Web Security/Untitled.md",
     "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 19th.md",
     "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 17th - AI (more depth).md",
     "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 17th - AI.md",
@@ -230,17 +235,12 @@
     "NSCC/Winter Semester 2024/Server Exploits/Untitled 1.md",
     "NSCC/Winter Semester 2024/Server Exploits/Module 4/Linux Privilege Escalation Part 3.pdf",
     "NSCC/Winter Semester 2024/Server Exploits/Module 4/Untitled 1/Untitled.md",
-    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Untitled 1/Untitled 1.md",
-    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Readings/Cracking Local Windows Passwords with MiMiKatZ, LSA Dump and HashCat.md",
     "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Readings/Cracking Local Windows Passwords with MiMiKatZ, LSA Dump and HashCat.pdf",
     "Pasted image 20240327181458.png",
     "Pasted image 20240327180728.png",
     "Pasted image 20240327180553.png",
-    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/March 27th - MiMiKatz.md",
     "NSCC/Winter Semester 2024/Server Exploits/Module 5/Hardening Linux Web App Part 1.pdf",
-    "NSCC/Winter Semester 2024/Server Exploits/Module 5/Module 5 - Part 1 - Hardening Web Applications.md",
     "Pasted image 20240325104754.png",
-    "2024-03-20.md",
     "Pasted image 20240226152109.png",
     "Pasted image 20240226152034.png",
     "Pasted image 20240226150324.png",
