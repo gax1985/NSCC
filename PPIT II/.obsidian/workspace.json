@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "79d0c17a5522f467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sept. 19th.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 340.5,
+    "collapsed": true
   },
   "right": {
     "id": "7ccc9dcf5d407447",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workplan.md",
+                "file": "Sept. 19th.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workplan.md",
+                "file": "Sept. 19th.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workplan.md"
+                "file": "Sept. 19th.md"
               }
             }
           },
@@ -166,7 +180,7 @@
             }
           },
           {
-            "id": "6b2b74221fc327de",
+            "id": "577a0c91aad4b2a9",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -200,21 +214,22 @@
       "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "76ab279a72ba1530",
+  "active": "79d0c17a5522f467",
   "lastOpenFiles": [
-    "Task B/Task B Interview Prep Grid v4.docx",
-    "Task B/Guelph Competency Dictionary.pdf",
-    "Task B",
-    "Sept. 5th.md",
-    "Assignments/Task A-Plan.docx",
-    "Assignments/Task A Plan semester.docx",
-    "Assignments",
-    "New folder",
-    "Files/Task A Plan semester.docx",
-    "Files/PPIT Map7.docx",
-    "Files/MACDONALD_JOHN_COMM3700_PPIT_Fall_2024.docx",
-    "Files",
+    "Assignments/Task B/Task B Interview Prep Grid v4.docx",
+    "Assignments/Task B/Guelph Competency Dictionary.pdf",
+    "Assignments/Task B",
+    "Assignments/Task A/Task A-Plan.docx",
+    "Assignments/Task A",
+    "Assignments/New folder",
+    "Task C/~WRL2180.tmp",
+    "Task C/~WRD2172.tmp",
+    "Task C/Personality Test Results.pdf",
+    "Task C/~$sk C Branding-Career Core Interests v2.docx",
+    "Task C/Task C Branding-Career Core Interests v2.docx",
     "Workplan.md",
+    "Sept. 19th.md",
+    "Sept. 5th.md",
     "Pasted image 20240905084052.png",
     "NSCC/Fall Semester 2023/Data Security/MySQL Reference Manual/MySQL Manual.md",
     "NSCC/Fall Semester 2023/Data Security/Sept. 12th - Data Security.md",
@@ -238,7 +253,6 @@
     "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Conditional Statements.md",
     "NSCC/Winter Semester 2024/Server Exploits/Untitled 5.md",
     "NSCC/Winter Semester 2024/Server Exploits/Untitled 4.md",
-    "NSCC/Winter Semester 2024/Server Exploits/Untitled 3.md",
     "Pasted image 20240327181458.png",
     "Pasted image 20240327180728.png",
     "Pasted image 20240327180553.png",

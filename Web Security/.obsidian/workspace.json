@@ -23,12 +23,8 @@
             "id": "dac13b2c68ac374e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -66,9 +62,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "27c02ee8f7a45054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sept. 17th.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46ced9cfc67a11d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sept. 18th.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "993c2702f8eb1b2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quiz Preparation/Chapter 3/Study Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -134,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sept. 11th.md",
+                "file": "Quiz Preparation/Chapter 3/Study Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sept. 11th.md",
+                "file": "Quiz Preparation/Chapter 3/Study Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sept. 11th.md"
+                "file": "Quiz Preparation/Chapter 3/Study Notes.md"
               }
             }
           },
@@ -215,7 +247,7 @@
             }
           },
           {
-            "id": "3a13524d2eae92ec",
+            "id": "b83594f5639b4433",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -249,14 +281,23 @@
       "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "9d6f922392c51640",
+  "active": "993c2702f8eb1b2e",
   "lastOpenFiles": [
-    "Pasted image 20240911111324.png",
+    "Week 3 - Structure of a Modern Web Application.md",
+    "Quiz Preparation/Chapter 3/Study Notes.md",
+    "Quiz Preparation/Chapter 3",
+    "Sept. 17th.md",
+    "Sept. 18th.md",
     "Sept 4th.md",
+    "Lab 1/DOM-XSS.png",
+    "Lab 1/ScoreBoard.png",
+    "Lab 1",
+    "New folder",
+    "Questions.md",
     "Sept. 11th.md",
+    "Pasted image 20240911111324.png",
     "Course Plan.md",
     "Sept 10th.md",
-    "Untitled.md",
     "Files/Table of Contents.html",
     "Files/Final Project.html",
     "Files/Final Project.docx",
@@ -264,9 +305,6 @@
     "Files/Resources- Cryptographic Failures.html",
     "Files/WEBD2075 Slides.pptx",
     "Files/Cross-Site Scripting (XSS).html",
-    "Files/Week 7- (Distributed)Denial of Service- (D)Dos.html",
-    "Files/2022-10-02 05-46-58.mp4",
-    "Files/Week 5- OWASP Top 10 A01 & A02.html",
     "Files/json2.png",
     "Files/json1.png",
     "Files/Screenshot 2022-09-19 at 3.22.54 PM.png",
@@ -288,15 +326,9 @@
     "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/CASE Statement.md",
     "NSCC/Winter Semester 2024/Server Exploits/Untitled 5.md",
     "NSCC/Winter Semester 2024/Server Exploits/Untitled 4.md",
-    "NSCC/Winter Semester 2024/Server Exploits/Untitled 3.md",
-    "NSCC/Winter Semester 2024/Server Exploits/Untitled 2.md",
-    "NSCC/Winter Semester 2024/Server Exploits/Untitled 1.md",
     "Pasted image 20240327181458.png",
     "Pasted image 20240327180728.png",
     "Pasted image 20240327180553.png",
-    "Pasted image 20240325104754.png",
-    "Pasted image 20240226152109.png",
-    "Pasted image 20240226152034.png",
     "NSCC/Winter Semester 2024/Untitled.canvas"
   ]
 }

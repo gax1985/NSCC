@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sept. 9th.md",
+                "file": "Sept. 18th.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sept. 9th.md",
+                "file": "Sept. 18th.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sept. 9th.md",
+                "file": "Sept. 18th.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sept. 9th.md"
+                "file": "Sept. 18th.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             }
           },
           {
-            "id": "de888a1e0e7282b1",
+            "id": "88f930653810c610",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -203,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,8 +227,8 @@
   },
   "active": "49b661b7cc5fffba",
   "lastOpenFiles": [
-    "Sept. 4th.md",
     "Sept. 9th.md",
+    "Sept. 4th.md",
     "CPTED Primer ( from the website ).md",
     "Pasted image 20240904093753.png",
     "Files/Module 1 - Discovery (1).pdf",

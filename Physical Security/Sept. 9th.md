@@ -18,7 +18,7 @@ Assignments have page numbers from the textbooks, so we should check with him
 ## 3D Approach
 
 
-3 dimentions of human space
+3 dimensions of human space
 
 
 All human space has a designated purpose.
