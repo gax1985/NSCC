@@ -112,7 +112,20 @@ DNS zone transfers are used to replicate DNS databases across a set of DNS serve
     
     - **Command**: `host -t srv _service._proto.example.com`
     - **Description**: Queries for Service records, which are used to define the location of servers for specified services.
+      
+    9. **AXFR** ( ... aka. *Asynchronous Domain Zone Transfer*)
 
-
+	- **Command** : 
+	  
+	`host -t axfr URL NAMESERVER`
+	
+>[!info]
+>
+>AXFR is primarily used for:
+>
+>- **Replication**: Synchronizing DNS records between primary and secondary DNS servers.
+>- **Backup**: Creating a backup of the DNS zone file.
+>- **Testing**: Checking if a DNS server allows zone transfers, which can be a security risk if not properly configured.
+>
 
 

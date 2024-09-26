@@ -34,3 +34,12 @@ dig ns nscc.ca
 dig @ns1.nscc.ca nscc.ca axfr
 ```
 
+
+>[!note]
+>
+>Here is another way of doing the **DNS Zone Transfer** : 
+>
+>```
+dig axfr <url> @<name-server>
+
+

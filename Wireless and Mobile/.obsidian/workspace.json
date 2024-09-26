@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,7 +187,7 @@
             }
           },
           {
-            "id": "2f3dcbb449bb7c88",
+            "id": "3e071869a0834845",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -222,7 +221,7 @@
       "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "44d3d86006820c59",
+  "active": "76ab279a72ba1530",
   "lastOpenFiles": [
     "Sept. 5th.md",
     "Overview.md",
