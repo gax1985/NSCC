@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wireless and Mobile/Sept. 26th.md",
+                "file": "Evolving Technologies/Lectures/Sept. 27th.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wireless and Mobile/Sept. 26th.md",
+                "file": "Evolving Technologies/Lectures/Sept. 27th.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wireless and Mobile/Sept. 26th.md",
+                "file": "Evolving Technologies/Lectures/Sept. 27th.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wireless and Mobile/Sept. 26th.md"
+                "file": "Evolving Technologies/Lectures/Sept. 27th.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             }
           },
           {
-            "id": "cea700df48d5ec19",
+            "id": "946a77b5693910ee",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -263,6 +263,7 @@
   },
   "active": "4d187f4a2cb3b7da",
   "lastOpenFiles": [
+    "Wireless and Mobile/Sept. 26th.md",
     "Web Security/Lectures/Sept. 18th.md",
     "Physical Security/Lectures/Sept. 18th.md",
     "Evolving Technologies/Lectures/Sept. 27th.md",
@@ -277,7 +278,6 @@
     "Pasted image 20240927090035.png",
     "Pasted image 20240927090017.png",
     "Evolving Technologies/Lectures/Sept. 20th.md",
-    "Wireless and Mobile/Sept. 26th.md",
     "Web Security/Assignments/Assignment 1 - Broken Access Control/~WRL0005.tmp",
     "Web Security/Assignments/Assignment 1 - Broken Access Control/~WRD0004.tmp",
     "Web Security/Assignments/Assignment 1 - Broken Access Control/~WRD0003.tmp",
