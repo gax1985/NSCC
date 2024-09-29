@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overview.md",
+                "file": "Sept. 26th.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview.md",
+                "file": "Sept. 26th.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overview.md",
+                "file": "Sept. 26th.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overview.md"
+                "file": "Sept. 26th.md"
               }
             }
           },
@@ -221,8 +221,11 @@
       "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "76ab279a72ba1530",
+  "active": "44d3d86006820c59",
   "lastOpenFiles": [
+    "Pasted image 20240926122655.png",
+    "Pasted image 20240926122615.png",
+    "Pasted image 20240926122546.png",
     "Sept. 5th.md",
     "Overview.md",
     "Assignments/Task A-Plan.docx",
@@ -266,8 +269,6 @@
     "Pasted image 20240226152109.png",
     "Pasted image 20240226152034.png",
     "Pasted image 20240226150324.png",
-    "Pasted image 20240226145158.png",
-    "Pasted image 20240226143428.png",
     "NSCC/Winter Semester 2024/Untitled.canvas"
   ]
 }

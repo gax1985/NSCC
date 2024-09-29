@@ -30,6 +30,19 @@ DS
 and the DS through the AP  
 10
 
+##### Definitions for the terms in the context of IEEE 802.11:
+
+1. **Access Point (AP)**: An access point is a device that allows wireless devices to connect to a wired network using Wi-Fi. [It acts as a bridge between the wireless clients and the wired network, providing connectivity and managing data traffic](https://en.wikipedia.org/wiki/Wireless_access_point)[1](https://en.wikipedia.org/wiki/Wireless_access_point).
+    
+2. **Distribution System (DS)**: The distribution system is the infrastructure used to connect multiple access points within a wireless network. [It enables communication between different basic service sets (BSS) and integrates the wireless network with other wired networks](https://www.geeksforgeeks.org/ieee-802-11-architecture/)[2](https://www.geeksforgeeks.org/ieee-802-11-architecture/)[3](https://en.wikipedia.org/wiki/Wireless_distribution_system).
+    
+3. **Portal**: A portal is a logical entity that connects a wireless local area network (WLAN) to other networks, such as a wired LAN or the internet. [It serves as a gateway, allowing data to flow between the WLAN and external networks](https://www.geeksforgeeks.org/ieee-802-11-architecture/)[2](https://www.geeksforgeeks.org/ieee-802-11-architecture/).
+    
+4. **Distribution Service**: The distribution service is a set of functions provided by the distribution system to manage the delivery of data frames between stations within the network. [It ensures that data is properly routed to its destination within the extended service set (ESS)](https://www.informit.com/articles/article.aspx?p=24411&seqNum=7)[4](https://www.informit.com/articles/article.aspx?p=24411&seqNum=7).
+    
+5. **BSSID (Basic Service Set Identifier)**: The BSSID is a unique identifier for a basic service set (BSS) within a wireless network. [It is typically the MAC address of the access point’s radio interface and is used to distinguish between different BSSs within the same network](https://en.wikipedia.org/wiki/Service_set_%28802.11_network%29)[5](https://en.wikipedia.org/wiki/Service_set_%28802.11_network%29)[6](https://www.cbtnuggets.com/blog/technology/networking/8-components-of-a-802-11-wireless-service-set).
+
+
 ### 802.11 –  ARCHITECTURE  
  IEEE also defines the operating  
 frequency range for 802.11  
@@ -45,17 +58,28 @@ up into smaller frequency ranges
 
 ### 802.11 –  ARCHITECTURE  
  Sound travels in waves  
- Completing the repeating  
-pattern is called a  
-wavelength  
- Waves height is called  
-amplitude  
- The rate at which a wave  
-repeats is called frequency  
- The speed of the wave is its  
-wavelength multiplied by is  
-frequency  
-12
+
+ >[!definition]
+ >
+ >###### Wavelength : 
+>
+ >>Completing the repeating  pattern   
+>
+>###### Amplitude
+>
+ >Waves height   
+  >
+  >###### Frequency 
+  >
+>>The rate at which a wave  repeats 
+>
+>###### Speed = 
+>
+>>**Wavelength** X **Frequency**
+>
+>![[Pasted image 20240926122546.png]]
+>
+>
 
 802.11 –  
 ARCHITECTURE  
@@ -65,28 +89,40 @@ ranges and their names
 
 802.11 – ARCHITECTURE  
  Who uses what  
-14
+![[Pasted image 20240926122615.png]]
+
+
+![[Pasted image 20240926122655.png]]
 
 AN OVERVIEW OF WIRELESS TECHNOLOGIES  
- There are 3 major technologies that WLANs use  
+
+> 
+>There are 3 major technologies that WLANs use :
+> 
  Infrared  
  Narrowband  
  Spread Spectrum  
- Infrared  
+
+
+>#### Infrared  
  IR light cannot be seen by the human eye.  
  Used for single room uses because it cannot penetrate walls, ceilings or floors  
- Narrow Band  
+
+>#### Narrow Band  
  Narrow band technology uses microwave radio waves to transmit data  
  The most common uses are cordless phones and garage door openers  
-15
+
 
 AN OVERVIEW  
 OF WIRELESS  
 TECHNOLOGIES  
- Spread Spectrum  
- To move over radio waves, data must modulate on the carrier  
+>#### Spread Spectrum  
+
+- To move over radio waves, data must modulate on the carrier  
 signal or channel  
- Modulation is the process of varying one or more properties of  
+ 
+>#### Modulation:
+  It is the process of varying one or more properties of  
 a periodic waveform, with a separate signal called the  
 modulation signal that typically contains information to be  
 transmitted  
@@ -96,8 +132,9 @@ spread across a large-frequency bandwidth instead of
 travelling across just one frequency band  
  So, a group of frequencies is selected, and the data is spread  
 across this group  
- Spread Spectrum is the most used WLAN technology  
-16
+ **Spread Spectrum is the most used WLAN technology**!
+
+
 
 AN OVERVIEW OF WIRELESS TECHNOLOGIES  
  Spread Spectrum uses the following methods;  
