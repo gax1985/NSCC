@@ -5,13 +5,13 @@
   "initialAssistantMessageContent": "Hello, I am your assistant. How can I help you?",
   "isIncognitoMode": true,
   "ollamaGenModel": {
-    "model": "llama2-uncensored",
+    "model": "llama3.1",
     "baseUrl": "http://localhost:11434",
     "temperature": 0.5,
-    "contextWindow": 4096
+    "contextWindow": 2048
   },
   "ollamaEmbedModel": {
-    "model": "all-minilm",
+    "model": "llama3.1",
     "baseUrl": "http://localhost:11434",
     "similarityThreshold": 0.75,
     "k": 256
@@ -35,7 +35,7 @@
   ],
   "isQuickSettingsOpen": true,
   "isVerbose": true,
-  "isOnboarded": false,
+  "isOnboarded": true,
   "hideIncognitoWarning": false,
   "isAutostart": true
 }

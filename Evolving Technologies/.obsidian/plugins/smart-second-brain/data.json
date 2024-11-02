@@ -1,14 +1,30 @@
 {
   "isChatComfy": true,
-  "isUsingRag": true,
+  "isUsingRag": false,
   "assistantLanguage": "en",
   "initialAssistantMessageContent": "Hello, I am your assistant. How can I help you?",
   "isIncognitoMode": true,
   "ollamaGenModel": {
-    "model": "llama3",
+    "model": "llama3.1",
     "baseUrl": "http://localhost:11434",
     "temperature": 0.5,
-    "contextWindow": 2048
+    "contextWindow": 1948,
+    "lcModel": {
+      "lc": 1,
+      "type": "constructor",
+      "id": [
+        "langchain",
+        "chat_models",
+        "ollama",
+        "ChatOllama"
+      ],
+      "kwargs": {
+        "model": "llama3.1",
+        "base_url": "http://localhost:11434",
+        "temperature": 0.5,
+        "context_window": 1948
+      }
+    }
   },
   "ollamaEmbedModel": {
     "model": "nomic-embed-text",

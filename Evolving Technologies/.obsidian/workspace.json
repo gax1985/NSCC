@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attacking/SSL Certificates.md",
+                "file": "Exploitation/MiMiKatz/LSASS NTLM Hash Extraction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attacking/SSL Certificates.md",
+                "file": "Exploitation/MiMiKatz/LSASS NTLM Hash Extraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attacking/SSL Certificates.md",
+                "file": "Exploitation/MiMiKatz/LSASS NTLM Hash Extraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attacking/SSL Certificates.md"
+                "file": "Exploitation/MiMiKatz/LSASS NTLM Hash Extraction.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             }
           },
           {
-            "id": "af2dc4a25c2541c6",
+            "id": "041e06a75dc13743",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 461.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +203,17 @@
   },
   "active": "42df4090bb655033",
   "lastOpenFiles": [
-    "Attacking/Command & Control Center.md",
+    "Exploitation/MiMiKatz/LSASS Dumping/Procdump.md",
+    "Exploitation/MiMiKatz/LSASS NTLM Hash Extraction.md",
+    "Chats/New Chat.md",
+    "Exploitation/MiMiKatz/LSASS Dumping",
+    "Exploitation/MiMiKatz",
+    "Exploitation/LoLBins/Conti.md",
+    "Exploitation/LoLBins/SolarWinds.md",
+    "Exploitation/LoLBins/WannaCry.md",
+    "Exploitation/LoLBins",
     "Attacking/SSL Certificates.md",
+    "Attacking/Command & Control Center.md",
     "Attacking/Untitled",
     "Phishing/Email Spoofing.md",
     "Pasted image 20240911102626.png",
@@ -234,22 +242,13 @@
     "TryHackMe's Google Dorking.md",
     "Lectures/Sept. 9th.md",
     "Discovery/theHarvester.md",
-    "Chats/New Chat.md",
     "Chats",
     "Welcome.md",
     "Discovery",
     "Files/Module 1 - Discovery (1).pdf",
     "Files/Introduction - ISEC2079_4084_Evolving Technologies and Threats(B)_Beard,Bryan_files/viewer.html",
-    "Files/Introduction - ISEC2079_4084_Evolving Technologies and Threats(B)_Beard,Bryan_files/viewer.css",
-    "Files/Introduction - ISEC2079_4084_Evolving Technologies and Threats(B)_Beard,Bryan_files/tti-polyfill-global.js.download",
-    "Files/Introduction - ISEC2079_4084_Evolving Technologies and Threats(B)_Beard,Bryan_files/tock.min.js.download",
     "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 19th.md",
     "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 17th - AI (more depth).md",
-    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 17th - AI.md",
-    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 17th.md",
-    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 15th.md",
-    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 12th.md",
-    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 10th.md",
     "NSCC/Winter Semester 2024/Untitled.canvas"
   ]
 }

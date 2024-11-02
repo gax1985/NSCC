@@ -16,7 +16,9 @@
                 "file": "Web Security/Lectures/Sept 4th.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Sept 4th"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Physical Security/Lectures/Sept. 4th.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Sept. 4th"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Module 2 - Expanded.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Module 2 - Expanded"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "Web Security/Lectures/Sept 10th.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Sept 10th"
             }
           },
           {
@@ -64,7 +72,9 @@
                 "file": "Evolving Technologies/Lectures/Sept. 20th.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Sept. 20th"
             }
           },
           {
@@ -73,10 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evolving Technologies/Lectures/Sept. 27th.md",
+                "file": "Web Security/Assignments/Assignment  3/Toxic Dependencies.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Toxic Dependencies"
             }
           }
         ],
@@ -100,7 +112,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -115,7 +129,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -123,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -146,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evolving Technologies/Lectures/Sept. 27th.md",
+                "file": "Web Security/Assignments/Assignment  3/Toxic Dependencies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +172,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Toxic Dependencies"
             }
           },
           {
@@ -163,10 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Evolving Technologies/Lectures/Sept. 27th.md",
+                "file": "Web Security/Assignments/Assignment  3/Toxic Dependencies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Toxic Dependencies"
             }
           },
           {
@@ -177,7 +199,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -186,8 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evolving Technologies/Lectures/Sept. 27th.md"
-              }
+                "file": "Web Security/Assignments/Assignment  3/Toxic Dependencies.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Toxic Dependencies"
             }
           },
           {
@@ -199,7 +225,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -207,7 +235,9 @@
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -215,32 +245,49 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
-            "id": "9e1a7cca4f4d9e4f",
-            "type": "leaf",
-            "state": {
-              "type": "setup-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "946a77b5693910ee",
+            "id": "15db7e78146cabd7",
             "type": "leaf",
             "state": {
               "type": "timeline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "cbc162599f4cf3b5",
+            "type": "leaf",
+            "state": {
+              "type": "chat-view",
+              "state": {
+                "file": "Chats/New Chat.md"
+              },
+              "icon": "message-square",
+              "title": "New Chat"
+            }
+          },
+          {
+            "id": "6ae07c934cdd7708",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Day Planner Timeline"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,18 +302,23 @@
       "workspaces:Manage workspace layouts": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-day-planner:Timeline": false,
       "omnisearch:Omnisearch": false,
+      "obsidian-day-planner:Timeline": false,
       "remotely-save:Remotely Save": false,
       "smart-second-brain:Open S2B Chat": false
     }
   },
   "active": "4d187f4a2cb3b7da",
   "lastOpenFiles": [
+    "Web Security/Assignments/Assignment  3/Security Misconfigurations.md",
+    "Web Security/Assignments/Assignment  3/Toxic Dependencies.md",
+    "Chats/New Chat.md",
+    "Web Security/Assignments/Assignment  3",
+    "Evolving Technologies/Lectures/Sept. 27th.md",
+    "Chats",
     "Wireless and Mobile/Sept. 26th.md",
     "Web Security/Lectures/Sept. 18th.md",
     "Physical Security/Lectures/Sept. 18th.md",
-    "Evolving Technologies/Lectures/Sept. 27th.md",
     "Pasted image 20240927090206.png",
     "Pasted image 20240927090205.png",
     "Pasted image 20240927090146.png",
@@ -288,8 +340,6 @@
     "Web Security/Assignments/Assignment 1 - Broken Access Control/Assignment 1 - Broken Access Control & Cryptographic Failures.docx",
     "Web Security/Assignments/Assignment 1 - Broken Access Control/~WRD0000.tmp",
     "Web Security/Assignments/Assignment 1 - Broken Access Control",
-    "Web Security/Assignments/New folder",
-    "Web Security/Assignments",
     "Web Security/Lectures/Sept 4th.md",
     "Web Security/Lectures/Sept 10th.md",
     "Physical Security/Lectures/Sept. 11th.md",
@@ -306,9 +356,6 @@
     "Evolving Technologies/Discovery/Maltego.md",
     "Evolving Technologies/Discovery/Information Gathering.md",
     "Evolving Technologies/Discovery/Host.md",
-    "Evolving Technologies/Discovery/Gobuster.md",
-    "Web Security/Lectures/Sept 24th.md",
-    "Evolving Technologies/Discovery/Dig.md",
     "NSCC/Winter Semester 2024/Untitled.canvas"
   ]
 }
