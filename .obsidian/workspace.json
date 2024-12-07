@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Security/Assignments/Assignment  3/Toxic Dependencies.md",
+                "file": "Evolving Technologies/Assignments/Final Assignment/Recommendations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Toxic Dependencies"
+              "title": "Recommendations"
             }
           }
         ],
@@ -278,6 +278,16 @@
             "state": {
               "type": "timeline",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "e333fed24f53c7ca",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Day Planner Timeline"
             }
@@ -310,8 +320,13 @@
   },
   "active": "4d187f4a2cb3b7da",
   "lastOpenFiles": [
-    "Web Security/Assignments/Assignment  3/Security Misconfigurations.md",
+    "Evolving Technologies/Assignments/Final Assignment/Serious Malware.md",
+    "Evolving Technologies/Assignments/Final Assignment/Recommendations.md",
     "Web Security/Assignments/Assignment  3/Toxic Dependencies.md",
+    "Evolving Technologies/Assignments/Final Assignment",
+    "Evolving Technologies/Untitled",
+    "Untitled",
+    "Web Security/Assignments/Assignment  3/Security Misconfigurations.md",
     "Chats/New Chat.md",
     "Web Security/Assignments/Assignment  3",
     "Evolving Technologies/Lectures/Sept. 27th.md",
@@ -337,9 +352,6 @@
     "Web Security/Week 3 - Structure of a Modern Web Application.md",
     "Physical Security/Lectures",
     "Web Security/Assignments/Assignment 1 - Broken Access Control/~$signment 1 - Broken Access Control & Cryptographic Failures.docx",
-    "Web Security/Assignments/Assignment 1 - Broken Access Control/Assignment 1 - Broken Access Control & Cryptographic Failures.docx",
-    "Web Security/Assignments/Assignment 1 - Broken Access Control/~WRD0000.tmp",
-    "Web Security/Assignments/Assignment 1 - Broken Access Control",
     "Web Security/Lectures/Sept 4th.md",
     "Web Security/Lectures/Sept 10th.md",
     "Physical Security/Lectures/Sept. 11th.md",
@@ -354,8 +366,6 @@
     "Evolving Technologies/Discovery/theHarvester.md",
     "Evolving Technologies/Discovery/NMap.md",
     "Evolving Technologies/Discovery/Maltego.md",
-    "Evolving Technologies/Discovery/Information Gathering.md",
-    "Evolving Technologies/Discovery/Host.md",
     "NSCC/Winter Semester 2024/Untitled.canvas"
   ]
 }
