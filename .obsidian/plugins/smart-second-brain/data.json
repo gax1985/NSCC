@@ -5,21 +5,134 @@
   "initialAssistantMessageContent": "Hello, I am your assistant. How can I help you?",
   "isIncognitoMode": true,
   "ollamaGenModel": {
-    "model": "llama2-uncensored",
-    "baseUrl": "http://localhost:11434",
+    "model": "mannix/llama3.1-8b-abliterated",
+    "baseUrl": "http://localhost:12345",
     "temperature": 0.5,
-    "contextWindow": 4096
+    "contextWindow": 1448,
+    "lcModel": {
+      "lc": 1,
+      "type": "constructor",
+      "id": [
+        "langchain",
+        "chat_models",
+        "ollama",
+        "ChatOllama"
+      ],
+      "kwargs": {
+        "model": "mannix/llama3.1-8b-abliterated",
+        "base_url": "http://localhost:12345",
+        "temperature": 0.5,
+        "context_window": 1448,
+        "lc_model": {
+          "lc": 1,
+          "type": "constructor",
+          "id": [
+            "langchain",
+            "chat_models",
+            "ollama",
+            "ChatOllama"
+          ],
+          "kwargs": {
+            "model": "mannix/llama3.1-8b-abliterated",
+            "base_url": "http://localhost:12345",
+            "temperature": 0.5,
+            "context_window": 1548,
+            "lc_model": {
+              "lc": 1,
+              "type": "constructor",
+              "id": [
+                "langchain",
+                "chat_models",
+                "ollama",
+                "ChatOllama"
+              ],
+              "kwargs": {
+                "model": "mannix/llama3.1-8b-abliterated",
+                "base_url": "http://localhost:12345",
+                "temperature": 0.5,
+                "context_window": 1648,
+                "lc_model": {
+                  "lc": 1,
+                  "type": "constructor",
+                  "id": [
+                    "langchain",
+                    "chat_models",
+                    "ollama",
+                    "ChatOllama"
+                  ],
+                  "kwargs": {
+                    "model": "mannix/llama3.1-8b-abliterated",
+                    "base_url": "http://localhost:12345",
+                    "temperature": 0.5,
+                    "context_window": 1748,
+                    "lc_model": {
+                      "lc": 1,
+                      "type": "constructor",
+                      "id": [
+                        "langchain",
+                        "chat_models",
+                        "ollama",
+                        "ChatOllama"
+                      ],
+                      "kwargs": {
+                        "model": "mannix/llama3.1-8b-abliterated",
+                        "base_url": "http://localhost:12345",
+                        "temperature": 0.5,
+                        "context_window": 1848,
+                        "lc_model": {
+                          "lc": 1,
+                          "type": "constructor",
+                          "id": [
+                            "langchain",
+                            "chat_models",
+                            "ollama",
+                            "ChatOllama"
+                          ],
+                          "kwargs": {
+                            "model": "mannix/llama3.1-8b-abliterated",
+                            "base_url": "http://localhost:12345",
+                            "temperature": 0.5,
+                            "context_window": 1948,
+                            "lc_model": {
+                              "lc": 1,
+                              "type": "constructor",
+                              "id": [
+                                "langchain",
+                                "chat_models",
+                                "ollama",
+                                "ChatOllama"
+                              ],
+                              "kwargs": {
+                                "model": "llama3.1",
+                                "base_url": "http://localhost:11434",
+                                "temperature": 0.5,
+                                "context_window": 1948
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
   },
   "ollamaEmbedModel": {
-    "model": "all-minilm",
-    "baseUrl": "http://localhost:11434",
-    "similarityThreshold": 0.75,
+    "model": "mxbai-embed-large",
+    "baseUrl": "http://localhost:12345",
+    "similarityThreshold": 0.5,
     "k": 256
   },
   "openAIGenModel": {
     "model": "gpt-3.5-turbo",
     "openAIApiKey": "",
-    "temperature": 0.5
+    "temperature": 0.5,
+    "contextWindow": 1948
   },
   "openAIEmbedModel": {
     "model": "text-embedding-ada-002",
@@ -35,7 +148,7 @@
   ],
   "isQuickSettingsOpen": true,
   "isVerbose": true,
-  "isOnboarded": false,
+  "isOnboarded": true,
   "hideIncognitoWarning": false,
   "isAutostart": true
 }
