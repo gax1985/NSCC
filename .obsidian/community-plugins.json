@@ -4,19 +4,16 @@
   "obsidian-style-settings",
   "obsidian-reading-time",
   "obsidian-tasks-plugin",
-  "calendar",
   "obsidian-kanban",
   "obsidian-advanced-slides",
   "obsidian-icon-folder",
   "obsidian-mind-map",
   "emoji-magic",
-  "omnisearch",
   "obsidian-day-planner",
   "obsidian-linter",
   "cm-editor-syntax-highlight-obsidian",
   "waka_time_box",
   "heatmap-calendar",
-  "aw-watcher-obsidian",
   "obsidian-activity-history",
   "obsidian-fountain",
   "nl-syntax-highlighting",
@@ -24,5 +21,7 @@
   "o2",
   "colored-text",
   "color-palette",
-  "smart-second-brain"
+  "smart-second-brain",
+  "calendar",
+  "omnisearch"
 ]
