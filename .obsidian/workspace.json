@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSCC/Fall Semester 2025/System Auditing/September 9th - First Assignment.md",
+                "file": "NSCC/Fall Semester 2025/System Auditing/Untitled/Untitled/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "September 9th - First Assignment"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "51cd53fc883735ae",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "NSCC/Fall Semester 2025/System Auditing/Files/ISEC 2077 Assignment 2 - Part 2 - Netflow Collector.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ISEC 2077 Assignment 2 - Part 2 - Netflow Collector"
             }
           }
         ]
@@ -78,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 411.5
   },
   "right": {
     "id": "7ccc9dcf5d407447",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSCC/Fall Semester 2025/System Auditing/September 9th - First Assignment.md",
+                "file": "NSCC/Fall Semester 2025/System Auditing/Untitled/Untitled/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for September 9th - First Assignment"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -113,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSCC/Fall Semester 2025/System Auditing/September 9th - First Assignment.md",
+                "file": "NSCC/Fall Semester 2025/System Auditing/Untitled/Untitled/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from September 9th - First Assignment"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -142,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSCC/Fall Semester 2025/System Auditing/September 9th - First Assignment.md",
+                "file": "NSCC/Fall Semester 2025/System Auditing/Untitled/Untitled/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of September 9th - First Assignment"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -243,12 +255,22 @@
       "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "76ab279a72ba1530",
+  "active": "7ed626f56eb8fdf8",
   "lastOpenFiles": [
-    "NSCC/Fall Semester 2025/System Auditing/Files/ISEC 2077 Assignment 1 - Router Netflow Export Configuration.pdf",
+    "NSCC/Fall Semester 2025/System Auditing/Untitled/Untitled/Untitled/Untitled/Untitled.md",
+    "NSCC/Fall Semester 2025/System Auditing/Untitled/Untitled/Untitled.md",
+    "NSCC/Fall Semester 2025/System Auditing/Untitled/Untitled/Untitled/Untitled",
+    "NSCC/Fall Semester 2025/System Auditing/Untitled/Untitled/Untitled",
+    "NSCC/Fall Semester 2025/System Auditing/Untitled/Untitled/Untitled 1.md",
     "NSCC/Fall Semester 2025/System Auditing/Files/ISEC 2077 Assignment 2 - Part 2 - Netflow Collector.pdf",
+    "NSCC/Fall Semester 2025/System Auditing/September 9th - First Assignment.md",
+    "NSCC/Fall Semester 2025/System Auditing/Untitled/Untitled",
+    "NSCC/Fall Semester 2025/System Auditing/Untitled",
+    "NSCC/Fall Semester 2025/System Auditing/Packet Tracer/Backup/Assignment 2.pkt",
+    "NSCC/Fall Semester 2025/System Auditing/Packet Tracer/Backup",
+    "NSCC/Fall Semester 2025/System Auditing/Packet Tracer/New folder",
+    "NSCC/Fall Semester 2025/System Auditing/Files/ISEC 2077 Assignment 1 - Router Netflow Export Configuration.pdf",
     "NSCC/Fall Semester 2025/System Auditing/Files/ISEC 2077 Assignment 2 - Netflow Collector.pdf",
-    "NSCC/Fall Semester 2025/System Auditing/Files/Flexible Netflow Configuration.pdf",
     "NSCC/Fall Semester 2023/Data Security/Sept. 12th - Data Security.md",
     "NSCC/Fall Semester 2023/Data Security/MySQL Reference Manual/MySQL Manual.md",
     "NSCC/Fall Semester 2023/Data Security/Sept. 21st - Data Security.md",
@@ -264,23 +286,13 @@
     "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 10th.md",
     "NSCC/Fall Semester 2023/Network Security/Nov. 1st 2023 - Network Security.md",
     "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Feb. 9th.md",
-    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Cisco AAA.pdf",
-    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/ISEC2022-Assignment1-2024.pdf",
     "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Untitled.md",
-    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Virtual Private Networks.pdf",
-    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Virtual Private Networks VPNs.pdf",
     "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 3.md",
     "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/IF Statement.md",
     "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/FOR Loop.md",
     "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Conditional Statements.md",
-    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Linux Privilege Escalation Part 1 (1).pdf",
     "NSCC/Winter Semester 2024/Server Exploits/Untitled 5.md",
-    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Assignment 4.pdf",
-    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Linux Privilege Escalation Part 2 (1).pdf",
     "NSCC/Winter Semester 2024/Server Exploits/Untitled 4.md",
-    "NSCC/Winter Semester 2024/Server Exploits/Untitled 3.md",
-    "NSCC/Winter Semester 2024/Server Exploits/Untitled 2.md",
-    "NSCC/Winter Semester 2024/Server Exploits/Untitled 1.md",
     "Pasted image 20240327181458.png",
     "Pasted image 20240327180728.png",
     "Pasted image 20240327180553.png",
