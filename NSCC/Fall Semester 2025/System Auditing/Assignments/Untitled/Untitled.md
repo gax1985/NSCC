@@ -24,28 +24,28 @@
 
 ### Router Sub-Interface Configuration
 
-- [ ]  Create sub-interface for VLAN 10 (e.g., GigabitEthernet0/0.10)
-    - [ ]  Configure 802.1Q encapsulation: `encapsulation dot1Q 10`
-    - [ ]  Assign IP address (e.g., 192.168.10.1/24) - this will be default gateway for PC0
-    - [ ]  Enable interface: `no shutdown`
-- [ ]  Create sub-interface for VLAN 20 (e.g., GigabitEthernet0/0.20)
-    - [ ]  Configure 802.1Q encapsulation: `encapsulation dot1Q 20`
-    - [ ]  Assign IP address (e.g., 192.168.20.1/24) - this will be default gateway for PC1
-    - [ ]  Enable interface: `no shutdown`
-- [ ]  Enable main physical interface: `no shutdown` on GigabitEthernet0/0
+- [x] Create sub-interface for VLAN 10 (e.g., GigabitEthernet0/0.10) ✅ 2025-10-01
+    - [x] Configure 802.1Q encapsulation: `encapsulation dot1Q 10` ✅ 2025-10-01
+    - [x] Assign IP address (e.g., 192.168.10.1/24) - this will be default gateway for PC0 ✅ 2025-10-01
+    - [x] Enable interface: `no shutdown` ✅ 2025-10-01
+- [x] Create sub-interface for VLAN 20 (e.g., GigabitEthernet0/0.20) ✅ 2025-10-01
+    - [x] Configure 802.1Q encapsulation: `encapsulation dot1Q 20` ✅ 2025-10-01
+    - [x] Assign IP address (e.g., 192.168.20.1/24) - this will be default gateway for PC1 ✅ 2025-10-01
+    - [x] Enable interface: `no shutdown` ✅ 2025-10-01
+- [x] Enable main physical interface: `no shutdown` on GigabitEthernet0/0 ✅ 2025-10-01
 
 ### IP Address Updates
 
-- [ ]  Change PC0 IP from 192.168.1.2 to 192.168.10.2
-    - [ ]  Set subnet mask to 255.255.255.0
-    - [ ]  Set default gateway to 192.168.10.1 (router sub-interface)
-- [ ]  Change PC1 IP from 192.168.1.3 to 192.168.20.2
-    - [ ]  Set subnet mask to 255.255.255.0
-    - [ ]  Set default gateway to 192.168.20.1 (router sub-interface)
+- [x] Change PC0 IP from 192.168.1.2 to 192.168.10.2 ✅ 2025-10-01
+    - [x] Set subnet mask to 255.255.255.0 ✅ 2025-10-01
+    - [x] Set default gateway to 192.168.10.1 (router sub-interface) ✅ 2025-10-01
+- [x] Change PC1 IP from 192.168.1.3 to 192.168.20.2 ✅ 2025-10-01
+    - [x] Set subnet mask to 255.255.255.0 ✅ 2025-10-01
+    - [x] Set default gateway to 192.168.20.1 (router sub-interface) ✅ 2025-10-01
 
 ### Netflow Monitor Cleanup & Configuration
 
-- [ ]  Remove FlowMonitor-1 (the extra monitor)
+- [x] Remove FlowMonitor-1 (the extra monitor) ✅ 2025-10-01
 - [ ]  Create **NEW** Flow Monitor for VLAN 10 sub-interface (IN traffic)
     - [ ]  Configure for Netflow version 5
     - [ ]  Name appropriately (e.g., VLAN10-IN)
