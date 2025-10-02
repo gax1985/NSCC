@@ -46,18 +46,18 @@
 ### Netflow Monitor Cleanup & Configuration
 
 - [x] Remove FlowMonitor-1 (the extra monitor) ✅ 2025-10-01
-- [ ]  Create **NEW** Flow Monitor for VLAN 10 sub-interface (IN traffic)
+- [x] Create **NEW** Flow Monitor for VLAN 10 sub-interface (IN traffic) ✅ 2025-10-02
     - [ ]  Configure for Netflow version 5
-    - [ ]  Name appropriately (e.g., VLAN10-IN)
-- [ ]  Create **NEW** Flow Monitor for VLAN 10 sub-interface (OUT traffic)
+    - [x] Name appropriately (e.g., VLAN10-IN) ✅ 2025-10-02
+- [x] Create **NEW** Flow Monitor for VLAN 10 sub-interface (OUT traffic) ✅ 2025-10-02
     - [ ]  Configure for Netflow version 5
-    - [ ]  Name appropriately (e.g., VLAN10-OUT)
-- [ ]  Create **NEW** Flow Monitor for VLAN 20 sub-interface (IN traffic)
+    - [x] Name appropriately (e.g., VLAN10-OUT) ✅ 2025-10-02
+- [x] Create **NEW** Flow Monitor for VLAN 20 sub-interface (IN traffic) ✅ 2025-10-02
     - [ ]  Configure for Netflow version 5
-    - [ ]  Name appropriately (e.g., VLAN20-IN)
-- [ ]  Create **NEW** Flow Monitor for VLAN 20 sub-interface (OUT traffic)
+    - [x] Name appropriately (e.g., VLAN20-IN) ✅ 2025-10-02
+- [x] Create **NEW** Flow Monitor for VLAN 20 sub-interface (OUT traffic) ✅ 2025-10-02
     - [ ]  Configure for Netflow version 5
-    - [ ]  Name appropriately (e.g., VLAN20-OUT)
+    - [x] Name appropriately (e.g., VLAN20-OUT) ✅ 2025-10-02
 
 ### Flow Exporter Configuration
 

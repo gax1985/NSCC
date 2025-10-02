@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 411.5,
+    "collapsed": true
   },
   "right": {
     "id": "7ccc9dcf5d407447",
@@ -270,12 +271,12 @@
       "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "6b8d69a66759f5d1",
+  "active": "51cd53fc883735ae",
   "lastOpenFiles": [
     "NSCC/Fall Semester 2025/System Auditing/Packet Tracer/Assignment 2.pkt~",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Untitled/Untitled/Router/Commands.md",
-    "NSCC/Fall Semester 2025/System Auditing/Files/ISEC 2077 Assignment 2 - Part 2 - Netflow Collector.pdf",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Untitled/Untitled.md",
+    "NSCC/Fall Semester 2025/System Auditing/Files/ISEC 2077 Assignment 2 - Part 2 - Netflow Collector.pdf",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Untitled/Untitled/Router/Commands.md",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Untitled/Untitled/Untitled/Untitled.md",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Untitled/Untitled/Router",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Untitled/Untitled/Untitled",
@@ -287,7 +288,6 @@
     "NSCC/Fall Semester 2025/System Auditing/Packet Tracer/Backup/Assignment 2.pkt",
     "NSCC/Fall Semester 2025/System Auditing/Packet Tracer/Backup",
     "NSCC/Fall Semester 2025/System Auditing/Packet Tracer/New folder",
-    "NSCC/Fall Semester 2025/System Auditing/Files/ISEC 2077 Assignment 1 - Router Netflow Export Configuration.pdf",
     "NSCC/Fall Semester 2023/Data Security/Sept. 12th - Data Security.md",
     "NSCC/Fall Semester 2023/Data Security/MySQL Reference Manual/MySQL Manual.md",
     "NSCC/Fall Semester 2023/Data Security/Sept. 21st - Data Security.md",
