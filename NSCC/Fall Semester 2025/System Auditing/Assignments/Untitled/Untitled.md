@@ -94,14 +94,14 @@
 
 ### Configure Physical Router
 
-- [ ]  Apply VLAN 10 sub-interface configuration from Packet Tracer model
-- [ ]  Apply VLAN 20 sub-interface configuration from Packet Tracer model
-- [ ]  Configure NEW Netflow monitors for both sub-interfaces (IN and OUT)
-    - [ ]  Ensure Netflow version 5
-- [ ]  Configure NEW Flow exporters pointing to:
-    - [ ]  VM on Computer 1 (192.168.10.x)
-    - [ ]  VM on Computer 2 (192.168.20.x)
-- [ ]  Apply monitors to sub-interfaces (both input and output)
+- [x] Apply VLAN 10 sub-interface configuration from Packet Tracer model ✅ 2025-10-03
+- [x] Apply VLAN 20 sub-interface configuration from Packet Tracer model ✅ 2025-10-03
+- [x] Configure NEW Netflow monitors for both sub-interfaces (IN and OUT) ✅ 2025-10-03
+    - [x] Ensure Netflow version 5 ✅ 2025-10-03
+- [x] Configure NEW Flow exporters pointing to: ✅ 2025-10-03
+    - [x] VM on Computer 1 (192.168.10.x) ✅ 2025-10-03
+    - [x] VM on Computer 2 (192.168.20.x) ✅ 2025-10-03
+- [x] Apply monitors to sub-interfaces (both input and output) ✅ 2025-10-03
 
 ### Configure Physical Switch
 
