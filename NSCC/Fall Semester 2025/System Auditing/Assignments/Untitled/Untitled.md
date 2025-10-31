@@ -94,14 +94,14 @@
 
 ### Configure Physical Router
 
-- [x] Apply VLAN 10 sub-interface configuration from Packet Tracer model ✅ 2025-10-03
-- [x] Apply VLAN 20 sub-interface configuration from Packet Tracer model ✅ 2025-10-03
-- [x] Configure NEW Netflow monitors for both sub-interfaces (IN and OUT) ✅ 2025-10-03
-    - [x] Ensure Netflow version 5 ✅ 2025-10-03
-- [x] Configure NEW Flow exporters pointing to: ✅ 2025-10-03
-    - [x] VM on Computer 1 (192.168.10.x) ✅ 2025-10-03
-    - [x] VM on Computer 2 (192.168.20.x) ✅ 2025-10-03
-- [x] Apply monitors to sub-interfaces (both input and output) ✅ 2025-10-03
+- [ ] Apply VLAN 10 sub-interface configuration from Packet Tracer model
+- [ ] Apply VLAN 20 sub-interface configuration from Packet Tracer model
+- [ ] Configure NEW Netflow monitors for both sub-interfaces (IN and OUT)
+    - [ ] Ensure Netflow version 5
+- [ ] Configure NEW Flow exporters pointing to:
+    - [ ] VM on Computer 1 (192.168.10.x)
+    - [ ] VM on Computer 2 (192.168.20.x)
+- [ ] Apply monitors to sub-interfaces (both input and output)
 
 ### Configure Physical Switch
 
@@ -203,3 +203,83 @@
 - Incorrect default gateway on PCs
 - Netflow exporters pointing to wrong IPs
 - Not starting Netflow Analyzer before generating traffic
+
+
+
+## Commands 
+
+VLAN  
+  
+Switch>en  
+Switch#conf t  
+Switch(config)#vlan 10  
+Switch(config-vlan)#name JON  
+Switch(config-vlan)#exit  
+Switch(config)#vlan 20  
+Switch(config-vlan)#name MALCOLM  
+Switch(config-vlan)#exit  
+Switch(config)#int rang  
+Switch(config)#int range fa7/0/1 - 2  
+Switch(config-if-range)#switchport mode access  
+Switch(config-if-range)#exit  
+Switch(config)#in  
+Switch(config)#interface fa7/0/1  
+Switch(config-if)#switchport access vlan 10  
+Switch(config-if)#exit  
+Switch(config)#int fa7/0/2  
+Switch(config-if)#switchport access vlan 20  
+Switch(config-if)#exit  
+Switch(config)#show vlan brief  
+  
+Switch#conf t  
+Enter configuration commands, one per line.  End with CNTL/Z.  
+Switch(config)#int fa7/0/16  
+Switch(config-if)#no shut  
+Switch(config-if)#switchport trunk encapsulation dot1q  
+Switch(config-if)#switchport mode trunk  
+  
+do write  
+  
+CHECKS  
+  
+show vlan brief  
+show interfaces trunk  
+  
+ROUTER  
+  
+Router>en  
+Router#conf t  
+Enter configuration commands, one per line.  End with CNTL/Z.  
+Router(config)#in  
+Router(config)#interface  gig  
+Router(config)#interface  gigabitEthernet 0/0.10  
+%Invalid interface type and number  
+Router(config)#interface gigabitEthernet 0/0.10  
+%Invalid interface type and number  
+Router(config)#interface gigabitEthernet 0/0/0.10  
+Router(config-subif)#enca  
+Router(config-subif)#encapsulation dot1Q 10  
+Router(config-subif)#ip address 192.168.10.1 255.255.255.0  
+Router(config-subif)#no shut  
+Router(config-subif)#exit  
+Router(config)#in  
+Router(config)#interface gig  
+Router(config)#interface gigabitEthernet 0/0/0.20  
+Router(config-subif)#enca  
+Router(config-subif)#encapsulation dot1Q 20  
+Router(config-subif)#ip address 192.168.20.1 255.255.255.0  
+Router(config-subif)#no shut  
+Router(config-subif)#no shutdown   
+Router(config-subif)#exit  
+Router(config)#ip routing  
+exit somewhere in here idk  
+Router#conf t  
+Router(config)#in  
+Router(config)#interface gig  
+Router(config)#interface gigabitEthernet 0/0/0  
+Router(config-if)#no shut  
+do write  
+  
+CHECKS  
+  
+show ip interface brief
