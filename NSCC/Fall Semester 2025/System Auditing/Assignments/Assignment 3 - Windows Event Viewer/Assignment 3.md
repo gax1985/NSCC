@@ -23,14 +23,14 @@ For each Audit policy change, take a screen shot of the gpedit screen showing th
 
 Create the following events such that are captured in the Windows Logs.  
 
-1. A User account is created (Use this account for the following steps).  
-2. User account fails to login due to an incorrect password.  
-3. User account succeeds in logon.  
-4. User account is made a member of the administrators group.  
+1. A User account is created (Use this account for the following steps).  x
+2. User account fails to login due to an incorrect password.  x
+3. User account succeeds in logon.  x
+4. User account is made a member of the administrators group.  x
 5. User account creates a scheduled task.  
 6. User account accesses a USB key or other external storage media and writes a file to the device.  X
-7. User account makes a change to an Audit Policy (i.e. stop logging failed logon attempts).  
-8. User account logs out.  
+7. User account makes a change to an Audit Policy (i.e. stop logging failed logon attempts).  x
+8. User account logs out.  x
    
 ## Task 3 – Event Display  
 

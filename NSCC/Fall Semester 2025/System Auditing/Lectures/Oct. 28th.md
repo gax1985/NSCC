@@ -268,19 +268,19 @@ Here’s a breakdown of the most common _standard fields_ found in the **Event P
 
 ## 🧾 Standard Fields in Event Properties
 
-|**Field**|**Description**|
-|---|---|
-|**Log Name**|The name of the log file (e.g., Application, Security, System).|
-|**Source**|The software or component that generated the event (e.g., Service Control Manager).|
-|**Event ID**|A numeric identifier for the event type (e.g., 4624 for successful logon).|
-|**Level**|Severity of the event: Information, Warning, Error, Critical.|
-|**User**|The user account under which the event occurred.|
-|**OpCode**|Describes the activity type (e.g., Info, Start, Stop). Often unused.|
-|**Logged**|Timestamp of when the event was recorded.|
-|**Task Category**|A subcategory of the event source (e.g., Logon, File System).|
-|**Keywords**|Tags that help classify the event (e.g., Audit Success, Audit Failure).|
-|**Computer**|The name of the computer where the event occurred.|
-|**Description**|A detailed explanation of the event, often including parameters and context.|
+| **Field**         | **Description**                                                                     |
+| ----------------- | ----------------------------------------------------------------------------------- |
+| **Log Name**      | The name of the log file (e.g., Application, Security, System).                     |
+| **Source**        | The software or component that generated the event (e.g., Service Control Manager). |
+| **Event ID**      | A numeric identifier for the event type (e.g., 4624 for successful logon).          |
+| **Level**         | Severity of the event: Information, Warning, Error, Critical.                       |
+| **User**          | The user account under which the event occurred.                                    |
+| **OpCode**        | Describes the activity type (e.g., Info, Start, Stop). Often unused.                |
+| **Logged**        | Timestamp of when the event was recorded.                                           |
+| **Task Category** | A subcategory of the event source (e.g., Logon, File System).                       |
+| **Keywords**      | Tags that help classify the event (e.g., Audit Success, Audit Failure).             |
+| **Computer**      | The name of the computer where the event occurred.                                  |
+| **Description**   | A detailed explanation of the event, often including parameters and context.        |
 
 ---
 
