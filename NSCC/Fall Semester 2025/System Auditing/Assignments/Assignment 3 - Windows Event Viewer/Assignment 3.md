@@ -474,6 +474,52 @@ When a user copies a file to a USB drive, Windows doesn’t generate a single �
    - Sometimes you’ll also see **Event ID 4658** (handle closed) or **Event ID 4670** (permissions changed), depending on the action.
 
 ---
+### 🔐 **Key Object Access Event IDs**
+
+|**Event ID**|**Title**|**Purpose**|
+|---|---|---|
+|**4656**|A handle to an object was requested|Indicates an object was opened.|
+|**4658**|The handle to an object was closed|Indicates the object was closed.|
+|**4660**|An object was deleted|Tracks deletion of files, folders, etc.|
+|**4663**|An attempt was made to access an object|Shows access attempts (read/write/delete).|
+|**4685/4985**|The state of a transaction has changed|Related to transaction operations (e.g., file system transactions).|
+
+---
+
+### 📁 **Understanding File Access Duration**
+
+To determine how long a file was open:
+
+1. Find **Event ID 4656** (object opened).
+2. Match it with **Event ID 4658** (object closed) using the **Handle ID**.
+3. The time between these events reflects the duration the file was open.
+
+---
+
+### 🧠 **Important Fields in Event ID 4656**
+
+|**Field**|**Explanation**|
+|---|---|
+|**Security ID**|SID of the user account.|
+|**Account Name/Domain**|User and domain/computer name.|
+|**Logon ID**|Unique ID for the logon session.|
+|**Object Type**|Type of object (e.g., File, Key, SAM).|
+|**Object Name**|Full path of the accessed object.|
+|**Handle ID**|Unique per reboot; links related events.|
+|**Process ID/Name**|ID and path of the process accessing the object.|
+|**Accesses/Access Mask**|Permissions requested (e.g., ReadData, WriteData).|
+|**Privileges Used**|Privileges like `SeTakeOwnershipPrivilege`.|
+
+---
+
+### 🧩 **Why So Many Events?**
+
+- Object Access logs **OS-level interactions**, not just user actions.
+- Applications like Word may open/close files multiple times during editing.
+- Temporary files and autosaves also generate events.
+- Even simple actions like listing a folder can trigger multiple events.
+
+---
 
 ## 🔹 Instructor’s Guidance (Types 1–4)
 
