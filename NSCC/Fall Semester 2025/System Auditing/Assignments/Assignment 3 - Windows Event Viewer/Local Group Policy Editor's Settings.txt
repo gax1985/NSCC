@@ -1,7 +1,4 @@
-Subcategory	Audit Events 
-Audit Application Group Management	Not Configured
-Audit Computer Account Management	Not Configured
-Audit Distribution Group Management	Not Configured
-Audit Other Account Management Events	Not Configured
-Audit Security Group Management	Not Configured
-Audit User Account Management	Success and Failure
+Name
+Software Settings
+Windows Settings
+Administrative Templates
