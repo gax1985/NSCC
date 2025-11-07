@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSCC/Fall Semester 2025/System Auditing/Lectures/Class Exercise - Windows.md",
+                "file": "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/Assignment 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class Exercise - Windows"
+              "title": "Assignment 3"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "Randy's Windows Security Log Encyclopedia-All Sources"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7ccc9dcf5d407447",
@@ -287,23 +285,23 @@
       "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "80b7f0e7f57b8041",
+  "active": "ddf7ca6497f0d9e2",
   "lastOpenFiles": [
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/~WRL0005.tmp",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/~WRD0004.tmp",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/~$EC2077  Assignment 3.docx",
+    "NSCC/Fall Semester 2025/System Auditing/Lectures/Class Exercise - Windows.md",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/Assignment 3.md",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/ISEC2077  Assignment 3.docx",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/~WRD0000.tmp",
     "NSCC/Fall Semester 2025/System Auditing/Lectures/Oct. 28th.md",
     "Clippings/Randy's Windows Security Log Encyclopedia-All Sources.md",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/Assignment 3.md",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/Security - Security&Failure - Successful Login.xml",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/Security - Success - Security Enabled Local Group Changed!.xml",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/Security - Success&Failure - Failed Login Attempt.xml",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/Security - Success&Failure - ScheduledTaskCreated.xml",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/Security - Success&Failure - User Account Creation.xml",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/Security - Success&Failure - User Logs Out.xml",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/Security - Success&Failure - Change of Audit Policy.xml",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/Security - Successes&Failures - MemberAddedtoSecGroup(Global and Local).xml",
-    "NSCC/Fall Semester 2025/System Auditing/Lectures/Class Exercise - Windows.md",
     "Clippings/Randy's Windows Security Log Encyclopedia-Windows Audit.md",
     "Clippings/wecutil.md",
     "NSCC/Fall Semester 2025/System Auditing/Readings/Randy's Windows Security Log Encyclopedia.md",
