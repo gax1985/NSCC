@@ -1,0 +1,33 @@
+- <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+- <System>
+  <Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}" /> 
+  <EventID>4663</EventID> 
+  <Version>1</Version> 
+  <Level>0</Level> 
+  <Task>12812</Task> 
+  <Opcode>0</Opcode> 
+  <Keywords>0x8020000000000000</Keywords> 
+  <TimeCreated SystemTime="2025-11-08T12:03:22.7208527Z" /> 
+  <EventRecordID>14268</EventRecordID> 
+  <Correlation /> 
+  <Execution ProcessID="4" ThreadID="388" /> 
+  <Channel>Security</Channel> 
+  <Computer>DESKTOP-T5U473H</Computer> 
+  <Security /> 
+  </System>
+- <EventData>
+  <Data Name="SubjectUserSid">S-1-5-18</Data> 
+  <Data Name="SubjectUserName">DESKTOP-T5U473H$</Data> 
+  <Data Name="SubjectDomainName">WORKGROUP</Data> 
+  <Data Name="SubjectLogonId">0x3e7</Data> 
+  <Data Name="ObjectServer">Security</Data> 
+  <Data Name="ObjectType">File</Data> 
+  <Data Name="ObjectName">\Device\CdRom0\Autorun.inf</Data> 
+  <Data Name="HandleId">0xd6c</Data> 
+  <Data Name="AccessList">%%4416</Data> 
+  <Data Name="AccessMask">0x1</Data> 
+  <Data Name="ProcessId">0x16c</Data> 
+  <Data Name="ProcessName">C:\Windows\System32\svchost.exe</Data> 
+  <Data Name="ResourceAttributes" /> 
+  </EventData>
+  </Event>

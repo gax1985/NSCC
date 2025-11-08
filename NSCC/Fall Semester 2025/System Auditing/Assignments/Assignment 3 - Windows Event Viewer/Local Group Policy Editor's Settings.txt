@@ -1,4 +1,6 @@
 Name
-Software Settings
-Windows Settings
-Administrative Templates
+Name Resolution Policy
+Scripts (Startup/Shutdown)
+Deployed Printers
+Security Settings
+Policy-based QoS
