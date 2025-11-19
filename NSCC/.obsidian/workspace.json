@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Winter Semester 2024/Linux Scripting/Port Scanning Challenge/Untitled.md",
+                "file": "SwissArmyKnife Writeup.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "SwissArmyKnife Writeup"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Winter Semester 2024/Linux Scripting/Port Scanning Challenge/Untitled.md",
+                "file": "SwissArmyKnife Writeup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SwissArmyKnife Writeup"
             }
           },
           {
@@ -102,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Winter Semester 2024/Linux Scripting/Port Scanning Challenge/Untitled.md",
+                "file": "SwissArmyKnife Writeup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SwissArmyKnife Writeup"
             }
           },
           {
@@ -115,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Winter Semester 2024/Linux Scripting/Port Scanning Challenge/Untitled.md"
-              }
+                "file": "SwissArmyKnife Writeup.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SwissArmyKnife Writeup"
             }
           }
         ]
@@ -138,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -148,6 +171,19 @@
   },
   "active": "7f23bcf877e47541",
   "lastOpenFiles": [
+    "Winter Semester 2024/Server Exploits/Jan. 8th 2024 - Windows Server 2019.md",
+    "SwissArmyKnife Writeup.md",
+    "Fall Semester 2025/System Auditing/Readings/Logon types in active directory - ManageEngine ADAudit Plus.md",
+    "Fall Semester 2025/System Auditing/Lectures/event log anlysis.pdf",
+    "Fall Semester 2025/System Auditing/Lectures/Class Exercise - Windows.md",
+    "Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/Failed Login/FailedLogin-Evidence.png",
+    "Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/About NXLog  NXLog Documentation.md",
+    "Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/nxlog-reference-manual.pdf",
+    "Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/NXLog Video Transcript.md",
+    "Clippings/Randy's Windows Security Log Encyclopedia - All Sources - Part 2.md",
+    "Clippings/Randy's Windows Security Log Encyclopedia - All Sources - Part 1.md",
+    "Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/ISEC 2077 Assignment 5 - Windows to nxlog.pdf",
+    "Winter Semester 2024/Linux Scripting/Port Scanning Challenge/Untitled.md",
     "Winter Semester 2024/Server Exploits/Module 4/AI-Generated Script- Privilage Escalation - Part 1.txt",
     "Winter Semester 2024/Server Exploits/Module 4/New Text Document.txt",
     "Winter Semester 2024/Server Exploits/Untitled 4.md",
