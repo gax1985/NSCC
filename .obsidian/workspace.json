@@ -8,59 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ddf7ca6497f0d9e2",
+            "id": "66fe8c885930bb8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/Assignment 3.md",
-                "mode": "source",
+                "file": "HTB/Hack The Box Academy - Footprinting - FTP.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assignment 3"
+              "title": "Hack The Box Academy - Footprinting - FTP"
             }
           },
           {
-            "id": "80b7f0e7f57b8041",
+            "id": "8280d9fd93512c0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/Assignment 3.md",
+                "file": "HTB/List of FTP server return codes - Wikipedia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assignment 3"
-            }
-          },
-          {
-            "id": "4faa03228ded18a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NSCC/Fall Semester 2025/System Auditing/Lectures/Oct. 28th.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Oct. 28th"
-            }
-          },
-          {
-            "id": "2501691023182585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Randy's Windows Security Log Encyclopedia-All Sources.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Randy's Windows Security Log Encyclopedia-All Sources"
+              "title": "List of FTP server return codes - Wikipedia"
             }
           }
         ]
@@ -120,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 395.5
   },
   "right": {
     "id": "7ccc9dcf5d407447",
@@ -208,16 +180,6 @@
             }
           },
           {
-            "id": "307429ed6730df53",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "side-panel-control-view"
-            }
-          },
-          {
             "id": "9e1a7cca4f4d9e4f",
             "type": "leaf",
             "state": {
@@ -256,9 +218,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "aedbe7715776d48a",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -285,54 +257,54 @@
       "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "ddf7ca6497f0d9e2",
+  "active": "76ab279a72ba1530",
   "lastOpenFiles": [
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/~WRD0271.tmp",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/~WRL0788.tmp",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/~WRD0765.tmp",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/~WRL2683.tmp",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/~WRD2659.tmp",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/~$EC2077  Assignment 3.docx",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/~WRD0400.tmp",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/~WRL0238.tmp",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/~WRD0219.tmp",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/Security - Success&Failure - MemberAddedtoSecGroup(Global and Local).xml",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/Security - Success&Failure - Access to USB Storage.xml",
-    "NSCC/Fall Semester 2025/System Auditing/Lectures/Class Exercise - Windows.md",
+    "NSCC/SwissArmyKnife Writeup.md",
+    "NSCC/Fall Semester 2025/System Auditing/Readings/Randy's Windows Security Log Encyclopedia - Windows - ALL.md",
+    "NSCC/Fall Semester 2025/System Auditing/Readings/Randy's Windows Security Log Encyclopedia - ALL SOURCES.md",
+    "NSCC/Fall Semester 2025/System Auditing/Lectures/event log anlysis.pdf",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/nxlog-reference-manual.pdf",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/nxlog-ce-3.2.2329.msi",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/NXLog Video Transcript.md",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/ISEC 2077 Assignment 5 - Windows to nxlog.pdf",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/About NXLog  NXLog Documentation.md",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/UserLogsOut/UserLogsOut-Evidence.png",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/UserLogsOut",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/UserLogsIn/Evidence.png",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/UserLogsIn",
+    "NSCC/Clippings/Randy's Windows Security Log Encyclopedia - All Sources - Part 2.md",
+    "NSCC/Clippings/Randy's Windows Security Log Encyclopedia - All Sources - Part 1.md",
+    "NSCC/Clippings",
+    "B-Sides/Untitled.md",
+    "B-Sides/Tangible Design with Metaphor with Evan.md",
+    "B-Sides/So a Nation-State Targeted Canada by Julien Richard.md",
+    "B-Sides/So a Nation-State Targeted Canada by Julien Richard 1.md",
+    "B-Sides/So a Nation-State Targeted Canada ....md",
+    "B-Sides/CarrierPigeon.md",
+    "B-Sides",
+    "Clippings/Wing FTP Server Remote Code Execution (CVE-2025-47812) Exploited in the Wild.md",
+    "HTB/Hack The Box Academy - Footprinting - FTP.md",
+    "Clippings/File Inclusion Vulnerabilities Comprehensive Guide.md",
+    "HTB/List of FTP server return codes - Wikipedia.md",
+    "Clippings/M2TeamPrivexec Run the program with the specified permission level (C++20 required).md",
+    "Clippings/Manpage of VSFTPD.CONF.md",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/Assignment 3.md",
+    "HTB",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/User Creation/UserCreated-Evidence.png",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/User Creation/User Created.png",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/USBDrive/USBDrive.png",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/USBDrive/USBDrive-PerspectiveEvidence.png",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/USBDrive/USBDrive-Evidence.png",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/USBDrive/New Evidence/USB-HandleRequested.png",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/USBDrive/New Evidence/USB-HandleClosed.png",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/USBDrive/Fix-AuditingFileSystem.png",
+    "NSCC/Fall Semester 2025/System Auditing/Lectures/Class Exercise - Windows.md",
     "NSCC/Fall Semester 2025/System Auditing/Lectures/Oct. 28th.md",
     "Clippings/Randy's Windows Security Log Encyclopedia-All Sources.md",
     "Clippings/Randy's Windows Security Log Encyclopedia-Windows Audit.md",
     "Clippings/wecutil.md",
     "NSCC/Fall Semester 2025/System Auditing/Readings/Randy's Windows Security Log Encyclopedia.md",
-    "NSCC/Fall Semester 2025/System Auditing/Readings/Windows Remote Management - Win32 apps.md",
-    "NSCC/Fall Semester 2025/System Auditing/Readings/The Event Viewer Video.md",
-    "NSCC/Fall Semester 2025/System Auditing/Readings/Logon types in active directory - ManageEngine ADAudit Plus.md",
-    "NSCC/Fall Semester 2025/Direction of Monitor on the Interface.md",
-    "NSCC/Fall Semester 2025/Russell - Dangerous Regex.md",
-    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Untitled 1.md",
-    "NSCC/Fall Semester 2024/Evolving Technologies/Discovery/Shodan.md",
-    "NSCC/Fall Semester 2024/Wireless and Mobile/Overview.md",
-    "NSCC/Fall Semester 2024/Wireless and Mobile/Sept. 5th.md",
-    "NSCC/Fall Semester 2025/System Auditing/Lectures/Oct 14th.md",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Untitled/Untitled.md",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Untitled/Untitled/Router/Commands.md",
-    "NSCC/Fall Semester 2023/Network Security/Oct. 4th - Network Security.md",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Untitled/Untitled/Switch/Commands.md",
-    "Pasted image 20251014091611.png",
-    "NSCC/Fall Semester 2025/System Auditing/Lectures/Oct10th.md",
-    "NSCC/New Schedule.png",
-    "NSCC/Fall Semester 2023/Network Security/Oct.27th - Packet Tracer's ACL.md",
-    "NSCC/Fall Semester 2025/System Auditing/Lectures/Oct. 7th.md",
-    "NSCC/Fall Semester 2023/Network Security/Network Security's Packet Tracer Guide.md",
-    "Pasted image 20240327181458.png",
-    "Pasted image 20240327180728.png",
-    "Pasted image 20240327180553.png",
-    "Pasted image 20240325104754.png",
-    "Pasted image 20240226152109.png",
-    "Pasted image 20240226152034.png",
-    "Pasted image 20240226150324.png",
-    "Pasted image 20240226145158.png",
     "NSCC/Winter Semester 2024/Untitled.canvas"
   ]
 }

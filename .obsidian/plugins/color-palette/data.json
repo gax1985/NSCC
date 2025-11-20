@@ -1,0 +1,9 @@
+{
+  "noticeDuration": 10000,
+  "errorPulse": true,
+  "aliasMode": "Both",
+  "height": 150,
+  "width": 700,
+  "direction": "column",
+  "gradient": true
+}

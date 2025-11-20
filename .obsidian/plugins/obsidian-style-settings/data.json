@@ -14,8 +14,8 @@
   "anuppuccin-theme-settings@@anp-card-shadows": true,
   "anuppuccin-theme-settings@@anp-card-layout-actions": true,
   "anuppuccin-theme-settings@@anp-card-layout-filebrowser": true,
-  "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": false,
   "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": false,
-  "anuppuccin-theme-settings-extended@@anp-theme-ext-light": true,
-  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-nord-light"
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-light": false,
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-atom-light"
 }
