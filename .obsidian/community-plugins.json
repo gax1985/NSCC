@@ -1,34 +1,6 @@
 [
-  "obsidian-code-block-enhancer",
-  "obsidian-markdown-formatting-assistant-plugin",
-  "obsidian-style-settings",
-  "obsidian-reading-time",
-  "obsidian-tasks-plugin",
-  "obsidian-kanban",
-  "obsidian-advanced-slides",
-  "obsidian-icon-folder",
-  "obsidian-mind-map",
-  "emoji-magic",
-  "obsidian-day-planner",
-  "obsidian-linter",
-  "cm-editor-syntax-highlight-obsidian",
-  "waka_time_box",
-  "heatmap-calendar",
-  "obsidian-activity-history",
-  "nl-syntax-highlighting",
-  "o2",
-  "colored-text",
   "color-palette",
-  "smart-second-brain",
-  "calendar",
-  "omnisearch",
-<<<<<<< Updated upstream
-  "remaining-reading-time",
-  "dataview"
-=======
-  "aw-watcher-obsidian",
   "sync-graph-settings",
-  "highlightr-plugin",
-  "remaining-reading-time"
->>>>>>> Stashed changes
+  "obsidian-tasks-plugin",
+  "obsidian-wakatime"
 ]

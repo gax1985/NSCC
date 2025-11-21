@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "92e094ffc703f149",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://docs.nxlog.co/agent/current/xm/json.html#func-to-json",
+                "title": "JSON (xm_json) | NXLog Platform Documentation",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "JSON (xm_json) | NXLog Platform Documentation"
+            }
+          },
+          {
             "id": "960e76b2676149af",
             "type": "leaf",
             "state": {
@@ -33,7 +47,8 @@
               "title": "ISEC 2077 Assignment 5 - Windows to nxlog"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,8 +198,8 @@
             "state": {
               "type": "setup-view",
               "state": {},
-              "icon": "cog",
-              "title": "Setup"
+              "icon": "lucide-ghost",
+              "title": "setup-view"
             }
           },
           {
@@ -193,8 +208,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -203,8 +218,8 @@
             "state": {
               "type": "timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Day Planner Timeline"
+              "icon": "lucide-ghost",
+              "title": "timeline"
             }
           },
           {
@@ -213,8 +228,8 @@
             "state": {
               "type": "side-panel-control-view",
               "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
+              "icon": "lucide-ghost",
+              "title": "side-panel-control-view"
             }
           }
         ],
@@ -227,6 +242,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -236,20 +252,16 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-day-planner:Timeline": false,
-      "remotely-save:Remotely Save": false,
-      "smart-second-brain:Open S2B Chat": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4bb2d3a6eda5906c",
+  "active": "92e094ffc703f149",
   "lastOpenFiles": [
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/ISEC2077  Assignment 4.docx",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/Assignment 4 - Home.md",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/nxlog.conf.md",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/Assignment 4 - Home.md",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/ISEC 2077 Assignment 5 - Windows to nxlog.pdf",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/UserLogsOut/Thumbs.db",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/ISEC2077  Assignment 4.docx",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/~WRL3193.tmp",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/~WRD3173.tmp",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/Collecting, parsing, and forwarding syslog logs  NXLog Documentation.md",
@@ -259,7 +271,6 @@
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/~WRL0001.tmp",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/~WRD0000.tmp",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/ISEC2077  Assignment 4.docx",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/ISEC 2077 Assignment 5 - Windows to nxlog.pdf",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/About NXLog  NXLog Documentation.md",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/Event Log for Windows 2008Vistalater (im_msvistalog)  NXLog Platform Documentation.md",
     "NSCC/Fall Semester 2025/System Auditing/Configure Logging in IIS.md",
@@ -268,12 +279,10 @@
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/Windows Event Collector (im_wseventing)  NXLog Platform Documentation.md",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/nxlog-reference-manual.pdf",
     "Untitled 1.canvas",
-    "Untitled 3.base",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/Grok Pattern Examples Ultimate Log Parsing Guide.md",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/NXLog Video Transcript.md",
     "HTB/List of FTP server return codes - Wikipedia.md",
     "Untitled.canvas",
-    "Untitled 2.base",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/Assignment 3.md",
     "NSCC/Fall Semester 2025/Hack The Box Academy - Footprinting - FTP.md",
     "NSCC/SwissArmyKnife Writeup.md",
