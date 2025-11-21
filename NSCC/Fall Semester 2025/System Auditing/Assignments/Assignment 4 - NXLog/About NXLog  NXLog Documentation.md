@@ -32,47 +32,47 @@ Depending on the configuration, NXLog will run as a server, a client, or a combi
 
 NXLog can accept data from many different sources, convert the data internally, and output it to other destinations. You can use NXLog as a single tool to process all of the different types of logs in your organization. For example, logs can be collected from files, databases, Unix domain sockets, network connections, and other sources. BSD Syslog, IETF Syslog, the Snare Agent format, Windows Event Log, JSON, and other formats are supported. NXLog can likely be configured to read or write logs in your custom application format, using the NXLog language and provided extension modules.
 
-High performance, scalable architecture
+#### High performance, scalable architecture
 
 With an event-based architecture for processing tasks in parallel, non-blocking input and output where possible, and a worker thread pool for incoming log messages, NXLog is designed for high performance on modern multi-core and multi-processor systems. The input/output readiness notifications provided by most operating systems are used to efficiently handle large numbers of open files and network connections.
 
-Security
+#### Security
 
 NXLog provides features throughout the application to maintain the security of your log data and systems. The core can be configured to run as an unprivileged user, and special privileges (such as binding to ports below 1024) are accessed through Linux capabilities rather than requiring the application to run as root. TLS/SSL is supported for encrypted, authenticated communications and to prevent data interception or alteration during transmission.
 
-Modular architecture
+#### Modular architecture
 
 NXLog has a lightweight, modular architecture, providing a reduced memory footprint and increased flexibility for different uses. The core handles files, events, and sockets, and provides the configuration language; modules provide the input, output, and processing capabilities. Because modules use a common API, you can write new modules to extend the features of NXLog.
 
-Message buffering
+#### Message buffering
 
 Log messages can be buffered in memory or on disk. This increases reliability by holding messages in a temporary cache when a network connectivity issue or dropout occurs. Conditional buffering can be configured by using the NXLog language to define relevant conditions. For example, UDP messages may arrive faster than they can be processed, and NXLog can buffer the messages to disk for processing when the system is under less load. Conditional buffering can be used to explicitly buffer log messages during certain hours of the day or when the system load is high.
 
-Prioritized processing
+#### Prioritized processing
 
 NXLog can be configured to separate high-priority log processing from low-priority log processing, ensuring that it processes the most important data first. When the system is experiencing high load, NXLog will avoid dropping important incoming messages. For example, incoming UDP messages can be prioritized to prevent dropped logs if a high volume of TCP messages overloads the system.
 
-Message durability
+#### Message durability
 
 Built-in flow control ensures that a blocked output does not cause dropped log messages when buffers are full. In combination with the previously mentioned parallel processing, buffering, and prioritization, the possibility of message loss is greatly reduced.
 
-Familiar and powerful configuration syntax
+#### Familiar and powerful configuration syntax
 
 NXLog uses an Apache-style configuration syntax that is easy to read and can be parsed or generated with scripts. The NXLog language supports advanced scripting and processing capabilities that are usually only found in full-fledged scripting languages. The syntax is similar to Perl, so users familiar with that language can learn it easily. It supports polymorphic functions and procedures and regular expressions with captured sub-strings. Modules can register additional functions and procedures to further extend the capabilities of the language.
 
-Scheduled tasks and log rotation
+#### Scheduled tasks and log rotation
 
 NXLog includes a scheduler service. A task can be scheduled from any module without requiring an external tool such as Cron. Log files can be rotated automatically, on a time-based schedule or according to file size. The file reader and writer modules in NXLog can detect when an input or output file moves or changes its name, and re-open the file automatically.
 
-Advanced message processing
+#### Advanced message processing
 
 NXLog can perform advanced processing actions on log messages, in addition to the core features already mentioned. By using additional modules, NXLog can solve many related tasks such as message classification, event correlation, pattern matching, message filtering, message rewriting, and conditional alerting. You can use a single tool for all log processing functionality.
 
-Offline processing
+#### Offline processing
 
 Sometimes log messages need to be processed in batches for conversion, filtering, or analysis. NXLog provides an offline mode in which it processes all input and then exits. Because NXLog does not assume that the event time and processing time are identical, time-based correlation features can be used even during offline log processing.
 
-International character and encoding support
+#### International character and encoding support
 
 NXLog supports explicit character set conversion and automatic character set detection. Log messages received in different character sets can be automatically normalized to a common standard, allowing messages to be compared across different sources.
 
@@ -80,27 +80,27 @@ NXLog supports explicit character set conversion and automatic character set det
 
 While the NXLog Community Edition provides all the flexibility and performance of the NXLog engine, the NXLog Enterprise Edition provides additional enhancements, including modules and core features, as well as regular hot-fixes and updates which are crucial in a professional environment. The Enterprise Edition provides the following enhancements.
 
-Additional platform support
+#### Additional platform support
 
 In addition to Linux and Windows, installer packages are provided for the BSDs and the major variants of Unix (AIX, Solaris, and macOS) operating systems.
 
-Signed installer packages
+#### Signed installer packages
 
 Installer packages are digitally signed to ensure that the binaries are not corrupted or compromised. In many cases, this is a compliance mandate.
 
-On-the-wire compression
+#### On-the-wire compression
 
 Log data can be transferred in compressed batches with the [im\_batchcompress](https://docs.nxlog.co/refman/current/im/batchcompress.html) and [om\_batchcompress](https://docs.nxlog.co/refman/current/om/batchcompress.html) input/output modules. This can help in limited bandwidth scenarios.
 
-Better control over SSL and TLS
+#### Better control over SSL and TLS
 
 Due to vulnerabilities discovered in the SSL protocols, some protocols may need to be disabled. The various SSL/TLS networking modules in NXLog Enterprise Edition can be configured to allow only specific protocols via the SSLProtocol directive. On Windows, NXLog Enterprise Edition can utilize TLSv1.2 while NXLog Community Edition supports TLSv1.0 only.
 
-ODBC input and output
+#### ODBC input and output
 
 The ODBC input and output modules, [im\_odbc](https://docs.nxlog.co/refman/current/im/odbc.html) and [om\_odbc](https://docs.nxlog.co/refman/current/om/odbc.html), allow log data to be read from or inserted into any ODBC-compliant database. The primary purpose of the *im\_odbc* module is native Windows MSSQL support to enable log collection from Windows applications that write logs to MSSQL. The *om\_odbc* output module can be used to insert data into an ODBC database. These modules are available on Windows and Linux too.
 
-Remote management
+#### Remote management
 
 The dedicated [xm\_admin](https://docs.nxlog.co/refman/current/xm/admin.html) extension module enables NXLog agents to be managed remotely over a secure SOAP/JSON SSL connection or to be integrated with existing monitoring and management tools. The configurations, correlation rules, patterns, and certificates can all be updated remotely from the NXLog Manager web interface or from scripts. In addition, the NXLog agents and the individual modules can be stopped/started and log collection statistics can be queried for real-time statistics.
 

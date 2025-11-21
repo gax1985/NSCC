@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Hack The Box Academy - Footprinting - FTP.md",
-                "mode": "preview",
+                "file": "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/About NXLog  NXLog Documentation.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hack The Box Academy - Footprinting - FTP"
+              "title": "About NXLog  NXLog Documentation"
             }
           },
           {
@@ -185,8 +185,8 @@
             "state": {
               "type": "setup-view",
               "state": {},
-              "icon": "cog",
-              "title": "Setup"
+              "icon": "lucide-ghost",
+              "title": "setup-view"
             }
           },
           {
@@ -205,8 +205,8 @@
             "state": {
               "type": "timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Day Planner Timeline"
+              "icon": "lucide-ghost",
+              "title": "timeline"
             }
           },
           {
@@ -215,8 +215,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -225,8 +225,18 @@
             "state": {
               "type": "side-panel-control-view",
               "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
+              "icon": "lucide-ghost",
+              "title": "side-panel-control-view"
+            }
+          },
+          {
+            "id": "ea3204324f521b3a",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Day Planner Timeline"
             }
           }
         ],
@@ -251,14 +261,15 @@
       "workspaces:Manage workspace layouts": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "omnisearch:Omnisearch": false,
       "obsidian-day-planner:Timeline": false,
       "remotely-save:Remotely Save": false,
-      "smart-second-brain:Open S2B Chat": false
+      "smart-second-brain:Open S2B Chat": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "76ab279a72ba1530",
+  "active": "66fe8c885930bb8d",
   "lastOpenFiles": [
+    "HTB/Hack The Box Academy - Footprinting - FTP.md",
     "NSCC/SwissArmyKnife Writeup.md",
     "NSCC/Fall Semester 2025/System Auditing/Readings/Randy's Windows Security Log Encyclopedia - Windows - ALL.md",
     "NSCC/Fall Semester 2025/System Auditing/Readings/Randy's Windows Security Log Encyclopedia - ALL SOURCES.md",
@@ -284,7 +295,6 @@
     "B-Sides/CarrierPigeon.md",
     "B-Sides",
     "Clippings/Wing FTP Server Remote Code Execution (CVE-2025-47812) Exploited in the Wild.md",
-    "HTB/Hack The Box Academy - Footprinting - FTP.md",
     "Clippings/File Inclusion Vulnerabilities Comprehensive Guide.md",
     "HTB/List of FTP server return codes - Wikipedia.md",
     "Clippings/M2TeamPrivexec Run the program with the specified permission level (C++20 required).md",
