@@ -1,4 +1,27 @@
 
+# NXLog Installation 
+
+
+Step 1: Review the nxlog resources available on your brightspace shell beginning with the “About NxLog”  
+link.  
+Step 2: On a VM, go to the nxlog link in brightspace and download and install the latest Community  Edition for Windows. (NOT THE 30 DAY FREE TRIAL). Scroll down on the download page and download  user manuals and any reference guides and review these manuals before running the program.  
+Step 3: Review the video linked at “Syslog Explained”. This video does not use NxLog but does  
+demonstrate configuring the router for export of syslog messages to a syslog server. NxLog will function  
+as our syslog server in a future assignment.  
+Step 4: On your VM, run nxlog in the foreground and show your instructor that it is running.
+
+# NXLog 
+
+To accomplish this task you must modify your nxlog.conf file to contain: 
+
+
+Part 1. the xm_json and syslog extensions 
+
+Part 2. an input Module that can retrieve Windows logs from the SECURITY log file (local file on your machine). You must identify the correct local windows log file. 
+
+Part 3. an output Module that can convert the Windows log events to json or syslog and direct the result to a new local log file in json or syslog format in a folder where you have write privileges. 
+
+Part 4. a Route from the input module to the output module. Display the contents of your Log file (Step 4 below). Steps. Step 1. Stop the nxlog service Step 2. Modify the .conf file Step 3. Restart the nxlog service Step 4. Look in the file location specified for the new json or syslog log file and show the contents to your instructor
 
 This is a great adjustment. Since you are already midway through the **About NXLog** page (specifically at "Native W3C parser"), you have covered the high-level architecture. You are actually ahead of where I thought you were.
 
