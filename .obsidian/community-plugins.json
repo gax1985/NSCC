@@ -15,15 +15,20 @@
   "waka_time_box",
   "heatmap-calendar",
   "obsidian-activity-history",
-  "obsidian-fountain",
   "nl-syntax-highlighting",
-  "remotely-save",
   "o2",
   "colored-text",
   "color-palette",
   "smart-second-brain",
   "calendar",
   "omnisearch",
+<<<<<<< Updated upstream
   "remaining-reading-time",
   "dataview"
+=======
+  "aw-watcher-obsidian",
+  "sync-graph-settings",
+  "highlightr-plugin",
+  "remaining-reading-time"
+>>>>>>> Stashed changes
 ]

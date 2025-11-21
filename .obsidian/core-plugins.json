@@ -21,7 +21,7 @@
   "outline": true,
   "word-count": true,
   "slides": true,
-  "audio-recorder": false,
+  "audio-recorder": true,
   "workspaces": true,
   "file-recovery": true,
   "publish": true,
@@ -29,5 +29,5 @@
   "properties": true,
   "footnotes": false,
   "bases": true,
-  "webviewer": false
+  "webviewer": true
 }

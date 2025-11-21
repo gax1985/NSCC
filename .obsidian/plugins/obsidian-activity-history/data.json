@@ -13,7 +13,11 @@
     {
       "path": "/",
       "date": "2025-11-21",
+<<<<<<< Updated upstream
       "size": 28332303
+=======
+      "size": 27504116
+>>>>>>> Stashed changes
     }
   ],
   "activityHistory": [
@@ -154,11 +158,19 @@
         },
         {
           "date": "2025-11-20",
+<<<<<<< Updated upstream
           "value": 1255346
         },
         {
           "date": "2025-11-21",
           "value": 211329
+=======
+          "value": 634376
+        },
+        {
+          "date": "2025-11-21",
+          "value": 0
+>>>>>>> Stashed changes
         }
       ]
     }
