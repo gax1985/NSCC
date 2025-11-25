@@ -1,6 +1,6 @@
 {
   "markwhenPath": "timeline.mw",
-  "notesFolderPath": "",
+  "notesFolderPath": "Notes",
   "enableBidirectionalSync": true,
   "enableAutoSync": false,
   "autoSyncInterval": "60",
