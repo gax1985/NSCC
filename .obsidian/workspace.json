@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "12227e207e275222",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
             "id": "92e094ffc703f149",
             "type": "leaf",
             "state": {
@@ -61,7 +73,8 @@
               "title": "Nov 25th - NXLog"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,8 +224,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
             }
           },
           {
@@ -221,8 +234,8 @@
             "state": {
               "type": "gemini-agent-view",
               "state": {},
-              "icon": "sparkles",
-              "title": "Agent Mode"
+              "icon": "lucide-ghost",
+              "title": "gemini-agent-view"
             }
           }
         ],
@@ -245,16 +258,10 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
-      "workspaces:Manage workspace layouts": false,
-      "smart-connections:Open: Smart Chat": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": true,
-      "gemini-scribe:Gemini Scribe: Agent Mode": false,
-      "smart-vault-visualizer:Open smart connections visualizer": false,
-      "smart-connections-visualizer:Open smart connections visualizer": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4bb2d3a6eda5906c",
+  "active": "12227e207e275222",
   "lastOpenFiles": [
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/security_events.json",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/Untitled 2.png",
