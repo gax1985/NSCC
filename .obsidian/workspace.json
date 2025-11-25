@@ -260,11 +260,13 @@
       "publish:Publish changes...": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "gemini-scribe:Gemini Scribe: Agent Mode": false
+      "gemini-scribe:Gemini Scribe: Agent Mode": false,
+      "markfilesync:Sync timeline": false
     }
   },
-  "active": "12227e207e275222",
+  "active": "76ab279a72ba1530",
   "lastOpenFiles": [
+    "timeline.mw",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/security_events.json",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/Untitled 2.png",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/ISEC2077  Assignment 4.docx",
@@ -283,7 +285,6 @@
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/ISEC 2077 Assignment 5 - Windows to nxlog.pdf",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/UserLogsOut/Thumbs.db",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/~WRL3193.tmp",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/~WRD3173.tmp",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/Collecting, parsing, and forwarding syslog logs  NXLog Documentation.md",
     "Clippings/Event Log for Windows 2008Vistalater (im_msvistalog)  NXLog Platform Documentation.md",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/About NXLog  NXLog Documentation.md",
