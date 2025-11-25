@@ -33,7 +33,6 @@
 ############
 <Output external_file>
     Module      om_file
-    # Double backslashes used correctly here. Good job.
     File        "C:\\Users\\NetFlowCollectoR\\Desktop\\security_events.json"
     Exec        to_json();
 </Output>

@@ -2,5 +2,16 @@
   "color-palette",
   "sync-graph-settings",
   "obsidian-tasks-plugin",
-  "obsidian-wakatime"
+  "obsidian-wakatime",
+  "aw-watcher-obsidian",
+  "gemini-scribe",
+  "smart-connections",
+  "smart-link-formatter",
+  "obsidian-style-settings",
+  "smart-vault-visualizer",
+  "smart-day-night-switcher",
+  "smart-context",
+  "smart-connections-visualizer",
+  "remaining-reading-time",
+  "obsidian-reading-time"
 ]
