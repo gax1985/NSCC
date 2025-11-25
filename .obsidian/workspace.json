@@ -258,7 +258,9 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
   "active": "12227e207e275222",
