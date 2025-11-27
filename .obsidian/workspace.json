@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSCC/Fall Semester 2025/System Auditing/Nov 25th - NXLog.md",
+                "file": "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 6/TODO List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nov 25th - NXLog"
+              "title": "TODO List"
             }
           },
           {
@@ -211,8 +211,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
             }
           },
           {
@@ -221,8 +221,8 @@
             "state": {
               "type": "gemini-agent-view",
               "state": {},
-              "icon": "sparkles",
-              "title": "Agent Mode"
+              "icon": "lucide-ghost",
+              "title": "gemini-agent-view"
             }
           }
         ],
@@ -245,36 +245,31 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
-      "workspaces:Manage workspace layouts": false,
-      "smart-connections:Open: Smart Chat": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": true,
-      "gemini-scribe:Gemini Scribe: Agent Mode": false,
-      "smart-vault-visualizer:Open smart connections visualizer": false,
-      "smart-connections-visualizer:Open smart connections visualizer": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4bb2d3a6eda5906c",
+  "active": "76ab279a72ba1530",
   "lastOpenFiles": [
+    "NSCC/~$berSwissArmyKnife.docx",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 6/PatternDetector.py",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 6/ISEC 2077 Assignment 6 - Anomaly Detection.pdf",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 6/TODO List.md",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 6/cardKeyLog 1.txt",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 6/cardKeyLog.txt",
+    "NSCC/Fall Semester 2025/System Auditing/Nov 25th - NXLog.md",
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 6",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/security_events.json",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/Untitled 2.png",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/ISEC2077  Assignment 4.docx",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/output.json",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/File Inclusion Vulnerabilities Comprehensive Guide.md",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/nxlog.conf.md",
-    "NSCC/Fall Semester 2025/System Auditing/Nov 25th - NXLog.md",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/nxlog.conf",
     "gemini-scribe/Agent-Sessions/NXLog Windows Security Log Input.md",
     "gemini-scribe/Agent-Sessions",
     "gemini-scribe/Prompts/example-expert.md",
-    "gemini-scribe/Prompts",
-    "gemini-scribe",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/Reading and receiving logs  NXLog Documentation.md",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/Assignment 4 - Home.md",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/ISEC 2077 Assignment 5 - Windows to nxlog.pdf",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/UserLogsOut/Thumbs.db",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/~WRL3193.tmp",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/~WRD3173.tmp",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/Collecting, parsing, and forwarding syslog logs  NXLog Documentation.md",
     "Clippings/Event Log for Windows 2008Vistalater (im_msvistalog)  NXLog Platform Documentation.md",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/About NXLog  NXLog Documentation.md",
@@ -296,7 +291,6 @@
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/UserLogsOut/UserLogsOut-Evidence.png",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/UserLogsIn/Evidence.png",
     "NSCC/Clippings/Randy's Windows Security Log Encyclopedia - All Sources - Part 2.md",
-    "NSCC/Clippings/Randy's Windows Security Log Encyclopedia - All Sources - Part 1.md",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/User Creation/UserCreated-Evidence.png",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/User Creation/User Created.png",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/USBDrive/USBDrive.png",
