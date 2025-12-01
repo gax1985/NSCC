@@ -129,7 +129,7 @@ Difficult to tap
 
 Fiber to desktops --> fiber passes through a metal conduit (where it passes through the door, and it is visible always. This prevents any network taps from being hidden) --> from the back of the computer to the server --> Zinc
 
-Rennovations have been done in buildings in security installations. That lead to the discovery of listening devices inserted into the concrete. You can sit outside the building, send an RF signal and it starts transmitting. any possible technique you can think of has been certainly done before. 
+Renovations have been done in buildings in security installations. That lead to the discovery of listening devices inserted into the concrete. You can sit outside the building, send an RF signal and it starts transmitting. any possible technique you can think of has been certainly done before. 
 
 
 
