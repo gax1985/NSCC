@@ -1,0 +1,29 @@
+{
+  "mcpServers": {
+    "context7": {
+      "command": "npx",
+      "args": ["-y", "@upstash/context7-mcp@latest","--api-key", "ctx7sk-e2257367-ed83-445c-b462-abd027b8c177"]
+
+    },
+    "gemini-cli": {
+      "command": "uv",
+      "args": ["run", "gemini-mcp"]
+    },
+    "nixos-uvx": {
+      "command": "uvx",
+      "args": [
+        "mcp-nixos"
+      ]
+    },
+    "nixos": {
+      "command": "podman",
+      "args": [
+        "run",
+        "--rm",
+        "-i",
+        "ghcr.io/utensils/mcp-nixos"
+      ]
+    }
+  
+}
+}
