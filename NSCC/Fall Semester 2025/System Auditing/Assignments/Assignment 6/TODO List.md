@@ -3,12 +3,12 @@
 # Assignment 6: Anomaly Detection Plan
 
 ## Phase 1: Setup & Data Ingestion (Est. 30 mins)
-- [ ] **Step 1.1:** Create `anomaly_detector.py` file. (5 mins)
-- [ ] **Step 1.2:** Add the **Required Comment Block** at the top. (5 mins)
+- [x] **Step 1.1:** Create `anomaly_detector.py` file. (5 mins)
+- [x] **Step 1.2:** Add the **Required Comment Block** at the top. (5 mins)
     * *Include:* Name, ISEC2077, Assignment 6, Date.
-- [ ] **Step 1.3:** Write code to open `cardKeyLog.txt` in read mode. (5 mins)
-- [ ] **Step 1.4:** Write a `for` loop to read the file line-by-line. (5 mins)
-- [ ] **Step 1.5:** Split each line using `.split('\t')` and `print()` the first 5 lines to test. (10 mins)
+- [x] **Step 1.3:** Write code to open `cardKeyLog.txt` in read mode. (5 mins)
+- [x] **Step 1.4:** Write a `for` loop to read the file line-by-line. (5 mins)
+- [x] **Step 1.5:** Split each line using `.split('\t')` and `print()` the first 5 lines to test. (10 mins)
 
 ## Phase 2: The Logic (Est. 45 mins)
 - [ ] **Step 2.1:** Convert the `Hour` and `Minute` strings to Integers `int()`. (15 mins)

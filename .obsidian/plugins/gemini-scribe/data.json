@@ -1,8 +1,8 @@
 {
   "apiKey": "AIzaSyAmfNmnRhanVtfax0oIwjz7wZznIKDomWk",
   "chatModelName": "gemini-2.5-pro",
-  "summaryModelName": "gemini-2.5-flash",
-  "completionsModelName": "gemini-2.5-flash-image-preview",
+  "summaryModelName": "gemini-2.5-pro",
+  "completionsModelName": "gemini-2.5-flash",
   "summaryFrontmatterKey": "summary",
   "userName": "User",
   "chatHistory": true,
@@ -14,7 +14,7 @@
   "modelDiscovery": {
     "enabled": true,
     "autoUpdateInterval": 24,
-    "lastUpdate": 1764081369181,
+    "lastUpdate": 1764211708707,
     "fallbackToStatic": true
   },
   "allowSystemPromptOverride": false,
