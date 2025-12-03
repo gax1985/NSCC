@@ -1,71 +1,160 @@
 ##########################################################################
 # Mohammad Al Jokhadar | ISEC2077 | Assignment 6 | Dec. 2nd, 2025
 ##########################################################################
+def main():
 
-# This script reads a tab-separated log file, uses the first row as headers,
-# and converts the remaining rows into a list of dictionaries.
+    from time import sleep # This is added in order to add pauses
 
-
-def load_and_parse_log(filepath="cardKeyLog.txt"):
-    """
-    Reads a tab-separated file, treating the first line as headers
-    and subsequent lines as data rows.
-
-    Args:
-        filepath (str): The path to the log file.
-
-    Returns:
-        A list of dictionaries, where each dictionary represents a row.
-        Returns an empty list if the file is empty or headers are missing.
-    """
+    # Let us create a variable to store log entries :
     log_entries = []
 
-    try:
-        with open(filepath, "r") as file:
-            # 1. Read the header row and clean it up.
-            header_line = file.readline()
-            if not header_line:
-                return []  # File is empty
+    # ... and create a dictionary of anomalies, containing two lists for each type of anomaly :
 
-            headers = [h.strip() for h in header_line.split("\t")]
+    anomalies = {"no_punch_in": [], "no_punch_out": []}
 
-            # 2. Loop through the rest of the lines in the file.
-            for line in file:
-                # Skip any blank lines
-                if not line.strip():
-                    continue
+    def load_and_parse_log(filepath="cardKeyLog.txt"):
 
-                values = line.strip().split("\t")
+        # Since the contents of the file that we have is separated by tabs (to make it appear as a table)
+        # , we will consider the first line as headers and subsequent lines as data rows.
 
-                # 3. Create a dictionary for the row.
-                # We use a try-except block to handle potential errors if a row
-                # doesn't have the same number of columns as the header.
-                try:
-                    # The map(int, values) part converts each value from a string to an integer.
-                    entry_dict = dict(zip(headers, map(int, values)))
-                    log_entries.append(entry_dict)
-                except (ValueError, TypeError):
-                    print(f"Warning: Skipping malformed row: {line.strip()}")
+        try:
+            with open(filepath, "r") as file:
+                header_line = file.readline() # the .readline() sub-module reads the first line of the file
+                if not header_line: # ... if the header line is empty, return nothing
+                    return []
+                headers = [h.strip() for h in header_line.split("\t")] # extract the text from all the items in headers
 
-    except FileNotFoundError:
-        print(f"Error: The file '{filepath}' was not found.")
-        return []
+                for line in file:
+                    if not line.strip(): # If the line's contents are empty, proceed ....
+                        continue
+                    values = line.strip().split("\t") # ... the delimeter here is the TABs , thus they are known as "\t"
+                    try:
+                        entry_dict = dict(zip(headers, map(int, values))) # the zip function assigns the contents of lists
+                                                                          # together in parallel
+                        log_entries.append(entry_dict)                    # ... this would add the entry_dict dictionary
+                                                                          # to the log entries list
+                    except (ValueError, TypeError):                       # Exception is added to handle issues with
+                                                                          # values and content types
+                        print(f"Warning: Skipping malformed row: {line.strip()}")
+        except FileNotFoundError:                                         # Exception is added to handle issues with the file at hand
+            print(f"Error: The file '{filepath}' was not found.")
 
-    return log_entries
+        return log_entries
+
+    # Let us run the first function :
+    load_and_parse_log()    # We should now call the function!
+
+##############################
+# Anomalies Finder function :
+##############################
+    def find_anomalies():
 
 
-def main():
-    # The list of log entries is now returned by the function.
-    log_contents = load_and_parse_log()
-    print(log_contents)
+        # The aggregation of final results :
+        #####################################
 
-    # You can now work with the log_contents list.
-    # For example, let's print the first 5 entries to verify.
-    # if log_contents:
-    #     print("Successfully loaded log file. Here are the first 5 entries:")
-    #     for entry in log_contents[:5]:
-    #         print(entry)
+        # Now , what we can do is to check for matches. When they are found,
+        # we add any matches to the anomalies dictionary.
+        # Since the data is already structured, the most reliable method
+        # is to check the dictionary values directly.
+
+        for log in log_entries:
+            # Check for employees who have not punched in (HourIN is 0 and MinIN is 0)
+            if log["HourIN"] == 0 and log["MinIN"] == 0:
+                anomalies["no_punch_in"].append(log)   # We add the log entry that matches the results to the appropriate list
+
+            # Check for employees who have not punched out (HourOUT is 0 and MinOUT is 0)
+            if log["HourOUT"] == 0 and log["MinOut"] == 0:
+                anomalies["no_punch_out"].append(log) # We add the log entry that matches the results to the appropriate list
+
+        return anomalies
+
+    find_anomalies()  # the anomalies finder is called!
+######################
+# The Presenter :
+######################
+    def presenter():
+
+        # Let us present the results :
+
+        print("\n--- Anomaly Scan Complete ---")
+
+        sleep(2)
+
+        print(
+            f"""#####################################################################################################################
+                
+Dearest employer ... the following employees did not follow correct procedures for proper time keeping :
+        
+# The number of  individuals did not punch in when starting their shift :
+########################################################################
+Number of individuals : {len(anomalies["no_punch_in"])} 
+        
+Details :
+######### """)
+
+        for employee in anomalies["no_punch_in"]:
+            print(
+                f" The employee # {employee["EmpNum"]} did not punch in when starting their shift."
+            )
+
+        print(
+            "#####################################################################################################################"
+        )
+
+        print(f"""# The following individuals did not punch out when starting their shift :
+########################################################################
+Number of individuals : {len(anomalies["no_punch_out"])}
+        
+Details :
+#########"""
+        )
+
+        for employee in anomalies["no_punch_out"]:
+            print(
+                f" The employee # {employee["EmpNum"]} did not punch out when ending their shift."
+            )
+
+    presenter()
+
+
+##################################################
+# Writing to the 'ANOMALIES.TXT' external file :
+################################################
+
+    def the_external_writer(report_file="ANOMALIES.txt"):
+
+        # The pathlib library is imported to handle filesystem paths in a modern, object-oriented way.
+        from pathlib import Path
+
+        # A Path object is created for the report file, making it easier to work with.
+        report_file_path = Path(report_file)
+
+        # The 'with' statement ensures the file is automatically closed even if errors occur.
+        # The file is opened in 'w' (write) mode, which means the file will be created fresh each time the script runs.
+        with report_file_path.open(mode="w") as file:
+
+            # This section iterates through the list of "no punch in" anomalies.
+            for employee in anomalies["no_punch_in"]:
+                # Line 1: Write the employee number, month, and day, followed by a newline character.
+                file.write(f"{employee['EmpNum']},{employee['MonthIN']},{employee['DayIN']}\n")
+                # Line 2: Write the description of the anomaly.
+                file.write("The employees punched OUT but did not punch IN!\n")
+                # Line 3: Write a separator to make the report easier to read.
+                file.write("***********************************************************************\n")
+
+            # This section iterates through the list of "no punch out" anomalies.
+            for employee in anomalies["no_punch_out"]:
+                # Line 1: Write the employee number, month, and day.
+                file.write(f"{employee['EmpNum']},{employee['MonthIN']},{employee['DayIN']}\n")
+                # Line 2: Write the description of the anomaly.
+                file.write("The employees punched IN but did not punch OUT!\n")
+                # Line 3: Write the separator.
+                file.write("***********************************************************************\n")
+
+    # Finally, the writer function is called to generate the ANOMALIES.txt file.
+    the_external_writer(report_file="ANOMALIES.txt")
 
 
 if __name__ == "__main__":
-    main()
+    main() # Call the main function to run the program
