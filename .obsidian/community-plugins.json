@@ -11,5 +11,17 @@
   "heatmap-calendar",
   "gemini-scribe",
   "emoji-magic",
-  "markfilesync"
+  "markfilesync",
+  "obsidian-tasks-plugin",
+  "sync-graph-settings",
+  "smart-vault-visualizer",
+  "smart-second-brain",
+  "color-palette",
+  "obsidian-day-planner",
+  "cm-editor-syntax-highlight-obsidian",
+  "ai-tagger",
+  "obsidian-code-block-enhancer",
+  "obsidian-linter",
+  "obsidian-mind-map",
+  "obsidian-git"
 ]

@@ -1,0 +1,5 @@
+{
+  "apiKey": "AIzaSyBhKe0nHhti0lajR0Q2SrcGQOjDUTryVcI",
+  "removeHeadlineEnabled": false,
+  "defaultPrompt": "Write a me an Obsidian Markdown Note for a Note with the title: {TITLE} \n You are writing directly in Obsidian thus you do not need an extra markdown environment. Also do not use any properties"
+}

@@ -1,0 +1,1235 @@
+{
+  "version": "1.0",
+  "storeName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+  "lastSync": 1767793947082,
+  "files": {
+    "NSCC/Winter Semester 2024/Windows Security/Jan. 4th 2024 - Syllabus.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "d95a6b286bfed77eaf4fd712294d6eb8e8fd0dbb664a7070a87008708c8be7e2",
+      "lastIndexed": 1767793835821
+    },
+    "NSCC/Winter Semester 2024/Windows Security/Untitled.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "2c6f5d77b1647f4f8c37e645ce1e483410606e715cc05740b5c52be5321d8554",
+      "lastIndexed": 1767793835859
+    },
+    "Tax Calculator's Test.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "37ba54380510515000ed03eb339a5aa5ce05558301a2c8947b41295a9b61054a",
+      "lastIndexed": 1767793835941
+    },
+    "NSCC/Winter Semester 2024/Windows Security/Untitled 1.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "8fce53374b4d8b5b90c43b694aeddb51ff8248d295750eb68c8a9f2e995ccf16",
+      "lastIndexed": 1767793836055
+    },
+    "NSCC/Winter Semester 2024/Windows Security/Jan. 30th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "f43c70648cdd8238d684e93fb1d37b595dbba95b5ff013e66d1a2c25ba008143",
+      "lastIndexed": 1767793836272
+    },
+    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Untitled.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "c905d82f9bcb1cd5bd033e3fb1f9e2f9969d511eede64276bf1c1ea058c7a762",
+      "lastIndexed": 1767793837792
+    },
+    "NSCC/Winter Semester 2024/Windows Security/Jan 16th..md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "d08019aca30f64acf97f58f9bf1c76d2b57231f786a1392fedf1948abf6d526f",
+      "lastIndexed": 1767793838020
+    },
+    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Untitled 2.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "825173e5ff2ad64c54e4c32bef184bd8883415d9a63bc5f282a8b53b63b7bc48",
+      "lastIndexed": 1767793838081
+    },
+    "NSCC/Winter Semester 2024/Windows Security/Feb. 15th - File System.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "3559ca5779753d32427df7427707d90010b72257bd40ae3632036736867ebcc8",
+      "lastIndexed": 1767793838234
+    },
+    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Untitled 1.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "8775b93e6acf4314cbc93378a908fd0f5cbdf2a076ad7b103ed7d621cd7765d2",
+      "lastIndexed": 1767793838257
+    },
+    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Readings/Cracking Local Windows Passwords with MiMiKatZ, LSA Dump and HashCat.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "a5f6a2b8af68147c38a8b061c2a56e3fcbb7933c259ede9cc460c406a59756fc",
+      "lastIndexed": 1767793839990
+    },
+    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/March 27th - MiMiKatz.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "f651ce99bd1e9e9709aa14b959403a92c4bc0fb631dd1014291bb30d16d8b898",
+      "lastIndexed": 1767793839992
+    },
+    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 4th , 2024 - Intro.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "14facd32fd3adf5d893a81ca8f20684e29b3c52e2207a0fa485b9524f988154c",
+      "lastIndexed": 1767793839994
+    },
+    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/MiTM Video.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "94b2c388000aaf79c10aa0bfae7e79876ee7fd7a632409abbcef55a849c55d1f",
+      "lastIndexed": 1767793840045
+    },
+    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 8th, 2024 - Attack Surface.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "5ae6f0c2f7780503c8665f5c19e8cac0c89b46cccd4f137e6712d548d968b2c8",
+      "lastIndexed": 1767793840073
+    },
+    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 23rd.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "7e11701490b5b742e0861b37208c2a646cedc7ea48f05a370e2822736f72ed78",
+      "lastIndexed": 1767793841465
+    },
+    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 15th - WSL Activity.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "b1abefe3c83b5452b73b8a83227855cae1a5b13702c3a8a8e79d0e7a39cc6c1d",
+      "lastIndexed": 1767793841814
+    },
+    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Feb. 12th - Malicious Macros.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "0fea2c93680bbc01a093098e97eca388cb90cae5e37bd5c07c050806a2b9fd9a",
+      "lastIndexed": 1767793841817
+    },
+    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan 31st.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "75037b08fcd72db25e9e91cd236c0b404e12dd5fa9e0dcb997ae5102c4172543",
+      "lastIndexed": 1767793841819
+    },
+    "NSCC/Winter Semester 2024/Vulnerabilities and Exploits/Jan. 22nd.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "bbce17991ed8b0f64c2d566e88795ce205dbb3a5f8c09b33ac389dbbdbd3f14f",
+      "lastIndexed": 1767793842218
+    },
+    "NSCC/Winter Semester 2024/Server Exploits/Untitled 4.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "2be590305bbe4decfadd9258825d705c3bb3269a8d96e5a5d9e53672163c940c",
+      "lastIndexed": 1767793843753
+    },
+    "NSCC/Winter Semester 2024/Server Exploits/Untitled 3.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "fdb39d6462fcb96ec9e6adb7d4a7402205886e27432c07e596b5fd4bbcb1fba5",
+      "lastIndexed": 1767793843856
+    },
+    "NSCC/Winter Semester 2024/Server Exploits/Untitled.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "7a4c2b4aee2046dc787e57cd75da77616587c71b1e112a79a03ebc58d233945f",
+      "lastIndexed": 1767793843964
+    },
+    "NSCC/Winter Semester 2024/Server Exploits/Untitled 5.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "c7ad31c936c5e643f54538760a25a6b9e1b02c2d0944c2a3b2f4bd093a0cca4a",
+      "lastIndexed": 1767793843996
+    },
+    "NSCC/Winter Semester 2024/Server Exploits/MySQL/MySQL Vulnerabilities.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "19ac071f7c4111e7356dfbe8714c99c6b42c2ced97da0de4728fc3968ba9f322",
+      "lastIndexed": 1767793845336
+    },
+    "NSCC/Winter Semester 2024/Server Exploits/Section 1 - Lab/Module 1.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "44fb653ecfd60ee982be8c98121f2fcf7ad5e3b2df5e695d033c968a68e46c89",
+      "lastIndexed": 1767793845707
+    },
+    "NSCC/Winter Semester 2024/Server Exploits/Section 1 - Lab/The OSI Model (notes from Network Security).md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "0d3c6c26d5dda24b6665922740cb07a29d51a86e63f421840c92c68613531b8b",
+      "lastIndexed": 1767793845709
+    },
+    "NSCC/Winter Semester 2024/Server Exploits/Untitled 1.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "299951cfabb784f9f966fdfd824ded473901e79b621d0fd46f22522a9b88ec79",
+      "lastIndexed": 1767793846005
+    },
+    "NSCC/Winter Semester 2024/Server Exploits/MySQL/MySQL Components.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "2254471fce7c8c6889af38a416ddb91415f873a5ee66a382c2129cb8ca74de3e",
+      "lastIndexed": 1767793847642
+    },
+    "NSCC/Winter Semester 2024/Server Exploits/Module 5/Module 5 - Part 1 - Hardening Web Applications.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "313f0b8a14f9d0e085b010ea85adb93a79dcdcf6d9d51e39806e68c46fb5363e",
+      "lastIndexed": 1767793847687
+    },
+    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Untitled 1/Untitled 1.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "a665076a1cecf5379c8062e6bd577af49a6a4f4d9670d2f2de8203e8dbd692bd",
+      "lastIndexed": 1767793848467
+    },
+    "NSCC/Winter Semester 2024/Server Exploits/Module 4/Untitled 1/Untitled.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "9f0348e2662595b782b7b46b775ea5abbd91e1a04a67dbb04b7dd597b72c1f98",
+      "lastIndexed": 1767793848469
+    },
+    "NSCC/Winter Semester 2024/Server Exploits/Methodology/Windows Server 2019/Setting up a Domain Controller/3 - Adding the Workstation to the Domain.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "7e19a6d6baba324b986a50b312a9da69b4abb6a7f925019d9b537ce5c6d8822b",
+      "lastIndexed": 1767793849898
+    },
+    "NSCC/Winter Semester 2024/Server Exploits/Methodology/Windows Server 2019/Setting up a Domain Controller/2 - Creating a User.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "1bd6ec4a5516e00e0f19855035171075be323eb8e097c7cb2607a0bdc7e06f65",
+      "lastIndexed": 1767793850326
+    },
+    "NSCC/Winter Semester 2024/Server Exploits/Methodology/Windows Server 2019/Setting up a Domain Controller/1 - Setting Up a Domain Controller.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "e353342e94d566a1405e80671bec7d9afd834f2f5c2c877e6b5c1977c61670df",
+      "lastIndexed": 1767793850340
+    },
+    "NSCC/Winter Semester 2024/Server Exploits/Jan. 31st.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "69cdd121dd2ec1e51828aeb6b0ce334520299ae8bce6a03ad9ede5635e0225ec",
+      "lastIndexed": 1767793850342
+    },
+    "NSCC/Winter Semester 2024/Server Exploits/Jan. 8th 2024 - Windows Server 2019.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "7b0dfbee3bef8fa86ee6d77ad610973b751ce4b0870fa25e1a71ebf1b90c79d7",
+      "lastIndexed": 1767793850358
+    },
+    "NSCC/Winter Semester 2024/Server Exploits/Jan. 19th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "90376ef2d786a04f20567d6ed7d7bef17d11ae198dae45dda04cff5312619b87",
+      "lastIndexed": 1767793852053
+    },
+    "NSCC/Winter Semester 2024/Schedule.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "92f68c6876add5205a83c37f5906dbb7033575fe3d03229c0a877638b3b326ef",
+      "lastIndexed": 1767793852055
+    },
+    "NSCC/Winter Semester 2024/Server Exploits/Feb. 12th - Eternal Blue.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "04e204e27670392e8850073873ee6aeda659448cb68eecd9a51d2deb6490b751",
+      "lastIndexed": 1767793852110
+    },
+    "NSCC/Winter Semester 2024/Professional Practices for IT/Jan. 9th/Jan. 9th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "afb663e479acb416c0d4d9a9f16eba7e3ca0cff4eaf9ed7c8147fd7dd6a183a1",
+      "lastIndexed": 1767793852460
+    },
+    "NSCC/Winter Semester 2024/Server Exploits/Jan. 17th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "0f53042654fba355d1278e435490718ce7c33533e543853724609b0026f6f754",
+      "lastIndexed": 1767793852473
+    },
+    "NSCC/Winter Semester 2024/Professional Practices for IT/Jan. 16th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "9bb484824b89c2b006414a7e9c06535824287c032a9e4dcbc54b66376550fb43",
+      "lastIndexed": 1767793854199
+    },
+    "NSCC/Winter Semester 2024/Professional Practices for IT/Jan. 23rd.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "aee9e09bc6509547e59a03f405690eed757b9ed071d48aa08573406d7e6ce1c3",
+      "lastIndexed": 1767793854232
+    },
+    "NSCC/Winter Semester 2024/Professional Practices for IT/Assignment 2 - Building Business Relationships.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "59cf4eba39ca628022a869447b03cd8f40536ce7253729afd554fa38c50952df",
+      "lastIndexed": 1767793854310
+    },
+    "NSCC/Winter Semester 2024/Professional Practices for IT/Jan. 30th - Relationships.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "f4a495626209f0cb87c098ffac2349c6aff5b34ba6bb8f933151913c66be76f2",
+      "lastIndexed": 1767793854344
+    },
+    "NSCC/Winter Semester 2024/Professional Practices for IT/Feb. 13th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "f5df96f7051c0bfe9905dd6325d1d044cdad358ec4649ae698914bff9d75aea1",
+      "lastIndexed": 1767793854709
+    },
+    "NSCC/Winter Semester 2024/PowerShell Commands/Set-ExecutionPolicy.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "a4b2972c6f8301ebde6318245ca6741569c6297b7bd458c61c52e0cfd628c20e",
+      "lastIndexed": 1767793856141
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Untitled 1.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "9a8e48e209af330491dfeb0f5ad2c2f811d2fbd1816d7281b5a7e0ce683938be",
+      "lastIndexed": 1767793856202
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Untitled.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "749f3c6630f6a0adce4eed517fd29f2969447454f260cac5d983883feb54d68c",
+      "lastIndexed": 1767793856243
+    },
+    "NSCC/Winter Semester 2024/PowerShell Commands/Untitled.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "8c1bbab3f676cc17de856d1da82854d029c95ba4b6b7350759587527ab7d1cec",
+      "lastIndexed": 1767793856756
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Jan. 16th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "4411f9833cfe8e4282059b50732b246a522c0cccaddd7c8917ee40b236d8f9b0",
+      "lastIndexed": 1767793858175
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Jan. 30th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "19b9bdebd5746c00d776cd9b4ece7339cef54c45fed2ef6d2779dec2bd5f4fe1",
+      "lastIndexed": 1767793858200
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Port Scanning Challenge/Untitled.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "ce52293f5410f8066ab82e177176ea4160acf46abca8401b5f9ed3cf12d55ed1",
+      "lastIndexed": 1767793858687
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/To DO.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "33d5d43338ff35f3a7c8826afdcddf73dba06b96fba37d88f9b68d814f09a3f3",
+      "lastIndexed": 1767793858722
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Jan. 4th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "31448da9c75857f8a71efd47378359bdeb4715a0620674cbcb768d06178d9312",
+      "lastIndexed": 1767793858739
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Feb. 1st.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "563a17e9ac86052e8d5c3d46aca9da174aad9e025acc1099b2b16240d1a01a28",
+      "lastIndexed": 1767793860347
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Command Repository/BASH/READ Statement.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "8506b928b2d5a21a99421af53a480df324e2c551b9867f78233f0d75ccc37371",
+      "lastIndexed": 1767793860348
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Jan 18th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "3e5662b067a02be7a1be1097174d0815377eabedd7b00612afc11a5a40d7850f",
+      "lastIndexed": 1767793860439
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Jan 9th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "7537d6034dd3b8ab84d4512798eb0e42e16ae5e33d26e52f49d4d4e4de954eb0",
+      "lastIndexed": 1767793860554
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Command Repository/BASH/EXPORT Command.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "51a8bfd2031ab13b6f884df3c251314edb6725650fd5f19c3c7bd8c987ee8fab",
+      "lastIndexed": 1767793862328
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Bandit/Level 3.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "2762a3eac2a7d4310aa493b56ffc6114dcb7b4e8574d342caae65bb310aac9f2",
+      "lastIndexed": 1767793862339
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Bandit/Level 3 1 1 1.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "2762a3eac2a7d4310aa493b56ffc6114dcb7b4e8574d342caae65bb310aac9f2",
+      "lastIndexed": 1767793863652
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Bandit/Level 3 1 1 1 1 1.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "2762a3eac2a7d4310aa493b56ffc6114dcb7b4e8574d342caae65bb310aac9f2",
+      "lastIndexed": 1767793863926
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Bandit/Level 3 1 1.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "2762a3eac2a7d4310aa493b56ffc6114dcb7b4e8574d342caae65bb310aac9f2",
+      "lastIndexed": 1767793863990
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Bandit/Level 3 1.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "2762a3eac2a7d4310aa493b56ffc6114dcb7b4e8574d342caae65bb310aac9f2",
+      "lastIndexed": 1767793864089
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Bandit/Level 3 1 1 1 1.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "2762a3eac2a7d4310aa493b56ffc6114dcb7b4e8574d342caae65bb310aac9f2",
+      "lastIndexed": 1767793864238
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Bandit/Level 3 1 1 1 1 1 1 1.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "2762a3eac2a7d4310aa493b56ffc6114dcb7b4e8574d342caae65bb310aac9f2",
+      "lastIndexed": 1767793865571
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Bandit/Level 3 1 1 1 1 1 1 1 1 1.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "2762a3eac2a7d4310aa493b56ffc6114dcb7b4e8574d342caae65bb310aac9f2",
+      "lastIndexed": 1767793865577
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Bandit/Level 3 1 1 1 1 1 1.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "2762a3eac2a7d4310aa493b56ffc6114dcb7b4e8574d342caae65bb310aac9f2",
+      "lastIndexed": 1767793865667
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Bandit/Level 3 1 1 1 1 1 1 1 1.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "2762a3eac2a7d4310aa493b56ffc6114dcb7b4e8574d342caae65bb310aac9f2",
+      "lastIndexed": 1767793865872
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Bandit/Level 3 1 1 1 1 1 1 1 1 1 1.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "2762a3eac2a7d4310aa493b56ffc6114dcb7b4e8574d342caae65bb310aac9f2",
+      "lastIndexed": 1767793866090
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 9.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "32a6709bfb0bc54dba05872960238603f3b70a4d53e4215e7ee063157c0e9fef",
+      "lastIndexed": 1767793867511
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Bandit/Level 3 1 1 1 1 1 1 1 1 1 1 1.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "2762a3eac2a7d4310aa493b56ffc6114dcb7b4e8574d342caae65bb310aac9f2",
+      "lastIndexed": 1767793867718
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Bandit/Level 2.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "2762a3eac2a7d4310aa493b56ffc6114dcb7b4e8574d342caae65bb310aac9f2",
+      "lastIndexed": 1767793867735
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Bandit/Level 1.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "2762a3eac2a7d4310aa493b56ffc6114dcb7b4e8574d342caae65bb310aac9f2",
+      "lastIndexed": 1767793867757
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/Bandit/Level 3 1 1 1 1 1 1 1 1 1 1 1 1.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "2762a3eac2a7d4310aa493b56ffc6114dcb7b4e8574d342caae65bb310aac9f2",
+      "lastIndexed": 1767793867759
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 5.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "186add47910ad1312345e7a3149e36c8a0f6b2dad5b0ee6346c2f251e57ae817",
+      "lastIndexed": 1767793869251
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 8.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "67de0da4950cfbd60c181abc828f28f7ce16b606fd7b3be1a233e8d2a2e0506c",
+      "lastIndexed": 1767793869277
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 4.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "c27a2afbbef93d6c769f72e72f587e3a98b271ed3f8b5406327331ad57d0c525",
+      "lastIndexed": 1767793869324
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 6.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "d9ba22fa3597418d96f16dcc5ffe3b104e61560cca561100d6f30f61c002b753",
+      "lastIndexed": 1767793869376
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 7.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "5477d0d69352bbbc6c1072becde1fe281c10dd4e2fa18821b74f1ea94d5276a2",
+      "lastIndexed": 1767793869397
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/FOR Loop.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "b773ec13418a280e33bf7a2bb2e60940eec1bc5cb1bca5ac9bd8ebcf0f1de77a",
+      "lastIndexed": 1767793870993
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 10.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "be8193eab85e307b1d61f4bd8dd07f54c13baf3981866cfbca5817e5460d18a1",
+      "lastIndexed": 1767793871033
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/IF Statement.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "6d59bbb3c8cd3f5dd6b250073398286adaebd17fe60295f5ebf65391890febfa",
+      "lastIndexed": 1767793871301
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/Untitled 3.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "a86dc7a30fbd867e77223a63f5f549db5bf2ebecc04afb81069365435c4763fc",
+      "lastIndexed": 1767793871605
+    },
+    "NSCC/Winter Semester 2024/Linux Commands/Impacket - WMIexec.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "857fea27a52eae3003c628de54a1b40c17493c83bd31e3ad8af94191a9bc754f",
+      "lastIndexed": 1767793873195
+    },
+    "NSCC/Winter Semester 2024/Linux Commands/Impacket - SECRETSDUMP.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "0ca8bdf565fbd8d35b927dffa93b7e5118136f98c871c3e32564bb63e838d22b",
+      "lastIndexed": 1767793873242
+    },
+    "NSCC/Winter Semester 2024/Linux Commands/CRACKMAPEXEC.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "2d0894c179531483f95c8dfcccdc3818148ed590ca68aaa1e55b0258125ebda1",
+      "lastIndexed": 1767793873378
+    },
+    "NSCC/Winter Semester 2024/Linux Commands/Linux's PATH Variable.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "3d7892a53b935f13ea93fce102324f5330e9a7f3e6562578bb4903a0cf0bca2b",
+      "lastIndexed": 1767793873431
+    },
+    "NSCC/Winter Semester 2024/Linux Scripting/BASH Scripting/CASE Statement.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "b91dffdf20ac4cf58017a1e939d8ff8683eebbb65d28c31ebf2d0fbde68e5ade",
+      "lastIndexed": 1767793873756
+    },
+    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 22nd.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "c1f77eb015f6efb4c9861ede9e9c4f8bb7318ce0c1cbad5de050e85417bdb0d0",
+      "lastIndexed": 1767793875190
+    },
+    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 19th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "b4ba43b30dfdbc04a1d38e6ba38f78237157024fc0210511e0e396b5b8bea5d7",
+      "lastIndexed": 1767793875302
+    },
+    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Untitled.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "aeb1d6b193c6a54308f9553f36c4d3f3083551a2e5c0ed742e8326f837732124",
+      "lastIndexed": 1767793875701
+    },
+    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 17th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "0f7a71cad3de9e841662a69aeca35d27bb10f61a178fe0facadc63e45c714db6",
+      "lastIndexed": 1767793875804
+    },
+    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 17th - AI (more depth).md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "8a8e96302b5637c96a9254089015d2d10aa8d5c18d18cc13b2497cd3c6e351be",
+      "lastIndexed": 1767793877041
+    },
+    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 15th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "b93ed44a1c5ddf53c8e6fb50a1fca53df8d3d56c21ba77e48dad894d7f68b789",
+      "lastIndexed": 1767793877156
+    },
+    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 12th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "5d0ae3d18ea9079aa7cb24f13e4b3877ffa96e92ec2396e7bc189c1dc37c70d7",
+      "lastIndexed": 1767793877158
+    },
+    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Feb. 9th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "458df696e2e8af94ee3c744925ab22249e43f50e9f3022312d7c7fb19fcac6a2",
+      "lastIndexed": 1767793877852
+    },
+    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Jan. 17th - AI.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "4bad27e4ea39e89017503735dabfce5a71b070748af188773bf3164ac8e3a7a1",
+      "lastIndexed": 1767793878057
+    },
+    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Feb. 23rd - VPNs.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "d40399d8f0d57d3ba462234a050e7bb7f22c0f72e85378a67433f9d314ed6cc0",
+      "lastIndexed": 1767793879501
+    },
+    "NSCC/Winter Semester 2024/Firewalls VPNs and Endpoints/Feb. 12th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "5f5f40c9486182f09684ca03cea6caa76c0f7c254740c4858f63331e1f62cfe0",
+      "lastIndexed": 1767793879527
+    },
+    "NSCC/Untitled.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "99c3f02271b2be22f1d76d3c3ecaf52c320fbada1c9dd93ebec5817146d4ed8b",
+      "lastIndexed": 1767793879796
+    },
+    "NSCC/Untitled/Untitled 1/Untitled.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "bb93df9bf8601d210e83c4a5bf68132517494b4742f8d2366c6f6526b621ebb0",
+      "lastIndexed": 1767793879910
+    },
+    "NSCC/Untitled/Untitled/Untitled.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "7890a42998d6ea6cd06c68b885e1d6106103ec9d74cea0d656658e5e610fe96f",
+      "lastIndexed": 1767793881744
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Readings/Windows Remote Management - Win32 apps.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "ce3c5a94b5ab6ecdc90b730034892ac1b8ac9fc75845baf9588a516f07117b69",
+      "lastIndexed": 1767793881818
+    },
+    "NSCC/Untitled/Untitled.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "0175599dd88180cd2d1ef8364121cf5d8d4b4d832eded861e4e3ee59d0472a2a",
+      "lastIndexed": 1767793882159
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Readings/The Event Viewer Video.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "917473559118ebcde098e56dc53529c2478942df302d759a46dc1338a2611058",
+      "lastIndexed": 1767793882356
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Nov 25th - NXLog.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "8cf945dc36754fd29cf617847c97d49ec2f9b7ed2f83ae94d5b28c543bace76f",
+      "lastIndexed": 1767793884352
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Readings/Randy's Windows Security Log Encyclopedia - Windows - ALL.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "64bb254d16132e8f2506d57826096ef31f75a8791c3fa067c659283c277594ea",
+      "lastIndexed": 1767793884604
+    },
+    "NSCC/Fall Semester 2025/System Auditing/M2TeamPrivexec Run the program with the specified permission level (C++20 required).md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "089ca3aaba2364bbed639135ed7868aeed62a52d03c7c9beb801d747b24c5d6d",
+      "lastIndexed": 1767793884619
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Readings/Logon types in active directory - ManageEngine ADAudit Plus.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "32553471deeb302138bada864a37546888554b2e834dfc2f9ae9213dbedb07a3",
+      "lastIndexed": 1767793884622
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Readings/Randy's Windows Security Log Encyclopedia - ALL SOURCES.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "64bb254d16132e8f2506d57826096ef31f75a8791c3fa067c659283c277594ea",
+      "lastIndexed": 1767793884718
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Lectures/Oct. 7th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "96c0e0a4ad6871e11eaa33292cf07858457dd373d74a066bafc74e417b9c389a",
+      "lastIndexed": 1767793886232
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Lectures/September 9th - First Assignment.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "bce4c53ccd0acf82547cf8117d8c5980cf78e506017e118b51bc01abdf2e9cd8",
+      "lastIndexed": 1767793886349
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Lectures/Oct. 28th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "0eb2ba111e0204b3af443e0c4691fe52a5db1a75797fe44cdf11290db1bf1490",
+      "lastIndexed": 1767793886393
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Lectures/Oct10th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "e9b5b2bb46080d90f30df74eece19e5448d06b4e8333efeb57054297b16bb2d2",
+      "lastIndexed": 1767793886642
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Lectures/Oct 14th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "61151ae7bf167166dc4f3dde53df5d69220b972c3ed84a879e40a9a44ad70f80",
+      "lastIndexed": 1767793886686
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Configure Logging in IIS.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "206d22a7b1000c2e4d375a1de724b69a4aaff131b5bfdfa4a0d417cd42471a43",
+      "lastIndexed": 1767793887982
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Untitled/Untitled/Switch/Commands.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "15e78fd9b16443ecf7454ad4f28df30d9a0c4718ad43d0729bc5b77f682f5cb6",
+      "lastIndexed": 1767793888098
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Lectures/Class Exercise - Windows.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "cdcda318a8d3cf3314a0cb9839fcb67c42fdf47384dae3a68c6758a6371b5125",
+      "lastIndexed": 1767793888398
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Untitled/Untitled/Router/Commands.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "fbf1f85c839bc759d8bf1709f3fd08d3118a3dc94292b0a171b6e0dbdfead182",
+      "lastIndexed": 1767793888610
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Untitled/Untitled.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "bbf00c27e2c9e9cf85b27f444d9c4cfa74e12de9fa3ff0802cb5b5a3ee5f524f",
+      "lastIndexed": 1767793889117
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/File Inclusion Vulnerabilities Comprehensive Guide.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "d8b4e2be37fb834787eee4844e1f4926e080950f9c3ba59a0c2a8f5670840b76",
+      "lastIndexed": 1767793890556
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/nxlog.conf.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "68a39f0a198c96cd733226a147f20d65e92c193a65d77fc9b2426ea6b080e0d8",
+      "lastIndexed": 1767793890559
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/W3C Format - Extended Log File Format.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "c705b93a7ae4b3bfc07e0d190af012f2d7e41367e9fa720f9169ab077f9b1433",
+      "lastIndexed": 1767793890962
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 6/TODO List.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "30bbf22099158548a7af12e18b5109e90745c1572f4facb4e3731d01c4020702",
+      "lastIndexed": 1767793890999
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/Windows Event Collector (im_wseventing)  NXLog Platform Documentation.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "f65600b979012e7640aea7539489cd0941a32b01b7508261d00d0f0c3b3cb75e",
+      "lastIndexed": 1767793891280
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/Grok Pattern Examples Ultimate Log Parsing Guide.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "d78408a27f03a421928b38c31747e23a8b83ca10b45d896023ad07b9e44d36b6",
+      "lastIndexed": 1767793892706
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/Event Log for Windows 2008Vistalater (im_msvistalog)  NXLog Platform Documentation.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "708bc728987c11332579fe4ddc4b0c9d9a7103e35470de9d0fe33e72912e1098",
+      "lastIndexed": 1767793892710
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/Reading and receiving logs  NXLog Documentation.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "ac090d361db574e6c47baccf2f55baba11b56f1ad624b77b75bc66a34085947e",
+      "lastIndexed": 1767793892745
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/NXLog Video Transcript.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "b8e9ba8f012418b248865bc640ff1c646f7e9c43d5edb7b05f78aa9bb2172be0",
+      "lastIndexed": 1767793892746
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/Collecting, parsing, and forwarding syslog logs  NXLog Documentation.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "efa0c99292d4dd2af49150f2d2f53f4b889203f6596ae270524e73f25e5d26b7",
+      "lastIndexed": 1767793892909
+    },
+    "NSCC/Fall Semester 2025/Russell - Dangerous Regex.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "4d2a88d4f72023ae24aec7f7b2b9b7d0d3532843c36eb2e680882f92a166a24c",
+      "lastIndexed": 1767793894750
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/Assignment 4 - Home.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "1658bff187dc4b82220367d0be07891877675b82f8a0df23e596a6b29f61cea9",
+      "lastIndexed": 1767793894811
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/About NXLog  NXLog Documentation.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "c984f12078c585f713fc256aa1f5e4df8006f12b8a7cda864b86c3c9cde9b30d",
+      "lastIndexed": 1767793895071
+    },
+    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/Assignment 3.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "11abe6e601f80c94254b45c4f1ed77dd6aaa5c05769518719c91135813a61d74",
+      "lastIndexed": 1767793895072
+    },
+    "NSCC/Fall Semester 2025/Physical Security - Information Technology and Infrastructure.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "ac8155420323dd82a45b44e494917c562cff5e726806a778511e4b5517084cfa",
+      "lastIndexed": 1767793895077
+    },
+    "NSCC/Fall Semester 2025/Hack The Box Academy - Footprinting - FTP.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "ccc34cccb7c0f670ae4acee48a8d3b0b7e82fcb29560a775b6f265a457bd8a1e",
+      "lastIndexed": 1767793896798
+    },
+    "NSCC/Fall Semester 2025/Direction of Monitor on the Interface.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "5d6444506c80192f4e38d786b1db9beac8f61635374f0a4788f41f3fbc1ad4c1",
+      "lastIndexed": 1767793896862
+    },
+    "NSCC/Fall Semester 2024/Wireless and Mobile/Overview.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "439baa6acb6261d15761797a52944e7f78d6152315a4574775d0058835157f69",
+      "lastIndexed": 1767793897308
+    },
+    "NSCC/Fall Semester 2024/Web Security/Sept. 11th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "689ebcde54526650b1e9482380999b2d8502a98997e2d33fb5177464162b0f85",
+      "lastIndexed": 1767793898865
+    },
+    "NSCC/Fall Semester 2024/Web Security/Course Plan.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "cbc74f1e16cd041723f5d0d2615a368f644d9ad087f84746d2edcb81171bb094",
+      "lastIndexed": 1767793898870
+    },
+    "NSCC/Fall Semester 2024/Physical Security/Sept. 9th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "c6d03c3d8207431a2ad5b159c363a970776a3d734e9ba9e7451381d0551c5ef8",
+      "lastIndexed": 1767793898969
+    },
+    "NSCC/Fall Semester 2024/Web Security/Sept 4th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "e16b932cd73106a773e8c063ea4e7a1fc2644c8008a6efda6ad322b1cb197300",
+      "lastIndexed": 1767793899035
+    },
+    "NSCC/Fall Semester 2024/Web Security/Sept 10th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "fbfd4d01f089a95b6f250d2c39b9c14b8fd4ae769c7db9c440265154262e7993",
+      "lastIndexed": 1767793899668
+    },
+    "NSCC/Fall Semester 2024/Evolving Technologies/Welcome.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "fa6236101786ffa9a59655c2a3ff223f43f09c48e3fa5c49a1be0c4bf3abb73b",
+      "lastIndexed": 1767793901201
+    },
+    "NSCC/Fall Semester 2024/PPIT II/Workplan.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "4e879a9fed358b94438b7b7c9814448c2ab4bf3e7d81b0a294646663f383c57d",
+      "lastIndexed": 1767793901243
+    },
+    "NSCC/Fall Semester 2024/Physical Security/CPTED Primer ( from the website ).md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "0908ff8497349ce94caffed4597d16c972928437577f32448c5f86a8446b715c",
+      "lastIndexed": 1767793901290
+    },
+    "NSCC/Fall Semester 2024/Physical Security/Sept. 4th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "c0ef6feb8a29632184ffd5e7a66de04e9fffd2be9fefee431ca8d89306f1bd66",
+      "lastIndexed": 1767793901614
+    },
+    "NSCC/Fall Semester 2024/Evolving Technologies/Phishing/SMTP Relays.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "8f1f2e2904158812b8df2dfaf05a286fd14aaa3832bba8426b7087ae0f212e99",
+      "lastIndexed": 1767793903059
+    },
+    "NSCC/Fall Semester 2024/Evolving Technologies/TryHackMe's Google Dorking.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "e194dc7c02934a04be4f6a90d3c98c76752aa62ba52bbb4d8ca762cf0b0191ec",
+      "lastIndexed": 1767793903060
+    },
+    "NSCC/Fall Semester 2024/Evolving Technologies/Phishing/Email Spoofing.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "df2e218c457bbd5fd9d50ac3cfe4a8f99df6b648df719ccb3304b766464ab62e",
+      "lastIndexed": 1767793903085
+    },
+    "NSCC/Fall Semester 2024/Evolving Technologies/Lectures/Sept. 6th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "7bee6dcfd0db06e2e94e24dd5c9bac3bc485d5abb49a58dfa22e68ad0968edfa",
+      "lastIndexed": 1767793903349
+    },
+    "NSCC/Fall Semester 2024/Evolving Technologies/Lectures/Sept. 9th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "ccf31d02644fb44730e88ca9ace7ea8d318803957433b420d7991511846312a7",
+      "lastIndexed": 1767793903760
+    },
+    "NSCC/Fall Semester 2024/Evolving Technologies/Discovery/Maltego.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "18c063a8bc25d7a8b27bdffb113659a7cb63f0ebf79120ad6cfdafe37c513edf",
+      "lastIndexed": 1767793905093
+    },
+    "NSCC/Fall Semester 2024/Evolving Technologies/Discovery/Shodan.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "b280eb6ed3fa529fddccbfd3d1e660dc403c5df4d94036663bf28926e75dd0ae",
+      "lastIndexed": 1767793905160
+    },
+    "NSCC/Fall Semester 2024/Evolving Technologies/Discovery/NMap.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "0f3b8d271f4e1cc03d50271711cf0baa591d86697d3520a2d2839d110afd75a3",
+      "lastIndexed": 1767793905404
+    },
+    "NSCC/Fall Semester 2024/Evolving Technologies/Discovery/Recon-NG.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "34d10b9c0c2da5792e1a72d9ca2982fe64f660606531eae93d30623bda613ca9",
+      "lastIndexed": 1767793905711
+    },
+    "NSCC/Fall Semester 2024/Evolving Technologies/Discovery/theHarvester.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "f88c650f05e12c58bd60fdbd3fcc789266bf5e174949d9dbc62d525f192badae",
+      "lastIndexed": 1767793905726
+    },
+    "NSCC/Fall Semester 2024/Evolving Technologies/Discovery/Gobuster.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "d71d7056b8cffdea3d917f432671e31f6dc0f34c1a905198a96cf986832dfd98",
+      "lastIndexed": 1767793907287
+    },
+    "NSCC/Fall Semester 2024/Evolving Technologies/Discovery/Host.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "ffbafe55e21c50f2cafdabedad4f597799d170c817918f0eaa85cc5ea0f7204a",
+      "lastIndexed": 1767793907310
+    },
+    "NSCC/Fall Semester 2024/Evolving Technologies/Discovery/Dig.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "e6ccf776c3bca8b21b05570b3571c7d3250d32fcb63e16be4f40c9c9d02331f2",
+      "lastIndexed": 1767793907548
+    },
+    "NSCC/Fall Semester 2024/Evolving Technologies/Discovery/DNSRecon.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "680daa0df4cb8ecc01525d71253e15af2263934cbd89353e3ce04f495e8b44f1",
+      "lastIndexed": 1767793907675
+    },
+    "NSCC/Fall Semester 2024/Evolving Technologies/Discovery/Information Gathering.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "a62ce14cbf72d53f57fe9fc3f7cb2d44928aaa03a0a3eae03efdef58f3496eaa",
+      "lastIndexed": 1767793908161
+    },
+    "NSCC/Fall Semester 2024/Evolving Technologies/Chats/New Chat.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "6d33230dddb116ade24ef22710e062febba072b3c5cb78fffb95b32bf4a272b9",
+      "lastIndexed": 1767793909606
+    },
+    "NSCC/Fall Semester 2024/Evolving Technologies/Attacking/Using Domains for Attacks.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "a41c94ed62af8c7d7aa59190ccbd3436fe3b591e16e7d0961d41bb900ffedae1",
+      "lastIndexed": 1767793909608
+    },
+    "NSCC/Fall Semester 2023/Router + Sub intertface.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "ff0c9d4b7e2a8b25dba2eceff1e178289f415ca6324f2aead1c39eb1183c6f1c",
+      "lastIndexed": 1767793909610
+    },
+    "NSCC/Fall Semester 2024/Evolving Technologies/Attacking/SSL Certificates.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "1c1f837412470f2a8d9760cb3017d1f4ceebd77dac998c57864941bbabe67b52",
+      "lastIndexed": 1767793909634
+    },
+    "NSCC/Fall Semester 2024/Evolving Technologies/Attacking/Command & Control Center.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "3bccf3b5f61c627045d4e5f8454183bb3d7da0463362ae69f15f7fd9c489e362",
+      "lastIndexed": 1767793909907
+    },
+    "NSCC/Fall Semester 2023/Programming I/Oct. 20th - Complex IF Statements(Cont.).md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "dda2a718eb5a03555845561d00814ca6ccde2c27cd6daff753f03230424cb2a5",
+      "lastIndexed": 1767793911297
+    },
+    "NSCC/Fall Semester 2023/Programming I/Oct. 18th - Conditional Statements Practice.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "1c350ff2b9dae3baee77ec812d07d871c20ebe2c680cc522bd75589c1e071aa2",
+      "lastIndexed": 1767793911367
+    },
+    "NSCC/Fall Semester 2023/Programming I/Oct. 27th - Scope.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "62002606bb9c65fa29f3da49d4c8b1869ba364ad3ddb2df99d0df75ef5521d7f",
+      "lastIndexed": 1767793911492
+    },
+    "NSCC/Fall Semester 2023/Programming I/Oct. 23rd - Functions.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "e2008150d34984c95466ee2e357be2d73fe0eb147a05e09c600d979cc9d2e123",
+      "lastIndexed": 1767793911743
+    },
+    "NSCC/Fall Semester 2023/Programming I/Oct. 6th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "a2320a130d2c64e4bc0c0c38b73b67bad74a68b304a378e52870dd4ff26852a5",
+      "lastIndexed": 1767793912158
+    },
+    "NSCC/Fall Semester 2023/Programming I/Nov. 6th - LOOPs.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "88cb732209ed91a234f14d880faca4b0096c0102f1d410f6f875c24fbda2f6a4",
+      "lastIndexed": 1767793913591
+    },
+    "NSCC/Fall Semester 2023/Programming I/Oct 11th - Complex IF statements.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "1da4192489162c947dfcf143f26996441e0f4b575e88671beb24ee9e53fad736",
+      "lastIndexed": 1767793913800
+    },
+    "NSCC/Fall Semester 2023/Programming I/Nov.24th - APIs and Files/Nov.24th - APIs and Files.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "687bd5e15408c3e5333493c7acebbd09f8daf1f14ce1ce2303958a2cd50051d0",
+      "lastIndexed": 1767793913861
+    },
+    "NSCC/Fall Semester 2023/Programming I/Nov. 20th - Open Files-Scope.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "c79f725f093f2b759c4ba0551c35b93a39bc7084ea7684922bb4dc239a0529c5",
+      "lastIndexed": 1767793913924
+    },
+    "NSCC/Fall Semester 2023/Programming I/Oct. 13 - Logic & Programming - Flowcharts.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "81981f4cc1a109b98bdbba20612c81f713c39773d895bab91c5b3e96d8bf73ae",
+      "lastIndexed": 1767793914311
+    },
+    "NSCC/Fall Semester 2023/Programming I/8th Class - Sept 22nd.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "55346cfbc8b3725ee6f19e49b61eb88e8e33a3eeb65bd3fb80d995d58a5dbc3b",
+      "lastIndexed": 1767793915738
+    },
+    "NSCC/Fall Semester 2023/Programming I/GIT Guide.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "c20648a417d08255a796137977eb97214fef02e49cdd9388e9391f36e650c919",
+      "lastIndexed": 1767793915953
+    },
+    "NSCC/Fall Semester 2023/Programming I/Modules.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "f994a0271150d39d9cbd3ef6ea0a23ed3f8d58ac899b5fb1b03366f64e351e85",
+      "lastIndexed": 1767793915954
+    },
+    "NSCC/Fall Semester 2023/Programming I/Nov. 1st - Programming - Loops.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "f755d65f2755259b21a81d53246605fd23528edd6cf2aeeef684c68d702a0e14",
+      "lastIndexed": 1767793916152
+    },
+    "NSCC/Fall Semester 2023/Programming I/9th Class - Sept 25th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "b3b678a639358200e67f8fa3e8c133975986114c86c0707f898d036bc5d54df3",
+      "lastIndexed": 1767793916353
+    },
+    "NSCC/Fall Semester 2023/Programming I/1st Class - Sept. 6th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "80d719680d5becdceb16d6128cae4681580279dbf1c32238f7e1198d4a839bdd",
+      "lastIndexed": 1767793917789
+    },
+    "NSCC/Fall Semester 2023/Programming I/3rd Class - Sept. 11th -Variables, Strings and Numbers.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "d84670b758c732229e7a1bc024b78e5733382fe3faa57a96e75ac1b2e4bfc9f6",
+      "lastIndexed": 1767793917874
+    },
+    "NSCC/Fall Semester 2023/Programming I/4th Class - Sept. 13th - Formatting Output.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "b692d8762105e6dc8eb31ca54c0586e104d6d61c577361c1dc43b76045c79f9e",
+      "lastIndexed": 1767793917992
+    },
+    "NSCC/Fall Semester 2023/Programming I/6th Class - Pseudocode.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "f18b64a92c8fc85d6c71908502d53c8368473ac3fe60c112091254ab1d8ac31a",
+      "lastIndexed": 1767793918094
+    },
+    "NSCC/Fall Semester 2023/Programming I/2nd Class - Sept. 8th - Programming I.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "cfeead2f24146c1fcafbf0635d7845f7671a3118fd623d0b705787ab993f590c",
+      "lastIndexed": 1767793918139
+    },
+    "NSCC/Fall Semester 2023/Professional Practices for IT I/4th Class _ Professional Practices for IT.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "93b9442f55a01c3ef4cab094e47600db86ccd965b9bb85676307886bf449c99f",
+      "lastIndexed": 1767793919723
+    },
+    "NSCC/Fall Semester 2023/Programming I/11th Class - Oct. 4th - Truth Tables.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "15457fbb733f7cac5245c6ad7598c43780983721803b819e3f55b80f23e69bb2",
+      "lastIndexed": 1767793919840
+    },
+    "NSCC/Fall Semester 2023/Professional Practices for IT I/5th Class - Prof. Practices for IT.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "2bbef1d7f0e70c844b51570cbc798f8f973654f2c55950b90a1e4191ed1527ca",
+      "lastIndexed": 1767793920042
+    },
+    "NSCC/Fall Semester 2023/Professional Practices for IT I/Nov. 4th - Task E.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "3932b448610fed901b011b4d5cc13d1ffb907966958cf1353705f9513c0d023b",
+      "lastIndexed": 1767793920086
+    },
+    "NSCC/Fall Semester 2023/Professional Practices for IT I/Oct. 11th - Prof. Practices for IT.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "62b2837aa489bc393beed6fe0c8d48f4cc26731342d29b88a3ce2061c919878a",
+      "lastIndexed": 1767793920181
+    },
+    "NSCC/Fall Semester 2023/Professional Practices for IT I/3rd Class - Sept. 20.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "bde59711345c17342c7dfb00baf75246c47ed4248c8f416a6c1bce51e837c6da",
+      "lastIndexed": 1767793921727
+    },
+    "NSCC/Fall Semester 2023/Professional Practices for IT I/1st Class - Sept. 6th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "67223cae5263e7597158d71ff9227bce301177e1721e99d7767bb0dee0d6a85e",
+      "lastIndexed": 1767793921759
+    },
+    "NSCC/Fall Semester 2023/Orientation/Orientation.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "5441e87f7185d623b1f8b199998f24a72fe8bfe1c660c7c3c01e5a01a377bcab",
+      "lastIndexed": 1767793922016
+    },
+    "NSCC/Fall Semester 2023/Professional Practices for IT I/2nd Class - Sept 13th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "989bacee5dad6dd5185338af19060d92ff3c54f9e9ccdfbeb9d500c0a5fbe0a6",
+      "lastIndexed": 1767793922379
+    },
+    "NSCC/Fall Semester 2023/Operating System Security/Sept. 26th - OS Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "cb14ff77fbc8eee2d1d599298388d12bcb179d7d3cebf848e8db342d7765e3b8",
+      "lastIndexed": 1767793923835
+    },
+    "NSCC/Fall Semester 2023/Operating System Security/Oct. 24th - OS Security - Linux.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "f17c731643eee48dc3f6ea2f2bff1de7b1b89a401c1e5bfb10ecdfb33b6de0e8",
+      "lastIndexed": 1767793923837
+    },
+    "NSCC/Fall Semester 2023/Operating System Security/Oct. 26th - OS Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "4868a1d309f57560e9b3db7644513e9939d991d2d31cf713e060b85f72b512c7",
+      "lastIndexed": 1767793924034
+    },
+    "NSCC/Fall Semester 2023/Operating System Security/Oct. 5th - OS Security - Registry.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "55f4ce2a166c7f74c6edd758208e924940a4bb635255392c13bfad42abe225cd",
+      "lastIndexed": 1767793925316
+    },
+    "NSCC/Fall Semester 2023/Operating System Security/Oct. 3rd - Windows Administration Utilities.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "3c538d858bfe0c815ee19d4e36c4043c25e81b2d86ba1b3650cf8790eb887573",
+      "lastIndexed": 1767793925468
+    },
+    "NSCC/Fall Semester 2023/Operating System Security/Course Plan.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "fc410cfda44d64b66e6a1bb2125fabcf2ea8c7ccaeb4b119a12481b4ba64b01a",
+      "lastIndexed": 1767793927408
+    },
+    "NSCC/Fall Semester 2023/Operating System Security/Oct. 17th - Linux.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "859ef2939a5fa25bba3ff7adca8e2c839bbf3911afea9111271a6a3bf683aafe",
+      "lastIndexed": 1767793927452
+    },
+    "NSCC/Fall Semester 2023/Operating System Security/Nov. 21 - Final Assignment.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "23f626fee39e3149af5c94fccfa02644ea2de36093914767cbf61ebe9c116c7e",
+      "lastIndexed": 1767793927454
+    },
+    "NSCC/Fall Semester 2023/Operating System Security/OS Security - Oct. 10th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "d36d022a00a90bc4e360f4c272e8a04e29ef3cd44a179d295fa5d6d011c051f6",
+      "lastIndexed": 1767793928029
+    },
+    "NSCC/Fall Semester 2023/Operating System Security/5th Class - Sept. 15th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "1f834115bf789be4d5c8653840c231794471aba8415bb02d6162c58edf9cf65b",
+      "lastIndexed": 1767793929665
+    },
+    "NSCC/Fall Semester 2023/Operating System Security/6th Class - Lab.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "a77123f2ed41c4df12bc0b7549eeffca74562543744f9b0ab2da5009924eeae6",
+      "lastIndexed": 1767793929870
+    },
+    "NSCC/Fall Semester 2023/Operating System Security/7th Class - Sept 20.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "14cd34db9dc6ad6a2a44981c13dec0c1b913ec2b1b1d3ffe0e799962186593fe",
+      "lastIndexed": 1767793929889
+    },
+    "NSCC/Fall Semester 2023/Operating System Security/9th Class - Sept  22nd.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "3b1e7e94b01e2eea8c797988801298aeb23330648b6ae1d7e5470411894a30b3",
+      "lastIndexed": 1767793929899
+    },
+    "NSCC/Fall Semester 2023/Operating System Security/8th Class - Sept 21.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "8cc3c34a29961f3552198aedacc724d2424ce31ebee4d84df6821d1c06f0b0ee",
+      "lastIndexed": 1767793929970
+    },
+    "NSCC/Fall Semester 2023/Offensive Security Lab/2nd Go.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "37cbfdcc67b16c54ab662a5e9f82e66b4d758224faa3e9c0125001e88fd21a3b",
+      "lastIndexed": 1767793931720
+    },
+    "NSCC/Fall Semester 2023/Operating System Security/3rd Class - Sept. 11th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "ff5f9365b2bb351d83b721944f3830ae23816bfbd4ab924f55190cd8f03cba16",
+      "lastIndexed": 1767793931725
+    },
+    "NSCC/Fall Semester 2023/Operating System Security/2nd Class - Sept. 8th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "cb55445897f56cd17cf1bc428bae924830be8308f4c65c6dff72f08223fb2792",
+      "lastIndexed": 1767793931927
+    },
+    "NSCC/Fall Semester 2023/Operating System Security/1st Class - Sept. 6th.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "34fba613a7fbb3b84d3acc911c1b63a63bc3ad56764a3c0f99f64f62d9884f82",
+      "lastIndexed": 1767793932214
+    },
+    "NSCC/Fall Semester 2023/Operating System Security/4th Class - OS Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "e49fb4a51962dc7f28a91d5a97d53ac1ec250d345e52652afaf21e85448b079a",
+      "lastIndexed": 1767793932244
+    },
+    "NSCC/Fall Semester 2023/Network Security/Sept. 12th - Network Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "8a843758d716a13f996fe12457f190c2f5ef3dffe07ba0928afc2b698c2db03d",
+      "lastIndexed": 1767793933603
+    },
+    "NSCC/Fall Semester 2023/Network Security/Sept. 21 - Network Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "7339f0013186788f244b8716cf16318f323958b0722a7805e80fd679e1e787c4",
+      "lastIndexed": 1767793933675
+    },
+    "NSCC/Fall Semester 2023/Offensive Security Lab/1st Go.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "5dd00bc081c6644cbb5ef36e814c191a2c92a6eed44a8fb1de258a2982741b46",
+      "lastIndexed": 1767793934075
+    },
+    "NSCC/Fall Semester 2023/Network Security/Sept. 7th - Network Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "910a9002387c1f4e9ee66351c8f4305aa17a54d0564e2a51707befa4a4d6e41e",
+      "lastIndexed": 1767793934077
+    },
+    "NSCC/Fall Semester 2023/Network Security/Sept. 27th - Network Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "e8a6becd3dabda0f0dafac42496883488ab91160ebfefdd8b58ee923f56b2b2e",
+      "lastIndexed": 1767793934275
+    },
+    "NSCC/Fall Semester 2023/Network Security/Sept 14th - Network Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "4f0bbd099cdfa4505a2ece902a545b3ce1321e133c5ee18eeeb7723f94ab2ba1",
+      "lastIndexed": 1767793935811
+    },
+    "NSCC/Fall Semester 2023/Network Security/Sept 29th - Network Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "c6a6b5d93a198ebccdb9d5071e3b93f74b932e9f16036589f93808035252480a",
+      "lastIndexed": 1767793936223
+    },
+    "NSCC/Fall Semester 2023/Network Security/Oct.27th - Packet Tracer's ACL.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "959fbd3488ced33c20d098986428250c971514f71aa0973e7f67d88b6a97499a",
+      "lastIndexed": 1767793936629
+    },
+    "NSCC/Fall Semester 2023/Network Security/Packet Tracer Extra Class.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "e2d7c59dc3723424f7fbe8c01203f5cefce2ae1ee83fa762677aa1a7b371c5f1",
+      "lastIndexed": 1767793936670
+    },
+    "NSCC/Fall Semester 2023/Network Security/Oct. 6th - Network Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "dfd11b4dfc23b0d4e7a240bd49cd116f5a7b175ab87e6da4cadb4d1225d5de16",
+      "lastIndexed": 1767793936937
+    },
+    "NSCC/Fall Semester 2023/Network Security/Oct. 20th - Network Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "8a13af0c8f474947fdebc4a606871fa311f51e86a3b70f3c51299a5be6d72edb",
+      "lastIndexed": 1767793938781
+    },
+    "NSCC/Fall Semester 2023/Network Security/Oct. 25th - ACLs.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "7a54e8e46850aa9758439b46a835a7848fa6dea878daa7c62ff76073c5325c67",
+      "lastIndexed": 1767793938790
+    },
+    "NSCC/Fall Semester 2023/Network Security/Oct. 13th - Network Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "ac5d9a8c5d19ecc1de91b87a6d97db18fa5385b5e6006f4cc7206e80a40b8aab",
+      "lastIndexed": 1767793938985
+    },
+    "NSCC/Fall Semester 2023/Network Security/Oct. 18th - Network Security - Networking Protocols.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "d8abb55db063345fb12dced6b286ac2b015fd857f6a839633c9e556825957a03",
+      "lastIndexed": 1767793938991
+    },
+    "NSCC/Fall Semester 2023/Network Security/Oct. 4th - Network Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "0ddc39671003ab5c56ed3f5a50222e528941136030b419f030132b4fe60d7520",
+      "lastIndexed": 1767793939190
+    },
+    "NSCC/Fall Semester 2023/Network Security/Nov. 1st - Network Monitoring.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "cd4a6b909441daede7be40865f4fcc21fb8a83f9d858955cc29b9f7df897406f",
+      "lastIndexed": 1767793940747
+    },
+    "NSCC/Fall Semester 2023/Network Security/Nov. 29th - VLANs.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "d1643e8c95adb10d5884c8985dbf50157ce2049546907557571bc39f8417af0f",
+      "lastIndexed": 1767793940750
+    },
+    "NSCC/Fall Semester 2023/Network Security/Nov. 1st 2023 - Network Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "bd8a367ece00189c3e624d5fb2ec50d1bc7c2cb59efa105e90f4e50602542032",
+      "lastIndexed": 1767793940797
+    },
+    "NSCC/Fall Semester 2023/Network Security/Nov. 3rd - Nessus + WireShark.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "90760f7aa149d08e5e46911913b6c8198f4f0d9b50a1f6e2e2bb7731acad23ec",
+      "lastIndexed": 1767793941032
+    },
+    "NSCC/Fall Semester 2023/Network Security/Oct. 11th - Network Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "c202172c53c66b86fb4eafd23f73e280e1fa70d1e058d0b4939ba22e8ed4ca58",
+      "lastIndexed": 1767793941342
+    },
+    "NSCC/Fall Semester 2023/Data Security/Sept. 7th - Data Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "a6c8fa32ae61d6cb7b46ee24c4f12fe065dc42ffc09fe0a4c91890e68aa92be5",
+      "lastIndexed": 1767793943340
+    },
+    "NSCC/Fall Semester 2023/Data Security/Sept. 28th - Data Security - MySQL.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "86590009fae17d28524aef6d157a623578ec1ef71c544e51dc3eaaec007b98fc",
+      "lastIndexed": 1767793943491
+    },
+    "NSCC/Fall Semester 2023/Network Security/Network Security's Packet Tracer Guide.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "cec562416dbcbac69cd116439538400eb8771d27062f4e2d8383618516a31071",
+      "lastIndexed": 1767793943600
+    },
+    "NSCC/Fall Semester 2023/Network Security/IANA Port List.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "bc430300c3cf21ba805b88715cbe7f2ea615824c9ca0156deb6c2306f2819c92",
+      "lastIndexed": 1767793945113
+    },
+    "NSCC/Fall Semester 2023/Data Security/Sept. 14 - Data Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "653da37ef8a90a9bd0dd9aa1cdfa59c595f0a4af879677f2200a2a51eee08c6e",
+      "lastIndexed": 1767793946562
+    },
+    "NSCC/Fall Semester 2023/Data Security/Sept. 19th - Data Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "1e88ffc4c46a1069c1f8dce257af504d78e6b2ef0c1dca04eaf9eba3b24741db",
+      "lastIndexed": 1767793947081
+    },
+    "NSCC/Fall Semester 2023/Data Security/Sept. 21st - Data Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "8f0ef931704c94f3a5ba22b3618a42d0aea6a10723ba67c23e70f73f9d9eea20",
+      "lastIndexed": 1767793947082
+    }
+  },
+  "indexingInProgress": true,
+  "indexingStartedAt": 1767793833425,
+  "lastIndexedFile": "NSCC/Fall Semester 2023/Data Security/Sept. 21st - Data Security.md"
+}

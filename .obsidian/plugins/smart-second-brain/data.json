@@ -11,7 +11,7 @@
     "contextWindow": 4096
   },
   "ollamaEmbedModel": {
-    "model": "all-minilm",
+    "model": "nomic-embed-text",
     "baseUrl": "http://localhost:11434",
     "similarityThreshold": 0.75,
     "k": 256
@@ -37,5 +37,5 @@
   "isVerbose": true,
   "isOnboarded": false,
   "hideIncognitoWarning": false,
-  "isAutostart": false
+  "isAutostart": true
 }

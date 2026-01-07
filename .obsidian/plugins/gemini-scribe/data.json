@@ -1,20 +1,21 @@
 {
-  "apiKey": "AIzaSyAmfNmnRhanVtfax0oIwjz7wZznIKDomWk",
-  "chatModelName": "gemini-2.5-pro",
-  "summaryModelName": "gemini-2.5-pro",
+  "apiKey": "AIzaSyBhKe0nHhti0lajR0Q2SrcGQOjDUTryVcI",
+  "chatModelName": "gemini-3-pro-preview",
+  "summaryModelName": "gemini-3-pro-preview",
   "completionsModelName": "gemini-2.5-flash",
+  "imageModelName": "gemini-3-pro-image-preview",
   "summaryFrontmatterKey": "summary",
   "userName": "User",
   "chatHistory": true,
   "historyFolder": "gemini-scribe",
-  "debugMode": false,
+  "debugMode": true,
   "maxRetries": 3,
   "initialBackoffDelay": 1000,
   "streamingEnabled": true,
   "modelDiscovery": {
     "enabled": true,
     "autoUpdateInterval": 24,
-    "lastUpdate": 1765199510514,
+    "lastUpdate": 1767720008903,
     "fallbackToStatic": true
   },
   "allowSystemPromptOverride": false,
@@ -25,71 +26,21 @@
   "loopDetectionThreshold": 3,
   "loopDetectionTimeWindowSeconds": 30,
   "hasSeenV4Welcome": true,
-  "lastSeenVersion": "4.0.0",
+  "lastSeenVersion": "4.2.1",
+  "ragIndexing": {
+    "enabled": true,
+    "fileSearchStoreName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+    "excludeFolders": [],
+    "autoSync": true,
+    "includeAttachments": false
+  },
   "modelDiscoveryCache": {
     "models": [
-      {
-        "name": "models/gemini-2.5-pro-preview-03-25",
-        "version": "2.5-preview-03-25",
-        "displayName": "Gemini 2.5 Pro Preview 03-25",
-        "description": "Gemini 2.5 Pro Preview 03-25",
-        "inputTokenLimit": 1048576,
-        "outputTokenLimit": 65536,
-        "supportedGenerationMethods": [
-          "generateContent",
-          "countTokens",
-          "createCachedContent",
-          "batchGenerateContent"
-        ],
-        "temperature": 1,
-        "topP": 0.95,
-        "topK": 64,
-        "maxTemperature": 2,
-        "thinking": true
-      },
       {
         "name": "models/gemini-2.5-flash",
         "version": "001",
         "displayName": "Gemini 2.5 Flash",
         "description": "Stable version of Gemini 2.5 Flash, our mid-size multimodal model that supports up to 1 million tokens, released in June of 2025.",
-        "inputTokenLimit": 1048576,
-        "outputTokenLimit": 65536,
-        "supportedGenerationMethods": [
-          "generateContent",
-          "countTokens",
-          "createCachedContent",
-          "batchGenerateContent"
-        ],
-        "temperature": 1,
-        "topP": 0.95,
-        "topK": 64,
-        "maxTemperature": 2,
-        "thinking": true
-      },
-      {
-        "name": "models/gemini-2.5-pro-preview-05-06",
-        "version": "2.5-preview-05-06",
-        "displayName": "Gemini 2.5 Pro Preview 05-06",
-        "description": "Preview release (May 6th, 2025) of Gemini 2.5 Pro",
-        "inputTokenLimit": 1048576,
-        "outputTokenLimit": 65536,
-        "supportedGenerationMethods": [
-          "generateContent",
-          "countTokens",
-          "createCachedContent",
-          "batchGenerateContent"
-        ],
-        "temperature": 1,
-        "topP": 0.95,
-        "topK": 64,
-        "maxTemperature": 2,
-        "thinking": true
-      },
-      {
-        "name": "models/gemini-2.5-pro-preview-06-05",
-        "version": "2.5-preview-06-05",
-        "displayName": "Gemini 2.5 Pro Preview",
-        "description": "Preview release (June 5th, 2025) of Gemini 2.5 Pro",
         "inputTokenLimit": 1048576,
         "outputTokenLimit": 65536,
         "supportedGenerationMethods": [
@@ -266,105 +217,10 @@
         "maxTemperature": 2
       },
       {
-        "name": "models/gemini-2.0-pro-exp",
-        "version": "2.5-exp-03-25",
-        "displayName": "Gemini 2.0 Pro Experimental",
-        "description": "Experimental release (March 25th, 2025) of Gemini 2.5 Pro",
-        "inputTokenLimit": 1048576,
-        "outputTokenLimit": 65536,
-        "supportedGenerationMethods": [
-          "generateContent",
-          "countTokens",
-          "createCachedContent",
-          "batchGenerateContent"
-        ],
-        "temperature": 1,
-        "topP": 0.95,
-        "topK": 64,
-        "maxTemperature": 2,
-        "thinking": true
-      },
-      {
-        "name": "models/gemini-2.0-pro-exp-02-05",
-        "version": "2.5-exp-03-25",
-        "displayName": "Gemini 2.0 Pro Experimental 02-05",
-        "description": "Experimental release (March 25th, 2025) of Gemini 2.5 Pro",
-        "inputTokenLimit": 1048576,
-        "outputTokenLimit": 65536,
-        "supportedGenerationMethods": [
-          "generateContent",
-          "countTokens",
-          "createCachedContent",
-          "batchGenerateContent"
-        ],
-        "temperature": 1,
-        "topP": 0.95,
-        "topK": 64,
-        "maxTemperature": 2,
-        "thinking": true
-      },
-      {
         "name": "models/gemini-exp-1206",
         "version": "2.5-exp-03-25",
         "displayName": "Gemini Experimental 1206",
         "description": "Experimental release (March 25th, 2025) of Gemini 2.5 Pro",
-        "inputTokenLimit": 1048576,
-        "outputTokenLimit": 65536,
-        "supportedGenerationMethods": [
-          "generateContent",
-          "countTokens",
-          "createCachedContent",
-          "batchGenerateContent"
-        ],
-        "temperature": 1,
-        "topP": 0.95,
-        "topK": 64,
-        "maxTemperature": 2,
-        "thinking": true
-      },
-      {
-        "name": "models/gemini-2.0-flash-thinking-exp-01-21",
-        "version": "2.5-preview-05-20",
-        "displayName": "Gemini 2.5 Flash Preview 05-20",
-        "description": "Preview release (April 17th, 2025) of Gemini 2.5 Flash",
-        "inputTokenLimit": 1048576,
-        "outputTokenLimit": 65536,
-        "supportedGenerationMethods": [
-          "generateContent",
-          "countTokens",
-          "createCachedContent",
-          "batchGenerateContent"
-        ],
-        "temperature": 1,
-        "topP": 0.95,
-        "topK": 64,
-        "maxTemperature": 2,
-        "thinking": true
-      },
-      {
-        "name": "models/gemini-2.0-flash-thinking-exp",
-        "version": "2.5-preview-05-20",
-        "displayName": "Gemini 2.5 Flash Preview 05-20",
-        "description": "Preview release (April 17th, 2025) of Gemini 2.5 Flash",
-        "inputTokenLimit": 1048576,
-        "outputTokenLimit": 65536,
-        "supportedGenerationMethods": [
-          "generateContent",
-          "countTokens",
-          "createCachedContent",
-          "batchGenerateContent"
-        ],
-        "temperature": 1,
-        "topP": 0.95,
-        "topK": 64,
-        "maxTemperature": 2,
-        "thinking": true
-      },
-      {
-        "name": "models/gemini-2.0-flash-thinking-exp-1219",
-        "version": "2.5-preview-05-20",
-        "displayName": "Gemini 2.5 Flash Preview 05-20",
-        "description": "Preview release (April 17th, 2025) of Gemini 2.5 Flash",
         "inputTokenLimit": 1048576,
         "outputTokenLimit": 65536,
         "supportedGenerationMethods": [
@@ -404,7 +260,8 @@
         "outputTokenLimit": 16384,
         "supportedGenerationMethods": [
           "countTokens",
-          "generateContent"
+          "generateContent",
+          "batchGenerateContent"
         ],
         "temperature": 1,
         "topP": 0.95,
@@ -579,6 +436,25 @@
         "thinking": true
       },
       {
+        "name": "models/gemini-3-flash-preview",
+        "version": "3-flash-preview-12-2025",
+        "displayName": "Gemini 3 Flash Preview",
+        "description": "Gemini 3 Flash Preview",
+        "inputTokenLimit": 1048576,
+        "outputTokenLimit": 65536,
+        "supportedGenerationMethods": [
+          "generateContent",
+          "countTokens",
+          "createCachedContent",
+          "batchGenerateContent"
+        ],
+        "temperature": 1,
+        "topP": 0.95,
+        "topK": 64,
+        "maxTemperature": 2,
+        "thinking": true
+      },
+      {
         "name": "models/gemini-3-pro-image-preview",
         "version": "3.0",
         "displayName": "Nano Banana Pro",
@@ -631,7 +507,7 @@
         "thinking": true
       }
     ],
-    "lastUpdated": 1763841913142,
+    "lastUpdated": 1767723497146,
     "success": true
   }
 }

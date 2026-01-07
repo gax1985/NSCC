@@ -1336,6 +1336,104 @@ If your plugin does not need CSS, delete this file.
 	background-color: var(--background-primary);
 }
 
+/* Progress Bar Container - Fixed above input */
+.gemini-agent-progress-container {
+	position: relative;
+	padding: var(--size-2-2) var(--size-4-3);
+	background-color: var(--background-secondary);
+	border-top: 1px solid var(--background-modifier-border);
+	flex-shrink: 0;
+	z-index: 10;
+}
+
+/* Progress Bar Wrapper */
+.gemini-agent-progress-bar-wrapper {
+	width: 100%;
+	height: 4px;
+	background-color: var(--background-modifier-border);
+	border-radius: 2px;
+	overflow: hidden;
+	margin-bottom: var(--size-2-2);
+}
+
+/* Progress Bar */
+.gemini-agent-progress-bar {
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+
+/* Indeterminate Progress Fill */
+.gemini-agent-progress-fill {
+	height: 100%;
+	width: 30%;
+	border-radius: 2px;
+	animation: progress-slide 1.5s ease-in-out infinite;
+}
+
+/* State Colors */
+.gemini-agent-progress-thinking {
+	background: linear-gradient(90deg,
+		var(--interactive-accent),
+		color-mix(in srgb, var(--interactive-accent) 80%, white)
+	);
+}
+
+.gemini-agent-progress-tool {
+	background: linear-gradient(90deg,
+		color-mix(in srgb, var(--color-green) 70%, var(--interactive-accent) 30%),
+		color-mix(in srgb, var(--color-green) 50%, white)
+	);
+}
+
+.gemini-agent-progress-waiting {
+	background: linear-gradient(90deg,
+		color-mix(in srgb, var(--color-yellow) 70%, var(--interactive-accent) 30%),
+		color-mix(in srgb, var(--color-yellow) 50%, white)
+	);
+}
+
+.gemini-agent-progress-streaming {
+	background: linear-gradient(90deg,
+		color-mix(in srgb, var(--color-purple) 70%, var(--interactive-accent) 30%),
+		color-mix(in srgb, var(--color-purple) 50%, white)
+	);
+}
+
+/* Indeterminate Animation */
+@keyframes progress-slide {
+	0% {
+		transform: translateX(-100%);
+	}
+	100% {
+		transform: translateX(333%); /* 100% / 30% = 333% to fully traverse */
+	}
+}
+
+/* Status Container */
+.gemini-agent-progress-status-container {
+	display: flex;
+	align-items: center;
+	gap: var(--size-4-2);
+	font-size: var(--font-ui-small);
+}
+
+/* Status Text */
+.gemini-agent-progress-status-text {
+	flex: 1;
+	color: var(--text-muted);
+	font-style: italic;
+}
+
+/* Timer */
+.gemini-agent-progress-timer {
+	color: var(--text-muted);
+	font-family: var(--font-monospace);
+	font-size: 0.9em;
+	min-width: 3.5em;
+	text-align: right;
+}
+
 /* Input Area */
 .gemini-agent-input-area {
 	display: flex;
@@ -1372,8 +1470,11 @@ If your plugin does not need CSS, delete this file.
 	min-height: 40px;
 	max-height: 200px;
 	overflow-y: auto;
-	padding: var(--size-2-2) var(--size-4-2);
+	padding: var(--size-4-2);
 	position: relative;
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
 }
 
 .gemini-agent-input-rich:focus {
@@ -1495,14 +1596,40 @@ If your plugin does not need CSS, delete this file.
 }
 
 .gemini-agent-send-btn {
-	align-self: flex-end;
-	padding: var(--size-4-2) var(--size-4-4);
-	min-width: 80px;
+	align-self: stretch;
+	padding: var(--size-4-2);
+	min-width: 50px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.gemini-agent-send-btn svg {
+	width: 20px;
+	height: 20px;
+	fill: var(--color-green, #10b981);
+}
+
+.gemini-agent-stop-btn svg {
+	fill: var(--color-red, #dc3545);
 }
 
 .gemini-agent-send-btn:disabled {
 	opacity: 0.5;
 	cursor: not-allowed;
+}
+
+/* Stop button styling - red/warning color scheme
+ * Uses Obsidian's --color-red variable which adapts to light/dark themes
+ * Fallback colors provided for custom themes that may not define these variables
+ */
+.gemini-agent-stop-btn {
+	background-color: var(--color-red, #dc3545);
+	color: var(--text-on-accent, #ffffff);
+}
+
+.gemini-agent-stop-btn:hover:not(:disabled) {
+	background-color: color-mix(in srgb, var(--color-red, #dc3545) 85%, black);
 }
 
 /* Session Modal Styles */
@@ -2167,6 +2294,190 @@ If your plugin does not need CSS, delete this file.
 		transform: scale(1.2);
 		opacity: 1;
 	}
+}
+
+/* Confirmation Request Message */
+.gemini-agent-confirmation-request {
+	background: var(--background-secondary-alt);
+	border: 2px solid var(--interactive-accent);
+	border-radius: var(--radius-m);
+	padding: var(--size-4-3);
+	margin: var(--size-4-2) 0;
+}
+
+/* Confirmation Card */
+.gemini-agent-confirmation-card {
+	background: var(--background-primary);
+	border: 1px solid var(--background-modifier-border);
+	border-radius: var(--radius-s);
+	padding: var(--size-4-3);
+	margin: var(--size-4-2) 0;
+}
+
+/* Tool Info Section */
+.gemini-agent-tool-info-header {
+	display: flex;
+	align-items: center;
+	gap: var(--size-4-2);
+	margin-bottom: var(--size-2-3);
+}
+
+.gemini-agent-confirmation-tool-icon {
+	width: 24px;
+	height: 24px;
+	color: var(--text-accent);
+}
+
+.gemini-agent-tool-name {
+	font-weight: 600;
+	font-size: var(--font-ui-medium);
+	color: var(--text-normal);
+}
+
+.gemini-agent-tool-category {
+	font-size: var(--font-ui-small);
+	color: var(--text-muted);
+	background: var(--background-modifier-border);
+	padding: 2px 8px;
+	border-radius: var(--radius-s);
+}
+
+.gemini-agent-tool-description {
+	color: var(--text-muted);
+	margin: var(--size-2-2) 0;
+}
+
+/* Parameters Section */
+.gemini-agent-params-section {
+	margin-top: var(--size-4-2);
+}
+
+.gemini-agent-params-header {
+	font-weight: 500;
+	margin-bottom: var(--size-2-2);
+}
+
+.gemini-agent-params-list {
+	display: flex;
+	flex-direction: column;
+	gap: var(--size-2-1);
+}
+
+.gemini-agent-param-item {
+	font-size: var(--font-ui-small);
+	padding: var(--size-2-1) var(--size-2-3);
+	background: var(--background-secondary);
+	border-radius: var(--radius-s);
+}
+
+.gemini-agent-param-item code {
+	color: var(--code-normal);
+	word-break: break-all;
+}
+
+.gemini-agent-confirmation-message {
+	margin-top: var(--size-4-2);
+	padding: var(--size-2-3);
+	background: var(--background-modifier-info);
+	border-left: 3px solid var(--text-accent);
+	border-radius: var(--radius-s);
+}
+
+.gemini-agent-confirmation-message p {
+	margin: 0;
+	color: var(--text-normal);
+}
+
+/* Action Buttons */
+.gemini-agent-confirmation-buttons {
+	display: flex;
+	align-items: center;
+	gap: var(--size-4-2);
+	margin-top: var(--size-4-3);
+}
+
+.gemini-agent-confirmation-btn {
+	display: flex;
+	align-items: center;
+	gap: var(--size-2-2);
+	padding: var(--size-2-2) var(--size-4-3);
+	border-radius: var(--radius-m);
+	border: 1px solid var(--background-modifier-border);
+	background: var(--interactive-normal);
+	color: var(--text-normal);
+	cursor: pointer;
+	font-size: var(--font-ui-medium);
+	font-weight: 500;
+	transition: all 0.2s ease;
+}
+
+.gemini-agent-confirmation-btn:hover {
+	background: var(--interactive-hover);
+}
+
+.gemini-agent-confirmation-btn:active {
+	transform: translateY(1px);
+}
+
+.gemini-agent-confirmation-btn:disabled {
+	opacity: 0.5;
+	cursor: not-allowed;
+}
+
+.gemini-agent-confirmation-btn-confirm {
+	background: var(--interactive-accent);
+	color: var(--text-on-accent);
+	border-color: var(--interactive-accent);
+}
+
+.gemini-agent-confirmation-btn-confirm:hover {
+	background: var(--interactive-accent-hover);
+}
+
+.gemini-agent-confirmation-btn-cancel {
+	background: var(--background-secondary);
+}
+
+.gemini-agent-confirmation-btn-icon {
+	display: flex;
+	align-items: center;
+}
+
+/* Checkbox */
+.gemini-agent-confirmation-checkbox {
+	display: flex;
+	align-items: center;
+	gap: var(--size-2-2);
+	margin-left: auto;
+	font-size: var(--font-ui-small);
+	color: var(--text-muted);
+}
+
+.gemini-agent-checkbox-input {
+	cursor: pointer;
+}
+
+.gemini-agent-checkbox-label {
+	cursor: pointer;
+}
+
+/* Result Message */
+.gemini-agent-confirmation-result {
+	display: flex;
+	align-items: center;
+	gap: var(--size-2-3);
+	padding: var(--size-2-3);
+	border-radius: var(--radius-s);
+	background: var(--background-secondary);
+}
+
+.gemini-agent-result-icon {
+	color: var(--text-accent);
+}
+
+.gemini-agent-result-text {
+	font-size: var(--font-ui-medium);
+	color: var(--text-muted);
 }
 
 /* Empty chat state */
@@ -3288,4 +3599,482 @@ If your plugin does not need CSS, delete this file.
 .gemini-update-links a:hover {
 	color: var(--interactive-accent-hover);
 	text-decoration: underline;
+}
+
+/* ==================== RAG Status Bar ==================== */
+
+.rag-status-bar {
+	display: flex;
+	align-items: center;
+	gap: 4px;
+	cursor: pointer;
+}
+
+.rag-status-bar .rag-status-icon {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.rag-status-bar .rag-status-icon svg {
+	width: 14px;
+	height: 14px;
+}
+
+.rag-status-bar .rag-status-text {
+	font-size: var(--font-ui-smaller);
+}
+
+/* Animated pulse for indexing state */
+.rag-status-bar.rag-indexing .rag-status-icon svg {
+	animation: rag-pulse 1.5s ease-in-out infinite;
+}
+
+@keyframes rag-pulse {
+	0%, 100% {
+		opacity: 1;
+	}
+	50% {
+		opacity: 0.4;
+	}
+}
+
+/* RAG Status Modal */
+.rag-status-modal {
+	padding: 0;
+}
+
+/* Shared header styles for RAG modals */
+.rag-status-header,
+.rag-progress-header {
+	display: flex;
+	align-items: center;
+	gap: 12px;
+	margin-bottom: 16px;
+}
+
+.rag-progress-header {
+	margin-bottom: 20px;
+}
+
+.rag-status-header h2,
+.rag-progress-header h2 {
+	margin: 0;
+}
+
+.rag-status-header-icon,
+.rag-progress-header-icon {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.rag-status-header-icon svg,
+.rag-progress-header-icon svg {
+	width: 24px;
+	height: 24px;
+	color: var(--text-accent);
+}
+
+.rag-status-info {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+	margin-bottom: 20px;
+	padding: 12px;
+	background: var(--background-secondary);
+	border-radius: var(--radius-m);
+}
+
+.rag-status-row {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.rag-status-label {
+	color: var(--text-muted);
+	font-size: var(--font-ui-small);
+}
+
+.rag-status-value {
+	font-weight: 500;
+}
+
+.rag-status-store {
+	font-family: var(--font-monospace);
+	font-size: var(--font-ui-smaller);
+	max-width: 200px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.rag-status-ready {
+	color: var(--text-success);
+}
+
+.rag-status-indexing {
+	color: var(--text-accent);
+}
+
+.rag-status-error {
+	color: var(--text-error);
+}
+
+.rag-status-paused {
+	color: var(--text-warning);
+}
+
+.rag-status-rate-limited {
+	color: var(--text-warning);
+}
+
+/* ==================== RAG Status Modal Tabs ==================== */
+
+.modal.modal-container:has(.rag-status-modal) {
+	width: 600px;
+	max-width: 90vw;
+}
+
+.rag-status-tabs {
+	display: flex;
+	gap: 4px;
+	margin-bottom: 16px;
+	border-bottom: 1px solid var(--background-modifier-border);
+	padding-bottom: 8px;
+}
+
+.rag-status-tab {
+	padding: 8px 16px;
+	border-radius: var(--radius-s);
+	cursor: pointer;
+	font-size: var(--font-ui-small);
+	color: var(--text-muted);
+	transition: background 0.15s ease, color 0.15s ease;
+}
+
+.rag-status-tab:hover {
+	background: var(--background-modifier-hover);
+	color: var(--text-normal);
+}
+
+.rag-status-tab-active {
+	background: var(--interactive-accent);
+	color: var(--text-on-accent);
+}
+
+.rag-status-tab-active:hover {
+	background: var(--interactive-accent-hover);
+	color: var(--text-on-accent);
+}
+
+.rag-status-content {
+	min-height: 200px;
+}
+
+/* ==================== RAG Status Modal Search ==================== */
+
+.rag-status-search-container {
+	margin-bottom: 12px;
+}
+
+.rag-status-search {
+	width: 100%;
+	padding: 8px 12px;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: var(--radius-s);
+	background: var(--background-primary);
+	font-size: var(--font-ui-small);
+}
+
+.rag-status-search:focus {
+	border-color: var(--interactive-accent);
+	outline: none;
+}
+
+/* ==================== RAG Status Modal File List ==================== */
+
+.rag-status-file-list {
+	max-height: 350px;
+	overflow-y: auto;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: var(--radius-s);
+}
+
+.rag-status-file-item {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 8px 12px;
+	border-bottom: 1px solid var(--background-modifier-border);
+	transition: background 0.15s ease;
+}
+
+.rag-status-file-item:last-child {
+	border-bottom: none;
+}
+
+.rag-status-file-item:hover {
+	background: var(--background-modifier-hover);
+}
+
+.rag-status-file-path {
+	flex: 1;
+	min-width: 0;
+	font-family: var(--font-monospace);
+	font-size: var(--font-ui-smaller);
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.rag-status-file-time {
+	flex-shrink: 0;
+	margin-left: 12px;
+	color: var(--text-muted);
+	font-size: var(--font-ui-smaller);
+}
+
+.rag-status-show-more {
+	padding: 12px;
+	text-align: center;
+	color: var(--text-accent);
+	cursor: pointer;
+	font-size: var(--font-ui-small);
+}
+
+.rag-status-show-more:hover {
+	background: var(--background-modifier-hover);
+}
+
+.rag-status-empty {
+	padding: 24px;
+	text-align: center;
+	color: var(--text-muted);
+	font-size: var(--font-ui-small);
+}
+
+/* ==================== RAG Status Modal Failure List ==================== */
+
+.rag-status-failure-list {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+}
+
+.rag-status-failure-item {
+	padding: 12px;
+	background: var(--background-secondary);
+	border-radius: var(--radius-s);
+	border-left: 3px solid var(--text-error);
+}
+
+.rag-status-failure-header {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	margin-bottom: 4px;
+}
+
+.rag-status-failure-icon {
+	display: flex;
+	align-items: center;
+	color: var(--text-error);
+}
+
+.rag-status-failure-icon svg {
+	width: 16px;
+	height: 16px;
+}
+
+.rag-status-failure-path {
+	flex: 1;
+	min-width: 0;
+	font-family: var(--font-monospace);
+	font-size: var(--font-ui-smaller);
+	font-weight: 500;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.rag-status-failure-time {
+	flex-shrink: 0;
+	color: var(--text-muted);
+	font-size: var(--font-ui-smaller);
+}
+
+.rag-status-failure-error {
+	color: var(--text-muted);
+	font-size: var(--font-ui-smaller);
+	padding-left: 24px;
+}
+
+/* ==================== RAG Resume Modal ==================== */
+
+.rag-resume-stats {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+	margin: 16px 0;
+	padding: 12px;
+	background: var(--background-secondary);
+	border-radius: var(--radius-m);
+}
+
+.rag-resume-stat-row {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.rag-resume-stat-label {
+	color: var(--text-muted);
+	font-size: var(--font-ui-small);
+}
+
+.rag-resume-stat-value {
+	font-weight: 500;
+}
+
+.rag-resume-file {
+	font-family: var(--font-monospace);
+	font-size: var(--font-ui-smaller);
+	max-width: 200px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.rag-resume-note {
+	margin: 16px 0;
+}
+
+/* ==================== RAG Progress Modal ==================== */
+
+.modal.modal-container:has(.rag-progress-modal) {
+	width: 450px;
+	max-width: 90vw;
+}
+
+.rag-progress-modal {
+	padding: 0;
+}
+
+/* Progress bar */
+.rag-progress-bar-container {
+	margin-bottom: 20px;
+}
+
+.rag-progress-bar {
+	width: 100%;
+	height: 8px;
+	background: var(--background-modifier-border);
+	border-radius: 4px;
+	overflow: hidden;
+	margin-bottom: 8px;
+}
+
+.rag-progress-bar-fill {
+	height: 100%;
+	background: var(--interactive-accent);
+	border-radius: 4px;
+	transition: width 0.3s ease;
+}
+
+.rag-progress-text {
+	text-align: center;
+	font-size: var(--font-ui-small);
+	color: var(--text-muted);
+}
+
+/* Current file section */
+.rag-progress-section {
+	margin-bottom: 16px;
+}
+
+.rag-progress-label {
+	font-size: var(--font-ui-smaller);
+	color: var(--text-muted);
+	margin-bottom: 4px;
+}
+
+.rag-progress-current-file {
+	font-family: var(--font-monospace);
+	font-size: var(--font-ui-small);
+	color: var(--text-normal);
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	padding: 8px 12px;
+	background: var(--background-secondary);
+	border-radius: var(--radius-s);
+}
+
+/* Time section */
+.rag-progress-time-section {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 16px;
+	font-size: var(--font-ui-small);
+	color: var(--text-muted);
+}
+
+.rag-progress-time-separator {
+	margin: 0 4px;
+}
+
+.rag-progress-time-value {
+	color: var(--text-normal);
+	font-weight: 500;
+}
+
+/* Stats section */
+.rag-progress-stats {
+	padding: 12px;
+	background: var(--background-secondary);
+	border-radius: var(--radius-m);
+	margin-bottom: 20px;
+}
+
+.rag-progress-stat-row {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	padding: 4px 0;
+}
+
+.rag-progress-stat-row.rag-stat-hidden {
+	display: none;
+}
+
+.rag-progress-stat-icon {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 18px;
+	height: 18px;
+}
+
+.rag-progress-stat-icon svg {
+	width: 14px;
+	height: 14px;
+}
+
+.rag-progress-stat-icon.rag-stat-success svg {
+	color: var(--text-success);
+}
+
+.rag-progress-stat-icon.rag-stat-warning svg {
+	color: var(--text-muted);
+}
+
+.rag-progress-stat-icon.rag-stat-error svg {
+	color: var(--text-error);
+}
+
+.rag-progress-stat-value {
+	font-size: var(--font-ui-small);
 }
