@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSCC/Fall Semester 2025/System Auditing/Assignments/Untitled/Untitled.md",
+                "file": "NSCC/Untitled/Untitled 1/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSCC/Fall Semester 2025/System Auditing/Assignments/Untitled/Untitled.md",
+                "file": "NSCC/Untitled/Untitled 1/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/nxlog.conf.md",
+                "file": "NSCC/Untitled/Untitled 1/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of nxlog.conf"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -211,10 +211,13 @@
       "smart-vault-visualizer:Open smart connections visualizer": false,
       "smart-second-brain:Open S2B Chat": false,
       "obsidian-day-planner:Timeline": false,
-      "ai-tagger:Generate tags!": false
+      "ai-tagger:Generate tags!": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "4bb2d3a6eda5906c",
+  "active": "612e07552756cfd5",
   "lastOpenFiles": [
     "gemini-scribe/rag-index-cache.json",
     "gemini-scribe/Agent-Sessions/Agent Session 1-7-2026.md",

@@ -27,8 +27,8 @@ Gives negative reviews
 ## Changing Hearts and Minds
 causes a ripple effect of doubt : 
 
-1. **Concern Puppets** : Intended to pose as true believers but occassionally raise concerns to instill doubt
-2. Strawman Puppet -> pose as true believers but their arguements are foolish and easily disputed. Used to discredit rational ideas 
+1. **Concern Puppets** : Intended to pose as true believers but occasionally raise concerns to instill doubt
+2. Strawman Puppet -> pose as true believers but their arguments are foolish and easily disputed. Used to discredit rational ideas 
 3. Meat Puppet : engage in **Astro-Turfing** to create a widely-held belief. 
 4. Product/Company/Self-Promotion 
 5. Review/Comments/Rating Systems -> Similar language. Used to raise the rating. 

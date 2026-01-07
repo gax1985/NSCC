@@ -1,5 +1,5 @@
 {
-  "model": "gpt-4o-mini",
+  "model": "gemini-2.0-flash-exp",
   "lowerCaseMode": false,
   "useCustomBaseUrl": false,
   "google-genaiApiKey": "AIzaSyBhKe0nHhti0lajR0Q2SrcGQOjDUTryVcI"

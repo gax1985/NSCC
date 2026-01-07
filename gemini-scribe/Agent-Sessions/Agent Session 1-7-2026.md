@@ -13,6 +13,7 @@ require_confirmation:
   - delete_files
 created: 2026-01-07T12:57:43.807Z
 last_active: 2026-01-07T12:57:43.807Z
+model: gemini-2.5-pro
 ---
 
 # Agent Session 1-7-2026
