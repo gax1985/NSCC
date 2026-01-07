@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
-  "lastSync": 1767793947082,
+  "lastSync": 1767793988742,
   "files": {
     "NSCC/Winter Semester 2024/Windows Security/Jan. 4th 2024 - Syllabus.md": {
       "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
@@ -1227,9 +1227,307 @@
       "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
       "contentHash": "8f0ef931704c94f3a5ba22b3618a42d0aea6a10723ba67c23e70f73f9d9eea20",
       "lastIndexed": 1767793947082
+    },
+    "NSCC/Fall Semester 2023/Data Security/Sept. 12th - Data Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "77a532f9d7d72286e13e1cc6ac6c818659783cdd1df65d6cc5f4058da298f259",
+      "lastIndexed": 1767793947170
+    },
+    "NSCC/Fall Semester 2023/Data Security/Sept 26th - Data Security -MySQL.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "7544ca71b79c2228fd5f633c42af7dcdefea9c25f19aa8e7e6936bebfcf61a5e",
+      "lastIndexed": 1767793947483
+    },
+    "NSCC/Fall Semester 2023/Data Security/Oct. 17th - Data Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "35daabd72eedca0c60bc6aed39bd17cc14b05d615c6c8769c19876234061b1e8",
+      "lastIndexed": 1767793948850
+    },
+    "NSCC/Fall Semester 2023/Data Security/Oct. 5th - Data Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "dbf5a017d15eb3146bddd3b1d0ead0aed34d8917695fc7bfb2f50fee386a0108",
+      "lastIndexed": 1767793948973
+    },
+    "NSCC/Fall Semester 2023/Data Security/Oct. 3rd - Databases.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "8765b362f0bb8d91bf1b7ce3991dede1abc890db7c58c4985d74f93fae9e1754",
+      "lastIndexed": 1767793948975
+    },
+    "NSCC/Fall Semester 2023/Data Security/Oct. 31st - Data Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "221b1ecf91db12ef2e702db5b2f42989ca9c827c63da36b2838f90947fd0cdde",
+      "lastIndexed": 1767793949004
+    },
+    "NSCC/Fall Semester 2023/Data Security/Oct. 24th - Data Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "7f7da9b8b6cd20be61287c37786481239886715318f9060cd788cb3cbf40b7f6",
+      "lastIndexed": 1767793949524
+    },
+    "NSCC/Fall Semester 2023/Data Security/MySQL Reference Manual/Oct. 26th - Quiz II - The Aftermath.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "33a470ee1fb4fe148a9b6900fd7d74d82a6d10ea136d77ff0fcc4fd4dc4e3f48",
+      "lastIndexed": 1767793951244
+    },
+    "NSCC/Fall Semester 2023/Data Security/Nov. 23rd - MySQL Hacker Database.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "db0e8810bbf9a6779defc2a282118cafe56f070c8ae6b4763a02d877e54b65fc",
+      "lastIndexed": 1767793951251
+    },
+    "NSCC/Fall Semester 2023/Data Security/Nov 21 - MySQL Practice.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "f258e2d37d79c5989c65a3924519d5e8472bb3022553e4b714841c87689f908b",
+      "lastIndexed": 1767793951311
+    },
+    "NSCC/Fall Semester 2023/Data Security/Nov 20th - Relational Algerba.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "6f7a5f87da3d80390a2253a303c36121488f739eb4bf1d1e27944325e8d7fabe",
+      "lastIndexed": 1767793951585
+    },
+    "NSCC/Fall Semester 2023/Data Security/Oct. 12th - Data Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "9ee75eeac9c49956ee4c15a5e89b94355307a5b0920fee0d7dc5b0cffeba122d",
+      "lastIndexed": 1767793951640
+    },
+    "NSCC/Fall Semester 2023/Data Security/MySQL Commands/User Roles and Privileges - Commands.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "7bf69f0c076e2c517dadb4be4d3b6cd3d38ee806afc7775a754bf155f903a943",
+      "lastIndexed": 1767793955297
+    },
+    "NSCC/Fall Semester 2023/Data Security/MySQL Commands/TABLES.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "de30c9126eee72976c04c0f4868f61a3b786c1937d15be4d5e4d6116690b47f3",
+      "lastIndexed": 1767793955511
+    },
+    "NSCC/Fall Semester 2023/Data Security/MySQL Commands/Untitled 1.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "83c7fb9434a4813cc5820b3cb6d04c08a61382622a52b40bb08e6d1e98a2adc1",
+      "lastIndexed": 1767793955601
+    },
+    "NSCC/Fall Semester 2023/Data Security/MySQL Reference Manual/MySQL Manual.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "00373939650ce2f717f7538436fe07baac6b457f9b40e195751fc8d79c186b17",
+      "lastIndexed": 1767793967311
+    },
+    "NSCC/Fall Semester 2023/Data Security/Dec. 5th - Data Security.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "55e52a3875228e40c2561766a1e92c97dee6f687a7147b638a840a207f43a207",
+      "lastIndexed": 1767793968888
+    },
+    "NSCC/Fall Semester 2023/Data Security/MySQL Commands/DATABASE.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "598f1172704dfe3105e761bbcae1007a32a468ab0ea0de0f88d410a0ace182cf",
+      "lastIndexed": 1767793968995
+    },
+    "NSCC/Fall Semester 2023/Data Security/MySQL Commands/MySQL Commands.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "4fe443a09cbc624a0f97827133d33759377ddb9b5c7516ec022a4ac9a9d9330a",
+      "lastIndexed": 1767793969052
+    },
+    "NSCC/Fall Semester 2023/Cyber Crime Survey/Untitled.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "1498845fe8667fc554059acd8d902246499c3abaed90605398200c8f01986fe6",
+      "lastIndexed": 1767793969085
+    },
+    "NSCC/Fall Semester 2023/Data Security/MySQL Commands/ROLES.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "a0c332adaa9d54f05b6c0cd5b79ba5e5e2606d9610bfa25c24402338f3c80f58",
+      "lastIndexed": 1767793969568
+    },
+    "NSCC/Fall Semester 2023/Cyber Crime Survey/Sept. 19th - Nation-States.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "0c23e70cbd17c55e0b7751fd732f4dad865741e38cf8caf91e67285afd0c9774",
+      "lastIndexed": 1767793971141
+    },
+    "NSCC/Fall Semester 2023/Cyber Crime Survey/Sept. 14th - Cyber Crime Survey.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "9ad5fa748e6125c102c95f2ad47a95e13057aadb9a7b189f11eff218ab0d07f0",
+      "lastIndexed": 1767793971348
+    },
+    "NSCC/Fall Semester 2023/Cyber Crime Survey/Sept. 21st - Cyber Crime Survey.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "6a29db250f83a0b5bd06ac04eae27bc0fbf458cc1055ba9d155a8ea4d93d4524",
+      "lastIndexed": 1767793971408
+    },
+    "NSCC/Fall Semester 2023/Cyber Crime Survey/Sept. 12th - Cyber Crime Survey.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "db0cbc576aa878a1da07669917c393665b7f788a68a07c03776fcd1b2e811673",
+      "lastIndexed": 1767793971444
+    },
+    "NSCC/Fall Semester 2023/Cyber Crime Survey/Untitled/Untitled.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "01a3a2b77fb8af0d79f947c8cdabfc670a42acf4d361c7f0b95fa06d66808caa",
+      "lastIndexed": 1767793971477
+    },
+    "NSCC/Fall Semester 2023/Cyber Crime Survey/Sept 7th - Cyber Crime Survey.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "25cee37d51900fa6602acb490039f103e23cda00cc69cf8e88ad375dc14eefd1",
+      "lastIndexed": 1767793972899
+    },
+    "NSCC/Fall Semester 2023/Cyber Crime Survey/Oct. 5th - Cyber Crime Survey.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "9293177a7bccdc10c0ead6f421ef4df3ee8ef28c53edde779a1f54f22163f724",
+      "lastIndexed": 1767793973084
+    },
+    "NSCC/Fall Semester 2023/Cyber Crime Survey/Oct. 26th - Cyber Crime Group Research.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "9312e02abbd8cdb0b45cfad5b0f4544eeb8c76a4c7debecc021cc2b19224d57b",
+      "lastIndexed": 1767793973305
+    },
+    "NSCC/Fall Semester 2023/Cyber Crime Survey/Oct. 3rd - Attack Vectors & Risk Management.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "4a1edcffdbd6995cac801e6fdc8e68eaecc0ca13a0b9f6ebb0d14803f558d81d",
+      "lastIndexed": 1767793973712
+    },
+    "NSCC/Fall Semester 2023/Cyber Crime Survey/Oct. 12 - Cyber Crime Survey.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "b19917fa47af03a35be4e4dd27cf360fc4e4ff013ee66406395d0430860c4dd9",
+      "lastIndexed": 1767793975263
+    },
+    "NSCC/Fall Semester 2023/Cyber Crime Survey/Oct. 17th - Cyber Crime Survey.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "ab25f1ccbda33e1da7f31dcc9eb23510eae0b02cbe00b05fc9fe5776f771d55d",
+      "lastIndexed": 1767793975265
+    },
+    "NSCC/Fall Semester 2023/Cyber Crime Survey/Oct. 24th - Cyber Crime Survey - Network Scanning.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "b5efef5fd7702c5be7761acd21bfa743489bc0c7e4edfc8b89e0cd3d787c579b",
+      "lastIndexed": 1767793975445
+    },
+    "NSCC/Fall Semester 2023/Cyber Crime Survey/OSINT/OSINT Course.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "ee7fac319e958a331d6befdc4eeb8bd77c06e1a256d5046bb6160ffffc1cdee1",
+      "lastIndexed": 1767793975447
+    },
+    "NSCC/Fall Semester 2023/Cyber Crime Survey/Oct. 10th - Cyber Crime Survey.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "2b581b79d6ee4eb35da5462c4a89ff8177c7f2c993097a55294941977cbb00d2",
+      "lastIndexed": 1767793975647
+    },
+    "NSCC/Fall Semester 2023/Cyber Crime Survey/OSINT/Helpful Resources.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "b8c8a59d3f4206ef3f82b87119ce7068c5db7fd57b6f0f1c8a42fee006ed2fff",
+      "lastIndexed": 1767793977393
+    },
+    "NSCC/Fall Semester 2023/Cyber Crime Survey/Cyber Crime Survey.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "a6acd1de229ac710fdb91cb54557099e13b4e6c82d1170829bbaa310b4acbe0f",
+      "lastIndexed": 1767793977443
+    },
+    "NSCC/Fall Semester 2023/Cyber Crime Survey/OSINT/Geospatial Intelligence.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "f232b5d9f8c69074891b711b2ee07138f89cd0d127df5036145926905a4b76c3",
+      "lastIndexed": 1767793977599
+    },
+    "NSCC/Fall Semester 2023/Cyber Crime Survey/Nov. 22nd - NMAP Scanning.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "fb112da48c4802353321c7e52ec02e3b8d4ee2161487c46dfbd442c063b35d32",
+      "lastIndexed": 1767793977692
+    },
+    "NSCC/Fall Semester 2023/Cyber Crime Survey/Nov. 21st - Presentations.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "c8e5d3f5e7af0fef4141a9fe2f8922c78808be7b6fe1faba2d9e9d32dbc91e06",
+      "lastIndexed": 1767793977746
+    },
+    "NSCC/Clippings/Randy's Windows Security Log Encyclopedia - All Sources - Part 1.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "7fa988e65b46cb5b22c829b3f6960df373a01ba975a68a3688f91e9015ad2401",
+      "lastIndexed": 1767793979764
+    },
+    "HTB/List of FTP server return codes - Wikipedia.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "500fb734f36383e04a57896fe64c5e43a907ff5cb07c7f21e7fb2fd5e8098e7f",
+      "lastIndexed": 1767793979765
+    },
+    "Clippings/Canada Evidence Act.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "ad5d301db3a0a90184d847c366dd185509c92cba71971865708ba49b0e2ae956",
+      "lastIndexed": 1767793979765
+    },
+    "NSCC/Clippings/Randy's Windows Security Log Encyclopedia - All Sources - Part 2.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "3b3c333fe5f32a0fef01a1a28e052b506cfc676a46eb7230e3d1e7267f0bb17e",
+      "lastIndexed": 1767793979963
+    },
+    "Clippings/Ethics Scenarios  UK Cyber Security Council.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "ad5d301db3a0a90184d847c366dd185509c92cba71971865708ba49b0e2ae956",
+      "lastIndexed": 1767793980020
+    },
+    "Clippings/wecutil.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "e96f24886c3827ad49234ad12ea68f6e5f20bfd9eea0be6bae6f7b46e3fc9572",
+      "lastIndexed": 1767793981740
+    },
+    "Clippings/Wing FTP Server Remote Code Execution (CVE-2025-47812) Exploited in the Wild.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "1ef4646b7d3c0a8524db06df69842ec73985fbf61b121cc4ebae841f15241453",
+      "lastIndexed": 1767793981743
+    },
+    "Clippings/Randy's Windows Security Log Encyclopedia-Windows Audit.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "d9a3010e7a2df07c5d71f01849878ef34e5b77cf69c8f7a00ddcbae16e9d1deb",
+      "lastIndexed": 1767793981750
+    },
+    "Clippings/Code Of Ethics And Professional Responsibility.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "fc2b0b1cb31890fbc51a1c3520bf473d00a1d6e3785b1a83e47e961727eabeab",
+      "lastIndexed": 1767793982109
+    },
+    "Clippings/Randy's Windows Security Log Encyclopedia-All Sources.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "e21f3b72ec9f2ac60518ebc28932d757aafb470149f33d7340632d66bacf4886",
+      "lastIndexed": 1767793982226
+    },
+    "B-Sides/Tangible Design with Metaphor with Evan.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "a19f4dcd38368e64650ebfa258e2ad51080089fe1cc5c49b6b2d9b74a6f4dbc8",
+      "lastIndexed": 1767793983850
+    },
+    "Clippings/Manpage of VSFTPD.CONF.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "c0b27bc199302645412fd1157da7c9f326265dc4d3e1e6519c929b3b27cbc050",
+      "lastIndexed": 1767793983869
+    },
+    "Clippings/Hadoop – Apache Hadoop 3.4.2.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "903732fe741e365d9b5d2f3b1770974249307ec3bb00644aafdd7424d31900ec",
+      "lastIndexed": 1767793984048
+    },
+    "Clippings/How To Install Syncthing on a Kobo.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "56653a8c94b986d994301979b51effc1e3c8a27efa89444c31a343e24e55168e",
+      "lastIndexed": 1767793984050
+    },
+    "B-Sides/So a Nation-State Targeted Canada by Julien Richard.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "69875fe86e5c04caa25b5c9641897011e956fa803c0e7108efcf9010a0b9c838",
+      "lastIndexed": 1767793985531
+    },
+    "B-Sides/So a Nation-State Targeted Canada ....md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "c760c05cc0d195504919e4c346440ae3db24b168b2850691f48cded6887dd5d9",
+      "lastIndexed": 1767793985533
+    },
+    "B-Sides/So a Nation-State Targeted Canada by Julien Richard 1.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "e5aa711a70d2dd3f49dafdccd6f4552f735ab7dea7748e798508fa5c6f302519",
+      "lastIndexed": 1767793985601
+    },
+    "B-Sides/CarrierPigeon.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "40fdfa4a12d192e73e9151f008999cac625a84817adf849f3e820f6161d24c83",
+      "lastIndexed": 1767793985626
+    },
+    "2026-01-07.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "bc1e7265599ae4efb04f7431d7863faffe07b9ec98930c5d84164c1d36930de9",
+      "lastIndexed": 1767793986296
+    },
+    "2026-01-06.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "bc1e7265599ae4efb04f7431d7863faffe07b9ec98930c5d84164c1d36930de9",
+      "lastIndexed": 1767793988648
     }
   },
-  "indexingInProgress": true,
-  "indexingStartedAt": 1767793833425,
-  "lastIndexedFile": "NSCC/Fall Semester 2023/Data Security/Sept. 21st - Data Security.md"
+  "indexingInProgress": false
 }
