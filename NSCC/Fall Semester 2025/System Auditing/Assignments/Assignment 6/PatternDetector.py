@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ##########################################################################
 # Mohammad Al Jokhadar | ISEC2077 | Assignment 6 | Dec. 2nd, 2025
 ##########################################################################
@@ -69,6 +70,19 @@ def grokker():
 def file_loader():
     with open(".\\cardKeyLog.txt","r") as file:
 
+=======
+
+from pygrok import Grok
+import json
+
+def grokker():
+
+
+def file_loader():
+    with open(".\\cardKeyLog.txt","r") as file:
+
+
+>>>>>>> Stashed changes
 
 >>>>>>> Stashed changes
 
