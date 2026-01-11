@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ##########################################################################
 # Mohammad Al Jokhadar | ISEC2077 | Assignment 6 | Dec. 2nd, 2025
 ##########################################################################
@@ -57,6 +58,19 @@ def main():
         # we add any matches to the anomalies dictionary.
         # Since the data is already structured, the most reliable method
         # is to check the dictionary values directly.
+=======
+
+from pygrok import Grok
+import json
+
+def grokker():
+
+
+def file_loader():
+    with open(".\\cardKeyLog.txt","r") as file:
+
+
+>>>>>>> Stashed changes
 
         for log in log_entries:
             # Check for employees who have not punched in (HourIN is 0 and MinIN is 0)
