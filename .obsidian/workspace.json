@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSCC/Untitled/Untitled 3/Untitled.md",
+                "file": "NSCC/Untitled 1/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -216,8 +216,11 @@
   },
   "active": "4bb2d3a6eda5906c",
   "lastOpenFiles": [
-    "NSCC/Untitled/Untitled 2/Untitled.md",
+    "Pasted image 20260113093830.png",
     "NSCC/Untitled/Untitled 3/Untitled.md",
+    "NSCC/Untitled 1/Untitled.md",
+    "NSCC/Untitled 1",
+    "NSCC/Untitled/Untitled 2/Untitled.md",
     "NSCC/Untitled/Untitled 3",
     "2026-01-09.md",
     "NSCC/Untitled/Untitled 1/Untitled.md",
@@ -234,7 +237,6 @@
     "NSCC/Untitled/Untitled/Untitled",
     "NSCC/Fall Semester 2025/System Auditing/Nov 25th - NXLog.md",
     "NSCC/Untitled/Untitled",
-    "NSCC/Untitled 1",
     "2026-01-06.md",
     "gemini-scribe/Agent-Sessions/NXLog Core Concepts.md",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/ISEC 2077 Assignment 5 - Windows to nxlog.pdf",
@@ -252,8 +254,6 @@
     "gemini-scribe/Prompts/example-expert.md",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/Reading and receiving logs  NXLog Documentation.md",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/Assignment 4 - Home.md",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/Collecting, parsing, and forwarding syslog logs  NXLog Documentation.md",
-    "Clippings/Event Log for Windows 2008Vistalater (im_msvistalog)  NXLog Platform Documentation.md",
     "Untitled 1.canvas",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/UserLogsOut/UserLogsOut-Evidence.png",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/UserLogsIn/Evidence.png",
