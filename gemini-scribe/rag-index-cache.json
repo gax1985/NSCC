@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
-  "lastSync": 1768312091703,
+  "lastSync": 1768577122920,
   "files": {
     "NSCC/Winter Semester 2024/Windows Security/Jan. 4th 2024 - Syllabus.md": {
       "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
@@ -1542,6 +1542,16 @@
       "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
       "contentHash": "c398418168e378e3e0b6400430e56acec494e156dea8b45d260ea6bb1da4ac8a",
       "lastIndexed": 1768312091703
+    },
+    "NSCC/Untitled 1/Untitled 1.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "da652d315824cc875fe4ac7d5b9416dda020542306eb1ecd1d9a034772336462",
+      "lastIndexed": 1768330214144
+    },
+    "NSCC/Untitled/Untitled 3/Untitled 1.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "df45fc7dcd71fd7b3f4bcad43d8bb141f31bb1f78a736244b68d6ec87233a2ae",
+      "lastIndexed": 1768577122920
     }
   },
   "indexingInProgress": false
