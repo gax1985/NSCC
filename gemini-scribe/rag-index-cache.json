@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
-  "lastSync": 1768577122920,
+  "lastSync": 1769095871648,
   "files": {
     "NSCC/Winter Semester 2024/Windows Security/Jan. 4th 2024 - Syllabus.md": {
       "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
@@ -535,8 +535,8 @@
     },
     "NSCC/Untitled/Untitled.md": {
       "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
-      "contentHash": "0175599dd88180cd2d1ef8364121cf5d8d4b4d832eded861e4e3ee59d0472a2a",
-      "lastIndexed": 1767793882159
+      "contentHash": "cc78572748fca71bc948745a65dd8a8d07bf062cbc8c6a3b333689a0d6138b53",
+      "lastIndexed": 1769007516351
     },
     "NSCC/Fall Semester 2025/System Auditing/Readings/The Event Viewer Video.md": {
       "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
@@ -1552,6 +1552,36 @@
       "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
       "contentHash": "df45fc7dcd71fd7b3f4bcad43d8bb141f31bb1f78a736244b68d6ec87233a2ae",
       "lastIndexed": 1768577122920
+    },
+    "NSCC/Digital Forensics/Untitled/Untitled.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "10cd5c89c19d164c398f133a0fbdf640e0a7041af35152ad2d744d0864737110",
+      "lastIndexed": 1769094958947
+    },
+    "NSCC/Digital Forensics/Untitled/Untitled 1.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "b67e447a50782973c3a35d8d10a81f6c87d549ccfafb78a0e01b57bfa8163a34",
+      "lastIndexed": 1769095684036
+    },
+    "NSCC/Digital Forensics/Untitled/Untitled 2.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "229b47c1043b1d6cb0d071aa7979114834bfb534b241e09565df48474deee651",
+      "lastIndexed": 1769095746827
+    },
+    "NSCC/Digital Forensics/Untitled/Untitled 3.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "9c4e7c79dbfdf66b479b398e455a5c038986bb8f897602e95280e4006e20dd13",
+      "lastIndexed": 1769095811546
+    },
+    "NSCC/Digital Forensics/Untitled/Untitled 4.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "b61d5f1d25a5edfa873120053e0b28de3938c9cb3c396891781a161d094aea48",
+      "lastIndexed": 1769095849315
+    },
+    "NSCC/Digital Forensics/Untitled/Untitled 5.md": {
+      "resourceName": "fileSearchStores/obsidiannscc-ydizoj3cxs14",
+      "contentHash": "f060c0482dd03e200530626c7ef99555e5ab4045caafd5252b99ad1d8d6d4e9d",
+      "lastIndexed": 1769095871648
     }
   },
   "indexingInProgress": false
