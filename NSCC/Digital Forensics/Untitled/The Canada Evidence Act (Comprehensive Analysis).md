@@ -133,4 +133,38 @@
 
 ---
 
-*Ready for the detailed breakdown of Document 2 (Frye Standard)?*
+# Point by Point Analysis
+
+## The Canada Evidence Act
+
+### Part 1: Application (Section 2)
+
+The section defines the scope. The Act is made to be followed for all criminal and civil proceedings, and anywhere within the federal jurisdiction. 
+
+
+### Part 2: Competency of Interest (Section 3)
+Witness Competency regarding Interest or Crime (Section 3). Historically, people who had interest in the trial's outcome  or a having previously committed a crime were often banned from testifying.
+
+### Part 3: Spousal Privilege (Section 4)
+
+#### For the Defense: 
+The accused person and their spouse are both able to testify should they wish to do so. 
+
+#### For the Prosecution:
+ The prosecution/state can not force a spouse to testify against their significant other. 
+
+#### Communications Privilege: 
+Even if a spouse does testify, they can not be forced to reveal private communications that happened between them and their significant other. 
+
+
+### Part 4: Incriminating Questions (Section 5)
+A witness is **compelled** to answer questions, even if these answers can be incriminating. The witness may not be incriminated as a later date based on their testimony, unless they are prosecuted for purgery. 
+
+### Part 5: Evidence of Person with Physical Disability (Section 6)
+If a witness has a disability, they can choose to communicate with other means, and their testimony would be admissable. 
+
+### Part 6: Documentary Evidence (Section 7)
+
+### Part 7: Specialized Evidence (Section 8)
+
+### Part 8:         

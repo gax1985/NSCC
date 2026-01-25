@@ -11,17 +11,28 @@
             "id": "0f9f7bcb11d4809a",
             "type": "leaf",
             "state": {
+              "type": "clusters-visualizer-view",
+              "state": {},
+              "icon": "git-fork",
+              "title": "Clusters visualizer"
+            }
+          },
+          {
+            "id": "3258324327938b31",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "NSCC/Digital Forensics/Untitled/Untitled 5.md",
+                "file": "NSCC/Readings/Digital Forensics/Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 5"
+              "title": "Summary"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSCC/Untitled/Untitled 1/Untitled.md",
+                "file": "NSCC/Readings/Digital Forensics/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Summary"
             }
           },
           {
@@ -113,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSCC/Untitled/Untitled 1/Untitled.md",
+                "file": "NSCC/Readings/Digital Forensics/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Summary"
             }
           },
           {
@@ -142,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSCC/Untitled/Untitled 1/Untitled.md",
+                "file": "NSCC/Readings/Digital Forensics/Summary.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Summary"
             }
           },
           {
@@ -186,12 +197,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 518.5,
-    "collapsed": true
+    "width": 518.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,10 +224,22 @@
       "ai-tagger:Generate tags!": false
     }
   },
-  "active": "0f9f7bcb11d4809a",
+  "active": "3258324327938b31",
   "lastOpenFiles": [
-    "NSCC/Digital Forensics/Untitled/Untitled 4.md",
+    "NSCC/Readings/Digital Forensics/Frye Standard.md",
+    "NSCC/Readings/Digital Forensics/Canada Evidence Act.md",
+    "NSCC/Fall Semester 2025/Hack The Box Academy - Footprinting - FTP.md",
+    "NSCC/Fall Semester 2025/Direction of Monitor on the Interface.md",
+    "NSCC/CyberSwissArmyKnife.pdf",
+    "NSCC/Pasted image 20240213135225.png",
+    "NSCC/SwissArmyKnife Writeup.md",
+    "Clippings/Code Of Ethics And Professional Responsibility.md",
+    "Clippings/Canada Evidence Act.md",
+    "2026-01-22.md",
+    "Clippings/Wing FTP Server Remote Code Execution (CVE-2025-47812) Exploited in the Wild.md",
+    "NSCC/New Schedule.png",
     "NSCC/Digital Forensics/Untitled/Untitled 5.md",
+    "NSCC/Digital Forensics/Untitled/Untitled 4.md",
     "NSCC/Digital Forensics/Untitled/Untitled 3.md",
     "NSCC/Digital Forensics/Untitled/Untitled.md",
     "NSCC/Digital Forensics/Untitled/Untitled 1.md",
@@ -240,20 +262,10 @@
     "gemini-scribe/Agent-Sessions/Agent Session 1-7-2026.md",
     "NSCC/Untitled/Untitled 1",
     "Clippings/Ethics Scenarios  UK Cyber Security Council.md",
-    "Clippings/Code Of Ethics And Professional Responsibility.md",
-    "Clippings/Canada Evidence Act.md",
     "NSCC/Untitled/Untitled/Untitled.md",
-    "gemini-scribe/Agent-Sessions/Agent Session 1-6-2026.md",
     "NSCC/Untitled/Untitled/Untitled",
-    "NSCC/Fall Semester 2025/System Auditing/Nov 25th - NXLog.md",
     "NSCC/Untitled/Untitled",
-    "2026-01-06.md",
-    "gemini-scribe/Agent-Sessions/NXLog Core Concepts.md",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/ISEC 2077 Assignment 5 - Windows to nxlog.pdf",
-    "gemini-scribe/Agent-Sessions/Agent Session 11-25-2025.md",
     "Untitled.canvas",
-    "Untitled.md",
-    "2026-01-05.md",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/Untitled 2.png",
     "Untitled 1.canvas",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/UserLogsOut/UserLogsOut-Evidence.png",
@@ -262,8 +274,6 @@
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/User Creation/User Created.png",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/USBDrive/USBDrive.png",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/USBDrive/USBDrive-PerspectiveEvidence.png",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/USBDrive/USBDrive-Evidence.png",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/USBDrive/New Evidence/USB-HandleRequested.png",
     "NSCC/Winter Semester 2024/Untitled.canvas"
   ]
 }
