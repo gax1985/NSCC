@@ -1,0 +1,16 @@
+{
+    "markdown.preview.typographer": true,
+    "markdown.validate.enabled": true,
+    "markdown.extension.print.imgToBase64": false,
+    "markdown.extension.showActionButtons": true,
+    "markdown.extension.tableFormatter.normalizeIndentation": true,
+    "markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true,
+    "markdown-preview-enhanced.codeBlockTheme": "darcula.css",
+    "markdown-preview-enhanced.enableCriticMarkupSyntax": true,
+    "markdown-preview-enhanced.enableExtendedTableSyntax": true,
+    "markdown-preview-enhanced.enableHTML5Embed": true,
+    "markdown-preview-enhanced.enableTypographer": true,
+    "markdown-preview-enhanced.previewTheme": "atom-dark.css",
+    "markdown-preview-enhanced.printBackground": false,
+    "markdown.extension.completion.enabled": true
+}

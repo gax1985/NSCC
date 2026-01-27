@@ -1,10 +1,10 @@
 
 
-### **Document 1: The Canada Evidence Act (Comprehensive Analysis)**
+# **Document 1: The Canada Evidence Act (Comprehensive Analysis)**
 
-*Source: `Canada Evidence Act.md*`
+*Source*: `Canada Evidence Act.md`
 
-**Purpose:** This Act acts as the master filter for the Canadian federal justice system. It dictates what information is allowed to enter the courtroom ("Admissibility") and who is allowed to speak ("Competence").
+>**Purpose:** This Act acts as the master filter for the Canadian federal justice system. It dictates what information is allowed to enter the courtroom ?("Admissibility") and who is allowed to speak ("Competence").
 
 #### **Part 1: The Witnesses (Competency & Privilege)**
 
@@ -119,17 +119,17 @@
 
 ### **Definitions Section (The "Legalese" Dictionary)**
 
-| Term | Definition (Based on CEA Context) |
-| --- | --- |
-| **Legal Proceeding** | Any civil or criminal proceeding, or inquiry/arbitration where evidence is given, over which Parliament has jurisdiction. |
-| **Witness** | A person who testifies under oath or affirmation in a legal proceeding. |
-| **Corporation** | Includes the Bank of Canada and any bank/financial institution (for the purposes of Section 29). |
-| **Financial Institution** | Any bank, credit union, trust company, or similar entity regulated by federal or provincial law. |
-| **Business Record** | Any record made in the usual and ordinary course of business (e.g., invoices, logs, ledgers). It generally *excludes* records made purely for an investigation. |
-| **Electronic Document** | Data that is recorded or stored on any medium in or by a computer system or other similar device and that can be read or perceived by a person or a computer system. |
-| **Data** | Representations of information or of concepts that are being prepared or have been prepared in a form suitable for use in a computer system. |
-| **Secure Electronic Signature** | An electronic signature that results from the application of a technology or process prescribed by regulations (used to verify identity). |
-| **Affidavit** | A written statement confirmed by oath or affirmation, used as evidence in court (often used to prove bank records or computer integrity without testifying). |
+| Term                            | Definition (Based on CEA Context)                                                                                                                                    |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Legal Proceeding**            | Any civil or criminal proceeding, or inquiry/arbitration where evidence is given, over which Parliament has jurisdiction.                                            |
+| **Witness**                     | A person who testifies under oath or affirmation in a legal proceeding.                                                                                              |
+| **Corporation**                 | Includes the Bank of Canada and any bank/financial institution (for the purposes of Section 29).                                                                     |
+| **Financial Institution**       | Any bank, credit union, trust company, or similar entity regulated by federal or provincial law.                                                                     |
+| **Business Record**             | Any record made in the usual and ordinary course of business (e.g., invoices, logs, ledgers). It generally *excludes* records made purely for an investigation.      |
+| **Electronic Document**         | Data that is recorded or stored on any medium in or by a computer system or other similar device and that can be read or perceived by a person or a computer system. |
+| **Data**                        | Representations of information or of concepts that are being prepared or have been prepared in a form suitable for use in a computer system.                         |
+| **Secure Electronic Signature** | An electronic signature that results from the application of a technology or process prescribed by regulations (used to verify identity).                            |
+| **Affidavit**                   | A written statement confirmed by oath or affirmation, used as evidence in court (often used to prove bank records or computer integrity without testifying).         |
 
 ---
 
@@ -147,13 +147,13 @@ Witness Competency regarding Interest or Crime (Section 3). Historically, people
 
 ### Part 3: Spousal Privilege (Section 4)
 
-#### For the Defense: 
+##### For the Defense: 
 The accused person and their spouse are both able to testify should they wish to do so. 
 
-#### For the Prosecution:
+##### For the Prosecution:
  The prosecution/state can not force a spouse to testify against their significant other. 
 
-#### Communications Privilege: 
+##### Communications Privilege: 
 Even if a spouse does testify, they can not be forced to reveal private communications that happened between them and their significant other. 
 
 
@@ -164,7 +164,23 @@ A witness is **compelled** to answer questions, even if these answers can be inc
 If a witness has a disability, they can choose to communicate with other means, and their testimony would be admissable. 
 
 ### Part 6: Documentary Evidence (Section 7)
+There **can only be a maximum of 5 expert witnesses per defense and prosecution teams**. 
+
+It is possible for either of the defense or prosecution teams to call on more experts if the judge permits it. They have to let the judge know *before the trial starts*, or *when the evidence arises*. 
 
 ### Part 7: Specialized Evidence (Section 8)
+It is permitted to ascertain the validity of hand-written evidence by comparing the witness's handwriting with another genuine hard-written document. This applies also to pattern matching practices.
 
-### Part 8:         
+
+### Part 8: Oaths & Affirmations (Section 13-14):
+The Witness *can swear on a religious text*, which would mean that they oblige themselves to be truthful based on divine judgement.
+
+If the witness prefers, *they can make an **affirmation** which would legally be **equivalent** to an oath sworn on a religious text (*Section 14(2)*).
+
+### Part 9: Judicial Notice (Sections 17-18)
+The court would take into account all *Acts of Parliment*, which include **imperial, federal and provincial** laws. Proving the existance of laws is not required, as it is a given that the judge knows all laws.
+
+## Documentary Evidence (Paper Records)**
+
+### Part 10: Official Documents (Sections 19-22)
+
