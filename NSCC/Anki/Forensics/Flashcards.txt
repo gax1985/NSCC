@@ -1,0 +1,32 @@
+[Standard] Frye Standard - The Core Test;General Acceptance (by the scientific community).
+[Standard] Frye Standard - Who decides admissibility?;The Scientific Community (The "Crowd").
+[Standard] Daubert Standard - The Core Test;Scientific Validity (Reliability).
+[Standard] Daubert Standard - Who decides admissibility?;The Trial Judge (The "Gatekeeper").
+[Standard] Daubert Standard - 5 Factors Checklist;1. Testing (Falsifiability)<br>2. Peer Review & Publication<br>3. Error Rate<br>4. Standards & Controls<br>5. General Acceptance
+[Law - Canada] CEA Section 31.1 - Burden of Proof;The person seeking to admit the evidence must prove its authenticity.
+[Law - Canada] CEA Section 31.1 - The "Threshold";"Evidence capable of supporting a finding that the document is what it purports to be" (A low threshold).
+[Law - Canada] CEA Section 30 - Business Records Rule;Records made in the "usual and ordinary course of business" are admissible (e.g., automated logs).
+[Law - Canada] CEA Section 30(10) - The Investigation Trap;Records made *specifically* for an investigation are NOT admissible as business records.
+[Law - Canada] CEA Section 29 - Financial Institutions;A copy of a bank record is admissible if verified by an affidavit (No need to seize bank servers).
+[Law - Canada] CEA Section 7 - Expert Witness Limit;Max 5 experts per side (unless the judge grants leave).
+[Law - Canada] CEA Section 8 - Handwriting Comparison;Disputed writing/signatures can be compared to genuine samples to prove authenticity.
+[Law - USA] Federal Rule 702 - Expert Testimony Requirements;1. Sufficient facts/data<br>2. Reliable principles/methods<br>3. Reliable application to the facts.
+[Law - USA] Federal Rule 1001(d) - Best Evidence (Computers);Any printout or display that accurately reflects the data is considered an "Original."
+[Ethics] ISC2 Canon 1 (Highest Priority);Protect society, the common good, public trust, and infrastructure.
+[Ethics] ISC2 Canon 2;Act honorably, honestly, justly, responsibly, and legally.
+[Ethics] ISC2 Canon 3;Provide diligent and competent service to principals.
+[Ethics] ISC2 Canon 4;Advance and protect the profession.
+[Ethics] Principle: Non-Malfeasance;Do no harm (e.g., use write-blockers).
+[Ethics] Principle: Beneficence;Do good (actively assist, don't just avoid harm).
+[Ethics] Principle: Competence (Daubert Link);Only use tools/methods you understand and can explain (reproducible results).
+[Ethics] Scenario: Conflict of Interest (Friend/Family);You must RECUSE yourself immediately.
+[Ethics] Scenario: Inadvertent Discovery (Out of Scope);Stop the search, secure device, report findings, get a new warrant.
+[Procedure] Chain of Custody - The Golden Rule;There must be NO GAPS in the timeline.
+[Procedure] Chain of Custody - Signatures;The "Released By" and "Received By" signatures must happen simultaneously.
+[Procedure] Chain of Custody - Item Description;Must include Make, Model, and SERIAL NUMBER (to prove Identity).
+[Definition] False Positive;The tool incorrectly says a file is bad/malicious, but it is actually safe.
+[Definition] False Negative;The tool says a file is safe, but it is actually malicious (Dangerous).
+[Definition] Hash Value;A digital fingerprint (MD5/SHA1) used to prove a file hasn't changed.
+[Definition] Locard's Exchange Principle;"Every contact leaves a trace."
+[Definition] Affidavit;A written statement confirmed by oath/affirmation, used to verify records (like bank statements) without testifying.
+[Definition] Voir Dire;The process of questioning an expert witness to test their qualifications/competence.
