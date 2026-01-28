@@ -1,5 +1,4 @@
 
-
 ### **Document 1: The Canada Evidence Act (Comprehensive Analysis)**
 
 *Source: `Canada Evidence Act.md*`
@@ -154,17 +153,43 @@ The accused person and their spouse are both able to testify should they wish to
  The prosecution/state can not force a spouse to testify against their significant other. 
 
 #### Communications Privilege: 
-Even if a spouse does testify, they can not be forced to reveal private communications that happened between them and their significant other. 
-
+Even if a spouse does testify, they can not be forced to reveal private communications that happened between them and their significant other.
 
 ### Part 4: Incriminating Questions (Section 5)
 A witness is **compelled** to answer questions, even if these answers can be incriminating. The witness may not be incriminated as a later date based on their testimony, unless they are prosecuted for purgery. 
 
 ### Part 5: Evidence of Person with Physical Disability (Section 6)
-If a witness has a disability, they can choose to communicate with other means, and their testimony would be admissable. 
+If a witness has a disability, they can choose to communicate with other means, and their testimony would be admissable.
 
-### Part 6: Documentary Evidence (Section 7)
+### Part 6: Expert Witnesses (Section 7)
+The prosecution and the defense both have the right to **call five expert witnesses as a maximum.
+
+They can have more expert witnesses *if the judge allows it* (**Leave of Court**).
 
 ### Part 7: Specialized Evidence (Section 8)
+If the validity of the evidence is in dispute, the witness is permitted to prove the genuine nature of the evidence by comparing it to a written article proven to be genuine.
 
-### Part 8:         
+### Part 8: Adverse Witnesses (Section 9)
+One side *can not attack the character of their own witness*.
+
+If the witness is hostile, uncooperative or intently conradictory, permission is granted to provide evidence contrary to their statement, or prove that their previous statement contrdicts their present statement.
+
+### Part 9: Verification of Evidence (Section 10 -> Written Statements, Section 11 -> Oral Statements)
+
+#### Written Statements
+You are permitted to ask the witness about a previously-written statement by them *without having to present the statement in question*.
+If the *statement is used for the purpose of **contradicting the witness***, *you have to specify to the witness the section of the part you are referring to*.
+
+#### Oral Statements
+If a witness denies saying something in the past, you are *permitted to provide evidence to prove their contradiction*.
+
+### Part 10: Previous Convictions (Section 12)
+The opposing side may ask the witness if they have previously convicted of a criminal offence in the past. The opposing side *may present evidence of the conviction as **proof***.
+
+### Part 11: Oaths and Affirmations (Section 13-14)
+An **Oath** is a *pledge made on a religious scripture affirming that the testimony is correct and valid*.
+
+A **Affirmation** is a *non-religious declaration that the witness can make to affirm that their testimony is correct and valid*.
+
+An **Affirmation** *has the same effect as an* **Oath**.
+
