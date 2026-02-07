@@ -193,3 +193,76 @@ A **Affirmation** is a *non-religious declaration that the witness can make to a
 
 An **Affirmation** *has the same effect as an* **Oath**.
 
+Copies of Proclamations, Treaties and Governor General orders are admissable if they are printed by the **King's Printer** (Official Printer).
+
+### Part 11: Court Records (Section 23)
+You can provide proof for a prior conviction/acquittal by submitting a certified copy of the indictment/conviction signed by the *Clerk of the Court*.
+
+## **Part 5: Specialized Evidence (The Forensic Core)**
+
+### A. Financial Institutions (Section 29)
+
+#### **The Admissibility Rule (S. 29(1)):**
+A copy of an entry from the financial book/record is considered ***prima facie* evidence**, which means *it is accepted as face value*.
+
+#### **The Conditions (S. 29(2)):**
+1. The book is one of the ordinary day-to-day records of the bank.
+2. The entry was done as a matter of the usual operations of the bank. 
+3. The book is in the custody/control of the bank.
+4. The copy is a **true copy** (*verified by the affidavit*).
+
+#### **Search & Seizure (S. 29(7)):**
+The warrant is granted for the bank *itself* if **the bank is *the* suspect**, or **under special circumstances**.
+
+### B. Business Records (Section 30)
+
+#### **The Rule (S. 30(1)):**
+A record made in the "usual and ordinary course of business" is admissible.
+
+#### **The "Investigation" Exclusion (S. 30(10))**:
+Basically, if an investigator conducted an investigative operation, and shared a log of the investigative operation, *it would be **inadmissable** as it is a log from the investigative process*, and *not from ordinary business operations*. In contrast, *ordinary server logs that are collected every day is considered a **business record** and *admissible*.
+
+### C. Electronic Documents (Sections 31.1 - 31.8)
+
+#### **The Burden of Proof (S. 31.1):**
+Whoever is presenting evidence **has to provide the *authenticity* of the document**.
+
+#### **The Threshold:**   
+The evidence  has to be provided *in a way that proves that **it is what it claims to be***.
+
+#### **Best Evidence Rule (S. 31.2):**  
+If *the system is functioning properly*, a **printout is considered the "best evidence"**.
+
+#### **Presumption of Integrity (S. 31.3):**
+The court presumes that ** a system is reliable** if :
+1. It is proven to operate properly at all times.
+2. A malfunction did not affect the integrity of the document.
+
+#### **Standards (S. 31.4):**
+The crown can offer evidence that **the system meets a set of *established security standards* like ISO 27001**.
+
+## Public Interest (Secrecy)
+
+#### **Section 37:** 
+*A Minister or official can object to disclosing information*. *The judge acts as a referee, weighing the* **"Public Interest in Secrecy"** vs. **"The Accused's Right to a Defense."**
+#### **Section 38:** 
+Focuses on International Relations and National Defense.
+#### **Section 39:** 
+**Cabinet Confidences**, which means *what the Prime Minister discusses with Ministers*, are absolutely protected.
+
+
+### **Definitions Section**
+
+| Term                            | Definition (Based on CEA Context)                                                                                                                                    |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Legal Proceeding**            | Any civil or criminal proceeding, or inquiry/arbitration where evidence is given, over which Parliament has jurisdiction.                                            |
+| **Witness**                     | A person who testifies under oath or affirmation in a legal proceeding.                                                                                              |
+| **Corporation**                 | Includes the Bank of Canada and any bank/financial institution (for the purposes of Section 29).                                                                     |
+| **Financial Institution**       | Any bank, credit union, trust company, or similar entity regulated by federal or provincial law.                                                                     |
+| **Business Record**             | Any record made in the usual and ordinary course of business (e.g., invoices, logs, ledgers). It generally *excludes* records made purely for an investigation.      |
+| **Electronic Document**         | Data that is recorded or stored on any medium in or by a computer system or other similar device and that can be read or perceived by a person or a computer system. |
+| **Data**                        | Representations of information or of concepts that are being prepared or have been prepared in a form suitable for use in a computer system.                         |
+| **Secure Electronic Signature** | An electronic signature that results from the application of a technology or process prescribed by regulations (used to verify identity).                            |
+| **Affidavit**                   | A written statement confirmed by oath or affirmation, used as evidence in court (often used to prove bank records or computer integrity without testifying).         |
+
+---
