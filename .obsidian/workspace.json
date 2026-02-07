@@ -30,9 +30,21 @@
               "icon": "lucide-file",
               "title": "Summary"
             }
+          },
+          {
+            "id": "6898c588b4e35108",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "NSCC/Dalhousie/Network Computing/Documents/1_2_edge_w26.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "1_2_edge_w26"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,7 +213,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 518.5
+    "width": 335.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,8 +237,9 @@
       "ai-tagger:Generate tags!": false
     }
   },
-  "active": "3258324327938b31",
+  "active": "6898c588b4e35108",
   "lastOpenFiles": [
+    "NSCC/Readings/Digital Forensics/Summary.md",
     "NSCC/Readings/Digital Forensics/Frye Standard.md",
     "NSCC/Readings/Digital Forensics/Canada Evidence Act.md",
     "NSCC/Fall Semester 2025/Hack The Box Academy - Footprinting - FTP.md",
@@ -262,7 +276,6 @@
     "gemini-scribe/Agent-Sessions/Agent Session 1-7-2026.md",
     "NSCC/Untitled/Untitled 1",
     "Clippings/Ethics Scenarios  UK Cyber Security Council.md",
-    "NSCC/Untitled/Untitled/Untitled.md",
     "NSCC/Untitled/Untitled/Untitled",
     "NSCC/Untitled/Untitled",
     "Untitled.canvas",
