@@ -1,0 +1,24 @@
+﻿"What are ""Hosts"" in the context of the Internet?;End systems like smartphones, laptops, and servers that run network applications."
+"What are the three main physical media types for communication links?;Fiber optics, copper cables, and radio waves."
+What is the primary function of a Packet Switch?;To forward packets (chunks of data) toward their ultimate destination.
+"What is the difference between the ""Edge"" and the ""Core"" of the network?;The Edge is where users/devices connect; the Core is the mesh of ISPs/routers that interconnects them."
+"What are the three tiers of ISPs mentioned in the network hierarchy?;Access ISP, Regional ISP, and Tier 1 ISP."
+"What is a Protocol?;A set of rules defining the format, order, and actions for message exchange."
+What is the PDU name at the Application Layer?;Message.
+What is the PDU name at the Transport Layer?;Segment.
+What is the PDU name at the Network Layer?;Datagram.
+What is the PDU name at the Link Layer?;Frame.
+"Define ""Encapsulation"".;The process of adding headers to data as it moves down the protocol stack."
+Which access technology uses existing telephone copper wires?;DSL (Digital Subscriber Line).
+Which access technology uses shared cable TV cabling?;Cable Internet.
+"What is the main performance drawback of Cable Internet?;It is a shared medium, so speed drops if neighbors use it heavily."
+What is Net Neutrality?;The principle that ISPs must treat all traffic equally without discrimination.
+"What is ""Store-and-Forward"" switching?;The router must receive the entire packet before it can start transmitting it to the next link."
+"Define ""Forwarding"" in a router.;The local action of moving a packet from input link to output link."
+"Define ""Routing"" in a router.;The global process of determining the source-to-destination path."
+What is the formula for Transmission Delay ($d_{trans}$)?;L / R (Packet Length / Link Rate).
+What is the formula for Propagation Delay ($d_{prop}$)?;Distance / Speed of Light.
+"If a link R is shared by N sessions equally, what is the throughput per session?;R / N."
+What is the bottleneck link?;The link with the minimum bandwidth along a path.
+What is Transmission Delay?;The time required to push all the bits of a packet onto the wire.
+What is Propagation Delay?;The time required for a bit to travel from the beginning of the link to the end.

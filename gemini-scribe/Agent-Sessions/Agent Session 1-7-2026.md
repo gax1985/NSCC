@@ -3,7 +3,7 @@ session_id: session_1767790663807_rxgs5fe0r
 type: agent-session
 title: Agent Session 1-7-2026
 context_files:
-  - "[[Untitled]]"
+  - "[[NSCC/Untitled]]"
 enabled_tools:
   - read_only
   - vault_ops

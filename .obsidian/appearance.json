@@ -1,4 +1,6 @@
 {
   "accentColor": "#f5e1dd",
-  "cssTheme": "AnuPpuccin"
+  "cssTheme": "AnuPpuccin",
+  "nativeMenus": true,
+  "interfaceFontFamily": "CaskaydiaMono Nerd Font Mono"
 }
