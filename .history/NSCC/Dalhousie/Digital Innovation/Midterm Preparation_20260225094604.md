@@ -155,8 +155,6 @@ This is the golden 5-step framework for building products:
 
 **+1**
 
----
-
 ### 🤝 8. Human-Computer Symbiosis
 
 > **Original Text:***"The teams of human plus machine dominated even the strongest computers... is it possible that humans and machines working in partnership will be indefinitely more powerful than an artificial intelligence machine working alone?"*^^^^^^^^

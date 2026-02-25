@@ -1,3 +1,5 @@
+Here are your study notes, breaking down the exact text extracted from your materials into clear, easy-to-remember explanations.
+
 ### 📚 1. The Foundations of Innovation (Lecture 1)
 
 > **Original Text:** *"COVE Thinking like an innovator: Curiosity, Originality, Value, Empathy"*
@@ -127,68 +129,6 @@ This is the golden 5-step framework for building products:
 >
 > **Explanation:** The required layout for your journal. It strictly separates what *you* thought of versus what the *team* did, and separates busy work ("worked on") from actual results ("accomplished").
 
----
 
-### 🧠7. The Limits of AI & Lady Lovelace's Objection
-
-> **Original Text:***"A century after she died, Alan Turing dubbed this 'Lady Lovelace's Objection'... Certainly none has cleared Ada's higher bar of being able to 'originate' any thoughts of its own."*^^^^^^^^
->
-> **+1**
-
-**Explanation:** Ada Lovelace established the core limitation of artificial intelligence^^^^. **Even if a machine can trick a human in conversation (like passing the Turing Test), it cannot truly originate novel or independent thoughts**^^^^^^^^. **It only does what it is programmed to do**^^.
-
-**+2**
-
-> **Original Text:***"Deep Blue won its chess match by brute force... Watson won at Jeopardy! by using megadoses of computing power... IBM's computer was not and could not have been designed to understand. Rather, it was designed to simulate understanding"*^^^^^^^^^^
->
-> **+2**
-
-**Explanation:** Famous AI milestones like IBM's Deep Blue and Watson are not actually "thinking"^^^^^^^^^^^^^^^^^^. **Deep Blue relied on brute-force calculation of millions of chess positions**^^. **Watson used massive computing power to search vast databases**^^. ** These machines merely simulate understanding rather than genuinely comprehending what they are processing**^^.
-
-**+4**
-
-> **Original Text:***"The main lesson of thirty-five years of AI research is that the hard problems are easy and the easy problems are hard... Wetware is different from hardware. The human brain not only combines analog and digital processes, it also is a distributed system"*^^^^^^^^
->
-> **+1**
-
-**Explanation:** This concept is often called Moravec's paradox: computers can easily perform complex math (which is hard for humans), but they deeply struggle with basic perception like recognizing faces or drinking from a cup (which is easy for a toddler)^^. **This happens because a computer uses rigid, centralized binary silicon circuits, whereas the human brain ("wetware") operates as a complex, distributed system utilizing both analog and digital signals simultaneously**^^.
-
-**+1**
 
 ---
-
-### 🤝 8. Human-Computer Symbiosis
-
-> **Original Text:***"The teams of human plus machine dominated even the strongest computers... is it possible that humans and machines working in partnership will be indefinitely more powerful than an artificial intelligence machine working alone?"*^^^^^^^^
->
-> **+1**
-
-**Explanation:** The ultimate goal of computing is not replacing humans, but achieving "augmented intelligence" or "man-computer symbiosis"^^^^^^^^. **In modern chess experiments, collaborative teams combining human strategic guidance with a computer's tactical calculation easily defeated the most powerful solo computers**^^. **Humans provide creativity, intuition, and moral judgment, while machines provide rapid calculation and infinite breadth**^^^^^^^^.
-
-**+4**
-
-> **Original Text:***"First and foremost is that creativity is a collaborative process. Innovation comes from teams more often than from the lightbulb moments of lone geniuses."*^^
-
-**Explanation:** The myth of the isolated inventor is largely false^^^^^^^^. **The digital age was built by collaborative teams that paired visionaries with pragmatic operators**^^^^^^^^. **Furthermore, physical proximity matters; places like Bell Labs and Intel purposefully designed shared physical spaces to foster serendipitous, in-person collaboration**^^^^^^^^.
-
-**+4**
-
----
-
-### 🎨 9. Poetical Science: Marrying Tech and the Humanities
-
-> **Original Text:***"It's in Apple's DNA that technology alone is not enough-that it's technology married with liberal arts, married with the humanities, that yields us the result that makes our heart sing"*^^^^^^
->
-> **+1**
-
-**Explanation:** The most successful innovators do not just focus on engineering; they exist at the intersection of technology and the liberal arts^^^^^^^^. **A pure focus on tech isn't enough to make a product resonate with users**^^.
-
-**+2**
-
-> **Original Text:***"From her father came a poetic streak and from her mother a mathematical one, and it instilled in her a love for what she called 'poetical science.'"*^^^^
->
-> **+1**
-
-**Explanation:** Ada Lovelace combined her father's artistic poetry with her mother's rigid mathematics to envision the first concepts of a general-purpose computer^^^^^^^^. **Future innovations will continue to demand this "poetical science"**^^^^^^^^. **The next generation of creators must understand algorithms and processors, but also possess deep human empathy, storytelling ability, and aesthetic judgment**^^^^^^^^^^^^^^^^^^.
-
-**+4**

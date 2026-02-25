@@ -126,10 +126,13 @@ This is the golden 5-step framework for building products:
 > **Original Text:** *"My ideas / Worked on today / Accomplished today / Others I worked with on this today"*
 >
 > **Explanation:** The required layout for your journal. It strictly separates what *you* thought of versus what the *team* did, and separates busy work ("worked on") from actual results ("accomplished").
+>
+> ---
 
----
 
-### 🧠7. The Limits of AI & Lady Lovelace's Objection
+
+
+### 🧠 7. The Limits of AI & Lady Lovelace's Objection
 
 > **Original Text:***"A century after she died, Alan Turing dubbed this 'Lady Lovelace's Objection'... Certainly none has cleared Ada's higher bar of being able to 'originate' any thoughts of its own."*^^^^^^^^
 >
@@ -154,8 +157,6 @@ This is the golden 5-step framework for building products:
 **Explanation:** This concept is often called Moravec's paradox: computers can easily perform complex math (which is hard for humans), but they deeply struggle with basic perception like recognizing faces or drinking from a cup (which is easy for a toddler)^^. **This happens because a computer uses rigid, centralized binary silicon circuits, whereas the human brain ("wetware") operates as a complex, distributed system utilizing both analog and digital signals simultaneously**^^.
 
 **+1**
-
----
 
 ### 🤝 8. Human-Computer Symbiosis
 
