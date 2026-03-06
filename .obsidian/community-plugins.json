@@ -18,10 +18,17 @@
   "color-palette",
   "obsidian-day-planner",
   "cm-editor-syntax-highlight-obsidian",
-  "ai-tagger",
   "obsidian-code-block-enhancer",
   "obsidian-linter",
   "obsidian-mind-map",
   "o2",
-  "dataview"
+  "dataview",
+  "ai-tagger",
+  "calendar",
+  "obsidian-kanban",
+  "markfilesync",
+  "note-synchronizer",
+  "smart-connections",
+  "smart-connections-visualizer",
+  "smart-context"
 ]

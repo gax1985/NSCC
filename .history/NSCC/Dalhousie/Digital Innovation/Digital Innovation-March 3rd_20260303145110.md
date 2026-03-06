@@ -1,0 +1,12 @@
+## Tools of the Trade
+
+## Lean Canvas
+
+Creation of business plans
+
+Agile vs Design Theory
+
+Dr. JeffSutherland --> Origins of Agile Development
+
+
+**Manifesto

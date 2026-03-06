@@ -25,44 +25,14 @@
             "id": "d47ee8cfbecc475f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NSCC/Dalhousie/Network Computing/Notes/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "2e05a46a29a1908c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "NSCC/Dalhousie/Network Computing/assignment1-csci3171-w26.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "assignment1-csci3171-w26"
-            }
-          },
-          {
-            "id": "9e2242352dc6dcd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NSCC/Dalhousie/Network Computing/Explorations/Study Notes - Assignment 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Study Notes - Assignment 1"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "العرض البياني"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +55,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "مستكشف الملفات"
             }
           },
           {
@@ -212,8 +182,8 @@
             "state": {
               "type": "gemini-agent-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "gemini-agent-view"
+              "icon": "sparkles",
+              "title": "Agent Mode"
             }
           },
           {
@@ -232,12 +202,42 @@
             "state": {
               "type": "timeline",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "timeline"
+            }
+          },
+          {
+            "id": "9631b9e42aa742b0",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Day Planner Timeline"
             }
+          },
+          {
+            "id": "917da1165f97a931",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "37e38a135c2d7b60",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -246,47 +246,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "audio-recorder:Start/stop recording": false,
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false,
-      "workspaces:Manage workspace layouts": false,
+      "switcher:إفتح الانتقال السريع": false,
+      "graph:إفتح العرض البياني": false,
+      "canvas:إنشاء لوحة بصرية جديدة": false,
+      "daily-notes:إفتح ملاحظة اليوم": false,
+      "templates:أدرج قالب": false,
+      "command-palette:إفتح لوحة الأوامر": false,
+      "markdown-importer:إفتح مستورد Markdown": false,
+      "audio-recorder:بدء/إيقاف التسجيل": false,
+      "workspaces:أدر تخطيطات مساحات العمل": false,
+      "publish:أنشر التغييرات...": false,
+      "bases:إنشاء قاعدة جديدة": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "gemini-scribe:Gemini Scribe: Agent Mode": false,
       "smart-vault-visualizer:Open smart connections visualizer": false,
       "smart-second-brain:Open S2B Chat": false,
       "obsidian-day-planner:Timeline": false,
-      "ai-tagger:Generate tags!": false
+      "ai-tagger:Generate tags!": false,
+      "markfilesync:Sync timeline": false,
+      "note-synchronizer:Import Note Types": false,
+      "note-synchronizer:Synchronize": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": true,
+      "smart-connections-visualizer:Open smart connections visualizer": false
     }
   },
-  "active": "9e2242352dc6dcd8",
+  "active": "d47ee8cfbecc475f",
   "lastOpenFiles": [
+    "HTB/List of FTP server return codes - Wikipedia.md",
+    "NSCC/Dalhousie/Network Computing/assignment1-csci3171-w26.pdf",
+    "NSCC/Digital Forensics/Jan 9th.md",
+    "NSCC/Digital Forensics/Feb 27th.md",
+    "Pasted image 20260227113028.png",
+    "Pasted image 20260227112728.png",
+    "Pasted image 20260227112504.png",
+    "Pasted image 20260227112424.png",
+    "NSCC/Digital Forensics/Files/FTKImager_UserGuide.pdf",
+    "NSCC/Digital Forensics/Files/FTKImager_UserGuide.pdf.crdownload",
+    "NSCC/Digital Forensics/Files",
+    "NSCC/Digital Forensics/New folder",
+    "NSCC/Dalhousie/Network Computing/Explorations/Study Notes - Assignment 1.md",
     "Clippings/Autopsy User's Guide - SleuthKitWiki.md",
     "Clippings/SleuthKitWiki.md",
     "Clippings/AI (Artificial Intelligence) Startups funded by Y Combinator (YC) 2026.md",
     "NSCC/Dalhousie/Network Computing/Explorations/Anki Flashcard.csv",
     "NSCC/Dalhousie/Network Computing/Explorations/Anki Flashcard.xlsx",
     "NSCC/Dalhousie/Network Computing/Notes/Untitled.md",
-    "NSCC/Dalhousie/Network Computing/Explorations/Study Notes - Assignment 1.md",
     "NSCC/Dalhousie/Network Computing/Explorations",
-    "NSCC/Dalhousie/Network Computing/assignment1-csci3171-w26.pdf",
     "NSCC/Dalhousie/Network Computing/Notes",
     "2026-01-22.md",
     "NSCC/Anki/Forensics/Flashcards.txt",
-    "NSCC/Anki/Forensics",
-    "NSCC/Anki",
     "NSCC/Untitled/Untitled.md",
-    "NSCC/Untitled",
     "NSCC/Readings/Digital Forensics/Detailed Summaries/Frye Standard.md",
     "NSCC/Readings/Digital Forensics/Detailed Summaries/Daubert Standard.md",
     "NSCC/Readings/Digital Forensics/Detailed Summaries/Canada Evidence Act.md",
-    "NSCC/Readings/Digital Forensics/Detailed Summaries",
     "NSCC/Digital Forensics/Quiz Prep/The Frye Standard (Comprehensive Analysis).md",
     "NSCC/Digital Forensics/Quiz Prep/The Daubert Standard (Comprehensive Analysis).md",
     "NSCC/Digital Forensics/Quiz Prep/The Canada Evidence Act (Comprehensive Analysis).md",
@@ -301,9 +315,6 @@
     "Pasted image 20260113093830.png",
     "NSCC/Untitled/Untitled 2/Untitled.md",
     "2026-01-09.md",
-    "NSCC/Untitled/Untitled 1/Untitled.md",
-    "gemini-scribe/Agent-Sessions/Agent Session 1-7-2026.md",
-    "Clippings/Ethics Scenarios  UK Cyber Security Council.md",
     "Untitled.canvas",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 4 - NXLog/Untitled 2.png",
     "Untitled 1.canvas",
@@ -311,10 +322,6 @@
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/UserLogsIn/Evidence.png",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/User Creation/UserCreated-Evidence.png",
     "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/User Creation/User Created.png",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/USBDrive/USBDrive.png",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/USBDrive/USBDrive-PerspectiveEvidence.png",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/USBDrive/USBDrive-Evidence.png",
-    "NSCC/Fall Semester 2025/System Auditing/Assignments/Assignment 3 - Windows Event Viewer/USBDrive/New Evidence/USB-HandleRequested.png",
     "NSCC/Winter Semester 2024/Untitled.canvas"
   ]
 }
